@@ -9,6 +9,11 @@ namespace we_crawler
         // testing strings
         // string string1 = "do not worry about your difficulties in mathematics";
         // string string2 = "i would not worry about your difficulties, you can easily learn what is needed";
+
+        public static bool stump(string str1, string str2, int shingleLen)
+        {
+            return false;
+        }
     
         // tag to strings, find near duplicate
         public static double nearDuplicateTrickOne(string str1, string str2, int shingleLen)
