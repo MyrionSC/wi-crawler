@@ -45,8 +45,8 @@ namespace we_crawler
                         {
                             bool inFront = frontier.Contains(l);
                             bool InBack = backqueue.Any(w => w.Url == l);
-//                            bool notWiki = !l.Contains("wiki");
-                            if (!inFront && !InBack)
+                            bool wiki = l.Contains("wiki");
+                            if (!inFront && !InBack && !wiki)
                             {
                                 frontier.Enqueue(l);
                             }
@@ -62,17 +62,24 @@ namespace we_crawler
             Console.WriteLine("done crawling: webpages from the following hosts were found");
             Console.WriteLine();
             
-            // print unique hosts
-            HashSet<string> hosts = new HashSet<string>();
+            // print number of pages from each host
+            List<Utils.MutablePair<string, int>> hostsNo = new List<Utils.MutablePair<string, int>>();
             foreach (var webpage in backqueue)
             {
-                hosts.Add(webpage.Host);
+                if (hostsNo.Any(h => h.First == webpage.Host))
+                {
+                    var host = hostsNo.Single(h => h.First == webpage.Host);
+                    host.Second++;
+                }
+                else
+                {
+                    hostsNo.Add(new Utils.MutablePair<string, int>(webpage.Host, 1));
+                }
             }
-            
-            foreach (var s in hosts)
+            hostsNo.ForEach(h =>
             {
-                Console.WriteLine(s);
-            }
+                Console.WriteLine(h.First + ": " + h.Second);
+            });
         }
     }
 }
