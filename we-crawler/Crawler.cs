@@ -27,15 +27,7 @@ namespace we_crawler
                 // check near duplicity with other pages in backqueue
                 if (wp != null)
                 {
-                    bool nearDuplicate = false;
-                    foreach (Webpage bwp in backqueue)
-                    {
-                        if (Jaccard.stump(wp.Html, bwp.Html, 4))
-                        {
-                            nearDuplicate = true;
-                            break;
-                        }
-                    }
+                    bool nearDuplicate = Jaccard.CheckNearDuplicate(wp, backqueue, 4);
 
                     if (!nearDuplicate)
                     {

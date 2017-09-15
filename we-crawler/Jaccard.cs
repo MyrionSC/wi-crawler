@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using we_crawler.model;
 
 namespace we_crawler
 {
@@ -9,14 +10,29 @@ namespace we_crawler
         // testing strings
         // string string1 = "do not worry about your difficulties in mathematics";
         // string string2 = "i would not worry about your difficulties, you can easily learn what is needed";
+        
+        
+        public static bool CheckNearDuplicate(Webpage wp, HashSet<Webpage> backqueue, int shingleLen)
+        {
+            bool nearDuplicate = false;            
+            foreach (Webpage bwp in backqueue)
+            {
+                if (stump(wp.Html, bwp.Html, shingleLen)) // todo: a real jaccard check
+                {
+                    nearDuplicate = true;
+                    break;
+                }
+            }
+            return nearDuplicate;
+        }
 
-        public static bool stump(string str1, string str2, int shingleLen)
+        private static bool stump(string str1, string str2, int shingleLen)
         {
             return false;
         }
-    
+
         // tag to strings, find near duplicate
-        public static double nearDuplicateTrickOne(string str1, string str2, int shingleLen)
+        private static double nearDuplicateTrickOne(string str1, string str2, int shingleLen)
         {
             char[] del = {' '};
             str1 = str1.Replace(",", "");
@@ -61,7 +77,7 @@ namespace we_crawler
 
 
         // tag to strings, find near duplicate
-        public static double nearDuplicateBasic(string str1, string str2, int shingleLen)
+        private static double nearDuplicateBasic(string str1, string str2, int shingleLen)
         {
             // split strings into arrays of strings whitespace seperated
             char[] del = {' '};
