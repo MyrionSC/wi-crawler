@@ -5,7 +5,7 @@ namespace we_crawler
 {
     public class Fetcher
     {
-        public Webpage Fetch(string url)
+        public static Webpage FetchWebpage(string url)
         {
             try
             {
@@ -18,7 +18,19 @@ namespace we_crawler
                 Console.WriteLine(url);
                 return null;
             }
-            
+        }
+        public static string FetchSrc(string url)
+        {
+            try
+            {
+                return new System.Net.WebClient().DownloadString(url);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                Console.WriteLine(url);
+                return null;
+            }
         }
     }
 }

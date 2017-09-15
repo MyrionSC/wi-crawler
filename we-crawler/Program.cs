@@ -11,7 +11,7 @@ namespace we_crawler
             DateTime start = DateTime.Now;
             
             var crawler = new Crawler();
-            crawler.Crawl(seed);
+            crawler.StartCrawl(seed);
 
             Console.WriteLine();
             Console.WriteLine("executiontime:");
