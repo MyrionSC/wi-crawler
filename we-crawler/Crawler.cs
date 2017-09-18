@@ -2,38 +2,67 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Policy;
+using System.Threading;
 using we_crawler.model;
 
 namespace we_crawler
 {
     public class Crawler
     {
-        private void SpawnCrawlerThread (Webhost webhost)
+        HashSet<Webhost> webhosts = new HashSet<Webhost>();
+        
+        private void SpawnHostCrawler (Webhost webhost)
         {
-            while (webhost.Frontier.Count != 0 && webhost.BackQueue.Count != 0) // so it computes the internet once :p
+            // spawn thread for crawling frontier
+            Thread frontThread = new Thread(new ThreadStart(() =>
             {
-                if (webhost.Frontier.Count != 0)
+                int i = 0;
+                while (true)
                 {
-                    // parse that shit and spawn new thread if new host is encoutered
+                    i++;
+                    Console.WriteLine(i);
+                    Thread.Sleep(1);
+                    if (i > 100)
+                    {
+                        Thread.CurrentThread.Abort();
+                    }
                 }
-            }
+            }));
+            frontThread.Start();
+            
+            // spawn thread for crawling backqueue
+            Thread backThread = new Thread(new ThreadStart(() =>
+            {
+                while (true)
+                {
+                    int i = 100;
+                    while (true)
+                    {
+                        i--;
+                        Console.WriteLine(i);
+                        Thread.Sleep(1);
+                        if (i < 0)
+                        {
+                            Thread.CurrentThread.Abort();
+                        }
+                    }
+                }
+            }));
+            backThread.Start();
+            
             
         }
         
         public void StartCrawl(string seed)
         {
-            HashSet<Webhost> webhosts = new HashSet<Webhost>();
-
             Webpage seedwp = Fetcher.FetchWebpage(seed);
-            Webhost mainHost = new Webhost(seedwp);
-            mainHost.Frontier.Enqueue(seed);
-            webhosts.Add(mainHost);
+            Webhost seedHost = new Webhost(seedwp);
+            seedHost.Frontier.Enqueue(seed);
+            webhosts.Add(seedHost);
             
             // start crawling!
-
-
-
-
+            SpawnHostCrawler(seedHost);
+            
 //            Queue<string> frontier = new Queue<string>();
 //            HashSet<Webpage> backqueue = new HashSet<Webpage>();
 //            
