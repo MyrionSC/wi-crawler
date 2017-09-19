@@ -17,21 +17,22 @@ namespace we_crawler
                 .Where(u => !String.IsNullOrEmpty(u));
             
             List<string> refinedLinkedPages = new List<string>();
-//            foreach (string linkedPage in linkedPages)
-//            {
-//                if (!linkedPage.StartsWith("#"))
-//                {
-//                    string lp = linkedPage;
-//                    if (lp.StartsWith("//"))
-//                    {
-//                        lp = wp.Protocol + ":" + lp;
-//                    } else if (!lp.StartsWith("http"))
-//                    {
-//                        lp = wp.getProtocalAndHost() + lp;
-//                    }
-//                    refinedLinkedPages.Add(lp);
-//                }
-//            }
+            foreach (string linkedPage in linkedPages)
+            {
+                if (!linkedPage.StartsWith("#"))
+                {
+                    string lp = linkedPage;
+                    if (lp.StartsWith("//"))
+                    {
+                        lp = new Uri(wp.Url).Scheme + ":" + lp;
+                    } else if (!lp.StartsWith("http"))
+                    {
+                        string absUri = new Uri(wp.Url).AbsoluteUri;
+                        lp =  absUri.Remove(absUri.Length - 1) + lp;
+                    }
+                    refinedLinkedPages.Add(lp);
+                }
+            }
             
             return refinedLinkedPages;
         }

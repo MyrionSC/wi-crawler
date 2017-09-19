@@ -9,121 +9,139 @@ namespace we_crawler
 {
     public class Crawler
     {
-        HashSet<Webhost> webhosts = new HashSet<Webhost>();
-        
-        private void SpawnHostCrawler (Webhost webhost)
+        private HashSet<Webhost> webhosts = new HashSet<Webhost>();
+        private Queue<Thread> Threads = new Queue<Thread>();
+        private int backCount = 0;
+        private bool criticalLock = false;
+
+        private void SpawnHostCrawler(Webhost webhost)
         {
             // spawn thread for crawling frontier
             Thread frontThread = new Thread(new ThreadStart(() =>
             {
-                int i = 0;
                 while (true)
                 {
-                    i++;
-                    Console.WriteLine(i);
-                    Thread.Sleep(1);
-                    if (i > 100)
+                    // if the critical lock is taken, wait for it to be released
+                    if (criticalLock)
                     {
-                        Thread.CurrentThread.Abort();
-                    }
-                }
-            }));
-            frontThread.Start();
-            
-            // spawn thread for crawling backqueue
-            Thread backThread = new Thread(new ThreadStart(() =>
-            {
-                while (true)
-                {
-                    int i = 100;
-                    while (true)
-                    {
-                        i--;
-                        Console.WriteLine(i);
                         Thread.Sleep(1);
-                        if (i < 0)
+                        continue;
+                    }
+                    
+                    if (webhost.Frontier.Count > 0)
+                    {
+                        string url = webhost.Frontier.Dequeue();
+                        Webpage wp = Fetcher.FetchWebpage(url);
+                        if (wp == null)
                         {
-                            Thread.CurrentThread.Abort();
+                            Console.WriteLine("dead link: " + url);
+                            continue;
                         }
+                        
+                        webhost.SaveWebPage(wp);
+                        backCount++;
+                        List<string> links = WebParser.parse(wp);
+                        links.ForEach(l =>
+                        {
+                            // check if duplicate
+                            bool inFront = webhost.Frontier.Contains(l);
+                            bool InBack = webhost.BackQueue.Any(w => w.Url == l);
+                            bool InWiki = l.Contains("en.wikipedia.org");
+                            if (!inFront && !InBack && InWiki)
+                            {
+                                // if not of this host, see if we can find its host
+                                string linkhost = Utils.GetHost(l);
+                                if (linkhost != null)
+                                {
+                                    
+                                    if (linkhost != webhost.Host)
+                                    {
+                                        criticalLock = true;
+                                        try
+                                        {
+                                            Webhost linkWebHost = webhosts.First(wh => wh.Host == linkhost);
+                                            linkWebHost.EnqueueFrontier(l);
+                                        }
+                                        catch (InvalidOperationException)
+                                        {
+                                            // create new
+                                            AddNewHost(l);
+                                        }
+                                        criticalLock = false;
+                                    }
+                                    else
+                                    {
+                                        webhost.Frontier.Enqueue(l);
+                                    }
+                                }
+                            }
+                        });
+                        
+                        // be nice to the hosts
+                        Thread.Sleep(2000);
                     }
                 }
             }));
-            backThread.Start();
-            
-            
+            Threads.Enqueue(frontThread);
+            frontThread.Start();
         }
-        
+
+        public void AddNewHost(string url)
+        {
+            Webpage newWebPage = Fetcher.FetchWebpage(url);
+            if (newWebPage != null)
+            {
+                try
+                {
+                    Webhost newWebHost = new Webhost(newWebPage);
+                    // It is checked again that the host doesn't exist to alleviate race conditions
+                    if (!webhosts.Any(wh => wh.Host == newWebHost.Host))
+                    {
+                        newWebHost.Frontier.Enqueue(url);
+                        webhosts.Add(newWebHost);
+                        Console.WriteLine("new webhost added: " + newWebHost.Host);
+                    
+                        // start crawling it
+                        SpawnHostCrawler(newWebHost);
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+        }
+
         public void StartCrawl(string seed)
         {
             Webpage seedwp = Fetcher.FetchWebpage(seed);
             Webhost seedHost = new Webhost(seedwp);
             seedHost.Frontier.Enqueue(seed);
             webhosts.Add(seedHost);
-            
+
             // start crawling!
             SpawnHostCrawler(seedHost);
-            
-//            Queue<string> frontier = new Queue<string>();
-//            HashSet<Webpage> backqueue = new HashSet<Webpage>();
-//            
-//            frontier.Enqueue(seed);
-//
-//            while (backqueue.Count < 100 && frontier.Count != 0)
-//            {
-//                // remove url from frontier
-//                string url = frontier.Dequeue();
-//
-//                // fetch webpage
-//                Webpage wp = fetcher.Fetch(url);
-//                
-//                // check near duplicity with other pages in backqueue
-//                if (wp != null)
-//                {
-//                    bool nearDuplicate = Jaccard.CheckNearDuplicate(wp, backqueue, 4);
-//
-//                    if (!nearDuplicate)
-//                    {
-//                        backqueue.Add(wp);
-//                        List<string> links = webParser.parse(wp);
-//                        links.ForEach(l =>
-//                        {
-//                            bool inFront = frontier.Contains(l);
-//                            bool InBack = backqueue.Any(w => w.Url == l);
-//                            bool wiki = l.Contains("wiki");
-//                            if (!inFront && !InBack && !wiki)
-//                            {
-//                                frontier.Enqueue(l);
-//                            }
-//                        });
-//                    }
-//                }
-//
-//                Console.WriteLine("frontqueue count: " + frontier.Count);
-//                Console.WriteLine("backqueue count: " + backqueue.Count);
-//            }
 
-//            Console.WriteLine();
-//            Console.WriteLine("done crawling: webpages from the following hosts were found");
-//            Console.WriteLine();
-//            
-//            // print number of pages from each host
-//            List<Utils.MutablePair<string, int>> hostsNo = new List<Utils.MutablePair<string, int>>();
-//            foreach (var webpage in backqueue)
-//            {
-//                if (hostsNo.Any(h => h.First == webpage.Host))
-//                {
-//                    var host = hostsNo.Single(h => h.First == webpage.Host);
-//                    host.Second++;
-//                }
-//                else
-//                {
-//                    hostsNo.Add(new Utils.MutablePair<string, int>(webpage.Host, 1));
-//                }
-//            }
-//            hostsNo.ForEach(h =>
-//            {
-//                Console.WriteLine(h.First + ": " + h.Second);
-//            });
+            // when all some condition has been met, stop the crawlers
+            while (true)
+            {
+                criticalLock = true;
+                Console.WriteLine("pages processed: " + backCount);
+                if (backCount > 1000)
+                {
+                    // kill all the threads and return
+                    while (Threads.Count > 0)
+                    {
+                        Threads.Dequeue().Abort();
+                    }
+                    Console.WriteLine("----");
+                    Console.WriteLine("crawling done");
+                    return;
+                }
+                criticalLock = false;
+
+                Thread.Sleep(1000);
+            }
         }
     }
 }

@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Net;
+using System.Security.Cryptography.X509Certificates;
 using System.Text.RegularExpressions;
+using System.Threading;
 
 namespace we_crawler.model
 {
@@ -19,18 +22,31 @@ namespace we_crawler.model
 
         public Webhost(Webpage wp)
         {   
-            var regex = new Regex("^(http[s]?|ftp):\\/?\\/?([^:\\/\\s]+)");
-            var match = regex.Match(wp.Url);
+//            var regex = new Regex("^(http[s]?|ftp):\\/?\\/?([^:\\/\\s]+)");
+//            var match = regex.Match(wp.Url);
+//
+//            if (match.Groups.Count == 3)
+//            {
+//                Protocol = match.Groups[1].Value;
+//                Host = match.Groups[2].Value;
+//                ServerRoot = Protocol + "://" + Host;
+//            }
+//            else
+//            {
+//                throw new Exception("input not valid url");
+//            }
 
-            if (match.Groups.Count == 3)
+            try
             {
-                Protocol = match.Groups[1].Value;
-                Host = match.Groups[2].Value;
+                Uri uri = new Uri(wp.Url);
+                Protocol = uri.Scheme;
+                Host = uri.Host;
                 ServerRoot = Protocol + "://" + Host;
             }
-            else
+            catch (Exception e)
             {
-                throw new Exception("input not valid url");
+                Console.WriteLine(e);
+                throw e;
             }
             
             Frontier = new Queue<string>();
@@ -43,9 +59,9 @@ namespace we_crawler.model
                 Directory.CreateDirectory(Utils.GetBaseDir() + "/data");
 
             }
+            BaseDir = Utils.GetBaseDir() + "data/" + Host;
             if (!Directory.Exists(Utils.GetBaseDir() + "/data/" + Host))
             {
-                BaseDir = Utils.GetBaseDir() + "/data/" + Host;
                 Directory.CreateDirectory(BaseDir);
             }
             
@@ -53,9 +69,55 @@ namespace we_crawler.model
             string robotstxt = Fetcher.FetchSrc(ServerRoot + "/robots.txt");            
             if (robotstxt != null)
             {
-                RobotstxtPath = Utils.GetBaseDir() + "/data/" + Host + "/robots.txt";
-                File.WriteAllText(RobotstxtPath, robotstxt);
-                Politeness = RobotTxtParser.parse(RobotstxtPath);
+                RobotstxtPath = BaseDir + "/robots.txt";
+                try
+                {
+                    File.WriteAllText(RobotstxtPath, robotstxt);
+                    Politeness = RobotTxtParser.parse(RobotstxtPath);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("No robots.txt for host: " + Host);
+                    Politeness = null;
+                }
+            }
+        }
+
+        public void EnqueueFrontier(string url)
+        {
+            bool inFront = Frontier.Contains(url);
+            bool InBack = BackQueue.Any(w => w.Url == url);
+            if (!inFront && !InBack)
+            {
+                Frontier.Enqueue(url);
+            }
+        }
+
+        public void SaveWebPage(Webpage wp)
+        {
+            if (BaseDir != null)
+            {
+                try
+                {
+                    string path = BaseDir + "/" + Utils.EncodeUrl(wp.Url);
+                    File.WriteAllText(path, wp.Html);
+                }
+                catch (PathTooLongException e)
+                {
+                    // fuck this file
+                }
+                catch (IOException ioe)
+                {
+                    Console.WriteLine("IO ex");
+                    Console.WriteLine(ioe.Message);
+                    Thread.Sleep(10);
+                    SaveWebPage(wp);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("savewebpage ex");
+                    Console.WriteLine(e.Message);
+                }
             }
         }
     }

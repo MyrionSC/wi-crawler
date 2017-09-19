@@ -7,7 +7,7 @@ namespace we_crawler
     {
         public static void Main(string[] args)
         {
-            string seed = "http://www.teamliquid.net/";
+            string seed = "https://en.wikipedia.org/wiki/Main_Page";
             DateTime start = DateTime.Now;
             
             var crawler = new Crawler();

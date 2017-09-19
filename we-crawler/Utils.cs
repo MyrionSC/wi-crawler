@@ -9,28 +9,36 @@ namespace we_crawler
     {
         public static string GetBaseDir()
         {
-            string basedir = AppDomain.CurrentDomain.BaseDirectory;
-            if (basedir.EndsWith("bin/Debug/"))
-            {
-                basedir = basedir.Substring(0, basedir.Length - 10);
-            }
-            return basedir;
+            return AppDomain.CurrentDomain.BaseDirectory;
         }
 
-        public static string GetHostFromUrl(string url)
+        public static string GetHost(string url)
         {
-            var regex = new Regex("^(http[s]?|ftp):\\/?\\/?([^:\\/\\s]+)");
-            var match = regex.Match(url);
-
-            return match.Groups.Count == 3 ? match.Groups[2].Value : null;
+            try
+            {
+                return new Uri(url).Host;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                return null;
+            }
         }
         
-        public static string Base64Encode(string plainText) {
-            var plainTextBytes = System.Text.Encoding.UTF8.GetBytes(plainText);
-            return System.Convert.ToBase64String(plainTextBytes);
+        
+        
+        public static string EncodeUrl(string url)
+        {
+            return url.Replace("/", "{");
+            
+//            var plainTextBytes = System.Text.Encoding.UTF8.GetBytes(url);
+//            return System.Convert.ToBase64String(plainTextBytes);
         }
-        public static string Base64Decode(string base64EncodedData) {
-            var base64EncodedBytes = System.Convert.FromBase64String(base64EncodedData);
+        public static string DecodeUrl(string encodedUrl)
+        {
+            return encodedUrl.Replace("{", "/");
+            
+            var base64EncodedBytes = System.Convert.FromBase64String(encodedUrl);
             return System.Text.Encoding.UTF8.GetString(base64EncodedBytes);
         }
         

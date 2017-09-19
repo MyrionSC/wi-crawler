@@ -15,7 +15,7 @@ namespace we_crawler
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
-                Console.WriteLine(url);
+                Console.WriteLine("webpage could not be fetched: " + url);
                 return null;
             }
         }
@@ -28,7 +28,7 @@ namespace we_crawler
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
-                Console.WriteLine(url);
+                Console.WriteLine("url could not be fetched: " + url);
                 return null;
             }
         }
