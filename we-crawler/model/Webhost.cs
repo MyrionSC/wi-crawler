@@ -11,6 +11,7 @@ namespace we_crawler.model
 {
     public class Webhost
     {
+        public readonly int id;
         public Queue<string> Frontier;
         public Queue<Webpage> BackQueue;
         public string Host;
@@ -20,8 +21,12 @@ namespace we_crawler.model
         public string RobotstxtPath;
         public Politeness Politeness;
 
+        private static int idIterator = 0;
+
         public Webhost(Webpage wp)
         {
+            id = idIterator++;
+            
             try
             {
                 Uri uri = new Uri(wp.Url);
@@ -71,6 +76,8 @@ namespace we_crawler.model
         
         public Webhost(string url)
         {
+            id = idIterator++;
+            
             try
             {
                 Uri uri = new Uri(url);
@@ -100,10 +107,10 @@ namespace we_crawler.model
             }
             
             // fetch robot.text and parse it, if it doesn't exist
-            if (!File.Exists(BaseDir + "/robots.txt"))
+            RobotstxtPath = BaseDir + "/robots.txt";
+            if (!File.Exists(RobotstxtPath))
             {
                 string robotstxt = Fetcher.FetchSrc(ServerRoot + "/robots.txt");
-                RobotstxtPath = BaseDir + "/robots.txt";
                 try
                 {
                     File.WriteAllText(RobotstxtPath, robotstxt);
@@ -114,6 +121,10 @@ namespace we_crawler.model
                     Console.WriteLine("No robots.txt for host: " + Host);
                     Politeness = null;
                 }
+            }
+            else
+            {
+                Politeness = RobotTxtParser.parse(RobotstxtPath);
             }
         }
 

@@ -33,9 +33,12 @@ namespace we_crawler
                 for (var i = 0; i < files.Length; i++)
                 {
                     var f = files[i];
-                    string url = Utils.DecodeUrl(f.Substring(dir.Length + 1, f.Length - dir.Length - 1));
-                    string html = File.ReadAllText(f);
-                    wh.BackQueue.Enqueue(new Webpage(url, html));
+                    if (!f.Contains("robots.txt"))
+                    {
+                        string url = Utils.DecodeUrl(f.Substring(dir.Length + 1, f.Length - dir.Length - 1));
+                        string html = File.ReadAllText(f);
+                        wh.BackQueue.Enqueue(new Webpage(url, html));
+                    }
                 }
                 Console.WriteLine("Initter: Created webhost " + wh.Host + ", containing " + wh.BackQueue.Count + " pages");
             }
