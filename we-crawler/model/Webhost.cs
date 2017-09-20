@@ -21,21 +21,7 @@ namespace we_crawler.model
         public Politeness Politeness;
 
         public Webhost(Webpage wp)
-        {   
-//            var regex = new Regex("^(http[s]?|ftp):\\/?\\/?([^:\\/\\s]+)");
-//            var match = regex.Match(wp.Url);
-//
-//            if (match.Groups.Count == 3)
-//            {
-//                Protocol = match.Groups[1].Value;
-//                Host = match.Groups[2].Value;
-//                ServerRoot = Protocol + "://" + Host;
-//            }
-//            else
-//            {
-//                throw new Exception("input not valid url");
-//            }
-
+        {
             try
             {
                 Uri uri = new Uri(wp.Url);
@@ -65,10 +51,58 @@ namespace we_crawler.model
                 Directory.CreateDirectory(BaseDir);
             }
             
-            // fetch robot.text and parse it, if it exists
-            string robotstxt = Fetcher.FetchSrc(ServerRoot + "/robots.txt");            
-            if (robotstxt != null)
+            // fetch robot.text and parse it, if it doesn't exist
+            if (!File.Exists(BaseDir + "/robots.txt"))
             {
+                string robotstxt = Fetcher.FetchSrc(ServerRoot + "/robots.txt");
+                RobotstxtPath = BaseDir + "/robots.txt";
+                try
+                {
+                    File.WriteAllText(RobotstxtPath, robotstxt);
+                    Politeness = RobotTxtParser.parse(RobotstxtPath);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("No robots.txt for host: " + Host);
+                    Politeness = null;
+                }
+            }
+        }
+        
+        public Webhost(string url)
+        {
+            try
+            {
+                Uri uri = new Uri(url);
+                Protocol = uri.Scheme;
+                Host = uri.Host;
+                ServerRoot = Protocol + "://" + Host;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw e;
+            }
+            
+            Frontier = new Queue<string>();
+            BackQueue = new Queue<Webpage>();
+
+            // create directory for host files, if it doesn't exist
+            if (!Directory.Exists(Utils.GetBaseDir() + "/data"))
+            {
+                Directory.CreateDirectory(Utils.GetBaseDir() + "/data");
+
+            }
+            BaseDir = Utils.GetBaseDir() + "data/" + Host;
+            if (!Directory.Exists(Utils.GetBaseDir() + "/data/" + Host))
+            {
+                Directory.CreateDirectory(BaseDir);
+            }
+            
+            // fetch robot.text and parse it, if it doesn't exist
+            if (!File.Exists(BaseDir + "/robots.txt"))
+            {
+                string robotstxt = Fetcher.FetchSrc(ServerRoot + "/robots.txt");
                 RobotstxtPath = BaseDir + "/robots.txt";
                 try
                 {
@@ -86,8 +120,8 @@ namespace we_crawler.model
         public void EnqueueFrontier(string url)
         {
             bool inFront = Frontier.Contains(url);
-            bool InBack = BackQueue.Any(w => w.Url == url);
-            if (!inFront && !InBack)
+            bool inBack = BackQueue.Any(w => w.Url == url);
+            if (!inFront && !inBack)
             {
                 Frontier.Enqueue(url);
             }

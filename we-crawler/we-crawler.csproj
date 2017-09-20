@@ -46,6 +46,8 @@
   <ItemGroup>
     <Compile Include="Crawler.cs" />
     <Compile Include="Fetcher.cs" />
+    <Compile Include="Indexer.cs" />
+    <Compile Include="Initialiser.cs" />
     <Compile Include="Jaccard.cs" />
     <Compile Include="model\Politeness.cs" />
     <Compile Include="model\Webhost.cs" />
