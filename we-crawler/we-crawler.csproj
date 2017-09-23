@@ -64,6 +64,7 @@
     <Content Include="dev\robots\teamliquidrobot.txt" />
     <Content Include="dev\robots\twitchrobot.txt" />
     <Content Include="dev\robots\wikipediarobot.txt" />
+    <Content Include="notes.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

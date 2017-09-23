@@ -1,0 +1,2 @@
+Turns out that duplicate checks are important. Shitton of duplicates of main_page exists
+In indexer, a lot of words are lost due to bad regex punctuation remover

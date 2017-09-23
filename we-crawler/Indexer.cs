@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Text.RegularExpressions;
 using HtmlAgilityPack;
 using we_crawler.model;
@@ -28,26 +29,30 @@ namespace we_crawler
                 // foreach word in webpage
                     // if word exists in searchwords, add wp id to its refs
                     // if not add new searchword and add wp ref to it
+            
             int i = 0;
             foreach (Webpage wp in webpages)
             {
                 Console.WriteLine(i++);
+                
                 // get the body of the html and title (we don't want all these script tags and shit)
                 HtmlDocument doc = new HtmlDocument();
                 doc.LoadHtml(wp.Html);
                 string title = doc.DocumentNode.SelectSingleNode("//title").InnerHtml;
                 string body = doc.DocumentNode.SelectSingleNode("//body").InnerHtml;
+
+                // remove html tags and symbols
                 body = ScrubHtml(body);
-                
-                // remove anything other than letters and text
-                Regex pattern = new Regex("[^A-Za-z0-9 \n]*");
-                title = pattern.Replace(title, "").ToLower();
-                body = pattern.Replace(body, "").ToLower();
+                title = removeSymbols(title);
+                body = removeSymbols(body);
                 string[] tokens = (title + " " + body).Split(' ');
                 
                 // throw each token into the meatgrinder
                 foreach (string token in tokens)
                 {
+                    if (token == " " || token == "")
+                        continue;
+                    
                     var searchWord = _searchWords.SingleOrDefault(sw => sw.word == token);
                     if (searchWord != null)
                     {
@@ -64,38 +69,74 @@ namespace we_crawler
         // search in indexed pages
         public List<string> Search(string searchstring)
         {
-            List<string> results = new List<string>();
+            List<string> intersectResults = new List<string>();
             
             // split list into list of search terms by whitespace
+            string[] searchTerms = searchstring.ToLower().Trim().Split(' ');
+            
             
             // for each term, find results
             // todo: match part of word as well
-            // todo: toLower() on searchstring items
-            HashSet<int> result = new HashSet<int>();
-            var searchWordRes = _searchWords.SingleOrDefault(sw => sw.word == searchstring);
-            if (searchWordRes != null)
+            List<HashSet<string>> searchResults = new List<HashSet<string>>();
+            foreach (string searchTerm in searchTerms)
             {
-                result = new HashSet<int>(searchWordRes.refs);
-                foreach (int id in result)
+                var searchTermRes = _searchWords.SingleOrDefault(sw => sw.word == searchTerm);
+                if (searchTermRes != null)
                 {
-                    results.Add(_webpages.Single(wp => wp.id == id).Url);
+                    var resultIdSet = new HashSet<int>(searchTermRes.refs);
+                    var resultSet = new HashSet<string>();
+                    foreach (int id in resultIdSet)
+                    {
+                        resultSet.Add(_webpages.Single(wp => wp.id == id).Url);
+                    }
+                    searchResults.Add(resultSet);
                 }
+            }
+
+            // perform union on ids
+            if (searchResults.Count == 0)
+            {
+                intersectResults.Add("No results found");
+            } 
+            else if (searchResults.Count == 1)
+            {
+                intersectResults = searchResults[0].ToList();
             }
             else
             {
-                results.Add("No results found");
+                var resultSet = searchResults[0];
+                for (int i = 1; i < searchResults.Count; i++)
+                {
+                    resultSet.IntersectWith(searchResults[i]);
+                }
+                intersectResults = resultSet.ToList();
             }
-            
-            // perform union on ids
-            
+
             // return urls that match searchterm
-            return results;
+            return intersectResults;
         }
         
         private string ScrubHtml(string value) {
             var step1 = Regex.Replace(value, @"<[^>]+>|&nbsp;", "").Trim();
             var step2 = Regex.Replace(step1, @"\s{2,}", " ");
             return step2;
+        }
+
+        private string removeSymbols(string input)
+        {
+            var sb = new StringBuilder();
+            foreach (char c in input)
+            {
+                if (char.IsLetterOrDigit(c))
+                {
+                    sb.Append(c);
+                }
+                else
+                {
+                    sb.Append(' ');
+                }
+            }
+            return sb.ToString();
         }
         
         private class SearchWord

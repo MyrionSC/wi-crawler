@@ -12,7 +12,8 @@ namespace we_crawler.model
     public class Webhost
     {
         public readonly int id;
-        public Queue<string> Frontier;
+        private Queue<string> _queueFrontier;
+        private HashSet<string> _setFrontier;
         public Queue<Webpage> BackQueue;
         public string Host;
         public string Protocol;
@@ -40,7 +41,8 @@ namespace we_crawler.model
                 throw e;
             }
             
-            Frontier = new Queue<string>();
+            _queueFrontier = new Queue<string>();
+            _setFrontier = new HashSet<string>();
             BackQueue = new Queue<Webpage>();
             BackQueue.Enqueue(wp);
 
@@ -91,7 +93,8 @@ namespace we_crawler.model
                 throw e;
             }
             
-            Frontier = new Queue<string>();
+            _queueFrontier = new Queue<string>();
+            _setFrontier = new HashSet<string>();
             BackQueue = new Queue<Webpage>();
 
             // create directory for host files, if it doesn't exist
@@ -130,12 +133,27 @@ namespace we_crawler.model
 
         public void EnqueueFrontier(string url)
         {
-            bool inFront = Frontier.Contains(url);
-            bool inBack = BackQueue.Any(w => w.Url == url);
-            if (!inFront && !inBack)
+            bool duplicate = _setFrontier.Contains(url) & BackQueue.Any(w => w.Url == url);
+            if (!duplicate)
             {
-                Frontier.Enqueue(url);
+                _queueFrontier.Enqueue(url);
+                _setFrontier.Add(url);
             }
+        }
+        public string DequeueFrontier()
+        {
+            string url = _queueFrontier.Dequeue();
+            _setFrontier.Remove(url);
+            return url;
+        }
+        public bool ExistsInFrontier(string url)
+        {
+            return _setFrontier.Contains(url);
+        }
+
+        public int CountFronter()
+        {
+            return _queueFrontier.Count;
         }
 
         public void SaveWebPage(Webpage wp)

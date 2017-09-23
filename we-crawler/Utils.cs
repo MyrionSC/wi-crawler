@@ -24,8 +24,13 @@ namespace we_crawler
                 return null;
             }
         }
-        
-        
+
+        public static bool NotMediaFile(string url)
+        {
+            url = url.ToLower();
+            return !url.EndsWith(".png") & !url.EndsWith(".jpg") & !url.EndsWith(".ogv") & !url.EndsWith(".ogg") &
+                   !url.EndsWith("webm") & !url.EndsWith(".svg");
+        }
         
         public static string EncodeUrl(string url)
         {

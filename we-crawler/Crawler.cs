@@ -28,26 +28,34 @@ namespace we_crawler
                         continue;
                     }
                     
-                    if (webhost.Frontier.Count > 0)
+                    if (webhost.CountFronter() > 0)
                     {
-                        string url = webhost.Frontier.Dequeue();
+                        string url = webhost.DequeueFrontier();
                         Webpage wp = Fetcher.FetchWebpage(url);
                         if (wp == null)
                         {
                             Console.WriteLine("dead link: " + url);
                             continue;
                         }
+
+                        if (Jaccard.CheckNearDuplicate(wp, webhost.BackQueue, 4))
+                        {
+                            Console.WriteLine("webpage is duplicate: " + url);
+                            continue;
+                        }
                         
                         webhost.SaveWebPage(wp);
-                        backCount++;
+                        Console.WriteLine("Page saved: " + wp.Url + ", total: " + ++backCount);
                         List<string> links = WebParser.parse(wp);
                         links.ForEach(l =>
                         {
                             // check if duplicate
-                            bool inFront = webhost.Frontier.Contains(l);
-                            bool InBack = webhost.BackQueue.Any(w => w.Url == l);
-                            bool InWiki = l.Contains("en.wikipedia.org");
-                            if (!inFront && !InBack && InWiki)
+                            bool valid = !webhost.ExistsInFrontier(l) & !webhost.BackQueue.Any(w => w.Url == l); // to get some shortcircutting
+                            string host = Utils.GetHost(l);
+                            if (host == null) return;
+                            valid = valid & host == "en.wikipedia.org";
+                            valid = valid & Utils.NotMediaFile(l);
+                            if (valid)
                             {
                                 // if not of this host, see if we can find its host
                                 string linkhost = Utils.GetHost(l);
@@ -71,7 +79,7 @@ namespace we_crawler
                                     }
                                     else
                                     {
-                                        webhost.Frontier.Enqueue(l);
+                                        webhost.EnqueueFrontier(l);
                                     }
                                 }
                             }
@@ -97,7 +105,7 @@ namespace we_crawler
                     // It is checked again that the host doesn't exist to alleviate race conditions
                     if (!webhosts.Any(wh => wh.Host == newWebHost.Host))
                     {
-                        newWebHost.Frontier.Enqueue(url);
+                        newWebHost.EnqueueFrontier(url);
                         webhosts.Add(newWebHost);
                         Console.WriteLine("new webhost added: " + newWebHost.Host);
                     
@@ -116,7 +124,7 @@ namespace we_crawler
         {
             Webpage seedwp = Fetcher.FetchWebpage(seed);
             Webhost seedHost = new Webhost(seedwp);
-            seedHost.Frontier.Enqueue(seed);
+            seedHost.EnqueueFrontier(seed);
             webhosts.Add(seedHost);
 
             // start crawling!
@@ -126,7 +134,6 @@ namespace we_crawler
             while (true)
             {
                 criticalLock = true;
-                Console.WriteLine("pages processed: " + backCount);
                 if (backCount > 1000)
                 {
                     // kill all the threads and return

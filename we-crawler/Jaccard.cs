@@ -12,12 +12,15 @@ namespace we_crawler
         // string string2 = "i would not worry about your difficulties, you can easily learn what is needed";
         
         
-        public static bool CheckNearDuplicate(Webpage wp, HashSet<Webpage> backqueue, int shingleLen)
+        public static bool CheckNearDuplicate(Webpage wp, IEnumerable<Webpage> backqueue, int shingleLen)
         {
-            bool nearDuplicate = false;            
+            bool nearDuplicate = false;
             foreach (Webpage bwp in backqueue)
             {
-                if (stump(wp.Html, bwp.Html, shingleLen)) // todo: a real jaccard check
+                if (wp.Url == bwp.Url) break;
+                
+//                if (nearDuplicateBasic(wp.Html, bwp.Html, shingleLen))
+                if (stump(wp.Html, bwp.Html, shingleLen))
                 {
                     nearDuplicate = true;
                     break;
@@ -77,7 +80,7 @@ namespace we_crawler
 
 
         // tag to strings, find near duplicate
-        private static double nearDuplicateBasic(string str1, string str2, int shingleLen)
+        private static bool nearDuplicateBasic(string str1, string str2, int shingleLen)
         {
             // split strings into arrays of strings whitespace seperated
             char[] del = {' '};
@@ -89,8 +92,6 @@ namespace we_crawler
             var setOfSets1 = createSets(strarr1, shingleLen);
             var setOfSets2 = createSets(strarr2, shingleLen);
 
-            printShingles(setOfSets1, setOfSets2);
-
             var hsc = new HashSetCompare();
             var union = setOfSets1.Union(setOfSets2, hsc).ToList();
             var intersect = setOfSets1.Intersect(setOfSets2, hsc).ToList();
@@ -101,7 +102,7 @@ namespace we_crawler
             Console.WriteLine("union: " + union.Count);
             Console.WriteLine("JaccardVal: " + JaccardVal);
 
-            return JaccardVal;
+            return JaccardVal > 0.9;
         }
 
         private static HashSet<HashSet<string>> createSets(string[] strarr, int shingleLen)

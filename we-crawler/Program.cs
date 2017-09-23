@@ -13,39 +13,39 @@ namespace we_crawler
             string seed = "https://en.wikipedia.org/wiki/Main_Page";
             DateTime start = DateTime.Now;
 
-//            var crawler = new Crawler();
-//            crawler.StartCrawl(seed);
+            var crawler = new Crawler();
+            crawler.StartCrawl(seed);
 
 //             init hosts with local data
-            List<Webhost> webhosts = Initialiser.LoadWebhosts();
-            
-            // throw all pages into list
-            List<Webpage> webpages = new List<Webpage>();
-            webhosts.ForEach(wh => { webpages.AddRange(wh.BackQueue); });
-            
-            // index list of webpages
-            var indexer = new Indexer(webpages);
-            
+//            List<Webhost> webhosts = Initialiser.LoadWebhosts();
+//            
+//            // throw all pages into list
+//            List<Webpage> webpages = new List<Webpage>();
+//            webhosts.ForEach(wh => { webpages.AddRange(wh.BackQueue); });
+//            
+//            // index list of webpages
+//            var indexer = new Indexer(webpages);
+//            
             Console.WriteLine();
             Console.WriteLine("Init and indexing time:");
             Console.WriteLine(DateTime.Now - start);
-
-            while (true)
-            {
-                Console.WriteLine();
-                Console.WriteLine("Input search term:");
-                Console.WriteLine();
-                
-                string input = Console.ReadLine();
-                var results = indexer.Search(input);
-
-                Console.WriteLine();
-                Console.WriteLine("results for search:");
-                results.ForEach(r =>
-                {
-                    Console.WriteLine(r);
-                });
-            }
+//
+//            while (true)
+//            {
+//                Console.WriteLine();
+//                Console.WriteLine("Input search term:");
+//                Console.WriteLine();
+//                
+//                string input = Console.ReadLine();
+//                var results = indexer.Search(input);
+//
+//                Console.WriteLine();
+//                Console.WriteLine("results for search:");
+//                results.ForEach(r =>
+//                {
+//                    Console.WriteLine(r);
+//                });
+//            }
         }
     }
 }

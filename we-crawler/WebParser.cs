@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security;
 using HtmlAgilityPack;
 using we_crawler.model;
 
@@ -27,8 +28,8 @@ namespace we_crawler
                         lp = new Uri(wp.Url).Scheme + ":" + lp;
                     } else if (!lp.StartsWith("http"))
                     {
-                        string absUri = new Uri(wp.Url).AbsoluteUri;
-                        lp =  absUri.Remove(absUri.Length - 1) + lp;
+                        Uri uri = new Uri(wp.Url);
+                        lp = uri.Scheme + "://" + uri.Host + lp;
                     }
                     refinedLinkedPages.Add(lp);
                 }
