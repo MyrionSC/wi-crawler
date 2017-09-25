@@ -53,7 +53,7 @@ namespace we_crawler
                             bool valid = !webhost.ExistsInFrontier(l) & !webhost.BackQueue.Any(w => w.Url == l); // to get some shortcircutting
                             string host = Utils.GetHost(l);
                             if (host == null) return;
-                            valid = valid & host == "en.wikipedia.org";
+//                            valid = valid & host == "en.wikipedia.org";
                             valid = valid & Utils.NotMediaFile(l);
                             if (valid)
                             {
@@ -96,26 +96,30 @@ namespace we_crawler
 
         public void AddNewHost(string url)
         {
-            Webpage newWebPage = Fetcher.FetchWebpage(url);
-            if (newWebPage != null)
+            // lets keep it at 100 threads, shall we?
+            if (Threads.Count < 100)
             {
-                try
+                Webpage newWebPage = Fetcher.FetchWebpage(url);
+                if (newWebPage != null)
                 {
-                    Webhost newWebHost = new Webhost(newWebPage);
-                    // It is checked again that the host doesn't exist to alleviate race conditions
-                    if (!webhosts.Any(wh => wh.Host == newWebHost.Host))
+                    try
                     {
-                        newWebHost.EnqueueFrontier(url);
-                        webhosts.Add(newWebHost);
-                        Console.WriteLine("new webhost added: " + newWebHost.Host);
-                    
-                        // start crawling it
-                        SpawnHostCrawler(newWebHost);
+                        Webhost newWebHost = new Webhost(newWebPage);
+                        // It is checked again that the host doesn't exist to alleviate race conditions
+                        if (!webhosts.Any(wh => wh.Host == newWebHost.Host))
+                        {
+                            newWebHost.EnqueueFrontier(url);
+                            webhosts.Add(newWebHost);
+                            Console.WriteLine("new webhost added: " + newWebHost.Host);
+                        
+                            // start crawling it
+                            SpawnHostCrawler(newWebHost);
+                        }
                     }
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine(e.Message);
+                    catch (Exception e)
+                    {
+                        Console.WriteLine(e.Message);
+                    }
                 }
             }
         }
@@ -134,7 +138,7 @@ namespace we_crawler
             while (true)
             {
                 criticalLock = true;
-                if (backCount > 1000)
+                if (backCount > 10000)
                 {
                     // kill all the threads and return
                     while (Threads.Count > 0)

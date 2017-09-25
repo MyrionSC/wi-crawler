@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Eilenberg–MacLane space - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Eilenberg–MacLane_space","wgTitle":"Eilenberg–MacLane space","wgCurRevisionId":795470106,"wgRevisionId":795470106,"wgArticleId":1073230,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Algebraic topology","Homotopy theory"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Eilenberg–MacLane_space","wgRelevantArticleId":1073230,"wgRequestId":"WcXYpgpAAD4AABPxPBgAAAAY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5349490","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Eilenberg%E2%80%93MacLane_space"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Eilenberg%E2%80%93MacLane_space"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Eilenberg–MacLane_space rootpage-Eilenberg–MacLane_space skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Eilenberg–MacLane space</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Algebraic_topology" title="Algebraic topology">algebraic topology</a> in particular, an <b>Eilenberg–MacLane space</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> is a <a href="/wiki/Topological_space" title="Topological space">topological space</a> with a single nontrivial <a href="/wiki/Homotopy_group" title="Homotopy group">homotopy group</a>. As such, an Eilenberg–MacLane space is a special kind of <a href="/wiki/Topological_space" title="Topological space">topological space</a> that can be regarded as a building block for <a href="/wiki/Homotopy_theory" class="mw-redirect" title="Homotopy theory">homotopy theory</a>; general topological spaces can be constructed from these via the <a href="/wiki/Postnikov_system" title="Postnikov system">Postnikov system</a>. These spaces are important in many contexts in <a href="/wiki/Algebraic_topology" title="Algebraic topology">algebraic topology</a>, including constructions of spaces, computations of <a href="/wiki/Homotopy_group" title="Homotopy group">homotopy groups</a> of spheres, and definition of <a href="/wiki/Cohomology_operation" title="Cohomology operation">cohomology operations</a>. The name is for <a href="/wiki/Samuel_Eilenberg" title="Samuel Eilenberg">Samuel Eilenberg</a> and <a href="/wiki/Saunders_Mac_Lane" title="Saunders Mac Lane">Saunders Mac Lane</a>, who introduced such spaces in the late 1940s.</p>
+<p>Let <i>G</i> be a group and <i>n</i> a positive integer. A connected topological space <i>X</i> is called an Eilenberg–MacLane space of type <i>K</i>(<i>G</i>, <i>n</i>), if it has <i>n</i>-th <a href="/wiki/Homotopy_group" title="Homotopy group">homotopy group</a> π<sub><i>n</i></sub>(<i>X</i>) isomorphic to <i>G</i> and all other homotopy groups trivial. If <i>n</i> &gt; 1 then <i>G</i> must be abelian. Such a space exists, is a <a href="/wiki/CW-complex" class="mw-redirect" title="CW-complex">CW-complex</a>, and is unique up to a <a href="/wiki/Weak_homotopy_equivalence" class="mw-redirect" title="Weak homotopy equivalence">weak homotopy equivalence</a>. By abuse of language, any such space is often called just <i>K</i>(<i>G</i>, <i>n</i>).</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples"><span class="tocnumber">1</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Properties_of_Eilenberg.E2.80.93MacLane_spaces"><span class="tocnumber">2</span> <span class="toctext">Properties of Eilenberg–MacLane spaces</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>The <a href="/wiki/Unit_circle" title="Unit circle">unit circle</a> <b>S</b><sup>1</sup> is a <i>K</i>(<b>Z</b>,1).</li>
+<li>The infinite-dimensional <a href="/wiki/Complex_projective_space" title="Complex projective space">complex projective space</a> <b>P</b><sup>∞</sup>(<b>C</b>) is a model of <i>K</i>(<b>Z</b>,2). This is one of the rare examples of a <i>K</i>(<i>G</i>,<i>n</i>) admitting a <a href="/wiki/Manifold" title="Manifold">manifold</a> model for <i>n</i>&gt;1. Its <a href="/wiki/Cohomology_ring" title="Cohomology ring">cohomology ring</a> is <b>Z</b>[<i>x</i>], namely the free polynomial ring on a single 2-dimensional generator <i>x</i>&#160;∈&#160;<i>H</i><sup>2</sup>. The generator can be represented in <a href="/wiki/De_Rham_cohomology" title="De Rham cohomology">de Rham cohomology</a> by the <a href="/wiki/Fubini%E2%80%93Study" class="mw-redirect" title="Fubini–Study">Fubini–Study</a> <a href="/wiki/2-form" class="mw-redirect" title="2-form">2-form</a>. An application of <i>K</i>(<b>Z</b>,2) is described at <a href="/wiki/Abstract_nonsense" title="Abstract nonsense">Abstract nonsense</a>.</li>
+<li>The infinite-dimensional <a href="/wiki/Real_projective_space" title="Real projective space">real projective space</a> <b>P</b><sup>∞</sup>(<b>R</b>) is a <i>K</i>(<b>Z</b><sub>2</sub>, 1).</li>
+<li>The <a href="/wiki/Wedge_sum" title="Wedge sum">wedge sum</a> of <i>k</i> <a href="/wiki/Unit_circle" title="Unit circle">unit circles</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mstyle displaystyle="false" scriptlevel="0">
+          <munderover>
+            <mo>&#x22C1;<!-- ⋁ --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>i</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>k</mi>
+            </mrow>
+          </munderover>
+          <msup>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="bold">S</mi>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>1</mn>
+            </mrow>
+          </msup>
+        </mstyle>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \textstyle \bigvee _{i=1}^{k}\mathbf {S} ^{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e2090cb1128b33bf75f02282be04216924ff221e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:7.813ex; height:3.509ex;" alt="\textstyle\bigvee_{i=1}^k\mathbf{S}^1" /></span> is a <i>K</i>(<i>G</i>, <i>1</i>) for <i>G</i> the <a href="/wiki/Free_group" title="Free group">free group</a> on <i>k</i> generators.</li>
+<li>The complement to any knot in a 3-dimensional sphere <b>S</b><sup>3</sup> is of type <i>K</i>(<i>G</i>, 1); this is called the "<a href="/wiki/Aspherical_space" title="Aspherical space">asphericity</a> of knots", and is a 1957 theorem of <a href="/wiki/Christos_Papakyriakopoulos" title="Christos Papakyriakopoulos">Christos Papakyriakopoulos</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup></li>
+</ul>
+<p>Some further elementary examples can be constructed from these by using the fact that the product <i>K</i>(<i>G</i>, <i>n</i>) × <i>K</i>(<i>H</i>, <i>n</i>) is <i>K</i>(<i>G</i> × <i>H</i>, <i>n</i>).</p>
+<p>A <i>K</i>(<i>G</i>, <i>n</i>) can be constructed stage-by-stage, as a <a href="/wiki/CW_complex" title="CW complex">CW complex</a>, starting with a <a href="/wiki/Wedge_sum" title="Wedge sum">wedge</a> of <i>n</i>-<a href="/wiki/Sphere" title="Sphere">spheres</a>, one for each generator of the group <i>G</i>, and adding cells in (possibly infinite number of) higher dimensions so as to kill all extra homotopy. The corresponding chain complex is given by the <a href="/wiki/Dold%E2%80%93Kan_correspondence" title="Dold–Kan correspondence">Dold–Kan correspondence</a>.</p>
+<h2><span id="Properties_of_Eilenberg–MacLane_spaces"></span><span class="mw-headline" id="Properties_of_Eilenberg.E2.80.93MacLane_spaces">Properties of Eilenberg–MacLane spaces</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;action=edit&amp;section=2" title="Edit section: Properties of Eilenberg–MacLane spaces">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An important property of <i>K</i>(<i>G</i>, <i>n</i>) is that, for any abelian group <i>G</i>, and any CW-complex <i>X</i>, the set</p>
+<dl>
+<dd>[<i>X</i>, <i>K</i>(<i>G</i>, <i>n</i>)]</dd>
+</dl>
+<p>of homotopy classes of maps from <i>X</i> to <i>K</i>(<i>G</i>, <i>n</i>) is in natural bijection with the <i>n</i>-th <a href="/wiki/Singular_cohomology" class="mw-redirect" title="Singular cohomology">singular cohomology</a> group</p>
+<dl>
+<dd><i>H</i><sup><i>n</i></sup>(<i>X</i>; <i>G</i>)</dd>
+</dl>
+<p>of the space <i>X</i>. Thus one says that the <i>K</i>(<i>G</i>, <i>n</i>) are <a href="/wiki/Representing_space" class="mw-redirect" title="Representing space">representing spaces</a> for cohomology with coefficients in <i>G</i>. Since</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">(</mo>
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <mi>G</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>;</mo>
+        <mi>G</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">H</mi>
+          <mi mathvariant="normal">o</mi>
+          <mi mathvariant="normal">m</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <mi>G</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>;</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">Z</mi>
+        </mrow>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+        <mi>G</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">H</mi>
+          <mi mathvariant="normal">o</mi>
+          <mi mathvariant="normal">m</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>&#x03C0;<!-- π --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <mi>G</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+        <mi>G</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">H</mi>
+          <mi mathvariant="normal">o</mi>
+          <mi mathvariant="normal">m</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>G</mi>
+        <mo>,</mo>
+        <mi>G</mi>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H^{n}(K(G,n);G)=\mathrm {Hom} (H_{n}(K(G,n);\mathbf {Z} ),G)=\mathrm {Hom} (\pi _{n}(K(G,n)),G)=\mathrm {Hom} (G,G),}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c03f63ccbceb3a74851dbe4040ee95fddcb1210" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:85.284ex; height:2.843ex;" alt="H^n(K(G,n);G) = \mathrm{Hom}(H_n(K(G,n);\mathbf{Z}), G) = \mathrm{Hom}(\pi_n(K(G,n)), G) = \mathrm{Hom}(G,G)," /></span></dd>
+</dl>
+<p>there is a distinguished element <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>u</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <msup>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">(</mo>
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <mi>G</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>;</mo>
+        <mi>G</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle u\in H^{n}(K(G,n);G)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7e7878eb84e392f283f3a428803de7880b34a765" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.436ex; height:2.843ex;" alt="u \in H^n(K(G,n);G)" /></span> corresponding to the identity. The above bijection is given by pullback of that element — <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">&#x21A6;<!-- ↦ --></mo>
+        <msup>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+        <mi>u</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f\mapsto f^{*}u}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77a35aaf7c3064142c293febc9d71fa3fb16f215" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:8.646ex; height:2.676ex;" alt=" f \mapsto f^*u " /></span>.</p>
+<p>Another version of this result, due to Peter J. Huber, establishes a bijection with the <i>n</i>-th <a href="/wiki/%C4%8Cech_cohomology" title="Čech cohomology">Čech cohomology group</a> when <i>X</i> is <a href="/wiki/Hausdorff_space" title="Hausdorff space">Hausdorff</a> and <a href="/wiki/Paracompact" class="mw-redirect" title="Paracompact">paracompact</a> and <i>G</i> is countable, or when <i>X</i> is Hausdorff, paracompact and <a href="/wiki/Compactly_generated_space" title="Compactly generated space">compactly generated</a> and <i>G</i> is arbitrary. A further result of Morita establishes a bijection with the <i>n</i>-th <a href="/wiki/%C4%8Cech_cohomology" title="Čech cohomology">numerable Čech cohomology group</a> for an arbitrary topological space <i>X</i> and <i>G</i> an arbitrary abelian group.</p>
+<p>Another construction, in terms of <a href="/wiki/Classifying_space" title="Classifying space">classifying spaces</a> and <a href="/wiki/Universal_bundle" title="Universal bundle">universal bundles</a>, is given in May.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup></p>
+<p>The <a href="/wiki/Loop_space" title="Loop space">loop space</a> of an Eilenberg–MacLane space is also an Eilenberg–MacLane space: <i>ΩK(G, n) = K(G, n-1)</i>. This property implies that Eilenberg–MacLane spaces with various <i>n</i> form an <a href="/wiki/Spectrum_(topology)" title="Spectrum (topology)">omega-spectrum</a>, called Eilenberg–MacLane spectrum. This spectrum corresponds to the standard homology and cohomology theory.</p>
+<p>It follows from the <a href="/wiki/Universal_coefficient_theorem" title="Universal coefficient theorem">universal coefficient theorem</a> for cohomology that the Eilenberg MacLane space is a <i>quasi-functor</i> of the group; that is, for each positive integer <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.405ex; height:1.676ex;" alt="n" /></span> if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>:</mo>
+        <mi>G</mi>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <msup>
+          <mi>G</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a:G\to G'}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f64f43bc6f496bedcfd40db4e540985b552e694b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:11.179ex; height:2.509ex;" alt=" a: G \to G&#039; " /></span> is any homomorphism of Abelian groups, then there is a non-empty set</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mo stretchy="false">[</mo>
+        <mi>f</mi>
+        <mo stretchy="false">]</mo>
+        <mo>:</mo>
+        <mi>f</mi>
+        <mo>:</mo>
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <mi>G</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <msup>
+          <mi>G</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>f</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>a</mi>
+        <mo fence="false" stretchy="false">}</mo>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle K(a,n)=\{[f]:f:K(G,n)\to K(G',n),H_{n}(f)=a\},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49ae77c95a8e30e0e3c7ae81ab6f237269979faa" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:53.88ex; height:3.009ex;" alt="K(a,n) = \{[f]: f: K(G,n) \to K(G&#039;,n), H_n(f) = a\}," /></span></p>
+<p>satisfying <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2218;<!-- ∘ --></mo>
+        <mi>b</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2283;<!-- ⊃ --></mo>
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2218;<!-- ∘ --></mo>
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <mi>b</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>&#xA0;and&#xA0;</mtext>
+        </mrow>
+        <mn>1</mn>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>K</mi>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle K(a\circ b,n)\supset K(a,n)\circ K(b,n){\mbox{  and  }}1\in K(1,n),}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/704998f43da15fe7cbe610069d6d0ec9ad59af5a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:48.235ex; height:2.843ex;" alt="K(a \circ b,n) \supset K(a,n) \circ K(b,n) \mbox{  and  } 1 \in K(1,n), " /></span> where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">[</mo>
+        <mi>f</mi>
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle [f]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7414a730e8157655ff770265ec3a03ec9f09dd54" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:2.604ex; height:2.843ex;" alt="[f]" /></span> denotes the homotopy class of a continuous map <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.289ex; height:2.509ex;" alt="f" /></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo>&#x2218;<!-- ∘ --></mo>
+        <mi>T</mi>
+        <mo>:=</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mi>s</mi>
+        <mo>&#x2218;<!-- ∘ --></mo>
+        <mi>t</mi>
+        <mo>:</mo>
+        <mi>s</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>S</mi>
+        <mo>,</mo>
+        <mi>t</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>T</mi>
+        <mo fence="false" stretchy="false">}</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S\circ T:=\{s\circ t:s\in S,t\in T\}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f0498102f7d9bdf688d9275ecafb21604c655477" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:30.089ex; height:2.843ex;" alt=" S \circ T := \{s \circ t: s \in S, t \in T \}." /></span></p>
+<p>Every CW-complex possesses a <a href="/wiki/Postnikov_tower" class="mw-redirect" title="Postnikov tower">Postnikov tower</a>, that is, it is homotopy equivalent to an iterated fibration with fibers the Eilenberg–MacLane spaces.</p>
+<p>There is a method due to <a href="/wiki/Jean-Pierre_Serre" title="Jean-Pierre Serre">Jean-Pierre Serre</a> which allows one, at least theoretically, to compute homotopy groups of spaces using a <a href="/wiki/Spectral_sequence" title="Spectral sequence">spectral sequence</a> for special fibrations with Eilenberg–MacLane spaces for fibers.</p>
+<p>The cohomology groups of Eilenberg–MacLane spaces can be used to classify all <a href="/wiki/Cohomology_operation" title="Cohomology operation">cohomology operations</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Brown_representability_theorem" class="mw-redirect" title="Brown representability theorem">Brown representability theorem</a>, regarding representation spaces</li>
+<li><a href="/wiki/Moore_space_(algebraic_topology)" title="Moore space (algebraic topology)">Moore space</a>, the homology analogue.</li>
+<li><a href="/wiki/Homology_sphere" title="Homology sphere">Homology sphere</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/Saunders_Mac_Lane" title="Saunders Mac Lane">Saunders Mac Lane</a> originally spelt his name "MacLane" (without a space), and co-published the papers establishing the notion of Eilenberg–MacLane spaces under this name. (See e.g. <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a><a rel="nofollow" class="external text" href="http://www.ams.org/mathscinet-getitem?mr=13312">13312</a>) In this context it is therefore conventional to write the name without a space.</span></li>
+</ol>
+</div>
+</div>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">(<a href="#CITEREFPapakyriakopoulos1957">Papakyriakopoulos 1957</a>)</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">J.P. May, <i><a rel="nofollow" class="external text" href="http://www.maths.ed.ac.uk/~aar/papers/maybook.pdf">A Concise Course in Algebraic Topology</a></i> University of Chicago Press (<i>See chapter 16, section 5.</i>)</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>S. Eilenberg, S. MacLane, Relations between homology and homotopy groups of spaces Ann. of Math. 46 (1945) pp.&#160;480–509</li>
+<li>S. Eilenberg, S. MacLane, Relations between homology and homotopy groups of spaces. II Ann. of Math. 51 (1950) pp.&#160;514–533</li>
+<li>Peter J. Huber (1961), Homotopical cohomology and Čech cohomology, <i><a href="/wiki/Mathematische_Annalen" title="Mathematische Annalen">Mathematische Annalen</a></i> <b>144</b> , 73–76.</li>
+<li><cite class="citation journal">Morita, Kiiti (1975). "Čech cohomology and covering dimension for topological spaces". <i><a href="/wiki/Fundamenta_Mathematicae" title="Fundamenta Mathematicae">Fundamenta Mathematicae</a></i>. <b>87</b>: 31–52.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEilenberg%E2%80%93MacLane+space&amp;rft.atitle=%C4%8Cech+cohomology+and+covering+dimension+for+topological+spaces&amp;rft.aufirst=Kiiti&amp;rft.aulast=Morita&amp;rft.date=1975&amp;rft.genre=article&amp;rft.jtitle=Fundamenta+Mathematicae&amp;rft.pages=31-52&amp;rft.volume=87&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal"><a href="/wiki/Christos_Papakyriakopoulos" title="Christos Papakyriakopoulos">Papakyriakopoulos, C. D.</a> (1957). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC528404">"On Dehn's Lemma and the Asphericity of Knots"</a>. <i>Proc. Natl. Acad. Sci. USA</i>. <b>43</b> (1): 169–172. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC528404">528404</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16589993">16589993</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1073%2Fpnas.43.1.169">10.1073/pnas.43.1.169</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEilenberg%E2%80%93MacLane+space&amp;rft.atitle=On+Dehn%27s+Lemma+and+the+Asphericity+of+Knots&amp;rft.aufirst=C.+D.&amp;rft.aulast=Papakyriakopoulos&amp;rft.date=1957&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Proc.+Natl.+Acad.+Sci.+USA&amp;rft.pages=169-172&amp;rft.volume=43&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC528404&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC528404&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.43.1.169&amp;rft_id=info%3Apmid%2F16589993&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal"><a href="/wiki/Christos_Papakyriakopoulos" title="Christos Papakyriakopoulos">Papakyriakopoulos, C. D.</a> (1957). "On Dehn's Lemma and the Asphericity of Knots". <i><a href="/wiki/Annals_of_Mathematics" title="Annals of Mathematics">Ann. Math.</a></i> <b>66</b> (1): 1–26. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1970113">1970113</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F1970113">10.2307/1970113</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEilenberg%E2%80%93MacLane+space&amp;rft.atitle=On+Dehn%27s+Lemma+and+the+Asphericity+of+Knots&amp;rft.aufirst=C.+D.&amp;rft.aulast=Papakyriakopoulos&amp;rft.date=1957&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Ann.+Math.&amp;rft.pages=1-26&amp;rft.volume=66&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1970113&amp;rft_id=info%3Adoi%2F10.2307%2F1970113&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFRudyak2001" class="citation">Rudyak, Yu.B. (2001) [1994], <a rel="nofollow" class="external text" href="https://www.encyclopediaofmath.org/index.php?title=E/e035200">"Eilenberg−MacLane space"</a>, in <a href="/wiki/Michiel_Hazewinkel" title="Michiel Hazewinkel">Hazewinkel, Michiel</a>, <i><a href="/wiki/Encyclopedia_of_Mathematics" title="Encyclopedia of Mathematics">Encyclopedia of Mathematics</a></i>, Springer Science+Business Media B.V. / Kluwer Academic Publishers, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-55608-010-4" title="Special:BookSources/978-1-55608-010-4">978-1-55608-010-4</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEilenberg%E2%80%93MacLane+space&amp;rft.atitle=Eilenberg%E2%88%92MacLane+space&amp;rft.aufirst=Yu.B.&amp;rft.aulast=Rudyak&amp;rft.btitle=Encyclopedia+of+Mathematics&amp;rft.date=2001&amp;rft.genre=bookitem&amp;rft.isbn=978-1-55608-010-4&amp;rft.pub=Springer+Science%2BBusiness+Media+B.V.+%2F+Kluwer+Academic+Publishers&amp;rft_id=https%3A%2F%2Fwww.encyclopediaofmath.org%2Findex.php%3Ftitle%3DE%2Fe035200&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="https://ncatlab.org/nlab/show/Eilenberg-Mac+Lane+space">Eilenberg-Mac Lane space</a> in <i><a href="/wiki/NLab" title="NLab">nLab</a></i></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20170920215325
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.116 seconds
+Real time usage: 0.261 seconds
+Preprocessor visited node count: 574/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10718/2097152 bytes
+Template argument size: 424/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.036/10.000 seconds
+Lua memory usage: 2.08 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   95.024      1 -total
+ 46.25%   43.952      3 Template:Cite_journal
+ 38.40%   36.486      2 Template:Reflist
+ 13.36%   12.697      1 Template:Springer
+  8.72%    8.287      1 Template:Citation
+  8.69%    8.261      1 Template:MR
+  7.15%    6.791      1 Template:Catalog_lookup_link
+  6.59%    6.264      1 Template:Harv
+  1.86%    1.767      2 Template:Main_other
+  1.58%    1.501      4 Template:Trim
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1073230-0!canonical!math=5 and timestamp 20170920215325 and revision id 795470106
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Eilenberg–MacLane_space&amp;oldid=795470106">https://en.wikipedia.org/w/index.php?title=Eilenberg–MacLane_space&amp;oldid=795470106</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Algebraic_topology" title="Category:Algebraic topology">Algebraic topology</a></li><li><a href="/wiki/Category:Homotopy_theory" title="Category:Homotopy theory">Homotopy theory</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Eilenberg%E2%80%93MacLane+space" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Eilenberg%E2%80%93MacLane+space" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Eilenberg%E2%80%93MacLane_space" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Eilenberg%E2%80%93MacLane_space" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Eilenberg%E2%80%93MacLane_space">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Eilenberg%E2%80%93MacLane_space" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Eilenberg%E2%80%93MacLane_space" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;oldid=795470106" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5349490" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Eilenberg%E2%80%93MacLane_space&amp;id=795470106" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Eilenberg%E2%80%93MacLane+space">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Eilenberg%E2%80%93MacLane+space&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DEilenberg%25E2%2580%2593MacLane%2Bspace%26returnto%3DEilenberg%25E2%2580%2593MacLane%2Bspace%26oldid%3D795470106%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Eilenberg-MacLane-Raum" title="Eilenberg-MacLane-Raum – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Espace_d%27Eilenberg-MacLane" title="Espace d'Eilenberg-MacLane – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%97%90%EC%9D%BC%EB%A0%8C%EB%B2%A0%EB%A5%B4%ED%81%AC-%EB%A7%A4%ED%81%B4%EB%A0%88%EC%9D%B8_%EA%B3%B5%EA%B0%84" title="에일렌베르크-매클레인 공간 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5349490#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 14 August 2017, at 12:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Eilenberg%E2%80%93MacLane_space&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.261","ppvisitednodes":{"value":574,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10718,"limit":2097152},"templateargumentsize":{"value":424,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   95.024      1 -total"," 46.25%   43.952      3 Template:Cite_journal"," 38.40%   36.486      2 Template:Reflist"," 13.36%   12.697      1 Template:Springer","  8.72%    8.287      1 Template:Citation","  8.69%    8.261      1 Template:MR","  7.15%    6.791      1 Template:Catalog_lookup_link","  6.59%    6.264      1 Template:Harv","  1.86%    1.767      2 Template:Main_other","  1.58%    1.501      4 Template:Trim"]},"scribunto":{"limitreport-timeusage":{"value":"0.036","limit":"10.000"},"limitreport-memusage":{"value":2179570,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20170920215325","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":53,"wgHostname":"mw1267"});});</script>
+	</body>
+</html>

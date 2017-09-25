@@ -10,13 +10,13 @@ namespace we_crawler
     {
         public static void Main(string[] args)
         {
-            string seed = "https://en.wikipedia.org/wiki/Main_Page";
+            string seed = "http://wiki.teamliquid.net/";
             DateTime start = DateTime.Now;
 
             var crawler = new Crawler();
             crawler.StartCrawl(seed);
 
-//             init hosts with local data
+            // init hosts with local data
 //            List<Webhost> webhosts = Initialiser.LoadWebhosts();
 //            
 //            // throw all pages into list

@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Georgian Wikipedia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Georgian_Wikipedia","wgTitle":"Georgian Wikipedia","wgCurRevisionId":781288440,"wgRevisionId":781288440,"wgArticleId":12683488,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Articles containing Georgian-language text","Articles with Georgian-language external links","Wikipedias by language","Internet properties established in 2003","Georgian-language encyclopedias","21st-century encyclopedias","Georgian-language websites"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Georgian_Wikipedia","wgRelevantArticleId":12683488,"wgRequestId":"Wb-FvwpAEKkAAAK4OJsAAABX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q848974","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/52/Wikipedia-logo-v2-ka.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Georgian_Wikipedia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Georgian_Wikipedia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Georgian_Wikipedia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Georgian_Wikipedia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Georgian_Wikipedia rootpage-Georgian_Wikipedia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Georgian Wikipedia</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<caption class="fn org"><a href="/wiki/File:Wikipedia%27s_W.svg" class="image" title="Favicon of Wikipedia"><img alt="Favicon of Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/17px-Wikipedia%27s_W.svg.png" width="17" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/26px-Wikipedia%27s_W.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/34px-Wikipedia%27s_W.svg.png 2x" data-file-width="128" data-file-height="128" /></a> Georgian Wikipedia</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Wikipedia-logo-v2-ka.png" class="image" title="Logo of the Georgian Wikipedia"><img alt="Logo of the Georgian Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/5/52/Wikipedia-logo-v2-ka.png" width="135" height="155" data-file-width="135" data-file-height="155" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="background:transparent;text-align:left;background:gainsboro;text-align:center">Screenshot&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;text-align:center"><a href="/wiki/File:Ka_wiki.png" class="image" title="The Main Page of the Georgian Wikipedia on 2 May 2008"><img alt="The Main Page of the Georgian Wikipedia on 2 May 2008" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ka_wiki.png/280px-Ka_wiki.png" width="280" height="412" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ka_wiki.png/420px-Ka_wiki.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ka_wiki.png/560px-Ka_wiki.png 2x" data-file-width="1440" data-file-height="2117" /></a>
+<div>The Main Page of the Georgian Wikipedia on 2 May 2008</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Type of site</div>
+</th>
+<td><a href="/wiki/Internet_encyclopedia_project" class="mw-redirect" title="Internet encyclopedia project">Internet encyclopedia project</a></td>
+</tr>
+<tr>
+<th scope="row">Available&#160;in</th>
+<td><a href="/wiki/Georgian_language" title="Georgian language">Georgian</a></td>
+</tr>
+<tr>
+<th scope="row">Owner</th>
+<td><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Slogan" title="Slogan">Slogan(s)</a></th>
+<td>The Free Encyclopedia</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td class="url"><span class="url"><a class="external text" href="http://ka.wikipedia.org">ka<wbr />.wikipedia<wbr />.org</a></span></td>
+</tr>
+<tr>
+<th scope="row">Commercial</th>
+<td>Charitable</td>
+</tr>
+<tr>
+<th scope="row">Registration</th>
+<td>Optional (required to create articles)</td>
+</tr>
+<tr>
+<th scope="row">Launched</th>
+<td>November 2003</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Content license</div>
+</th>
+<td><span class="nowrap"><a href="/wiki/Creative_Commons_licenses" class="mw-redirect" title="Creative Commons licenses">Creative Commons Attribution/<br />
+Share-Alike</a> 3.0</span></td>
+</tr>
+</table>
+<p>The <b>Georgian Wikipedia</b> (<a href="/wiki/Georgian_language" title="Georgian language">Georgian</a>: <span lang="ka">ქართული ვიკიპედია</span>) is a <a href="/wiki/Georgian_language" title="Georgian language">Georgian language</a> edition of free online encyclopedia <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>. Founded in November 2003, it has more than 100 000 articles by 2015.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Statistics"><span class="tocnumber">1</span> <span class="toctext">Statistics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Statistics">Statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Georgian_Wikipedia&amp;action=edit&amp;section=1" title="Edit section: Statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="right">
+<tr>
+<td>
+<div class="barbox" style="border:1px solid silver; font-size:88%; padding:0.4em; width:400px; background: white;">
+<table style="border-collapse:collapse; width:100%;">
+<tr style="background:#ddd">
+<th colspan="5">Origin of edits (Jan/2014 - Mar/2014) <a class="external text" href="http://stats.wikimedia.org/wikimedia/squids/SquidReportPageEditsPerLanguageBreakdown.htm">Source</a></th>
+</tr>
+<tr style="font-size:88%; height:4px;">
+<td style="padding:0 4px;"></td>
+<td style="padding:0 4px; text-align:right;"></td>
+<td style="width:100px;"></td>
+<td style="padding:0 4px; width:1em; text-align:right;"></td>
+<td style="padding:0 4px; text-align:right;"></td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;"><a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a></td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:#318CE7; width:91.8%; overflow: hidden;">&#160; </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">91.8%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;"><a href="/wiki/United_States" title="United States">United States</a></td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:Black; width:1.6%; overflow: hidden;">&#160; </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">1.6%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Other</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:grey; width:5.6%; overflow: hidden;">&#160; </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">5.6%</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<p>Currently it has 3 administrators and more than 73,000 registered users.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Georgian_Wikipedia&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:center">
+<tr>
+<th>Number of articles</th>
+<th>Date</th>
+</tr>
+<tr>
+<td>10,000</td>
+<td>2006</td>
+</tr>
+<tr>
+<td>23,000</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>30,000</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>50,000</td>
+<td>2011</td>
+</tr>
+<tr>
+<td>70,000</td>
+<td>2013</td>
+</tr>
+<tr>
+<td>80,000</td>
+<td>2014</td>
+</tr>
+<tr>
+<td>100 000</td>
+<td>2015</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Georgian_Wikipedia&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Georgian_language" title="Georgian language">Georgian language</a></li>
+<li><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Georgian_Wikipedia&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Georgian_Wikipedia" class="extiw" title="commons:Category:Georgian Wikipedia">Georgian Wikipedia</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png" width="40" height="37" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/80px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></td>
+<td class="mbox-text plainlist"><i><b><a href="https://ka.wikipedia.org/wiki/" class="extiw" title="ka:">Georgian edition</a></b></i> of <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, the free encyclopedia</td>
+</tr>
+</table>
+<ul>
+<li><span class="languageicon">(in Georgian)</span> <a href="https://ka.wikipedia.org/wiki/" class="extiw" title="ka:">Georgian Language Wikipedia</a></li>
+<li><span class="languageicon">(in Georgian)</span> <a class="external text" href="http://ka.m.wikipedia.org">Georgian Wikipedia mobile version</a></li>
+<li><a href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90:%E1%83%A1%E1%83%90%E1%83%94%E1%83%9A%E1%83%A9%E1%83%9D" class="extiw" title="ka:ვიკიპედია:საელჩო">The embassy of the Georgian-language Wikipedia</a></li>
+</ul>
+<p><br /></p>
+<div role="navigation" class="navbox" aria-labelledby="List_of_Wikipedias_by_article_count" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wikipedias" title="Template:Wikipedias"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wikipedias" title="Template talk:Wikipedias"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikipedias&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="List_of_Wikipedias_by_article_count" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a> by article count</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">5,000,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/English_Wikipedia" title="English Wikipedia">English</a></li>
+<li><a href="/wiki/Cebuano_Wikipedia" class="mw-redirect" title="Cebuano Wikipedia">Cebuano</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2,000,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Swedish_Wikipedia" title="Swedish Wikipedia">Swedish</a></li>
+<li><a href="/wiki/German_Wikipedia" title="German Wikipedia">German</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dutch_Wikipedia" title="Dutch Wikipedia">Dutch</a></li>
+<li><a href="/wiki/French_Wikipedia" title="French Wikipedia">French</a></li>
+<li><a href="/wiki/Russian_Wikipedia" title="Russian Wikipedia">Russian</a></li>
+<li><a href="/wiki/Italian_Wikipedia" title="Italian Wikipedia">Italian</a></li>
+<li><a href="/wiki/Spanish_Wikipedia" title="Spanish Wikipedia">Spanish</a></li>
+<li><a href="/wiki/Waray_Wikipedia" title="Waray Wikipedia">Waray</a></li>
+<li><a href="/wiki/Polish_Wikipedia" title="Polish Wikipedia">Polish</a></li>
+<li><a href="/wiki/Vietnamese_Wikipedia" title="Vietnamese Wikipedia">Vietnamese</a></li>
+<li><a href="/wiki/Japanese_Wikipedia" title="Japanese Wikipedia">Japanese</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Portuguese_Wikipedia" title="Portuguese Wikipedia">Portuguese</a></li>
+<li><a href="/wiki/Chinese_Wikipedia" title="Chinese Wikipedia">Chinese</a></li>
+<li><a href="/wiki/Ukrainian_Wikipedia" title="Ukrainian Wikipedia">Ukrainian</a></li>
+<li><a href="/wiki/Persian_Wikipedia" title="Persian Wikipedia">Persian</a></li>
+<li><a href="/wiki/Catalan_Wikipedia" title="Catalan Wikipedia">Catalan</a></li>
+<li><a href="/wiki/Arabic_Wikipedia" title="Arabic Wikipedia">Arabic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Norwegian_Wikipedia" title="Norwegian Wikipedia">Norwegian (bokmål/riksmål)</a></li>
+<li><a href="/wiki/Serbo-Croatian_Wikipedia" title="Serbo-Croatian Wikipedia">Serbo-Croatian</a></li>
+<li><a href="/wiki/Finnish_Wikipedia" title="Finnish Wikipedia">Finnish</a></li>
+<li><a href="/wiki/Hungarian_Wikipedia" title="Hungarian Wikipedia">Hungarian</a></li>
+<li><a href="/wiki/Indonesian_Wikipedia" title="Indonesian Wikipedia">Indonesian</a></li>
+<li><a href="/wiki/Korean_Wikipedia" title="Korean Wikipedia">Korean</a></li>
+<li><a href="/wiki/Czech_Wikipedia" title="Czech Wikipedia">Czech</a></li>
+<li><a href="/wiki/Romanian_Wikipedia" title="Romanian Wikipedia">Romanian</a></li>
+<li><a href="/wiki/Serbian_Wikipedia" title="Serbian Wikipedia">Serbian</a></li>
+<li><a href="/wiki/Malay_Wikipedia" title="Malay Wikipedia">Malay</a></li>
+<li><a href="/wiki/Turkish_Wikipedia" title="Turkish Wikipedia">Turkish</a></li>
+<li><a href="/wiki/Basque_Wikipedia" title="Basque Wikipedia">Basque</a></li>
+<li><a href="/wiki/Esperanto_Wikipedia" title="Esperanto Wikipedia">Esperanto</a></li>
+<li><a href="/wiki/Bulgarian_Wikipedia" title="Bulgarian Wikipedia">Bulgarian</a></li>
+<li><a href="/wiki/Danish_Wikipedia" title="Danish Wikipedia">Danish</a></li>
+<li><a href="/wiki/Armenian_Wikipedia" title="Armenian Wikipedia">Armenian</a></li>
+<li><a href="/wiki/Slovak_Wikipedia" title="Slovak Wikipedia">Slovak</a></li>
+<li><a href="/wiki/Minangkabau_Wikipedia" class="mw-redirect" title="Minangkabau Wikipedia">Minangkabau</a></li>
+<li><a href="/wiki/Min_Nan_Wikipedia" class="mw-redirect" title="Min Nan Wikipedia">Min Nan</a></li>
+<li><a href="/wiki/Kazakh_Wikipedia" title="Kazakh Wikipedia">Kazakh</a></li>
+<li><a href="/wiki/Hebrew_Wikipedia" title="Hebrew Wikipedia">Hebrew</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lithuanian_Wikipedia" title="Lithuanian Wikipedia">Lithuanian</a></li>
+<li><a href="/wiki/Croatian_Wikipedia" title="Croatian Wikipedia">Croatian</a></li>
+<li><a href="/wiki/Chechen_Wikipedia" class="mw-redirect" title="Chechen Wikipedia">Chechen</a></li>
+<li><a href="/wiki/Estonian_Wikipedia" title="Estonian Wikipedia">Estonian</a></li>
+<li><a href="/wiki/Slovene_Wikipedia" title="Slovene Wikipedia">Slovene</a></li>
+<li><a href="/wiki/Belarusian_Wikipedia" title="Belarusian Wikipedia">Belarusian</a></li>
+<li><a href="/wiki/Galician_Wikipedia" title="Galician Wikipedia">Galician</a></li>
+<li><a href="/wiki/Greek_Wikipedia" title="Greek Wikipedia">Greek</a></li>
+<li><a href="/wiki/Norwegian_Wikipedia" title="Norwegian Wikipedia">Norwegian (nynorsk)</a></li>
+<li><a href="/wiki/Uzbek_Wikipedia" title="Uzbek Wikipedia">Uzbek</a></li>
+<li><a href="/wiki/Simple_English_Wikipedia" title="Simple English Wikipedia">Simple English</a></li>
+<li><a href="/wiki/Latin_Wikipedia" title="Latin Wikipedia">Latin</a></li>
+<li><a href="/wiki/Azerbaijani_Wikipedia" title="Azerbaijani Wikipedia">Azerbaijani</a></li>
+<li><a href="/wiki/Urdu_Wikipedia" title="Urdu Wikipedia">Urdu</a></li>
+<li><a href="/wiki/Hindi_Wikipedia" title="Hindi Wikipedia">Hindi</a></li>
+<li><a href="/wiki/Volap%C3%BCk_Wikipedia" class="mw-redirect" title="Volapük Wikipedia">Volapük</a></li>
+<li><a href="/wiki/Thai_Wikipedia" title="Thai Wikipedia">Thai</a></li>
+<li><a class="mw-selflink selflink">Georgian</a></li>
+<li><a href="/wiki/Tamil_Wikipedia" title="Tamil Wikipedia">Tamil</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">50,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Welsh_Wikipedia" title="Welsh Wikipedia">Welsh</a></li>
+<li><a href="/wiki/Macedonian_Wikipedia" title="Macedonian Wikipedia">Macedonian</a></li>
+<li><a href="/wiki/Occitan_Wikipedia" title="Occitan Wikipedia">Occitan</a></li>
+<li><a href="/wiki/Malagasy_Wikipedia" title="Malagasy Wikipedia">Malagasy</a></li>
+<li><a href="/wiki/Latvian_Wikipedia" title="Latvian Wikipedia">Latvian</a></li>
+<li><a href="/wiki/Bosnian_Wikipedia" title="Bosnian Wikipedia">Bosnian</a></li>
+<li><a href="/wiki/Tagalog_Wikipedia" title="Tagalog Wikipedia">Tagalog</a></li>
+<li><a href="/wiki/Kyrgyz_Wikipedia" title="Kyrgyz Wikipedia">Kirghiz</a></li>
+<li><a href="/wiki/Nepal_Bhasa_Wikipedia" title="Nepal Bhasa Wikipedia">Newar</a></li>
+<li><a href="/wiki/Tatar_Wikipedia" title="Tatar Wikipedia">Tatar</a></li>
+<li><a href="/wiki/Tajik_Wikipedia" class="mw-redirect" title="Tajik Wikipedia">Tajik</a></li>
+<li><a href="/wiki/Telugu_Wikipedia" title="Telugu Wikipedia">Telugu</a></li>
+<li><a href="/wiki/Albanian_Wikipedia" title="Albanian Wikipedia">Albanian</a></li>
+<li><a href="/wiki/Piedmontese_Wikipedia" class="mw-redirect" title="Piedmontese Wikipedia">Piedmontese</a></li>
+<li><a href="/wiki/Breton_Wikipedia" title="Breton Wikipedia">Breton</a></li>
+<li><a href="/wiki/Belarusian_(Tara%C5%A1kievica)_Wikipedia" class="mw-redirect" title="Belarusian (Taraškievica) Wikipedia">Belarusian (Taraškievica)</a></li>
+<li><a href="/wiki/Cantonese_Wikipedia" title="Cantonese Wikipedia">Cantonese</a></li>
+<li><a href="/wiki/Malayalam_Wikipedia" title="Malayalam Wikipedia">Malayalam</a></li>
+<li><a href="/wiki/Bengali_Wikipedia" title="Bengali Wikipedia">Bengali</a></li>
+<li><a href="/wiki/Haitian_Creole_Wikipedia" class="mw-redirect" title="Haitian Creole Wikipedia">Haitian</a></li>
+<li><a href="/wiki/Javanese_Wikipedia" title="Javanese Wikipedia">Javanese</a></li>
+<li><a href="/wiki/Asturian_Wikipedia" title="Asturian Wikipedia">Asturian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">20,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Luxembourgish_Wikipedia" title="Luxembourgish Wikipedia">Luxembourgish</a></li>
+<li><a href="/wiki/Marathi_Wikipedia" title="Marathi Wikipedia">Marathi</a></li>
+<li><a href="/wiki/Afrikaans_Wikipedia" title="Afrikaans Wikipedia">Afrikaans</a></li>
+<li><a href="/wiki/Scots_Wikipedia" title="Scots Wikipedia">Scots</a></li>
+<li><a href="/wiki/Western_Punjabi_Wikipedia" class="mw-redirect" title="Western Punjabi Wikipedia">Western Punjabi</a></li>
+<li><a href="/wiki/Icelandic_Wikipedia" class="mw-redirect" title="Icelandic Wikipedia">Icelandic</a></li>
+<li><a href="/wiki/Irish_Wikipedia" title="Irish Wikipedia">Irish</a></li>
+<li><a href="/wiki/Chuvash_Wikipedia" title="Chuvash Wikipedia">Chuvash</a></li>
+<li><a href="/wiki/West_Frisian_Wikipedia" title="West Frisian Wikipedia">West Frisian</a></li>
+<li><a href="/wiki/Sundanese_Wikipedia" class="mw-redirect" title="Sundanese Wikipedia">Sundanese</a></li>
+<li><a href="/wiki/Swahili_Wikipedia" title="Swahili Wikipedia">Swahili</a></li>
+<li><a href="/wiki/Burmese_Wikipedia" title="Burmese Wikipedia">Burmese</a></li>
+<li><a href="/wiki/Aragonese_Wikipedia" title="Aragonese Wikipedia">Aragonese</a></li>
+<li><a href="/wiki/Yoruba_Wikipedia" title="Yoruba Wikipedia">Yoruba</a></li>
+<li><a href="/wiki/Ido_Wikipedia" class="mw-redirect" title="Ido Wikipedia">Ido</a></li>
+<li><a href="/wiki/Punjabi_Wikipedia" title="Punjabi Wikipedia">Punjabi</a></li>
+<li><a href="/wiki/Sicilian_Wikipedia" title="Sicilian Wikipedia">Sicilian</a></li>
+<li><a href="/wiki/Bishnupriya_Manipuri_Wikipedia" class="mw-redirect" title="Bishnupriya Manipuri Wikipedia">Bishnupriya Manipuri</a></li>
+<li><a href="/wiki/Alemannic_Wikipedia" title="Alemannic Wikipedia">Alemannic</a></li>
+<li><a href="/wiki/Kannada_Wikipedia" title="Kannada Wikipedia">Kannada</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">10,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mongolian_Wikipedia" title="Mongolian Wikipedia">Mongolian</a></li>
+<li><a href="/wiki/Egyptian_Arabic_Wikipedia" title="Egyptian Arabic Wikipedia">Egyptian Arabic</a></li>
+<li><a href="/wiki/Samogitian_Wikipedia" title="Samogitian Wikipedia">Samogitian</a></li>
+<li><a href="/wiki/Yiddish_Wikipedia" title="Yiddish Wikipedia">Yiddish</a></li>
+<li><a href="/wiki/Odia_Wikipedia" title="Odia Wikipedia">Odia</a></li>
+<li><a href="/wiki/Sanskrit_Wikipedia" title="Sanskrit Wikipedia">Sanskrit</a></li>
+<li><a href="/wiki/Mengrelian_Wikipedia" class="mw-redirect" title="Mengrelian Wikipedia">Mengrelian</a></li>
+<li><a href="/wiki/Ossetian_Wikipedia" title="Ossetian Wikipedia">Ossetian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pashto_Wikipedia" title="Pashto Wikipedia">Pashto</a></li>
+<li><a href="/wiki/Sindhi_Wikipedia" title="Sindhi Wikipedia">Sindhi</a></li>
+<li><a href="/wiki/Northern_Sami_Wikipedia" title="Northern Sami Wikipedia">Northern Sami</a></li>
+<li><a href="/wiki/Dutch_Low_Saxon_Wikipedia" title="Dutch Low Saxon Wikipedia">Dutch Low Saxon</a></li>
+<li><a href="/wiki/Classical_Chinese_Wikipedia" class="mw-redirect" title="Classical Chinese Wikipedia">Classical Chinese</a></li>
+<li><a href="/wiki/Silesian_Wikipedia" title="Silesian Wikipedia">Silesian</a></li>
+<li><a href="/wiki/Crimean_Tatar_Wikipedia" title="Crimean Tatar Wikipedia">Crimean Tatar</a></li>
+<li><a href="/wiki/Assamese_Wikipedia" title="Assamese Wikipedia">Assamese</a></li>
+<li><a href="/wiki/Konkani_Wikipedia" title="Konkani Wikipedia">Konkani</a></li>
+<li><a href="/wiki/Uyghur_Wikipedia" title="Uyghur Wikipedia">Uyghur</a></li>
+<li><a href="/wiki/Ripuarian_Wikipedia" title="Ripuarian Wikipedia">Ripuarian</a></li>
+<li><a href="/wiki/Aramaic_Wikipedia" class="mw-redirect" title="Aramaic Wikipedia">Aramaic</a></li>
+<li><a href="/wiki/Wolof_Wikipedia" title="Wolof Wikipedia">Wolof</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zulu_Wikipedia" title="Zulu Wikipedia">Zulu</a></li>
+<li><a href="/wiki/Tulu_Wikipedia" title="Tulu Wikipedia">Tulu</a></li>
+<li><a href="/wiki/Xhosa_Wikipedia" title="Xhosa Wikipedia">Xhosa</a></li>
+<li><a href="/wiki/Bambara_Wikipedia" title="Bambara Wikipedia">Bambara</a></li>
+<li><a href="/wiki/Venda_Wikipedia" class="mw-redirect" title="Venda Wikipedia">Venda</a></li>
+<li><a href="/wiki/Cree_Wikipedia" class="mw-redirect" title="Cree Wikipedia">Cree</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1219
+Cached time: 20170918104334
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.136 seconds
+Real time usage: 0.194 seconds
+Preprocessor visited node count: 1004/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40341/2097152 bytes
+Template argument size: 2817/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Lua time usage: 0.043/10.000 seconds
+Lua memory usage: 1.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  145.251      1 -total
+ 42.09%   61.133      1 Template:Infobox_website
+ 38.12%   55.367      1 Template:Infobox
+ 18.11%   26.302      1 Template:Commons_category
+ 17.54%   25.478      1 Template:Lang-ka
+ 17.04%   24.752      2 Template:Sister_project
+ 16.64%   24.172      1 Template:Language_with_name
+ 15.99%   23.227      1 Template:Commons
+ 15.69%   22.791      1 Template:Lang
+ 15.55%   22.583      2 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12683488-0!canonical and timestamp 20170918104333 and revision id 781288440
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Georgian_Wikipedia&amp;oldid=781288440">https://en.wikipedia.org/w/index.php?title=Georgian_Wikipedia&amp;oldid=781288440</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedias_by_language" title="Category:Wikipedias by language">Wikipedias by language</a></li><li><a href="/wiki/Category:Internet_properties_established_in_2003" title="Category:Internet properties established in 2003">Internet properties established in 2003</a></li><li><a href="/wiki/Category:Georgian-language_encyclopedias" title="Category:Georgian-language encyclopedias">Georgian-language encyclopedias</a></li><li><a href="/wiki/Category:21st-century_encyclopedias" title="Category:21st-century encyclopedias">21st-century encyclopedias</a></li><li><a href="/wiki/Category:Georgian-language_websites" title="Category:Georgian-language websites">Georgian-language websites</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_Georgian-language_text" title="Category:Articles containing Georgian-language text">Articles containing Georgian-language text</a></li><li><a href="/wiki/Category:Articles_with_Georgian-language_external_links" title="Category:Articles with Georgian-language external links">Articles with Georgian-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Georgian+Wikipedia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Georgian+Wikipedia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Georgian_Wikipedia" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Georgian_Wikipedia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Georgian_Wikipedia">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Georgian_Wikipedia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Georgian_Wikipedia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Georgian_Wikipedia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Georgian_Wikipedia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Georgian_Wikipedia&amp;oldid=781288440" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Georgian_Wikipedia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q848974" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Georgian_Wikipedia&amp;id=781288440" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Georgian+Wikipedia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Georgian+Wikipedia&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DGeorgian%2BWikipedia%26returnto%3DGeorgian%2BWikipedia%26oldid%3D781288440%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Georgian_Wikipedia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Georgian_Wikipedia" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Georgiese_Wikipedia" title="Georgiese Wikipedia – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D8%A7%D9%84%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A9" title="ويكيبيديا الجورجية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%9C%E0%A7%B0%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%AF%E0%A6%BC_%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="জৰ্জিয় ৱিকিপিডিয়া – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/G%C3%BCrc%C3%BCc%C9%99_Vikipediya" title="Gürcücə Vikipediya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%AF%E0%A6%BC_%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="জর্জিয় উইকিপিডিয়া – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D1%96%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%8B%D1%8F" title="Грузінская Вікіпедыя – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D1%96%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F" title="Грузінская Вікіпэдыя – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D0%B5%D0%B7%D0%B8%D0%BA" title="Уикипедия на грузински език – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9%C4%95" title="Грузин Википедийĕ – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Gruz%C3%ADnsk%C3%A1_Wikipedie" title="Gruzínská Wikipedie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikipedia_en_georgiano" title="Wikipedia en georgiano – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kartvellingva_Vikipedio" title="Kartvellingva Vikipedio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Georgierazko_Wikipedia" title="Georgierazko Wikipedia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7%DB%8C_%DA%AF%D8%B1%D8%AC%DB%8C" title="ویکی‌پدیای گرجی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia_en_g%C3%A9orgien" title="Wikipédia en géorgien – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%A7%80%EC%95%84%EC%96%B4_%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC" title="조지아어 위키백과 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D6%80%D5%A1%D6%81%D5%A5%D6%80%D5%A5%D5%B6_%D5%8E%D5%AB%D6%84%D5%AB%D5%BA%D5%A5%D5%A4%D5%AB%D5%A1" title="Վրացերեն Վիքիպեդիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%88_%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="जॉर्जियाई विकिपीडिया – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikipedia_bahasa_Georgia" title="Wikipedia bahasa Georgia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Wikipedia_in_georgiano" title="Wikipedia in georgiano – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90" title="ქართული ვიკიპედია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%88%D0%B5_%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Грузинше Уикипедия – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C_%D9%BE%D8%AF%DB%8C%D8%A7_%DA%AF%D9%88%D8%B1%D8%AC%DB%8C" title="ویکی پدیا گورجی – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li><li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A5%E1%83%9D%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90" title="ქორთული ვიკიპედია – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wikipedia_Bahasa_Georgia" title="Wikipedia Bahasa Georgia – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Georgische_Wikipedia" title="Georgische Wikipedia – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%93%D1%83%D1%8C%D1%80%D0%B6%D0%B8%D0%B9%D0%BD_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8" title="Гуьржийн Википеди – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Gruzincha_Vikipediya" title="Gruzincha Vikipediya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Gruzi%C5%84ska_Wikipedia" title="Gruzińska Wikipedia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia_em_georgiano" title="Wikipédia em georgiano – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Грузинская Википедия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Georgian_Wikipedia" title="Georgian Wikipedia – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D1%98%D1%81%D0%BA%D0%BE%D0%BC_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA%D1%83" title="Википедија на грузијском језику – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Gruzijska_Wikipedija" title="Gruzijska Wikipedija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Wikipedia:Georgiankielinen_Wikipedia" title="Wikipedia:Georgiankielinen Wikipedia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wikipediang_Heorhiyano" title="Wikipediang Heorhiyano – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%93%D3%A9%D1%80%D2%97%D0%B8_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D0%B5" title="Гөрҗи Википедиясе – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2" title="วิกิพีเดียภาษาจอร์เจีย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B0%D0%B8_%D0%93%D1%83%D1%80%D2%B7%D3%A3" title="Википедиаи Гурҷӣ – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BCce_Vikipedi" title="Gürcüce Vikipedi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F" title="Грузинська Вікіпедія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Wikipedia_ti%E1%BA%BFng_Gruzia" title="Wikipedia tiếng Gruzia – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%A0%BC%E9%AD%AF%E5%90%89%E4%BA%9E%E6%96%87%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" title="格魯吉亞文維基百科 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Wikipedia:%E6%A0%BC%E9%AD%AF%E5%90%89%E4%BA%9E%E8%AA%9E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" title="Wikipedia:格魯吉亞語維基百科 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q848974#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 20 May 2017, at 08:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Georgian_Wikipedia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.136","walltime":"0.194","ppvisitednodes":{"value":1004,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40341,"limit":2097152},"templateargumentsize":{"value":2817,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  145.251      1 -total"," 42.09%   61.133      1 Template:Infobox_website"," 38.12%   55.367      1 Template:Infobox"," 18.11%   26.302      1 Template:Commons_category"," 17.54%   25.478      1 Template:Lang-ka"," 17.04%   24.752      2 Template:Sister_project"," 16.64%   24.172      1 Template:Language_with_name"," 15.99%   23.227      1 Template:Commons"," 15.69%   22.791      1 Template:Lang"," 15.55%   22.583      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.043","limit":"10.000"},"limitreport-memusage":{"value":1671068,"limit":52428800}},"cachereport":{"origin":"mw1219","timestamp":"20170918104334","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1214"});});</script>
+	</body>
+</html>

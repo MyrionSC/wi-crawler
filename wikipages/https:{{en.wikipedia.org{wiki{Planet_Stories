@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Planet Stories - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Planet_Stories","wgTitle":"Planet Stories","wgCurRevisionId":802022182,"wgRevisionId":802022182,"wgArticleId":1162294,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Featured articles","Planet Stories","Pulp magazines","Science fiction magazines established in the 1930s","Defunct science fiction magazines of the United States","Magazines established in 1939","Magazines disestablished in 1955","1939 establishments in the United States","1955 establishments in the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Planet_Stories","wgRelevantArticleId":1162294,"wgRequestId":"WcZkRQpAIDQAAH1yy4EAAABS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7201176","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Planet_Stories"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Planet_Stories&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Planet_Stories&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Planet_Stories"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Planet_Stories rootpage-Planet_Stories skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-featured-star" class="mw-indicator"><a href="/wiki/Wikipedia:Featured_articles" title="This is a featured article. Click here for more information."><img alt="This is a featured article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png" width="20" height="19" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>Planet Stories</i></h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><i><b>Planet Stories</b></i> was an American <a href="/wiki/Pulp_magazine" title="Pulp magazine">pulp</a> <a href="/wiki/Science_fiction_magazine" title="Science fiction magazine">science fiction magazine</a>, published by <a href="/wiki/Fiction_House" title="Fiction House">Fiction House</a> between 1939 and 1955. It featured interplanetary adventures, both in space and on some <a href="/wiki/Exoplanet" title="Exoplanet">other planets</a>, and was initially focused on a young readership. Malcolm Reiss was editor or editor-in-chief for all of its 71 issues. <i>Planet Stories</i> was launched at the same time as <i><a href="/wiki/Planet_Comics" title="Planet Comics">Planet Comics</a></i>, the success of which probably helped to fund the early issues of <i>Planet Stories</i>. <i>Planet Stories</i> did not pay well enough to regularly attract the leading science fiction writers of the day, but did on occasion manage to obtain work from well-known authors, including <a href="/wiki/Isaac_Asimov" title="Isaac Asimov">Isaac Asimov</a> and <a href="/wiki/Clifford_D._Simak" title="Clifford D. Simak">Clifford D. Simak</a>. In 1952 <i>Planet Stories</i> published <a href="/wiki/Philip_K._Dick" title="Philip K. Dick">Philip K. Dick</a>'s first sale, and went on to print four more of his stories over the next three years.</p>
+<p>The two writers most identified with <i>Planet Stories</i> are <a href="/wiki/Leigh_Brackett" title="Leigh Brackett">Leigh Brackett</a> and <a href="/wiki/Ray_Bradbury" title="Ray Bradbury">Ray Bradbury</a>, both of whom set many of their stories on a romanticized <a href="/wiki/Mars_in_fiction" title="Mars in fiction">version of Mars</a> that owed much to the depiction of <a href="/wiki/Barsoom" title="Barsoom">Barsoom</a> in the works of <a href="/wiki/Edgar_Rice_Burroughs" title="Edgar Rice Burroughs">Edgar Rice Burroughs</a>. Bradbury's work for <i>Planet</i> included an early story in his <i><a href="/wiki/The_Martian_Chronicles" title="The Martian Chronicles">Martian Chronicles</a></i> sequence. Brackett's best-known work for the magazine was a series of adventures featuring Eric John Stark, which began in the summer of 1949. Brackett and Bradbury collaborated on one story, "Lorelei of the Red Mist", which appeared in 1946; it was generally well-received, although one letter to the magazine complained that the story's <a href="/wiki/Sex_and_sexuality_in_speculative_fiction" title="Sex and sexuality in speculative fiction">treatment of sex</a>, though mild by modern standards, was too explicit. The artwork also emphasized attractive women, with a scantily clad <a href="/wiki/Damsel_in_distress" title="Damsel in distress">damsel in distress</a> or <a href="/wiki/Extraterrestrials_in_fiction" title="Extraterrestrials in fiction">alien</a> princess on almost every cover.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Publication_history"><span class="tocnumber">1</span> <span class="toctext">Publication history</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Contents_and_reception"><span class="tocnumber">2</span> <span class="toctext">Contents and reception</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Bibliographic_details"><span class="tocnumber">3</span> <span class="toctext">Bibliographic details</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Related_publications"><span class="tocnumber">3.1</span> <span class="toctext">Related publications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Citations"><span class="tocnumber">6</span> <span class="toctext">Citations</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Publication_history">Publication history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Planet_Stories&amp;action=edit&amp;section=1" title="Edit section: Publication history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Planet_stories_1944spr.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Planet_stories_1944spr.jpg/200px-Planet_stories_1944spr.jpg" width="200" height="284" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Planet_stories_1944spr.jpg/300px-Planet_stories_1944spr.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b2/Planet_stories_1944spr.jpg 2x" data-file-width="390" data-file-height="553" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Planet_stories_1944spr.jpg" class="internal" title="Enlarge"></a></div>
+<i>Planet Stories</i> published <a href="/wiki/Graham_Ingels" title="Graham Ingels">Graham Ingels</a>'s only cover for a science fiction pulp in 1944.</div>
+</div>
+</div>
+<p>Although science fiction (sf) had been published before the 1920s, it did not begin to coalesce into a separately marketed genre until the appearance in 1926 of <i><a href="/wiki/Amazing_Stories" title="Amazing Stories">Amazing Stories</a></i>, a pulp magazine published by <a href="/wiki/Hugo_Gernsback" title="Hugo Gernsback">Hugo Gernsback</a>. By the end of the 1930s the field was undergoing its first boom.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Fiction House, a major pulp publisher, had run into difficulties during the <a href="/wiki/Great_Depression" title="Great Depression">Depression</a>, but after a relaunch in 1934 found success with <a href="/wiki/Detective_fiction" title="Detective fiction">detective</a> and romance pulp titles. Fiction House's first title with sf interest was <i><a href="/wiki/Jungle_Stories" class="mw-redirect" title="Jungle Stories">Jungle Stories</a></i>, which was launched in early 1939; it was not primarily a science fiction magazine, but often featured storylines with marginally science fictional themes, such as survivors from <a href="/wiki/Atlantis" title="Atlantis">Atlantis</a>. At the end of 1939, Fiction House decided to add an sf magazine to its lineup; it was titled <i>Planet Stories</i>, and was published by Love Romances, a subsidiary company that had been created to publish Fiction House's romance titles. The first issue was dated Winter 1939. Two comics were launched at the same time: <i><a href="/w/index.php?title=Jungle_Comics&amp;action=edit&amp;redlink=1" class="new" title="Jungle Comics (page does not exist)">Jungle Comics</a></i> and <i>Planet Comics</i>; both were published monthly, whereas <i>Planet Stories</i> was quarterly, and it is quite likely that the success of the comics funded the early issues of the pulps.<sup id="cite_ref-TTM_151-2_2-0" class="reference"><a href="#cite_note-TTM_151-2-2">[2]</a></sup></p>
+<p>Malcolm Reiss edited <i>Planet Stories</i> from the beginning, and retained editorial oversight and control throughout its run, though he was not always the named editor on the <a href="/wiki/Masthead_(publishing)" title="Masthead (publishing)">masthead</a>; when other editors were involved, his title was "managing editor".<sup id="cite_ref-ESF_937_3-0" class="reference"><a href="#cite_note-ESF_937-3">[3]</a></sup> The first of these sub-editors was Wilbur S. Peacock, who took over with the Fall 1942 issue and remained until Fall 1945, after which he was replaced by Chester Whitehorn for three issues, and then by Paul L. Payne, from Fall 1946 to Spring 1950.<sup id="cite_ref-ESF_937_3-1" class="reference"><a href="#cite_note-ESF_937-3">[3]</a></sup></p>
+<p>With the Summer 1950 issue the editorship passed to <a href="/wiki/Jerome_Bixby" title="Jerome Bixby">Jerome Bixby</a>, who was already editing <i>Jungle Stories</i>. Soon thereafter <i>Planet Stories</i> switched from a quarterly to bimonthly schedule. Bixby lasted a little over a year; Malcolm Reiss took over again in September 1951, and three issues later, in March 1952, Jack O'Sullivan became editor.<sup id="cite_ref-T_336_4-0" class="reference"><a href="#cite_note-T_336-4">[4]</a></sup> A contemporary market survey records that in 1953, payment rates were only one to two cents per word; this was substantially less than the leading magazines of the day.<sup id="cite_ref-SFH_102-3_5-0" class="reference"><a href="#cite_note-SFH_102-3-5">[5]</a></sup><sup id="cite_ref-SFH_114-4_6-0" class="reference"><a href="#cite_note-SFH_114-4-6">[6]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[notes 1]</a></sup> <i>Planet Stories</i> returned to a quarterly schedule beginning with the Summer 1954 issue, but the pulp market was collapsing, and the Summer 1955 issue was the final one.<sup id="cite_ref-T_336_4-1" class="reference"><a href="#cite_note-T_336-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Contents_and_reception">Contents and reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Planet_Stories&amp;action=edit&amp;section=2" title="Edit section: Contents and reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Planet_stories_Spring_1942_cover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Planet_stories_Spring_1942_cover.jpg/200px-Planet_stories_Spring_1942_cover.jpg" width="200" height="281" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Planet_stories_Spring_1942_cover.jpg/300px-Planet_stories_Spring_1942_cover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Planet_stories_Spring_1942_cover.jpg/400px-Planet_stories_Spring_1942_cover.jpg 2x" data-file-width="427" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Planet_stories_Spring_1942_cover.jpg" class="internal" title="Enlarge"></a></div>
+A characteristic <i>Planet Stories</i> cover, by Alexander Leydenfrost. <i>Planet Stories</i> was one of the magazines to make the "<a href="/wiki/Bug-eyed_monster" title="Bug-eyed monster">bug-eyed monster</a>", or "BEM", a staple of science fiction art.<sup id="cite_ref-Kyle_96_9-0" class="reference"><a href="#cite_note-Kyle_96-9">[8]</a></sup></div>
+</div>
+</div>
+<p>Fiction House apparently made the decision to launch <i>Planet Stories</i> so quickly that there was little time for Reiss to obtain new stories, so he worked with <a href="/wiki/Julius_Schwartz" title="Julius Schwartz">Julius Schwartz</a> and other authors' agents to fill the first issue. The results were unremarkable, but Reiss was energetic, and was able to improve the quality of fiction in succeeding issues, though he occasionally apologized to the readers for printing weak material.<sup id="cite_ref-TTM_151-2_2-1" class="reference"><a href="#cite_note-TTM_151-2-2">[2]</a></sup> The magazine was exclusively focused on interplanetary adventures,<sup id="cite_ref-ESF_937_3-2" class="reference"><a href="#cite_note-ESF_937-3">[3]</a></sup> often taking place in primitive societies that would now be regarded as "<a href="/wiki/Sword_and_sorcery" title="Sword and sorcery">sword and sorcery</a>" settings,<sup id="cite_ref-Clareson_10-0" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> and was aimed at a young readership; the result was a mixture of what became known as <a href="/wiki/Space_opera" title="Space opera">space opera</a> and <a href="/wiki/Planetary_romance" title="Planetary romance">planetary romances</a>—<a href="/wiki/Melodrama" title="Melodrama">melodramatic</a> tales of action and adventure on alien planets and in interplanetary space.<sup id="cite_ref-TTM_151-2_2-2" class="reference"><a href="#cite_note-TTM_151-2-2">[2]</a></sup><sup id="cite_ref-ESF_937_3-3" class="reference"><a href="#cite_note-ESF_937-3">[3]</a></sup> <i>Planet Stories</i> relied on a few authors to provide the bulk of its fiction in the early years, with <a href="/wiki/Nelson_S._Bond" title="Nelson S. Bond">Nelson Bond</a> providing eight lead stories, some of them novels. Fourteen more were written by <a href="/wiki/Ray_Cummings" title="Ray Cummings">Ray Cummings</a> and <a href="/wiki/Ross_Rocklynne" title="Ross Rocklynne">Ross Rocklynne</a>; and <a href="/wiki/Leigh_Brackett" title="Leigh Brackett">Leigh Brackett</a> was also a regular contributor, with seventeen stories in total published over the lifetime of the magazine.<sup id="cite_ref-Clareson_10-1" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup></p>
+<p>The letter column in <i>Planet Stories</i> was titled "The Vizigraph"; it was very active, with long letters from an engaged readership. It often printed letters from established writers, and from fans who would go on to become well known professionally: <a href="/wiki/Damon_Knight" title="Damon Knight">Damon Knight</a>'s letters are described by sf historian <a href="/wiki/Mike_Ashley_(writer)" title="Mike Ashley (writer)">Mike Ashley</a> as "legendary"; and <a href="/wiki/Robert_Silverberg" title="Robert Silverberg">Robert Silverberg</a> commented in a letter in the Summer 1950 issue that Ray Bradbury "certainly gets some original ideas, if not good ones".<sup id="cite_ref-Clareson_10-2" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup><sup id="cite_ref-T_47_11-0" class="reference"><a href="#cite_note-T_47-11">[10]</a></sup> The editors put a good deal of effort into keeping the letter column friendly and lively; contemporary writer and editor <a href="/wiki/Robert_A._W._Lowndes" title="Robert A. W. Lowndes">Robert Lowndes</a> recalls that "Reiss was sincere and urbane; Wilbur [Peacock] enjoyed taking his coat off and being one of the crowd".<sup id="cite_ref-HSFM2_58_12-0" class="reference"><a href="#cite_note-HSFM2_58-12">[11]</a></sup></p>
+<p>Despite the focus on melodramatic space adventure, the fiction in <i>Planet Stories</i> improved over the next few years, largely due to the work of Brackett and Bradbury. Both writers set many of their stories on a romanticized version of <a href="/wiki/Mars" title="Mars">Mars</a> that owed much to the <a href="/wiki/Barsoom" title="Barsoom">Barsoom</a> of <a href="/wiki/Edgar_Rice_Burroughs" title="Edgar Rice Burroughs">Edgar Rice Burroughs</a>. Brackett's writing improved during the 1940s from formulaic pulp adventure to a more mature style, and she became the most accomplished writer of planetary romances of her day.<sup id="cite_ref-TTM_193-4_13-0" class="reference"><a href="#cite_note-TTM_193-4-13">[12]</a></sup> She wrote a well-received series of stories featuring adventurer <a href="/wiki/Eric_John_Stark" title="Eric John Stark">Eric John Stark</a>, which began in the Summer 1949 <i>Planet Stories</i> with "Queen of the Martian Catacombs".<sup id="cite_ref-Clareson_10-3" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> Her work had a strong influence on other writers, in particular <a href="/wiki/Gardner_Fox" title="Gardner Fox">Gardner F. Fox</a>, <a href="/wiki/Lin_Carter" title="Lin Carter">Lin Carter</a> and <a href="/wiki/Marion_Zimmer_Bradley" title="Marion Zimmer Bradley">Marion Zimmer Bradley</a>,<sup id="cite_ref-TTM_193-4_13-1" class="reference"><a href="#cite_note-TTM_193-4-13">[12]</a></sup> Brackett later argued that "the so-called space opera is the folk-tale, the hero-tale of our particular niche in history".<sup id="cite_ref-Clareson_10-4" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> Also arguing in support of <i>Planet Stories</i>, science fiction critic <a href="/wiki/John_Clute" title="John Clute">John Clute</a> has commented that "the content was far more sophisticated than the covers".<sup id="cite_ref-Clute_101_14-0" class="reference"><a href="#cite_note-Clute_101-14">[13]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Planet_Stories_1946_Summer_Leydenfrost_illustration.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Planet_Stories_1946_Summer_Leydenfrost_illustration.jpg/220px-Planet_Stories_1946_Summer_Leydenfrost_illustration.jpg" width="220" height="276" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Planet_Stories_1946_Summer_Leydenfrost_illustration.jpg/330px-Planet_Stories_1946_Summer_Leydenfrost_illustration.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Planet_Stories_1946_Summer_Leydenfrost_illustration.jpg/440px-Planet_Stories_1946_Summer_Leydenfrost_illustration.jpg 2x" data-file-width="1032" data-file-height="1295" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Planet_Stories_1946_Summer_Leydenfrost_illustration.jpg" class="internal" title="Enlarge"></a></div>
+Interior illustration by Alexander Leydenfrost for Bradbury's "The Million Year Picnic"</div>
+</div>
+</div>
+<p>Bradbury's work for <i>Planet Stories</i> included two of the stories that he later incorporated into <i><a href="/wiki/The_Martian_Chronicles" title="The Martian Chronicles">The Martian Chronicles</a></i>, including "The Million Year Picnic"; only one other story in the series had appeared before this.<sup id="cite_ref-TTM_193-4_13-2" class="reference"><a href="#cite_note-TTM_193-4-13">[12]</a></sup><sup id="cite_ref-dF_15-0" class="reference"><a href="#cite_note-dF-15">[14]</a></sup> He also collaborated on a story with Brackett, "Lorelei of the Red Mist", based on an idea of hers, which appeared in the Summer of 1946.<sup id="cite_ref-Clareson_10-5" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup><sup id="cite_ref-TTM_193-4_13-3" class="reference"><a href="#cite_note-TTM_193-4-13">[12]</a></sup> His stories for <i>Planet</i> demonstrate his reservations about the advance of technology, in particular "The Golden Apples of the Sun" (November 1953), and "A Sound of Thunder" (January 1954, reprinted from the June 28, 1952 issue of <i><a href="/wiki/Collier%27s_Weekly" class="mw-redirect" title="Collier's Weekly">Collier's Weekly</a></i>).<sup id="cite_ref-Clareson_10-6" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[notes 2]</a></sup> Bradbury's work in <i>Planet Stories</i> is regarded by one pulp historian, Tim de Forest, as "the magazine's most important contribution to the genre".<sup id="cite_ref-dF_15-1" class="reference"><a href="#cite_note-dF-15">[14]</a></sup></p>
+<p>Several other well-known writers appeared in <i>Planet Stories</i>, including <a href="/wiki/Isaac_Asimov" title="Isaac Asimov">Isaac Asimov</a>, <a href="/wiki/Clifford_D._Simak" title="Clifford D. Simak">Clifford Simak</a>, <a href="/wiki/James_Blish" title="James Blish">James Blish</a>, <a href="/wiki/Fredric_Brown" title="Fredric Brown">Fredric Brown</a> and Damon Knight.<sup id="cite_ref-TTM_193-4_13-4" class="reference"><a href="#cite_note-TTM_193-4-13">[12]</a></sup> Asimov's story, originally titled "Pilgrimage", appeared in 1942; Asimov had been unable to sell the piece elsewhere, and rewrote it numerous times for different editors, adding a religious element at <a href="/wiki/John_W._Campbell" title="John W. Campbell">John Campbell</a>'s request, and removing it again when Malcolm Reiss asked for further changes. Reiss bought it but changed the name to "Black Friar of the Flame".<sup id="cite_ref-IMYG_17-0" class="reference"><a href="#cite_note-IMYG-17">[15]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[notes 3]</a></sup></p>
+<p>Jerome Bixby, who took over as editor in 1950, was a published writer and was knowledgeable about sf, though he had primarily written <a href="/wiki/Western_fiction" title="Western fiction">western fiction</a>. In his short tenure he did much to improve the magazine, persuading the established writers to produce better material and finding unusual variations on the interplanetary adventure theme such as <a href="/wiki/Poul_Anderson" title="Poul Anderson">Poul Anderson</a>'s "Duel on Syrtis" in March 1951, about an Earthman tracking an alien on Mars, and <a href="/wiki/Theodore_Sturgeon" title="Theodore Sturgeon">Theodore Sturgeon</a>'s "The Incubi on Planet X", about aliens who kidnap Earth women.<sup id="cite_ref-T_11-12_19-0" class="reference"><a href="#cite_note-T_11-12-19">[16]</a></sup> After Bixby's departure in 1952, <i>Planet Stories</i><span class="nowrap" style="padding-left:0.1em;">'</span> major contribution to the genre was the discovery of <a href="/wiki/Philip_K._Dick" title="Philip K. Dick">Philip K. Dick</a>, whose first sale, "<a href="/wiki/Beyond_Lies_the_Wub" title="Beyond Lies the Wub">Beyond Lies the Wub</a>", appeared in the July 1952 issue. Dick went on to sell another four stories to <i>Planet Stories</i> over the next two years, including "James P. Crow", in which a human suffers discrimination in a world of robots.<sup id="cite_ref-Clareson_10-8" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Planet_Stories_November_1953_cover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Planet_Stories_November_1953_cover.jpg/200px-Planet_Stories_November_1953_cover.jpg" width="200" height="289" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Planet_Stories_November_1953_cover.jpg/300px-Planet_Stories_November_1953_cover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Planet_Stories_November_1953_cover.jpg/400px-Planet_Stories_November_1953_cover.jpg 2x" data-file-width="447" data-file-height="646" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Planet_Stories_November_1953_cover.jpg" class="internal" title="Enlarge"></a></div>
+The November 1953 <i>Planet Stories</i>, by Kelly Freas, showing the "<a href="/wiki/Sexual_dimorphism" title="Sexual dimorphism">sexual dimorphism</a>" mentioned by Harry Harrison, and also showing the new cover logo that was adopted from the Spring 1947 issue</div>
+</div>
+</div>
+<p><i>Planet Stories</i> clearly targeted a young readership, and the simultaneous launch in 1939 of <i>Planet Comics</i> may have been instrumental in attracting young readers to science fiction, but Ashley suggests that it is more likely that <i>Planet Stories</i> attracted experienced readers of the genre who "still yearned for the early days of sf".<sup id="cite_ref-TTM_151-2_2-3" class="reference"><a href="#cite_note-TTM_151-2-2">[2]</a></sup> Critic and sf historian Thomas Clareson has commented that "<i>Planet</i> seemed to look backward towards the 1930s and earlier", an impression that was strengthened by the extensive use of interior artwork by <a href="/wiki/Frank_R._Paul" title="Frank R. Paul">Frank Paul</a>, who had been the cover artist for the early Gernsback magazines in the 1920s. Paul's distinctive style was strongly associated with the early years of the field.<sup id="cite_ref-Clareson_10-9" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> The cover art was also melodramatic, with beautiful women—sometimes human, sometimes princesses from other planets—and threatening aliens. The subheading on the cover read "Strange Adventures on Other Worlds – The Universe of Future Centuries" until the end of 1946.<sup id="cite_ref-Clareson_10-10" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup><sup id="cite_ref-issues_20-0" class="reference"><a href="#cite_note-issues-20">[17]</a></sup></p>
+<p>Although almost every story that appeared in <i>Planet</i> could be described as space opera, there was some variety of approach to the basic themes. Earth was sometimes threatened, but more often the action took place on other worlds, bringing Earthmen into local conflicts. This often involved beautiful native princesses, though the romantic storylines were stereotyped: in one story which appeared in Fall 1940, Carl Selwyn's "Venus Has Green Eyes", the Venusian princess is dissuaded from her hatred of humans when the hero seizes her and kisses her; she slaps him, but succumbs to his charm.<sup id="cite_ref-Clareson_10-11" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> Some respite from these depictions of women was provided by Leigh Brackett, who described her own heroines as "usually on the bitchy side—warm-blooded, hot-tempered, but gutty and intelligent" (with "bitchy" intended as a compliment).<sup id="cite_ref-Carter_186_21-0" class="reference"><a href="#cite_note-Carter_186-21">[18]</a></sup> During <a href="/wiki/World_War_II" title="World War II">World War II</a>, it was in <i>Planet Stories</i> that a reader was most likely to come across a female character who could fight, instead of merely being fought over.<sup id="cite_ref-Carter_189_22-0" class="reference"><a href="#cite_note-Carter_189-22">[19]</a></sup> Sex itself had long been taboo in the pulp magazines, but some stories in <i>Planet</i> depicted sexuality more directly than the competing magazines would.<sup id="cite_ref-Clareson_10-12" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> The readers were not always accepting; one reader in a letter in 1949 supported "jettisoning the taboos",<sup id="cite_ref-Carter_192_23-0" class="reference"><a href="#cite_note-Carter_192-23">[20]</a></sup> but a letter writer in 1946 objected to "Lorelei of the Red Mist", saying that he needed "a pint of <a href="/wiki/Listerine" title="Listerine">Listerine</a> to wash the dirty taste out of my mouth".<sup id="cite_ref-Clareson_10-13" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> The cover artwork generally emphasized sex as well, with what sf author and critic <a href="/wiki/Harry_Harrison_(writer)" title="Harry Harrison (writer)">Harry Harrison</a> sardonically referred to as "sexual dimorphism in space": heavy, functional spacesuits for the men, and transparent suits through which <a href="/wiki/Bikini" title="Bikini">bikinis</a> or swimsuits could be seen for the women.<sup id="cite_ref-Harrison_24-0" class="reference"><a href="#cite_note-Harrison-24">[21]</a></sup></p>
+<p><a href="/wiki/Hannes_Bok" title="Hannes Bok">Hannes Bok</a> contributed much of the interior artwork, and the covers were often by Allen Anderson during the early years. Later, <a href="/wiki/Frank_Kelly_Freas" title="Frank Kelly Freas">Kelly Freas</a> became a frequent cover artist. One of the best artists to work on <i>Planet</i> was <a href="/wiki/Alexander_Leydenfrost" title="Alexander Leydenfrost">Alexander Leydenfrost</a>, whose work, according to Clareson, "epitomized much of what <i>Planet Stories</i> represented in the 1940s",<sup id="cite_ref-ESF_937_3-4" class="reference"><a href="#cite_note-ESF_937-3">[3]</a></sup><sup id="cite_ref-Clareson_10-14" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> though his cover artwork was less impressive than his black-and-white interior illustrations.<sup id="cite_ref-ESF_718_25-0" class="reference"><a href="#cite_note-ESF_718-25">[22]</a></sup> Artist and sf historian <a href="/wiki/David_A._Hardy" title="David A. Hardy">David Hardy</a> has described Leydenfrost's black and white illustrations as "almost <a href="/wiki/Rembrandt" title="Rembrandt">Rembrandtian</a> in his use of light and shade".<sup id="cite_ref-Hardy_26-0" class="reference"><a href="#cite_note-Hardy-26">[23]</a></sup></p>
+<h2><span class="mw-headline" id="Bibliographic_details">Bibliographic details</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Planet_Stories&amp;action=edit&amp;section=3" title="Edit section: Bibliographic details">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="font-size: 10pt; line-height: 11pt; margin-left: 2em; text-align: center; float: right">
+<tr>
+<th></th>
+<th></th>
+<th colspan="3">Spring</th>
+<th colspan="3">Summer</th>
+<th colspan="3">Fall</th>
+<th colspan="2">Winter</th>
+</tr>
+<tr>
+<th></th>
+<th>Jan</th>
+<th>Feb</th>
+<th>Mar</th>
+<th>Apr</th>
+<th>May</th>
+<th>Jun</th>
+<th>Jul</th>
+<th>Aug</th>
+<th>Sep</th>
+<th>Oct</th>
+<th>Nov</th>
+<th>Dec</th>
+</tr>
+<tr>
+<th>1939</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCFFFF"><u>1/1</u></td>
+</tr>
+<tr>
+<th>1940</th>
+<td></td>
+<td></td>
+<td bgcolor="#CCFFFF"><u>1/2</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCFFFF"><u>1/3</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCFFFF"><u>1/4</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCFFFF"><u>2/1</u></td>
+</tr>
+<tr>
+<th>1941</th>
+<td></td>
+<td></td>
+<td bgcolor="#CCFFFF"><u>1/6</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCFFFF"><u>1/7</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCFFFF"><u>1/8</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCFFFF"><u>1/9</u></td>
+</tr>
+<tr>
+<th>1942</th>
+<td></td>
+<td></td>
+<td bgcolor="#CCFFFF"><u>1/10</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCFFFF"><u>1/11</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0"><u>1/12</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0"><u>2/1</u></td>
+</tr>
+<tr>
+<th>1943</th>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0">2/2</td>
+<td></td>
+<td bgcolor="#CCC0D0">2/3</td>
+<td></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0"><u>2/4</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0"><u>2/5</u></td>
+</tr>
+<tr>
+<th>1944</th>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0"><u>2/6</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0"><u>2/7</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0"><u>2/8</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0"><u>2/9</u></td>
+</tr>
+<tr>
+<th>1945</th>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0"><u>2/10</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0"><u>2/11</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#CCC0D0"><u>2/12</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#C2D69A"><u>3/1</u></td>
+</tr>
+<tr>
+<th>1946</th>
+<td></td>
+<td></td>
+<td bgcolor="#C2D69A"><u>3/2</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#C2D69A"><u>3/3</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>3/4</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>3/5</u></td>
+</tr>
+<tr>
+<th>1947</th>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>3/6</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>3/7</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>3/8</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>3/9</u></td>
+</tr>
+<tr>
+<th>1948</th>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>3/10</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>3/11</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>3/12</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>4/1</u></td>
+</tr>
+<tr>
+<th>1949</th>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>4/2</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>4/3</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>4/4</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>4/5</u></td>
+</tr>
+<tr>
+<th>1950</th>
+<td></td>
+<td></td>
+<td bgcolor="#FAC090"><u>4/6</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#E6B9B8"><u>4/7</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#E6B9B8"><u>4/8</u></td>
+<td></td>
+<td bgcolor="#E6B9B8">4/9</td>
+<td></td>
+</tr>
+<tr>
+<th>1951</th>
+<td bgcolor="#E6B9B8">4/10</td>
+<td></td>
+<td bgcolor="#E6B9B8">4/11</td>
+<td></td>
+<td bgcolor="#E6B9B8">4/12</td>
+<td></td>
+<td bgcolor="#E6B9B8">5/1</td>
+<td></td>
+<td bgcolor="#CCFFFF">5/2</td>
+<td></td>
+<td bgcolor="#CCFFFF">5/3</td>
+<td></td>
+</tr>
+<tr>
+<th>1952</th>
+<td bgcolor="#CCFFFF">5/4</td>
+<td></td>
+<td bgcolor="#FFFF99">5/5</td>
+<td></td>
+<td bgcolor="#FFFF99">5/6</td>
+<td></td>
+<td bgcolor="#FFFF99">5/7</td>
+<td></td>
+<td bgcolor="#FFFF99">5/8</td>
+<td></td>
+<td bgcolor="#FFFF99">5/9</td>
+<td></td>
+</tr>
+<tr>
+<th>1953</th>
+<td bgcolor="#FFFF99">5/10</td>
+<td></td>
+<td bgcolor="#FFFF99">5/11</td>
+<td></td>
+<td bgcolor="#FFFF99">5/12</td>
+<td></td>
+<td bgcolor="#FFFF99">6/1</td>
+<td></td>
+<td bgcolor="#FFFF99">6/2</td>
+<td></td>
+<td bgcolor="#FFFF99">6/3</td>
+<td></td>
+</tr>
+<tr>
+<th>1954</th>
+<td bgcolor="#FFFF99">6/4</td>
+<td></td>
+<td bgcolor="#FFFF99">6/5</td>
+<td></td>
+<td bgcolor="#FFFF99">6/6</td>
+<td></td>
+<td bgcolor="#FFFF99"><u>6/7</u></td>
+<td></td>
+<td bgcolor="#FFFF99"><u>6/8</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FFFF99"><u>6/9</u></td>
+</tr>
+<tr>
+<th>1955</th>
+<td></td>
+<td></td>
+<td bgcolor="#FFFF99"><u>6/10</u></td>
+<td></td>
+<td></td>
+<td bgcolor="#FFFF99"><u>6/11</u></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13" style="font-size: 8pt; text-align:left">Issues of <i>Planet Stories</i>, showing volume/issue number. Underlining indicates that<br />
+an issue was titled as a quarterly (e.g. "Fall 1949") rather than as a monthly. The<br />
+colors identify the editors for each issue:<sup id="cite_ref-T_336_4-2" class="reference"><a href="#cite_note-T_336-4">[4]</a></sup><sup id="cite_ref-Clareson_10-15" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup><sup id="cite_ref-TTM_247_27-0" class="reference"><a href="#cite_note-TTM_247-27">[24]</a></sup><br />
+<p><span style="margin:0px; font-size:90%;"><span style="border:none; background-color:#CCFFFF; color:#CCFFFF;">&#160;&#160;&#160;&#160;</span>&#160;Malcolm Reiss</span> <span style="margin:0px; font-size:90%;"><span style="border:none; background-color:#CCC0DA; color:#CCC0DA;">&#160;&#160;&#160;&#160;</span>&#160;Wilbur S. Peacock</span> <span style="margin:0px; font-size:90%;"><span style="border:none; background-color:#C2D69A; color:#C2D69A;">&#160;&#160;&#160;&#160;</span>&#160;Chester Whitehorn</span> <span style="margin:0px; font-size:90%;"><span style="border:none; background-color:#FAC090; color:#FAC090;">&#160;&#160;&#160;&#160;</span>&#160;Paul L. Payne</span><br />
+<span style="margin:0px; font-size:90%;"><span style="border:none; background-color:#E6B9B8; color:#E6B9B8;">&#160;&#160;&#160;&#160;</span>&#160;Jerome Bixby</span> <span style="margin:0px; font-size:90%;"><span style="border:none; background-color:#FFFF99; color:#FFFF99;">&#160;&#160;&#160;&#160;</span>&#160; Jack O'Sullivan</span></p>
+</td>
+</tr>
+</table>
+<p>The editorial succession at <i>Planet</i> was:<sup id="cite_ref-T_336_4-3" class="reference"><a href="#cite_note-T_336-4">[4]</a></sup><sup id="cite_ref-Clareson_10-16" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup><sup id="cite_ref-TTM_247_27-1" class="reference"><a href="#cite_note-TTM_247-27">[24]</a></sup></p>
+<ul>
+<li>Malcolm Reiss: Winter 1939 – Summer 1942.</li>
+<li>Wilbur S. Peacock: Fall 1942 – Fall 1945.</li>
+<li>Chester Whitehorn: Winter 1945 – Summer 1946.</li>
+<li>Paul L. Payne: Fall 1946 – Spring 1950.</li>
+<li>Jerome Bixby: Summer 1950 – July 1951.</li>
+<li>Malcolm Reiss: September 1951 – January 1952.</li>
+<li>Jack O'Sullivan: March 1952 – Summer 1955.</li>
+</ul>
+<p><i>Planet Stories</i> was a <a href="/wiki/Pulp_magazine" title="Pulp magazine">pulp-sized</a> magazine for all of its 71 issues. It was 128 pages for most of its existence, and was priced at 20 cents. With the November 1950 issue the page count was cut to 112, and the price went up to 25 cents. The page count was reduced to 96 for one issue in March 1952, but then returned to 112 until Summer 1954, when it was again reduced to 96 pages for the last five issues.<sup id="cite_ref-Clareson_10-17" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup></p>
+<p><i>Planet</i> began as a quarterly. A brief attempt was made to switch to a bimonthly schedule in 1943; a March and May issue appeared, but the next issue was titled Fall 1943, inaugurating another quarterly period. The Fall 1950 issue was followed by November 1950, and this began a bimonthly period that lasted until May 1954, which was followed by a Summer 1954 issue. A quarterly schedule resumed until the end; unusually, the winter issue that year was dated Winter 1954/55, rather than with a single year.<sup id="cite_ref-Clareson_10-18" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> The volume numbering was consistent throughout the magazine's publication, with five volumes of 12 issues and a final volume of 11, but there were three errors in the volume numbering printed on the spine (though not on the masthead): issue 5/10 was given as 5/8 on the spine; issue 5/11 was given as 6/3 on the spine; and issue 6/11 was given as 6/12 on the spine.<sup id="cite_ref-Tuck_28-0" class="reference"><a href="#cite_note-Tuck-28">[25]</a></sup></p>
+<p>A British reprint edition appeared between March 1950 and September 1954; the issues were numbered but not dated, and were heavily cut, with only 64 to 68 pages.<sup id="cite_ref-Tuck_28-1" class="reference"><a href="#cite_note-Tuck-28">[25]</a></sup> There are twelve issues known; a thirteenth has been rumored but not seen by any sf <a href="/wiki/Bibliography" title="Bibliography">bibliographers</a>.<sup id="cite_ref-Clareson_10-19" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> The publisher was <a href="/w/index.php?title=Pembertons&amp;action=edit&amp;redlink=1" class="new" title="Pembertons (page does not exist)">Pembertons</a>, though some sources indicate that <a href="/wiki/Streamline_Publications" class="mw-redirect" title="Streamline Publications">Streamline Publications</a> was the publisher of the first issue.<sup id="cite_ref-ESF_937_3-5" class="reference"><a href="#cite_note-ESF_937-3">[3]</a></sup><sup id="cite_ref-Clareson_10-20" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup><sup id="cite_ref-Tuck_28-2" class="reference"><a href="#cite_note-Tuck-28">[25]</a></sup> Issues 7 and 8 of the British edition also contained nonfiction material reprinted from <i><a href="/wiki/Startling_Stories" title="Startling Stories">Startling Stories</a></i> and <i><a href="/wiki/Wonder_Stories" title="Wonder Stories">Thrilling Wonder</a></i>.<sup id="cite_ref-Clareson_10-21" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> A Canadian edition was published by <a href="/wiki/American_News_Co." class="mw-redirect" title="American News Co.">American News Co.</a>, from Fall 1948 to March 1951 (a total of twelve issues); these were identical to the corresponding U.S. editions.<sup id="cite_ref-Tuck_28-3" class="reference"><a href="#cite_note-Tuck-28">[25]</a></sup></p>
+<h3><span class="mw-headline" id="Related_publications">Related publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Planet_Stories&amp;action=edit&amp;section=4" title="Edit section: Related publications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the summer of 1950 Fiction House launched a companion magazine to <i>Planet</i>. It was titled <i><a href="/wiki/Two_Complete_Science-Adventure_Books" title="Two Complete Science-Adventure Books">Two Complete Science-Adventure Books</a></i>; the policy was to print two novels in a single magazine. It appeared three times a year and lasted until the spring of 1954.<sup id="cite_ref-TTM_193-4_13-5" class="reference"><a href="#cite_note-TTM_193-4-13">[12]</a></sup><sup id="cite_ref-T_351_29-0" class="reference"><a href="#cite_note-T_351-29">[26]</a></sup> In 1953 Fiction House launched a reprint magazine, <i><a href="/wiki/Tops_in_Science_Fiction" title="Tops in Science Fiction">Tops in Science Fiction</a></i>, selecting the contents from the backfile of stories that had appeared in <i>Planet</i>. It only lasted for two issues, the second of which received almost no distribution.<sup id="cite_ref-TTM_224_30-0" class="reference"><a href="#cite_note-TTM_224-30">[27]</a></sup><sup id="cite_ref-T_45_31-0" class="reference"><a href="#cite_note-T_45-31">[28]</a></sup></p>
+<p>A derivative anthology, <i>The Best of Planet Stories</i> #1, appeared in 1975 from Ballantine Books, edited by Leigh Brackett, containing seven stories reprinted from between 1942 and 1952.<sup id="cite_ref-Clareson_10-22" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup> It was intended to be the first of a series, but no further volumes appeared.<sup id="cite_ref-ESF_937_3-6" class="reference"><a href="#cite_note-ESF_937-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Planet_Stories&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Sf-userbox.png" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Sf-userbox.png/28px-Sf-userbox.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Sf-userbox.png/42px-Sf-userbox.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Sf-userbox.png/56px-Sf-userbox.png 2x" data-file-width="100" data-file-height="100" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Science_fiction" class="mw-redirect" title="Portal:Science fiction">Science fiction portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/History_of_science_fiction" title="History of science fiction">History of science fiction</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Planet_Stories&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">In 1944 the rates were one to one-and-a-half cents per word.<sup id="cite_ref-WD_7-0" class="reference"><a href="#cite_note-WD-7">[7]</a></sup></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">According to Thomas Clareson, this "seems to be the one reprint <i>Planet Stories</i> used".<sup id="cite_ref-Clareson_10-7" class="reference"><a href="#cite_note-Clareson-10">[9]</a></sup></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">The story has often been regarded as Asimov's worst, though Asimov himself felt that this was partly due to the weak title, and that one or two of his earlier stories were weaker.<sup id="cite_ref-IMYG_17-1" class="reference"><a href="#cite_note-IMYG-17">[15]</a></sup></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Planet_Stories&amp;action=edit&amp;section=7" title="Edit section: Citations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Malcolm Edwards &amp; Peter Nicholls, "SF Magazines", in Clute &amp; Nicholls, <i>Encyclopedia of Science Fiction</i>, pp.&#160;1066–1068.</span></li>
+<li id="cite_note-TTM_151-2-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-TTM_151-2_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TTM_151-2_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TTM_151-2_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-TTM_151-2_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Ashley, <i>Time Machines</i>, pp.&#160;151–152.</span></li>
+<li id="cite_note-ESF_937-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-ESF_937_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ESF_937_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ESF_937_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ESF_937_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ESF_937_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ESF_937_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-ESF_937_3-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text">Malcolm Edwards, "Planet Stories", in Clute &amp; Nicholls, <i>Encyclopedia of Science Fiction</i>, p.&#160;937.</span></li>
+<li id="cite_note-T_336-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-T_336_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-T_336_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-T_336_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-T_336_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Ashley, <i>Transformations</i>, p.&#160;336.</span></li>
+<li id="cite_note-SFH_102-3-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-SFH_102-3_5-0">^</a></b></span> <span class="reference-text">de Camp, <i>Science-Fiction Handbook</i>, pp.&#160;102–103.</span></li>
+<li id="cite_note-SFH_114-4-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-SFH_114-4_6-0">^</a></b></span> <span class="reference-text">de Camp, <i>Science-Fiction Handbook</i>, pp.&#160;114–115.</span></li>
+<li id="cite_note-WD-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-WD_7-0">^</a></b></span> <span class="reference-text">Brackett, "The Science-fiction Field", p.&#160;27.</span></li>
+<li id="cite_note-Kyle_96-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kyle_96_9-0">^</a></b></span> <span class="reference-text">Kyle, <i>Pictorial History</i>, p.&#160;96.</span></li>
+<li id="cite_note-Clareson-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Clareson_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Clareson_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Clareson_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Clareson_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Clareson_10-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Clareson_10-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Clareson_10-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Clareson_10-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Clareson_10-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Clareson_10-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Clareson_10-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Clareson_10-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Clareson_10-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-Clareson_10-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-Clareson_10-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-Clareson_10-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-Clareson_10-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-Clareson_10-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-Clareson_10-18"><sup><i><b>s</b></i></sup></a> <a href="#cite_ref-Clareson_10-19"><sup><i><b>t</b></i></sup></a> <a href="#cite_ref-Clareson_10-20"><sup><i><b>u</b></i></sup></a> <a href="#cite_ref-Clareson_10-21"><sup><i><b>v</b></i></sup></a> <a href="#cite_ref-Clareson_10-22"><sup><i><b>w</b></i></sup></a></span> <span class="reference-text">Thomas D. Clareson, "Planet Stories", in Tymn &amp; Ashley, <i>Science Fiction, Fantasy and Weird Fiction Magazines</i>, pp.&#160;476–481.</span></li>
+<li id="cite_note-T_47-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-T_47_11-0">^</a></b></span> <span class="reference-text">Ashley, <i>Transformations</i>, p.&#160;47.</span></li>
+<li id="cite_note-HSFM2_58-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-HSFM2_58_12-0">^</a></b></span> <span class="reference-text">Ashley, <i>History of the Science Fiction Magazine, Vol. 2</i>, p.&#160;58.</span></li>
+<li id="cite_note-TTM_193-4-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-TTM_193-4_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TTM_193-4_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TTM_193-4_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-TTM_193-4_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-TTM_193-4_13-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-TTM_193-4_13-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Ashley, <i>Time Machines</i>, pp.&#160;193–194.</span></li>
+<li id="cite_note-Clute_101-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Clute_101_14-0">^</a></b></span> <span class="reference-text">Clute, <i>Science Fiction: The Illustrated Encyclopedia</i>, p.&#160;101.</span></li>
+<li id="cite_note-dF-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-dF_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dF_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">de Forest, <i>Storytelling in the Pulps, Comics and Radio</i>, p.&#160;76.</span></li>
+<li id="cite_note-IMYG-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-IMYG_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IMYG_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Asimov, <i>In Memory Yet Green</i>, pp.&#160;313, 326.</span></li>
+<li id="cite_note-T_11-12-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-T_11-12_19-0">^</a></b></span> <span class="reference-text">Ashley, <i>Transformations</i>, pp.&#160;11–12.</span></li>
+<li id="cite_note-issues-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-issues_20-0">^</a></b></span> <span class="reference-text">See the individual issues. For convenience, an online index is available at <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.isfdb.org/wiki/index.php/Magazine:Planet_Stories">"Magazine:Planet Stories&#160;— ISFDB"</a>. Al von Ruff (Publisher). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110828142713/http://www.isfdb.org/wiki/index.php/Magazine%3APlanet_Stories">Archived</a> from the original on 28 August 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">22 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.btitle=Magazine%3APlanet+Stories+%E2%80%94+ISFDB&amp;rft.genre=unknown&amp;rft.pub=Al+von+Ruff+%28Publisher%29&amp;rft_id=http%3A%2F%2Fwww.isfdb.org%2Fwiki%2Findex.php%2FMagazine%3APlanet_Stories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Carter_186-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Carter_186_21-0">^</a></b></span> <span class="reference-text">Carter, <i>Creation of Tomorrow</i>, p.&#160;186.</span></li>
+<li id="cite_note-Carter_189-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Carter_189_22-0">^</a></b></span> <span class="reference-text">Carter, <i>Creation of Tomorrow</i>, p.&#160;189.</span></li>
+<li id="cite_note-Carter_192-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Carter_192_23-0">^</a></b></span> <span class="reference-text">Carter, <i>Creation of Tomorrow</i>, p.&#160;192.</span></li>
+<li id="cite_note-Harrison-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Harrison_24-0">^</a></b></span> <span class="reference-text">Harry Harrison, "Machine as Hero", in Holdstock, <i>Encyclopedia of Science Fiction</i>, p.&#160;97.</span></li>
+<li id="cite_note-ESF_718-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-ESF_718_25-0">^</a></b></span> <span class="reference-text">Jon Gustafson and Peter Nicholls, "Alexander Leydenfrost", in Clute &amp; Nicholls, <i>Encyclopedia of Science Fiction</i>, p.&#160;718.</span></li>
+<li id="cite_note-Hardy-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hardy_26-0">^</a></b></span> <span class="reference-text">David Hardy, "Art and Artists", in Holdstock, <i>Encyclopedia of Science Fiction</i>, p.&#160;126.</span></li>
+<li id="cite_note-TTM_247-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-TTM_247_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TTM_247_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ashley, <i>Time Machines</i>, p.&#160;247.</span></li>
+<li id="cite_note-Tuck-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tuck_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tuck_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Tuck_28-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Tuck_28-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">"Planet Stories", in Tuck, <i>Encyclopedia of Science Fiction and Fantasy, Vol. 3</i>, pp.&#160;582–583.</span></li>
+<li id="cite_note-T_351-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-T_351_29-0">^</a></b></span> <span class="reference-text">Ashley, <i>Transformations</i>, p.&#160;351.</span></li>
+<li id="cite_note-TTM_224-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-TTM_224_30-0">^</a></b></span> <span class="reference-text">Ashley, <i>Time Machines</i>, p.&#160;224.</span></li>
+<li id="cite_note-T_45-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-T_45_31-0">^</a></b></span> <span class="reference-text">Ashley, <i>Transformations</i>, p.&#160;45.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Planet_Stories&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Ashley, Michael (1976) [First edition 1975]. <i>The History of the Science Fiction Magazine Vol. 2 1936–1945</i>. Chicago: Henry Regnery Company. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8092-8002-7" title="Special:BookSources/0-8092-8002-7">0-8092-8002-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.aufirst=Michael&amp;rft.aulast=Ashley&amp;rft.btitle=The+History+of+the+Science+Fiction+Magazine+Vol.+2+1936%E2%80%931945&amp;rft.date=1976&amp;rft.genre=book&amp;rft.isbn=0-8092-8002-7&amp;rft.place=Chicago&amp;rft.pub=Henry+Regnery+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Ashley, Mike (2000). <i>The Time Machines:The Story of the Science-Fiction Pulp Magazines from the Beginning to 1950</i>. Liverpool: Liverpool University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85323-865-0" title="Special:BookSources/0-85323-865-0">0-85323-865-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.aufirst=Mike&amp;rft.aulast=Ashley&amp;rft.btitle=The+Time+Machines%3AThe+Story+of+the+Science-Fiction+Pulp+Magazines+from+the+Beginning+to+1950&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-85323-865-0&amp;rft.place=Liverpool&amp;rft.pub=Liverpool+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Ashley, Mike (2005). <i>Transformations: The Story of the Science Fiction Magazines from 1950 to 1970</i>. Liverpool: Liverpool University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85323-779-4" title="Special:BookSources/0-85323-779-4">0-85323-779-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.aufirst=Mike&amp;rft.aulast=Ashley&amp;rft.btitle=Transformations%3A+The+Story+of+the+Science+Fiction+Magazines+from+1950+to+1970&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=0-85323-779-4&amp;rft.place=Liverpool&amp;rft.pub=Liverpool+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Asimov, Isaac (1979). <i>In Memory Yet Green</i>. Garden City: Doubleday. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-385-13679-X" title="Special:BookSources/0-385-13679-X">0-385-13679-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.aufirst=Isaac&amp;rft.aulast=Asimov&amp;rft.btitle=In+Memory+Yet+Green&amp;rft.date=1979&amp;rft.genre=book&amp;rft.isbn=0-385-13679-X&amp;rft.place=Garden+City&amp;rft.pub=Doubleday&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Brackett, Leigh (July 1944). "The Science-Fiction Field". <i>Writer's Digest</i>. <b>24</b>: 27.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.atitle=The+Science-Fiction+Field&amp;rft.aufirst=Leigh&amp;rft.aulast=Brackett&amp;rft.date=1944-07&amp;rft.genre=article&amp;rft.jtitle=Writer%27s+Digest&amp;rft.pages=27&amp;rft.volume=24&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Carter, Paul A. (1977). <i>The Creation of Tomorrow: Fifty Years of Magazine Science Fiction</i>. New York: Columbia University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-231-04211-6" title="Special:BookSources/0-231-04211-6">0-231-04211-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.aufirst=Paul+A.&amp;rft.aulast=Carter&amp;rft.btitle=The+Creation+of+Tomorrow%3A+Fifty+Years+of+Magazine+Science+Fiction&amp;rft.date=1977&amp;rft.genre=book&amp;rft.isbn=0-231-04211-6&amp;rft.place=New+York&amp;rft.pub=Columbia+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Clute, John (1995). <i>Science Fiction: The Illustrated Encyclopedia</i>. New York: Dorling Kindersley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7894-0185-1" title="Special:BookSources/0-7894-0185-1">0-7894-0185-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.aufirst=John&amp;rft.aulast=Clute&amp;rft.btitle=Science+Fiction%3A+The+Illustrated+Encyclopedia&amp;rft.date=1995&amp;rft.genre=book&amp;rft.isbn=0-7894-0185-1&amp;rft.place=New+York&amp;rft.pub=Dorling+Kindersley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Clute, John; Nicholls, Peter (1993). <i>The Encyclopedia of Science Fiction</i>. New York: St. Martin's Press, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-312-09618-6" title="Special:BookSources/0-312-09618-6">0-312-09618-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.au=Nicholls%2C+Peter&amp;rft.aufirst=John&amp;rft.aulast=Clute&amp;rft.btitle=The+Encyclopedia+of+Science+Fiction&amp;rft.date=1993&amp;rft.genre=book&amp;rft.isbn=0-312-09618-6&amp;rft.place=New+York&amp;rft.pub=St.+Martin%27s+Press%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">de Camp, L. Sprague (1953). <i>Science-Fiction Handbook: The Writing of Imaginative Fiction</i>. New York: Hermitage House.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.aufirst=L.+Sprague&amp;rft.aulast=de+Camp&amp;rft.btitle=Science-Fiction+Handbook%3A+The+Writing+of+Imaginative+Fiction&amp;rft.date=1953&amp;rft.genre=book&amp;rft.place=New+York&amp;rft.pub=Hermitage+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">de Forest, Tim (2004). <i>Storytelling in the Pulps, Comics and Radio: How Technology Changed Popular Fiction in America</i>. Jefferson, NC: MacFarland. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7864-1902-4" title="Special:BookSources/0-7864-1902-4">0-7864-1902-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.aufirst=Tim&amp;rft.aulast=de+Forest&amp;rft.btitle=Storytelling+in+the+Pulps%2C+Comics+and+Radio%3A+How+Technology+Changed+Popular+Fiction+in+America&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-7864-1902-4&amp;rft.place=Jefferson%2C+NC&amp;rft.pub=MacFarland&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Holdstock, Robert, ed. (1978). <i>Encyclopedia of Science Fiction</i>. London: Octopus Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7064-0756-3" title="Special:BookSources/0-7064-0756-3">0-7064-0756-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.btitle=Encyclopedia+of+Science+Fiction&amp;rft.date=1978&amp;rft.genre=book&amp;rft.isbn=0-7064-0756-3&amp;rft.place=London&amp;rft.pub=Octopus+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Kyle, David (1977). <i>The Pictorial History of Science Fiction</i>. London: Hamlyn. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-600-38193-5" title="Special:BookSources/0-600-38193-5">0-600-38193-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.aufirst=David&amp;rft.aulast=Kyle&amp;rft.btitle=The+Pictorial+History+of+Science+Fiction&amp;rft.date=1977&amp;rft.genre=book&amp;rft.isbn=0-600-38193-5&amp;rft.place=London&amp;rft.pub=Hamlyn&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Tuck, Donald H. (1982). <i>The Encyclopedia of Science Fiction and Fantasy: Volume 3</i>. Chicago: Advent: Publishers, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-911682-26-0" title="Special:BookSources/0-911682-26-0">0-911682-26-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.aufirst=Donald+H.&amp;rft.aulast=Tuck&amp;rft.btitle=The+Encyclopedia+of+Science+Fiction+and+Fantasy%3A+Volume+3&amp;rft.date=1982&amp;rft.genre=book&amp;rft.isbn=0-911682-26-0&amp;rft.place=Chicago&amp;rft.pub=Advent%3A+Publishers%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Tymn, Marshall B.; Ashley, Mike (1985). <i>Science Fiction, Fantasy and Weird Fiction Magazines</i>. Westport CT: Greenwood Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-313-21221-X" title="Special:BookSources/0-313-21221-X">0-313-21221-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlanet+Stories&amp;rft.au=Ashley%2C+Mike&amp;rft.aufirst=Marshall+B.&amp;rft.aulast=Tymn&amp;rft.btitle=Science+Fiction%2C+Fantasy+and+Weird+Fiction+Magazines&amp;rft.date=1985&amp;rft.genre=book&amp;rft.isbn=0-313-21221-X&amp;rft.place=Westport+CT&amp;rft.pub=Greenwood+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Planet_Stories&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article:
+<div style="margin-left: 10px;"><b><a href="https://en.wikisource.org/wiki/Category:Planet_Stories" class="extiw" title="wikisource:Category:Planet Stories">Category:<i>Planet Stories</i></a></b></div>
+</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Planet_Stories" class="extiw" title="commons:Category:Planet Stories"><i>Planet Stories</i></a> at Wikimedia Commons</li>
+<li><a rel="nofollow" class="external text" href="http://www.isfdb.org/cgi-bin/pe.cgi?23725">Planet Stories</a> series listing at the <a href="/wiki/Internet_Speculative_Fiction_Database" title="Internet Speculative Fiction Database">Internet Speculative Fiction Database</a></li>
+<li><a rel="nofollow" class="external text" href="https://archive.org/search.php?query=planet%20stories">Issues of <i>Planet Stories</i></a> via the <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Science_fiction_and_fantasy_pulp_magazines" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:ScienceFictionFantasyWeirdPulpMagazines" title="Template:ScienceFictionFantasyWeirdPulpMagazines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:ScienceFictionFantasyWeirdPulpMagazines" title="Template talk:ScienceFictionFantasyWeirdPulpMagazines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:ScienceFictionFantasyWeirdPulpMagazines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Science_fiction_and_fantasy_pulp_magazines" style="font-size:114%;margin:0 4em"><a href="/wiki/Science_fiction_magazine#The_pulp_era" title="Science fiction magazine">Science fiction</a> and <a href="/wiki/Fantasy_fiction_magazine" title="Fantasy fiction magazine">fantasy</a> <a href="/wiki/Pulp_magazines" class="mw-redirect" title="Pulp magazines">pulp magazines</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/A._Merritt%27s_Fantasy_Magazine" title="A. Merritt's Fantasy Magazine">A. Merritt's Fantasy Magazine</a></i></li>
+<li><i><a href="/wiki/Amazing_Stories" title="Amazing Stories">Amazing Stories</a></i></li>
+<li><i><a href="/wiki/Amazing_Stories_Quarterly" title="Amazing Stories Quarterly">Amazing Stories Quarterly</a></i></li>
+<li><i><a href="/wiki/Astonishing_Stories" title="Astonishing Stories">Astonishing Stories</a></i></li>
+<li><i><a href="/wiki/Analog_Science_Fiction_and_Fact" title="Analog Science Fiction and Fact">Astounding Stories</a></i></li>
+<li><i><a href="/wiki/Captain_Future_(magazine)" title="Captain Future (magazine)">Captain Future</a></i></li>
+<li><i><a href="/w/index.php?title=Captain_Zero_(magazine)&amp;action=edit&amp;redlink=1" class="new" title="Captain Zero (magazine) (page does not exist)">Captain Zero</a></i></li>
+<li><i><a href="/wiki/Comet_(magazine)" title="Comet (magazine)">Comet</a></i></li>
+<li><i><a href="/wiki/Cosmic_Stories_and_Stirring_Science_Stories" title="Cosmic Stories and Stirring Science Stories">Cosmic Stories</a></i></li>
+<li><i><a href="/wiki/Doctor_Death_(magazine)" title="Doctor Death (magazine)">Doctor Death</a></i></li>
+<li><i><a href="/wiki/Dynamic_Science_Fiction" title="Dynamic Science Fiction">Dynamic Science Fiction</a></i></li>
+<li><i><a href="/wiki/Dynamic_Science_Stories" title="Dynamic Science Stories">Dynamic Science Stories</a></i></li>
+<li><i><a href="/wiki/Famous_Fantastic_Mysteries" title="Famous Fantastic Mysteries">Famous Fantastic Mysteries</a></i></li>
+<li><i><a href="/wiki/Fantastic_Adventures" title="Fantastic Adventures">Fantastic Adventures</a></i></li>
+<li><i><a href="/wiki/Fantastic_Novels" title="Fantastic Novels">Fantastic Novels</a></i></li>
+<li><i><a href="/wiki/Fantastic_Story_Quarterly" title="Fantastic Story Quarterly">Fantastic Story Quarterly</a></i></li>
+<li><i><a href="/wiki/Fantasy_(1938_magazine)" title="Fantasy (1938 magazine)">Fantasy</a></i></li>
+<li><i><a href="/wiki/Flash_Gordon_Strange_Adventure_Magazine" title="Flash Gordon Strange Adventure Magazine">Flash Gordon Strange Adventure Magazine</a></i></li>
+<li><i><a href="/wiki/Future_Science_Fiction_and_Science_Fiction_Stories" title="Future Science Fiction and Science Fiction Stories">Future Science Fiction</a></i></li>
+<li><i><a href="/wiki/Ghost_Stories_(magazine)" title="Ghost Stories (magazine)">Ghost Stories</a></i></li>
+<li><i><a href="/wiki/Marvel_Science_Stories" title="Marvel Science Stories">Marvel Science Stories</a></i></li>
+<li><i><a href="/wiki/Miracle_Science_and_Fantasy_Stories" title="Miracle Science and Fantasy Stories">Miracle Science and Fantasy Stories</a></i></li>
+<li><i><a href="/wiki/New_Worlds_(magazine)" title="New Worlds (magazine)">New Worlds</a></i></li>
+<li><i><a href="/wiki/Other_Worlds,_Universe_Science_Fiction,_and_Science_Stories" title="Other Worlds, Universe Science Fiction, and Science Stories">Other Worlds</a></i></li>
+<li><i><a href="/wiki/Out_of_This_World_Adventures" title="Out of This World Adventures">Out of This World Adventures</a></i></li>
+<li><i><a class="mw-selflink selflink">Planet Stories</a></i></li>
+<li><i><a href="/wiki/Future_Science_Fiction_and_Science_Fiction_Stories" title="Future Science Fiction and Science Fiction Stories">Science Fiction</a></i></li>
+<li><i><a href="/wiki/Science-Fiction_Plus" title="Science-Fiction Plus">Science-Fiction Plus</a></i></li>
+<li><i><a href="/wiki/Science_Fiction_Quarterly" title="Science Fiction Quarterly">Science Fiction Quarterly</a></i></li>
+<li><i><a href="/wiki/Scientific_Detective_Monthly" title="Scientific Detective Monthly">Scientific Detective Monthly</a></i></li>
+<li><i><a href="/wiki/Space_Stories" title="Space Stories">Space Stories</a></i></li>
+<li><i><a href="/wiki/Startling_Stories" title="Startling Stories">Startling Stories</a></i></li>
+<li><i><a href="/wiki/Cosmic_Stories_and_Stirring_Science_Stories" title="Cosmic Stories and Stirring Science Stories">Stirring Science Stories</a></i></li>
+<li><i><a href="/wiki/Strange_Stories" title="Strange Stories">Strange Stories</a></i></li>
+<li><i><a href="/wiki/Strange_Tales_(pulp_magazine)" title="Strange Tales (pulp magazine)">Strange Tales</a></i></li>
+<li><i><a href="/wiki/Super_Science_Stories" title="Super Science Stories">Super Science Stories</a></i></li>
+<li><i><a href="/wiki/Tales_of_Magic_and_Mystery_(magazine)" title="Tales of Magic and Mystery (magazine)">Tales of Magic and Mystery</a></i></li>
+<li><i><a href="/wiki/Tales_of_Wonder_(magazine)" title="Tales of Wonder (magazine)">Tales of Wonder</a></i></li>
+<li><i><a href="/wiki/10_Story_Fantasy" title="10 Story Fantasy">10 Story Fantasy</a></i></li>
+<li><i><a href="/wiki/The_Thrill_Book" title="The Thrill Book">The Thrill Book</a></i></li>
+<li><i><a href="/wiki/Tops_in_Science_Fiction" title="Tops in Science Fiction">Tops in Science Fiction</a></i></li>
+<li><i><a href="/wiki/Two_Complete_Science-Adventure_Books" title="Two Complete Science-Adventure Books">Two Complete Science-Adventure Books</a></i></li>
+<li><i><a href="/wiki/Uncanny_Stories_(magazine)" title="Uncanny Stories (magazine)">Uncanny Stories</a></i></li>
+<li><a href="/wiki/Uncanny_Tales_(Canadian_pulp_magazine)" title="Uncanny Tales (Canadian pulp magazine)"><i>Uncanny Tales</i> (Canadian)</a></li>
+<li><i><a href="/wiki/Unknown_(magazine)" title="Unknown (magazine)">Unknown</a></i></li>
+<li><i><a href="/wiki/Vargo_Statten_Science_Fiction_Magazine" title="Vargo Statten Science Fiction Magazine">Vargo Statten Science Fiction Magazine</a></i></li>
+<li><i><a href="/wiki/Weird_Tales" title="Weird Tales">Weird Tales</a></i></li>
+<li><i><a href="/wiki/The_Witch%27s_Tales" title="The Witch's Tales">The Witch's Tales</a></i></li>
+<li><i><a href="/wiki/Wonder_Stories" title="Wonder Stories">Wonder Stories</a></i></li>
+<li><i><a href="/wiki/Wonder_Story_Annual" title="Wonder Story Annual">Wonder Story Annual</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20170923133815
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.272 seconds
+Real time usage: 0.332 seconds
+Preprocessor visited node count: 1476/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36637/2097152 bytes
+Template argument size: 864/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.078/10.000 seconds
+Lua memory usage: 3.54 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  253.173      1 -total
+ 25.50%   64.565      1 Template:Reflist
+ 15.83%   40.074     13 Template:Cite_book
+ 13.78%   34.881      1 Template:Cite_web
+ 11.50%   29.103      1 Template:Commonscat-inline
+ 10.20%   25.829      1 Template:Sister-inline
+ 10.17%   25.736      1 Template:Italic_title
+  7.37%   18.659      1 Template:Featured_article
+  6.97%   17.634      1 Template:Top_icon
+  5.21%   13.178      1 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1162294-0!canonical and timestamp 20170923133815 and revision id 802022182
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Planet_Stories&amp;oldid=802022182">https://en.wikipedia.org/w/index.php?title=Planet_Stories&amp;oldid=802022182</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Planet_Stories" title="Category:Planet Stories">Planet Stories</a></li><li><a href="/wiki/Category:Pulp_magazines" title="Category:Pulp magazines">Pulp magazines</a></li><li><a href="/wiki/Category:Science_fiction_magazines_established_in_the_1930s" title="Category:Science fiction magazines established in the 1930s">Science fiction magazines established in the 1930s</a></li><li><a href="/wiki/Category:Defunct_science_fiction_magazines_of_the_United_States" title="Category:Defunct science fiction magazines of the United States">Defunct science fiction magazines of the United States</a></li><li><a href="/wiki/Category:Magazines_established_in_1939" title="Category:Magazines established in 1939">Magazines established in 1939</a></li><li><a href="/wiki/Category:Magazines_disestablished_in_1955" title="Category:Magazines disestablished in 1955">Magazines disestablished in 1955</a></li><li><a href="/wiki/Category:1939_establishments_in_the_United_States" title="Category:1939 establishments in the United States">1939 establishments in the United States</a></li><li><a href="/wiki/Category:1955_establishments_in_the_United_States" title="Category:1955 establishments in the United States">1955 establishments in the United States</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Featured_articles" title="Category:Featured articles">Featured articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Planet+Stories" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Planet+Stories" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Planet_Stories" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Planet_Stories" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Planet_Stories">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Planet_Stories&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Planet_Stories&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Planet_Stories" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Planet_Stories" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Planet_Stories&amp;oldid=802022182" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Planet_Stories&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7201176" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Planet_Stories&amp;id=802022182" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Planet+Stories">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Planet+Stories&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DPlanet%2BStories%26returnto%3DPlanet%2BStories%26oldid%3D802022182%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Planet_Stories&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Planet_Stories" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-es badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://es.wikipedia.org/wiki/Planet_Stories" title="Planet Stories – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Planet_Stories" title="Planet Stories – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Planet_Stories" title="Planet Stories – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Planet_Stories" title="Planet Stories – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7201176#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 23 September 2017, at 13:38.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Planet_Stories&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.332","ppvisitednodes":{"value":1476,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36637,"limit":2097152},"templateargumentsize":{"value":864,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  253.173      1 -total"," 25.50%   64.565      1 Template:Reflist"," 15.83%   40.074     13 Template:Cite_book"," 13.78%   34.881      1 Template:Cite_web"," 11.50%   29.103      1 Template:Commonscat-inline"," 10.20%   25.829      1 Template:Sister-inline"," 10.17%   25.736      1 Template:Italic_title","  7.37%   18.659      1 Template:Featured_article","  6.97%   17.634      1 Template:Top_icon","  5.21%   13.178      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.078","limit":"10.000"},"limitreport-memusage":{"value":3716170,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20170923133815","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1182"});});</script>
+	</body>
+</html>

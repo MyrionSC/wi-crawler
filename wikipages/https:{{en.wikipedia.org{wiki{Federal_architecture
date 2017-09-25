@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Federal architecture - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Federal_architecture","wgTitle":"Federal architecture","wgCurRevisionId":800583653,"wgRevisionId":800583653,"wgArticleId":1691932,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Federal architecture","American architectural styles","House styles","18th-century architecture in the United States","19th-century architecture in the United States","History of the United States (1789–1849)","18th-century architecture","19th-century architecture","Neoclassical architecture","Neoclassical architecture in the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Federal_architecture","wgRelevantArticleId":1691932,"wgRequestId":"Wbp7dQpAADoAAEfIhqEAAAAY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1400086","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.17"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/18/Charles_Bulfinch%2C_Tontine_Crescent.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Federal_architecture"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Federal_architecture&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Federal_architecture&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Federal_architecture"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Federal_architecture rootpage-Federal_architecture skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Federal architecture</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Federation_architecture" title="Federation architecture">Federation architecture</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Charles_Bulfinch,_Tontine_Crescent.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Charles_Bulfinch%2C_Tontine_Crescent.jpg/170px-Charles_Bulfinch%2C_Tontine_Crescent.jpg" width="170" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Charles_Bulfinch%2C_Tontine_Crescent.jpg/255px-Charles_Bulfinch%2C_Tontine_Crescent.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Charles_Bulfinch%2C_Tontine_Crescent.jpg/340px-Charles_Bulfinch%2C_Tontine_Crescent.jpg 2x" data-file-width="407" data-file-height="422" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Charles_Bulfinch,_Tontine_Crescent.jpg" class="internal" title="Enlarge"></a></div>
+Central Pavilion, 1793–94, by Charles Bulfinch, at the <a href="/wiki/Tontine_Crescent" class="mw-redirect" title="Tontine Crescent">Tontine Crescent</a>, Boston</div>
+</div>
+</div>
+<p><b>Federal-style architecture</b> is the name for the classicizing architecture built in the newly founded United States between c. 1780 and 1830, and particularly from 1785 to 1815. This style shares its name with its era, the <a href="/wiki/Federalist_Era" title="Federalist Era"><b>Federal Period</b></a>. The name <b>Federal style</b> is also used in association with furniture design in the United States of the same time period. The style broadly corresponds to the classicism of <a href="/wiki/Biedermeier" title="Biedermeier">Biedermeier</a> style in the German-speaking lands, <a href="/wiki/Regency_architecture" title="Regency architecture">Regency architecture</a> in Britain and to the French <a href="/wiki/Empire_style" title="Empire style">Empire style</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Phila-elfrethsalley.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Phila-elfrethsalley.jpg/220px-Phila-elfrethsalley.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Phila-elfrethsalley.jpg/330px-Phila-elfrethsalley.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Phila-elfrethsalley.jpg/440px-Phila-elfrethsalley.jpg 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Phila-elfrethsalley.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Elfreth%27s_Alley" title="Elfreth's Alley">Elfreth's Alley</a> in <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a> features Federal-style homes and is referred to as "Our nation's oldest residential street," dating to 1702.<sup id="cite_ref-marker_1-0" class="reference"><a href="#cite_note-marker-1">[1]</a></sup></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Massachusetts_State_House_1827.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Massachusetts_State_House_1827.jpg/220px-Massachusetts_State_House_1827.jpg" width="220" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Massachusetts_State_House_1827.jpg/330px-Massachusetts_State_House_1827.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Massachusetts_State_House_1827.jpg/440px-Massachusetts_State_House_1827.jpg 2x" data-file-width="656" data-file-height="471" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Massachusetts_State_House_1827.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Massachusetts_State_House" title="Massachusetts State House">Massachusetts State House</a> (1798, in a drawing by <a href="/wiki/Alexander_Jackson_Davis" title="Alexander Jackson Davis">Alexander Jackson Davis</a>, 1827</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Salem_Town_Hall.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Salem_Town_Hall.jpg/220px-Salem_Town_Hall.jpg" width="220" height="282" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Salem_Town_Hall.jpg/330px-Salem_Town_Hall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Salem_Town_Hall.jpg/440px-Salem_Town_Hall.jpg 2x" data-file-width="1835" data-file-height="2354" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Salem_Town_Hall.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Old_Town_Hall_Historic_District_(Salem,_Massachusetts)#Salem_Old_Town_Hall" class="mw-redirect" title="Old Town Hall Historic District (Salem, Massachusetts)">Old Town Hall</a> in <a href="/wiki/Salem,_Massachusetts" title="Salem, Massachusetts">Salem, Massachusetts</a> (dating from 1816–17).</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hamilton_Hall_(Salem).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamilton_Hall_%28Salem%29.jpg/220px-Hamilton_Hall_%28Salem%29.jpg" width="220" height="192" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamilton_Hall_%28Salem%29.jpg/330px-Hamilton_Hall_%28Salem%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamilton_Hall_%28Salem%29.jpg/440px-Hamilton_Hall_%28Salem%29.jpg 2x" data-file-width="2182" data-file-height="1908" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hamilton_Hall_(Salem).jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Hamilton_Hall_(Salem,_Massachusetts)" title="Hamilton Hall (Salem, Massachusetts)">Hamilton Hall</a> was built in 1805 by <a href="/wiki/Samuel_McIntire" title="Samuel McIntire">Samuel McIntire</a> in Salem, Massachusetts.</div>
+</div>
+</div>
+<p>In the early American republic, the founding generation consciously chose to associate the nation with the ancient democracies of <a href="/wiki/Ancient_Greece" title="Ancient Greece">Greece</a> and the republican values of <a href="/wiki/Ancient_Rome" title="Ancient Rome">Rome</a>. Grecian aspirations informed the <a href="/wiki/Greek_Revival_architecture" title="Greek Revival architecture">Greek Revival</a>, lasting into the 1850s. Using Roman architectural vocabulary,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> the Federal style applied to the balanced and symmetrical version of <a href="/wiki/Georgian_architecture" title="Georgian architecture">Georgian architecture</a> that had been practiced in the <a href="/wiki/Thirteen_Colonies" title="Thirteen Colonies">American colonies</a>' new motifs of <a href="/wiki/Neoclassical_architecture" title="Neoclassical architecture">neoclassical architecture</a> as it was epitomized in Britain by <a href="/wiki/Robert_Adam" title="Robert Adam">Robert Adam</a>, who published his designs in 1792.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Characteristics"><span class="tocnumber">1</span> <span class="toctext">Characteristics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Legacy_of_Federal_architecture_in_Salem.2C_Massachusetts"><span class="tocnumber">2</span> <span class="toctext">Legacy of Federal architecture in Salem, Massachusetts</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Architects_of_the_Federal_period"><span class="tocnumber">3</span> <span class="toctext">Architects of the Federal period</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Footnotes"><span class="tocnumber">5</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_architecture&amp;action=edit&amp;section=1" title="Edit section: Characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>American Federal architecture typically uses plain surfaces with attenuated detail, usually isolated in panels, tablets, and friezes. It also had a flatter, smoother façade and rarely used pilasters. It was most influenced by the interpretation of <a href="/wiki/Roman_architecture" class="mw-redirect" title="Roman architecture">ancient Roman architecture</a>, fashionable after the unearthing of <a href="/wiki/Pompeii" title="Pompeii">Pompeii</a> and <a href="/wiki/Herculaneum" title="Herculaneum">Herculaneum</a>. The <a href="/wiki/Bald_eagle" title="Bald eagle">bald eagle</a> was a common symbol used in this style, with the <a href="/wiki/Ellipse" title="Ellipse">ellipse</a> a frequent architectural <a href="/wiki/Motif_(art)" class="mw-redirect" title="Motif (art)">motif</a>.</p>
+<p>The classicizing manner of constructions and <a href="/wiki/Town_planning" class="mw-redirect" title="Town planning">town planning</a> undertaken by the federal government was expressed in federal projects of lighthouses and harbor buildings; hospitals; in the rationalizing, urbanistic layout of <a href="/wiki/L%27Enfant_Plan" title="L'Enfant Plan">L'Enfant's city of Washington</a>; and in New York the <a href="/wiki/Commissioners%27_Plan_of_1811" title="Commissioners' Plan of 1811">Commissioners' Plan of 1811</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>In two generations during which a gentleman's education included the ability to draw up an idiomatic classical elevation<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> for craftsmen who were themselves trained in the classical vocabulary, and where masons and house carpenters on their own produced a refined <a href="/wiki/Vernacular_architecture" title="Vernacular architecture">vernacular architecture</a>, this American neoclassical high style was the idiom of <a href="/wiki/United_States" title="United States">America</a>'s first professional architects, in the generation of c. 1800, men such as <a href="/wiki/Charles_Bulfinch" title="Charles Bulfinch">Charles Bulfinch</a>, architect of the <a href="/wiki/Massachusetts_State_House" title="Massachusetts State House">Massachusetts State House</a>, Boston, and <a href="/wiki/Minard_Lafever" title="Minard Lafever">Minard Lafever</a>.</p>
+<p>The two brothers, <a href="/wiki/Robert_Adam" title="Robert Adam">Robert Adam</a> and <a href="/wiki/James_Adam_(architect)" title="James Adam (architect)">James Adam</a>, were Scottish architects who never visited America, but through their books were leading influences.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Legacy_of_Federal_architecture_in_Salem.2C_Massachusetts">Legacy of Federal architecture in Salem, Massachusetts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_architecture&amp;action=edit&amp;section=2" title="Edit section: Legacy of Federal architecture in Salem, Massachusetts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Salem,_Massachusetts" title="Salem, Massachusetts">Salem, Massachusetts</a>, there are numerous examples of <a href="/wiki/American_colonial_architecture" title="American colonial architecture">American colonial architecture</a> and Federal architecture in two historic districts: <a href="/wiki/Chestnut_Street_District" title="Chestnut Street District">Chestnut Street District</a>, which is part of the <a href="/wiki/Samuel_McIntire" title="Samuel McIntire">Samuel McIntire</a> Historic District containing 407 buildings, and the <a href="/wiki/Salem_Maritime_National_Historic_Site" title="Salem Maritime National Historic Site">Salem Maritime National Historic Site</a>, consisting of 12 historic structures and about 9 acres (4&#160;ha) of land along the waterfront.</p>
+<h2><span class="mw-headline" id="Architects_of_the_Federal_period">Architects of the Federal period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_architecture&amp;action=edit&amp;section=3" title="Edit section: Architects of the Federal period">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Asher_Benjamin" title="Asher Benjamin">Asher Benjamin</a></li>
+<li><a href="/wiki/Charles_Bulfinch" title="Charles Bulfinch">Charles Bulfinch</a></li>
+<li><a href="/wiki/John_Holden_Greene" title="John Holden Greene">John Holden Greene</a></li>
+<li><a href="/wiki/James_Hoban" title="James Hoban">James Hoban</a></li>
+<li><a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">Thomas Jefferson</a></li>
+<li><a href="/wiki/Minard_Lafever" title="Minard Lafever">Minard Lafever</a></li>
+<li><a href="/wiki/Benjamin_Latrobe" class="mw-redirect" title="Benjamin Latrobe">Benjamin Latrobe</a></li>
+<li><a href="/wiki/Pierre_L%27Enfant" class="mw-redirect" title="Pierre L'Enfant">Pierre L'Enfant</a></li>
+<li><a href="/wiki/Samuel_E._Lewis" title="Samuel E. Lewis">Samuel Lewis</a></li>
+<li><a href="/wiki/John_McComb,_Jr." class="mw-redirect" title="John McComb, Jr.">John McComb, Jr.</a></li>
+<li><a href="/wiki/Samuel_McIntire" title="Samuel McIntire">Samuel McIntire</a></li>
+<li><a href="/wiki/Robert_Mills_(architect)" title="Robert Mills (architect)">Robert Mills</a></li>
+<li><a href="/wiki/Alexander_Parris" title="Alexander Parris">Alexander Parris</a></li>
+<li><a href="/wiki/William_Strickland_(architect)" title="William Strickland (architect)">William Strickland</a></li>
+<li><a href="/wiki/Martin_E._Thompson" title="Martin E. Thompson">Martin E. Thompson</a></li>
+<li><a href="/wiki/William_Thornton" title="William Thornton">William Thornton</a></li>
+<li><a href="/wiki/Ithiel_Town" title="Ithiel Town">Ithiel Town</a></li>
+<li><a href="/wiki/Ammi_B._Young" title="Ammi B. Young">Ammi B. Young</a></li>
+</ul>
+<p>Modern reassessment of the American architecture of the Federal period began with <a href="/wiki/Fiske_Kimball" title="Fiske Kimball">Fiske Kimball</a>, <i>Domestic Architecture of the American Colonies and the Early Republic,</i> 1922.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_architecture&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Adam_style" title="Adam style">Adam style</a></li>
+<li><a href="/wiki/Boscobel_(Garrison,_New_York)" title="Boscobel (Garrison, New York)">Boscobel (Garrison, New York)</a></li>
+<li><a href="/wiki/Federal_furniture" title="Federal furniture">Federal furniture</a></li>
+<li><a href="/wiki/Hamilton_Grange_National_Memorial" title="Hamilton Grange National Memorial">Hamilton Grange National Memorial</a></li>
+<li><a href="/wiki/Lyre_arm" title="Lyre arm">Lyre arm</a></li>
+<li><a href="/wiki/Morris%E2%80%93Jumel_Mansion" title="Morris–Jumel Mansion">Morris–Jumel Mansion</a></li>
+</ul>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_architecture&amp;action=edit&amp;section=5" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-marker-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-marker_1-0">^</a></b></span> <span class="reference-text">Historical marker on Elfreth's Alley</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">The design vocabulary of Federal architecture is accessibly illustrated and contrasted with Greek Revival in Rachel Carley, <i>The Visual Dictionary of American Domestic Architecture</i> 1994, ch. 5 "Neoclassical Styles", p. 90ff.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">For the federal government's role in Federal architectural style and its symbolism, see Lois Craig, ed. <i>The Federal Presence: Architecture, Politics and Symbols in United States Government Building</i> (Federal Architecture Project, Cambridge: <a href="/wiki/MIT_Press" title="MIT Press">MIT Press</a>) 1978, chs. 1–3, with brief text and extended captions to multiple illustrations.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Not, of course, designs as ambitious as those of <a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">Thomas Jefferson</a>, an amateur who, in other circumstances, could have made a profession as architect.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=OGJgquCEEZIC&amp;pg=PA89"><i>Creating Your Architectural Style</i></a>. Pelican Publishing. p.&#160;89. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4556-0309-1" title="Special:BookSources/978-1-4556-0309-1">978-1-4556-0309-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+architecture&amp;rft.btitle=Creating+Your+Architectural+Style&amp;rft.genre=book&amp;rft.isbn=978-1-4556-0309-1&amp;rft.pages=89&amp;rft.pub=Pelican+Publishing&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DOGJgquCEEZIC%26pg%3DPA89&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">It "established a generation ago a scholarly basis for subsequent study of early American architecture", observes Hugh Morrison, in the <i>Acknowledgments</i> prefacing <i>Early American Architecture From the First Colonial Settlements to the National Period</i> (1951, repr. 1987), p. xiii.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_architecture&amp;action=edit&amp;section=6" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Craig, Lois A., <i>The Federal Presence: Architecture, Politics and National Design</i>. The MIT Press: 1984. <a href="/wiki/International_Standard_Book_Number_(identifier)" class="mw-redirect" title="International Standard Book Number (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-53059-7" title="Special:BookSources/0-262-53059-7">0-262-53059-7</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_architecture&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ah.bfn.org/a/DCTNRY/f/fed.html">Definition of Federal-style architecture</a></li>
+<li><a rel="nofollow" class="external text" href="http://college.holycross.edu/faculty/wziobro/ClassicalAmerica/federalistintrohp.html">Introduction to Federal-style architecture</a></li>
+<li><a rel="nofollow" class="external text" href="http://memorialhall.mass.edu/activities/architecture/coleman.html">Federal Style, 1780-1820 - Coleman-Hollister House</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.federalstyle.com/index.html"><i>Federal Style Patterns 1780-1820</i></a> Bibliography for federal style research, photographs of federal houses, federal style pattern book.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Architecture_of_the_United_States" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Architecture_in_the_United_States" title="Template:Architecture in the United States"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Architecture_in_the_United_States" title="Template talk:Architecture in the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Architecture_in_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Architecture_of_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/Architecture_of_the_United_States" title="Architecture of the United States">Architecture of the United States</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Colonial</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American_colonial_architecture" title="American colonial architecture">American colonial architecture</a></li>
+<li><a href="/wiki/Georgian_architecture#Colonial_Georgian_architecture" title="Georgian architecture">Colonial Georgian</a></li>
+<li><a href="/wiki/Dutch_Colonial" class="mw-redirect" title="Dutch Colonial">Dutch Colonial</a></li>
+<li><a href="/wiki/French_Colonial" title="French Colonial">French Colonial</a></li>
+<li><a href="/wiki/American_colonial_architecture#German_Colonial" title="American colonial architecture">German Colonial</a></li>
+<li><a href="/wiki/Spanish_Colonial_architecture" title="Spanish Colonial architecture">Spanish Colonial</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Early Republic</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adam_style" title="Adam style">Adam</a></li>
+<li><a class="mw-selflink selflink">Federal</a></li>
+<li><a href="/wiki/Jeffersonian_architecture" title="Jeffersonian architecture">Jeffersonian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mid-19th century</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Greek_Revival_architecture" title="Greek Revival architecture">Greek Revival</a></li>
+<li><a href="/wiki/Italianate_architecture" title="Italianate architecture">Italianate</a></li>
+<li><a href="/wiki/Gothic_Revival_architecture" title="Gothic Revival architecture">Gothic Revival</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Victorian_architecture" title="Victorian architecture">Victorian</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Richardsonian_Romanesque" title="Richardsonian Romanesque">Richardsonian Romanesque</a></li>
+<li><a href="/wiki/Second_Empire_architecture" title="Second Empire architecture">Second Empire</a></li>
+<li><a href="/wiki/American_Renaissance" title="American Renaissance">American Renaissance</a></li>
+<li><a href="/wiki/Folk_Victorian" title="Folk Victorian">Folk</a></li>
+<li><a href="/wiki/Stick_style" title="Stick style">Stick style</a></li>
+<li><a href="/wiki/Queen_Anne_style_architecture_in_the_United_States" title="Queen Anne style architecture in the United States">Queen Anne</a></li>
+<li><a href="/wiki/Shingle_style_architecture" title="Shingle style architecture">Shingle</a></li>
+<li><a href="/wiki/Territorial_architecture" title="Territorial architecture">Territorial</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Late-19th to mid-20th century</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beaux-Arts_architecture" title="Beaux-Arts architecture">Beaux-Arts</a></li>
+<li><a href="/wiki/Chicago_school_(architecture)" title="Chicago school (architecture)">Chicago School</a></li>
+<li><a href="/wiki/Colonial_Revival_architecture" title="Colonial Revival architecture">Colonial Revival</a></li>
+<li><a href="/wiki/Dutch_Colonial_Revival_architecture" title="Dutch Colonial Revival architecture">Dutch Colonial Revival</a></li>
+<li><a href="/wiki/Mediterranean_Revival_architecture" title="Mediterranean Revival architecture">Mediterranean Revival</a></li>
+<li><a href="/wiki/Mission_Revival_architecture" title="Mission Revival architecture">Mission Revival</a></li>
+<li><a href="/wiki/Spanish_Colonial_Revival_architecture" title="Spanish Colonial Revival architecture">Spanish Colonial Revival</a></li>
+<li><a href="/wiki/Tudor_Revival_architecture" title="Tudor Revival architecture">Tudor Revival</a></li>
+<li><a href="/wiki/Pueblo_Revival_architecture" title="Pueblo Revival architecture">Pueblo Revival</a></li>
+<li><a href="/wiki/Territorial_Revival_architecture" title="Territorial Revival architecture">Territorial Revival</a></li>
+<li><a href="/wiki/American_Craftsman" title="American Craftsman">American Craftsman</a></li>
+<li><a href="/wiki/Prairie_School" title="Prairie School">Prairie School</a></li>
+<li><a href="/wiki/American_Foursquare" title="American Foursquare">American Foursquare</a></li>
+<li><a href="/wiki/California_bungalow" title="California bungalow">California bungalow</a></li>
+<li><a href="/wiki/Art_Deco" title="Art Deco">Art Deco</a></li>
+<li><a href="/wiki/Streamline_Moderne" title="Streamline Moderne">Streamline Moderne</a></li>
+<li><a href="/wiki/PWA_Moderne" title="PWA Moderne">PWA Moderne</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Post-World War II to current</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/International_style_(architecture)" class="mw-redirect" title="International style (architecture)">International style</a></li>
+<li><a href="/wiki/Usonia" title="Usonia">Usonian</a></li>
+<li><a href="/wiki/Ranch-style_house" title="Ranch-style house">American ranch</a></li>
+<li><a href="/wiki/Modern_architecture" title="Modern architecture">Modern</a></li>
+<li><a href="/wiki/Postmodern_architecture" title="Postmodern architecture">Postmodern</a></li>
+<li><a href="/wiki/Neo-eclectic_architecture" title="Neo-eclectic architecture">Neo-eclectic</a></li>
+<li><a href="/wiki/New_Classical_Architecture" class="mw-redirect" title="New Classical Architecture">New Classical Architecture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Vernacular</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hall_and_parlor_house" title="Hall and parlor house">Hall and parlor house</a></li>
+<li><a href="/wiki/Central-passage_house" title="Central-passage house">Central-passage house</a></li>
+<li><a href="/wiki/Log_cabin" title="Log cabin">Log cabin</a></li>
+<li><a href="/wiki/Cape_Cod_(house)" title="Cape Cod (house)">Cape Cod</a></li>
+<li><a href="/wiki/Saltbox" title="Saltbox">Saltbox</a></li>
+<li><a href="/wiki/Creole_cottage" class="mw-redirect" title="Creole cottage">Creole cottage</a></li>
+<li><a href="/wiki/Dogtrot_house" title="Dogtrot house">Dogtrot house</a></li>
+<li><a href="/wiki/I-house" title="I-house">I-house</a></li>
+<li><a href="/wiki/Shotgun_house" title="Shotgun house">Shotgun house</a></li>
+<li><a href="/wiki/Sod_house" title="Sod house">Sod house</a></li>
+<li><a href="/wiki/Carpenter_Gothic" title="Carpenter Gothic">Carpenter Gothic</a></li>
+<li><a href="/wiki/First_Period" title="First Period">First Period</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1197
+Cached time: 20170914125142
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.292 seconds
+Preprocessor visited node count: 561/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18904/2097152 bytes
+Template argument size: 529/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.085/10.000 seconds
+Lua memory usage: 3.14 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  231.014      1 -total
+ 32.81%   75.786      1 Template:Reflist
+ 25.50%   58.909      1 Template:Convert
+ 23.61%   54.534      1 Template:Cite_book
+ 19.67%   45.431      1 Template:ISBN
+ 11.20%   25.880      1 Template:Distinguish
+  8.02%   18.519      1 Template:Catalog_lookup_link
+  7.85%   18.128      1 Template:Architecture_in_the_United_States
+  7.09%   16.371      1 Template:Error-small
+  6.79%   15.684      1 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1691932-0!canonical and timestamp 20170914125142 and revision id 800583653
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Federal_architecture&amp;oldid=800583653">https://en.wikipedia.org/w/index.php?title=Federal_architecture&amp;oldid=800583653</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Federal_architecture" title="Category:Federal architecture">Federal architecture</a></li><li><a href="/wiki/Category:American_architectural_styles" title="Category:American architectural styles">American architectural styles</a></li><li><a href="/wiki/Category:House_styles" title="Category:House styles">House styles</a></li><li><a href="/wiki/Category:18th-century_architecture_in_the_United_States" title="Category:18th-century architecture in the United States">18th-century architecture in the United States</a></li><li><a href="/wiki/Category:19th-century_architecture_in_the_United_States" title="Category:19th-century architecture in the United States">19th-century architecture in the United States</a></li><li><a href="/wiki/Category:History_of_the_United_States_(1789%E2%80%931849)" title="Category:History of the United States (1789–1849)">History of the United States (1789–1849)</a></li><li><a href="/wiki/Category:18th-century_architecture" title="Category:18th-century architecture">18th-century architecture</a></li><li><a href="/wiki/Category:19th-century_architecture" title="Category:19th-century architecture">19th-century architecture</a></li><li><a href="/wiki/Category:Neoclassical_architecture" title="Category:Neoclassical architecture">Neoclassical architecture</a></li><li><a href="/wiki/Category:Neoclassical_architecture_in_the_United_States" title="Category:Neoclassical architecture in the United States">Neoclassical architecture in the United States</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Federal+architecture" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Federal+architecture" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Federal_architecture" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Federal_architecture" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Federal_architecture">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Federal_architecture&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Federal_architecture&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Federal_architecture" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Federal_architecture" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Federal_architecture&amp;oldid=800583653" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Federal_architecture&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1400086" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Federal_architecture&amp;id=800583653" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Federal+architecture">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Federal+architecture&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DFederal%2Barchitecture%26returnto%3DFederal%2Barchitecture%26oldid%3D800583653%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Federal_architecture&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Federal_architecture" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%A9_%D9%81%D9%8A%D8%AF%D8%B1%D8%A7%D9%84%D9%8A%D8%A9" title="عمارة فيدرالية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Federal_memarl%C4%B1q" title="Federal memarlıq – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Federal_Style" title="Federal Style – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Estilo_federal" title="Estilo federal – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C_%D9%81%D8%AF%D8%B1%D8%A7%D9%84" title="معماری فدرال – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Style_f%C3%A9d%C3%A9ral" title="Style fédéral – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Federale_stijl" title="Federale stijl – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Федеральная архитектура – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%86%E0%B7%99%E0%B6%A9%E0%B6%BB%E0%B6%BD%E0%B7%8A_%E0%B6%9C%E0%B7%98%E0%B7%84_%E0%B6%B1%E0%B7%92%E0%B6%BB%E0%B7%8A%E0%B6%B8%E0%B7%8F%E0%B6%AB_%E0%B7%81%E0%B7%92%E0%B6%BD%E0%B7%8A%E0%B6%B4%E0%B6%BA" title="ෆෙඩරල් ගෘහ නිර්මාණ ශිල්පය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1400086#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 14 September 2017, at 12:51.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Federal_architecture&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.292","ppvisitednodes":{"value":561,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18904,"limit":2097152},"templateargumentsize":{"value":529,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  231.014      1 -total"," 32.81%   75.786      1 Template:Reflist"," 25.50%   58.909      1 Template:Convert"," 23.61%   54.534      1 Template:Cite_book"," 19.67%   45.431      1 Template:ISBN"," 11.20%   25.880      1 Template:Distinguish","  8.02%   18.519      1 Template:Catalog_lookup_link","  7.85%   18.128      1 Template:Architecture_in_the_United_States","  7.09%   16.371      1 Template:Error-small","  6.79%   15.684      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.085","limit":"10.000"},"limitreport-memusage":{"value":3295608,"limit":52428800}},"cachereport":{"origin":"mw1197","timestamp":"20170914125142","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1263"});});</script>
+	</body>
+</html>

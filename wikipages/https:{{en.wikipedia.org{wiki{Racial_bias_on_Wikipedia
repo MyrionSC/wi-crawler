@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Racial bias on Wikipedia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Racial_bias_on_Wikipedia","wgTitle":"Racial bias on Wikipedia","wgCurRevisionId":796499997,"wgRevisionId":796499997,"wgArticleId":46401819,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use American English from August 2017","All Wikipedia articles written in American English","Use dmy dates from August 2017","Articles with limited geographic scope from May 2015","Pages in non-existent country centric categories","Criticism of Wikipedia","Discrimination","Ethnocentrism","Racism"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Racial_bias_on_Wikipedia","wgRelevantArticleId":46401819,"wgRequestId":"WcKjJApAAEMAAGwAULsAAACE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q19894322","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Howard_University_edit-a-thon_B.JPG/1200px-Howard_University_edit-a-thon_B.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Racial_bias_on_Wikipedia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Racial_bias_on_Wikipedia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Racial_bias_on_Wikipedia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Racial_bias_on_Wikipedia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Racial_bias_on_Wikipedia rootpage-Racial_bias_on_Wikipedia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Racial bias on Wikipedia</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-globalize" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Globe icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" width="48" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" data-file-width="350" data-file-height="290" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">The examples and perspective in this article <b>deal primarily with U.S. and do not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>. <span class="hide-when-compact">You may <a class="external text" href="//en.wikipedia.org/w/index.php?title=Racial_bias_on_Wikipedia&amp;action=edit">improve this article</a>, discuss the issue on the <a href="/wiki/Talk:Racial_bias_on_Wikipedia" title="Talk:Racial bias on Wikipedia">talk page</a>, or <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">create a new article</a>, as appropriate.</span> <small><i>(May 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Howard_University_edit-a-thon_B.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Howard_University_edit-a-thon_B.JPG/220px-Howard_University_edit-a-thon_B.JPG" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Howard_University_edit-a-thon_B.JPG/330px-Howard_University_edit-a-thon_B.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Howard_University_edit-a-thon_B.JPG/440px-Howard_University_edit-a-thon_B.JPG 2x" data-file-width="5184" data-file-height="3456" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Howard_University_edit-a-thon_B.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Edit-a-thon" title="Edit-a-thon">Edit-a-thon</a> for <a href="/wiki/Black_History_Month" title="Black History Month">Black History Month</a> at <a href="/wiki/Howard_University" title="Howard University">Howard University</a>, a historically-black university</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:BLT_NewOrleans_00.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/BLT_NewOrleans_00.jpg/220px-BLT_NewOrleans_00.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/BLT_NewOrleans_00.jpg/330px-BLT_NewOrleans_00.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/BLT_NewOrleans_00.jpg/440px-BLT_NewOrleans_00.jpg 2x" data-file-width="693" data-file-height="693" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BLT_NewOrleans_00.jpg" class="internal" title="Enlarge"></a></div>
+Edit-a-thon for Visual Artists of the African Diaspora at the Joan Mitchell Center, hosted by <a href="/wiki/Wikipedia:Meetup/Black_Lunch_Table" class="mw-redirect" title="Wikipedia:Meetup/Black Lunch Table">Black Lunch Table</a> in New Orleans</div>
+</div>
+</div>
+<p>There is a systemic <b>racial bias on Wikipedia</b> due to an under-representation of <a href="/wiki/People_of_color" class="mw-redirect" title="People of color">people of color</a> within its editor base.<sup id="cite_ref-philly_1-0" class="reference"><a href="#cite_note-philly-1">[1]</a></sup> The past president of <a href="/wiki/List_of_Wikimedia_chapters" title="List of Wikimedia chapters">Wikimedia D.C.</a>, James Hare, noted that "a lot of <a href="/wiki/African-American_history" title="African-American history">black history</a> is left out" of Wikipedia, due to articles predominately being written by white editors.<sup id="cite_ref-NYtimes_2-0" class="reference"><a href="#cite_note-NYtimes-2">[2]</a></sup> Articles that do exist on African topics are, according to some critics, largely edited by editors from Europe and North America and thus reflect their knowledge and consumption of media, which "tend to perpetuate a negative image" of Africa.<sup id="cite_ref-BusinessDay_3-0" class="reference"><a href="#cite_note-BusinessDay-3">[3]</a></sup> Maira Liriano of the <a href="/wiki/Schomburg_Center_for_Research_in_Black_Culture" title="Schomburg Center for Research in Black Culture">Schomburg Center for Research in Black Culture</a>, has argued that the lack of information regarding <a href="/wiki/African_diaspora" title="African diaspora">black history</a> on Wikipedia "makes it seem like it's not important."<sup id="cite_ref-Fast_Company_4-0" class="reference"><a href="#cite_note-Fast_Company-4">[4]</a></sup></p>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Discrimination" title="Category:Discrimination">a series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Discrimination" title="Discrimination">Discrimination</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-left:0; padding-right:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:thistle;padding-bottom:0;text-align:center;">General forms</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li><a href="/wiki/Ageism" title="Ageism">Age</a></li>
+<li><a href="/wiki/Caste" title="Caste">Caste</a></li>
+<li><a href="/wiki/Class_discrimination" title="Class discrimination">Class</a></li>
+<li><a href="/wiki/Discrimination_based_on_skin_color" title="Discrimination based on skin color">Color</a></li>
+<li><a href="/wiki/Ableism" title="Ableism">Disability</a></li>
+<li><a href="/wiki/Discrimination_against_non-binary_gender_persons" title="Discrimination against non-binary gender persons">Gender</a></li>
+<li><a href="/wiki/Genetic_discrimination" title="Genetic discrimination">Genotype</a></li>
+<li><a href="/wiki/Discrimination_based_on_hair_texture" title="Discrimination based on hair texture">Hair</a></li>
+<li><a href="/wiki/Height_discrimination" title="Height discrimination">Height</a></li>
+<li><a href="/wiki/Linguistic_discrimination" title="Linguistic discrimination">Language</a></li>
+<li><a href="/wiki/Lookism" title="Lookism">Looks</a></li>
+<li><a href="/wiki/Mentalism_(discrimination)" title="Mentalism (discrimination)">Mental condition</a></li>
+<li><a href="/wiki/Racism" title="Racism">Race&#160;/ Ethnicity&#160;/ Nationality</a></li>
+<li><a href="/wiki/Rankism" title="Rankism">Rank</a></li>
+<li><a href="/wiki/Religious_discrimination" title="Religious discrimination">Religion</a></li>
+<li><a href="/wiki/Sexism" title="Sexism">Sex</a></li>
+<li><a href="/wiki/Sexualism" class="mw-redirect" title="Sexualism">Sexuality</a></li>
+<li><a href="/wiki/Sizeism" title="Sizeism">Size</a></li>
+<li><a href="/wiki/Speciesism" title="Speciesism">Species</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:thistle;">Specific forms</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;font-size:50%;line-height:0.5em;">&#160;</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:thistle;padding-bottom:0;text-align:center;;background:transparent;">Social</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li><a href="/wiki/Discrimination_against_people_with_HIV/AIDS" title="Discrimination against people with HIV/AIDS">AIDS stigma</a></li>
+<li><a href="/wiki/Adultism" title="Adultism">Adultism</a></li>
+<li><a href="/wiki/Persecution_of_people_with_albinism" title="Persecution of people with albinism">Anti-albinism</a></li>
+<li><a href="/wiki/Persecution_of_people_with_autism" title="Persecution of people with autism">Anti-autism</a></li>
+<li><a href="/wiki/Discrimination_against_the_homeless" title="Discrimination against the homeless">Anti-homelessness</a></li>
+<li><a href="/wiki/Anti-intellectualism" title="Anti-intellectualism">Anti-intellectualism</a></li>
+<li><a href="/wiki/Discrimination_against_intersex_people" title="Discrimination against intersex people">Anti-intersex</a></li>
+<li><a href="/wiki/Bias_against_left-handed_people" title="Bias against left-handed people">Anti-left handedness</a></li>
+<li><a href="/wiki/Anti-Masonry" title="Anti-Masonry">Anti-Masonry</a></li>
+<li><a href="/wiki/Audism" title="Audism">Audism</a></li>
+<li><a href="/wiki/Discrimination_against_non-binary_gender_persons" title="Discrimination against non-binary gender persons">Binarism</a></li>
+<li><a href="/wiki/Biphobia" title="Biphobia">Biphobia</a></li>
+<li><a href="/wiki/Cronyism" title="Cronyism">Cronyism</a></li>
+<li><a href="/wiki/Elitism" title="Elitism">Elitism</a></li>
+<li><a href="/wiki/Ephebiphobia" title="Ephebiphobia">Ephebiphobia</a></li>
+<li><a href="/wiki/Anti-fat_bias" title="Anti-fat bias">Fatism</a></li>
+<li><a href="/wiki/Genderism" title="Genderism">Genderism</a></li>
+<li><a href="/wiki/Gerontophobia" title="Gerontophobia">Gerontophobia</a></li>
+<li><a href="/wiki/Heteronormativity" title="Heteronormativity">Heteronormativity</a></li>
+<li><a href="/wiki/Heterosexism" title="Heterosexism">Heterosexism</a></li>
+<li><a href="/wiki/Homophobia" title="Homophobia">Homophobia</a></li>
+<li><a href="/wiki/Leprosy_stigma" title="Leprosy stigma">Leprosy stigma</a></li>
+<li><a href="/wiki/Lesbophobia" title="Lesbophobia">Lesbophobia</a></li>
+<li><a href="/wiki/Mentalism_(discrimination)" title="Mentalism (discrimination)">Mentalism</a></li>
+<li><a href="/wiki/Misandry" title="Misandry">Misandry</a></li>
+<li><a href="/wiki/Misogyny" title="Misogyny">Misogyny</a></li>
+<li><a href="/wiki/Nepotism" title="Nepotism">Nepotism</a></li>
+<li><a href="/wiki/Fear_of_children" title="Fear of children">Pedophobia</a></li>
+<li><a href="/wiki/Pregnancy_discrimination" title="Pregnancy discrimination">Pregnancy</a></li>
+<li><a href="/wiki/Reverse_discrimination" title="Reverse discrimination">Reverse</a></li>
+<li><a href="/wiki/Sectarianism" title="Sectarianism">Sectarianism</a></li>
+<li><a href="/wiki/Discrimination_based_on_skin_color" title="Discrimination based on skin color">Shadism</a></li>
+<li><a href="/wiki/Supremacism" title="Supremacism">Supremacism</a>
+<ul>
+<li><a href="/wiki/Racism_in_the_Arab_world" title="Racism in the Arab world">Arab</a></li>
+<li><a href="/wiki/Black_supremacy" title="Black supremacy">Black</a></li>
+<li><a href="/wiki/White_supremacy" title="White supremacy">White</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Transmisogyny" title="Transmisogyny">Transmisogyny</a></li>
+<li><a href="/wiki/Transphobia" title="Transphobia">Transphobia</a></li>
+<li><a href="/wiki/Xenophobia" title="Xenophobia">Xenophobia</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-left:0; padding-right:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:thistle;padding-bottom:0;text-align:center;;background:transparent;">Manifestations</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li><a href="/wiki/Animal_cruelty" class="mw-redirect" title="Animal cruelty">Animal cruelty</a></li>
+<li><a href="/wiki/Animal_testing" title="Animal testing">Animal testing</a></li>
+<li><a href="/wiki/Blood_libel" title="Blood libel">Blood libel</a></li>
+<li><a href="/wiki/Blood_sport" title="Blood sport">Blood sport</a></li>
+<li><a href="/wiki/Carnism" title="Carnism">Carnism</a></li>
+<li><a href="/wiki/Class_conflict" title="Class conflict">Class conflict</a></li>
+<li><a href="/wiki/Compulsory_sterilization" title="Compulsory sterilization">Compulsory sterilization</a></li>
+<li><a href="/wiki/Counter-jihad" title="Counter-jihad">Counter-jihad</a></li>
+<li><a href="/wiki/Cultural_genocide" title="Cultural genocide">Cultural genocide</a></li>
+<li><a href="/wiki/Democide" title="Democide">Democide</a></li>
+<li><a href="/wiki/Disability_hate_crime" title="Disability hate crime">Disability hate crime</a></li>
+<li><a href="/wiki/Economic_discrimination" title="Economic discrimination">Economic</a></li>
+<li><a href="/wiki/Eliminationism" title="Eliminationism">Eliminationism</a></li>
+<li><a href="/wiki/Employment_discrimination" title="Employment discrimination">Employment</a></li>
+<li><a href="/wiki/Enemy_of_the_people" title="Enemy of the people">Enemy of the people</a></li>
+<li><a href="/wiki/Ethnic_cleansing" title="Ethnic cleansing">Ethnic cleansing</a></li>
+<li><a href="/wiki/Ethnic_hatred" title="Ethnic hatred">Ethnic hatred</a></li>
+<li><a href="/wiki/Ethnic_joke" title="Ethnic joke">Ethnic joke</a></li>
+<li><a href="/wiki/Ethnocide" title="Ethnocide">Ethnocide</a></li>
+<li><a href="/wiki/Forced_conversion" title="Forced conversion">Forced conversion</a></li>
+<li><a href="/wiki/Freak_show" title="Freak show">Freak show</a></li>
+<li><a href="/wiki/Gay_bashing" title="Gay bashing">Gay bashing</a></li>
+<li><a href="/wiki/Gendercide" title="Gendercide">Gendercide</a></li>
+<li><a href="/wiki/Genital_modification_and_mutilation" title="Genital modification and mutilation">Genital mutilation</a></li>
+<li><a href="/wiki/Genocide" title="Genocide">Genocide</a>
+<ul>
+<li><a href="/wiki/Genocides_in_history" title="Genocides in history">examples</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Glass_ceiling" title="Glass ceiling">Glass ceiling</a></li>
+<li><a href="/wiki/Defamation" title="Defamation">Group libel</a></li>
+<li><a href="/wiki/Hate_crime" title="Hate crime">Hate crime</a></li>
+<li><a href="/wiki/Hate_group" title="Hate group">Hate group</a></li>
+<li><a href="/wiki/Hate_speech" title="Hate speech">Hate speech</a></li>
+<li><a href="/wiki/Homeless_dumping" title="Homeless dumping">Homeless dumping</a></li>
+<li><a href="/wiki/Housing_discrimination" title="Housing discrimination">Housing</a></li>
+<li><a href="/wiki/Indian_rolling" title="Indian rolling">Indian rolling</a></li>
+<li><a href="/wiki/Violence_against_LGBT_people" title="Violence against LGBT people">LGBT hate crime</a></li>
+<li><a href="/wiki/Lavender_scare" title="Lavender scare">Lavender scare</a></li>
+<li><a href="/wiki/Lynching" title="Lynching">Lynching</a></li>
+<li><a href="/wiki/Meat_eating" class="mw-redirect" title="Meat eating">Meat eating</a></li>
+<li><a href="/wiki/Mortgage_discrimination" title="Mortgage discrimination">Mortgage</a></li>
+<li><a href="/wiki/Persecution" title="Persecution">Persecution</a></li>
+<li><a href="/wiki/Stop_Murder_Music" title="Stop Murder Music">Murder music</a></li>
+<li><a href="/wiki/Occupational_segregation" title="Occupational segregation">Occupational segregation</a></li>
+<li><a href="/wiki/Persecution" title="Persecution">Persecution</a></li>
+<li><a href="/wiki/Pogrom" title="Pogrom">Pogrom</a></li>
+<li><a href="/wiki/Purge" title="Purge">Purge</a></li>
+<li><a href="/wiki/Ethnic_conflict" title="Ethnic conflict">Race war</a></li>
+<li><a href="/wiki/Red_Scare" title="Red Scare">Red Scare</a></li>
+<li><a href="/wiki/Religious_persecution" title="Religious persecution">Religious persecution</a></li>
+<li><a href="/wiki/Scapegoating" title="Scapegoating">Scapegoating</a></li>
+<li><a href="/wiki/Segregation_academy" title="Segregation academy">Segregation academy</a></li>
+<li><a href="/wiki/Sex-selective_abortion" title="Sex-selective abortion">Sex-selective abortion</a></li>
+<li><a href="/wiki/Slavery" title="Slavery">Slavery</a></li>
+<li><a href="/wiki/Slut-shaming" title="Slut-shaming">Slut-shaming</a></li>
+<li><a href="/wiki/Trans_bashing" title="Trans bashing">Trans bashing</a></li>
+<li><a href="/wiki/Victimisation" title="Victimisation">Victimisation</a></li>
+<li><a href="/wiki/Violence_against_women" title="Violence against women">Violence against women</a></li>
+<li><a href="/wiki/White_flight" title="White flight">White flight</a></li>
+<li><a href="/wiki/White_power_music" title="White power music">White power music</a></li>
+<li><a href="/wiki/Wife_selling" title="Wife selling">Wife selling</a></li>
+<li><a href="/wiki/Witch-hunt" title="Witch-hunt">Witch-hunt</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:thistle;padding-bottom:0;text-align:center;;background:transparent;">Policies</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li>Segregation
+<ul>
+<li><a href="/wiki/Age_segregation" title="Age segregation">age</a></li>
+<li><a href="/wiki/Racial_segregation" title="Racial segregation">racial</a></li>
+<li><a href="/wiki/Religious_segregation" title="Religious segregation">religious</a></li>
+<li><a href="/wiki/Sex_segregation" title="Sex segregation">sex</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Age_of_candidacy" title="Age of candidacy">Age of candidacy</a></li>
+<li><a href="/wiki/Blood_quantum_laws" title="Blood quantum laws">Blood quantum</a></li>
+<li><a href="/wiki/Limpieza_de_sangre" title="Limpieza de sangre">Cleanliness of blood</a></li>
+<li><a href="/wiki/Crime_of_apartheid" title="Crime of apartheid">Crime of apartheid</a></li>
+<li>Disabilities
+<ul>
+<li><a href="/wiki/Disabilities_(Jewish)" title="Disabilities (Jewish)">Jewish</a></li>
+<li><a href="/wiki/Disabilities_(Catholics)" title="Disabilities (Catholics)">Catholic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ethnocracy" title="Ethnocracy">Ethnocracy</a></li>
+<li><a href="/wiki/Gender_pay_gap" title="Gender pay gap">Gender pay gap</a></li>
+<li><a href="/wiki/Gender_role" title="Gender role">Gender roles</a></li>
+<li><a href="/wiki/Gerontocracy" title="Gerontocracy">Gerontocracy</a></li>
+<li><a href="/wiki/Gerrymandering" title="Gerrymandering">Gerrymandering</a></li>
+<li><a href="/wiki/Ghetto_benches" title="Ghetto benches">Ghetto benches</a></li>
+<li><a href="/wiki/Internment" title="Internment">Internment</a></li>
+<li><a href="/wiki/Jewish_quota" title="Jewish quota">Jewish quota</a></li>
+<li><a href="/wiki/Jim_Crow_laws" title="Jim Crow laws">Jim Crow laws</a></li>
+<li><a href="/wiki/Law_for_Protection_of_the_Nation" title="Law for Protection of the Nation">Law for Protection of the Nation</a></li>
+<li><a href="/wiki/McCarthyism" title="McCarthyism">McCarthyism</a></li>
+<li><a href="/wiki/Men_who_have_sex_with_men_blood_donor_controversy" title="Men who have sex with men blood donor controversy">MSM blood donor controversy</a></li>
+<li><a href="/wiki/Nonperson" title="Nonperson">Nonpersons</a></li>
+<li><a href="/wiki/Numerus_clausus" title="Numerus clausus"><i>Numerus clausus</i> (as religious or racial quota)</a></li>
+<li><a href="/wiki/Nuremberg_Laws" title="Nuremberg Laws">Nuremberg Laws</a></li>
+<li><a href="/wiki/One-drop_rule" title="One-drop rule">One-drop rule</a></li>
+<li><a href="/wiki/Racial_quota" title="Racial quota">Racial quota</a></li>
+<li><a href="/wiki/Racial_steering" title="Racial steering">Racial steering</a></li>
+<li><a href="/wiki/Redlining" title="Redlining">Redlining</a></li>
+<li><a href="/wiki/Same-sex_marriage" title="Same-sex marriage">Same-sex marriage (laws and issues prohibiting)</a></li>
+<li><a href="/wiki/Sodomy_law" title="Sodomy law">Sodomy law</a></li>
+<li><a href="/wiki/Ugly_law" title="Ugly law">Ugly law</a></li>
+<li><a href="/wiki/Voter_suppression" title="Voter suppression">Voter suppression</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-left:0; padding-right:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:thistle;padding-bottom:0;text-align:center;">Countermeasures</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li><a href="/wiki/Affirmative_action" title="Affirmative action">Affirmative action</a></li>
+<li><a href="/wiki/Anti-discrimination_law" title="Anti-discrimination law">Anti-discrimination law</a></li>
+<li><a href="/wiki/Classism" class="mw-redirect" title="Classism">Classism</a></li>
+<li><a href="/wiki/Cultural_assimilation" title="Cultural assimilation">Cultural assimilation</a></li>
+<li><a href="/wiki/Cultural_pluralism" title="Cultural pluralism">Cultural pluralism</a></li>
+<li><a href="/wiki/Desegregation" title="Desegregation">Desegregation</a></li>
+<li><a href="/wiki/Diversity" class="mw-disambig" title="Diversity">Diversity</a></li>
+<li><a href="/wiki/Empowerment" title="Empowerment">Empowerment</a></li>
+<li><a href="/wiki/Ethnopluralism" title="Ethnopluralism">Ethnopluralism</a></li>
+<li><a href="/wiki/Feminism" title="Feminism">Feminism</a></li>
+<li><a href="/wiki/Human_rights" title="Human rights">Human rights</a></li>
+<li><a href="/wiki/Intersex_human_rights" title="Intersex human rights">Intersex rights</a></li>
+<li><a href="/wiki/Multiculturalism" title="Multiculturalism">Multiculturalism</a></li>
+<li><a href="/wiki/Racial_integration" title="Racial integration">Racial integration</a></li>
+<li><a href="/wiki/Religious_persecution" title="Religious persecution">Religious persecution</a></li>
+<li><a href="/wiki/Self-determination" title="Self-determination">Self-determination</a></li>
+<li><a href="/wiki/Social_integration" title="Social integration">Social integration</a></li>
+<li><a href="/wiki/Inclusivity" class="mw-redirect mw-disambig" title="Inclusivity">Inclusivity</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-left:0; padding-right:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:thistle;padding-bottom:0;text-align:center;">Related topics</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li><a href="/wiki/Allophilia" title="Allophilia">Allophilia</a></li>
+<li><a href="/wiki/List_of_anti-cultural,_anti-national,_and_anti-ethnic_terms" title="List of anti-cultural, anti-national, and anti-ethnic terms">Anti-cultural sentiment</a></li>
+<li><a href="/wiki/Cultural_assimilation" title="Cultural assimilation">Assimilation</a></li>
+<li><a href="/wiki/Bias" title="Bias">Bias</a></li>
+<li><a href="/wiki/Christian_privilege" title="Christian privilege">Christian privilege</a></li>
+<li><a href="/wiki/Diversity_(politics)" title="Diversity (politics)">Diversity</a></li>
+<li><a href="/wiki/Ethnic_penalty" title="Ethnic penalty">Ethnic penalty</a></li>
+<li><a href="/wiki/Eugenics" title="Eugenics">Eugenics</a></li>
+<li><a href="/wiki/Intersectionality" title="Intersectionality">Intersectionality</a></li>
+<li><a href="/wiki/Male_privilege" title="Male privilege">Male privilege</a></li>
+<li><a href="/wiki/Multiculturalism" title="Multiculturalism">Multiculturalism</a></li>
+<li><a href="/wiki/Neurodiversity" title="Neurodiversity">Neurodiversity</a></li>
+<li><a href="/wiki/Oppression" title="Oppression">Oppression</a></li>
+<li><a href="/wiki/Police_brutality" title="Police brutality">Police brutality</a></li>
+<li><a href="/wiki/Political_correctness" title="Political correctness">Political correctness</a></li>
+<li><a href="/wiki/Power_distance" title="Power distance">Power distance</a></li>
+<li><a href="/wiki/Prejudice" title="Prejudice">Prejudice</a></li>
+<li><a href="/wiki/Racial_bias_in_criminal_news_in_the_United_States" title="Racial bias in criminal news in the United States">Racial bias in criminal news</a></li>
+<li><a href="/wiki/Racism_by_country" title="Racism by country">Racism by country</a></li>
+<li><a href="/wiki/Regressive_left" title="Regressive left">Regressive left</a></li>
+<li><a href="/wiki/Religious_intolerance" title="Religious intolerance">Religious intolerance</a></li>
+<li><a href="/wiki/Second-generation_gender_bias" title="Second-generation gender bias">Second-generation gender bias</a></li>
+<li><a href="/wiki/Snob" title="Snob">Snobbery</a></li>
+<li><a href="/wiki/Social_exclusion" title="Social exclusion">Social exclusion</a></li>
+<li><a href="/wiki/Social_stigma" title="Social stigma">Social stigma</a></li>
+<li><a href="/wiki/Stereotype" title="Stereotype">Stereotype</a>
+<ul>
+<li><a href="/wiki/Stereotype_threat" title="Stereotype threat">threat</a></li>
+</ul>
+</li>
+<li><a href="/wiki/White_privilege" title="White privilege">White privilege</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;padding-top:0.1em;font-style:italic;"><a href="/wiki/File:Disclogo1.svg" class="image"><img alt="Disclogo1.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Disclogo1.svg/10px-Disclogo1.svg.png" width="10" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Disclogo1.svg/16px-Disclogo1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Disclogo1.svg/21px-Disclogo1.svg.png 2x" data-file-width="169" data-file-height="254" /></a> <a href="/wiki/Portal:Discrimination" title="Portal:Discrimination">Discrimination portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Discrimination_sidebar" title="Template:Discrimination sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Discrimination_sidebar" title="Template talk:Discrimination sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Discrimination_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>Different theories have been provided to explain these racial discrepancies. Jay Cassano, writing for <i><a href="/wiki/Fast_Company_(magazine)" title="Fast Company (magazine)">Fast Company</a></i> magazine, argued that Wikipedia's small proportion of black editors is a result of the small black presence within the technology sector, and a relative lack of reliable access to the Internet.<sup id="cite_ref-Fast_Company_4-1" class="reference"><a href="#cite_note-Fast_Company-4">[4]</a></sup> <a href="/wiki/Katherine_Maher" title="Katherine Maher">Katherine Maher</a>, executive director of the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>, has argued that focuses in Wikipedia's content are representative of those of society as a whole. She said that Wikipedia could only represent that which was referenced in <a href="/wiki/Secondary_sources" class="mw-redirect" title="Secondary sources">secondary sources</a>, which historically have been favourable towards and focused on white men.<sup id="cite_ref-Wired_5-0" class="reference"><a href="#cite_note-Wired-5">[5]</a></sup> “Studies have shown that content on Wikipedia suffers from the bias of its editors – [who are] mainly <a href="/wiki/High_technology" class="mw-redirect" title="High technology">technically inclined</a>, English-speaking, <a href="/wiki/White-collar_worker" title="White-collar worker">white-collar</a> men living in majority-Christian, developed countries in the Northern hemisphere”.<sup id="cite_ref-huffpo-15apr2015_6-0" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Analysis"><span class="tocnumber">1</span> <span class="toctext">Analysis</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Responses"><span class="tocnumber">2</span> <span class="toctext">Responses</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Analysis">Analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Racial_bias_on_Wikipedia&amp;action=edit&amp;section=1" title="Edit section: Analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to Maira Liriano, the associate chief librarian at New York City’s Schomburg Center, one of the biggest challenges is getting new editors to keep editing Wikipedia after the edit-a-thon is over.<sup id="cite_ref-huffpo-15apr2015_6-1" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup> One challenge with retaining new editors is that the “[n]erdy white guys” who predominate as Wikipedia editors “…aren't always warm and nurturing” to new editors.<sup id="cite_ref-huffpo-15apr2015_6-2" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup> For example, when new editors add content on Black history, their content may be deleted by established editors. As well, when new editors are trying to advocate for the inclusion of Black history content on Wikipedia’s talk pages (each article has an associated talk page for discussion of changes), the “[c]omments [to new editors] on [Wikipedia article] talk pages can be very blunt.”<sup id="cite_ref-huffpo-15apr2015_6-3" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup> An issue for women of colour is that “women in many communities have less leisure time than men,” according to Siko Bouterse, the director of community resources at the Wikimedia Foundation.<sup id="cite_ref-huffpo-15apr2015_6-4" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup></p>
+<p>Another challenge for editors trying to add Black history articles to Wikipedia is the requirement that potential article topics, such as historical individuals or events, meet Wikipedia’s “<a href="/wiki/Wikipedia:Notability" title="Wikipedia:Notability">notability</a>” criteria.<sup id="cite_ref-huffpo-15apr2015_6-5" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup> ‘’HuffPost’’ states that the Wikipedia notability criteria “…is a troubling problem for those fighting for more content about women and minorities”, because “…there's simply less [published] documentation on many accomplished women and minorities throughout history -- they were often ignored, after all, or forced to make their contributions as someone else's assistant”.<sup id="cite_ref-huffpo-15apr2015_6-6" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup></p>
+<p>Maher states that one issue is that “…content on Wikipedia has to be backed up by <a href="/wiki/Secondary_source" title="Secondary source">secondary sources</a>, sources that she says throughout history have contained a bias toward white men”; “…people of color have not been represented in mainstream knowledge creation or inclusion in that knowledge,” as “…encyclopedias of old were mostly written by European men.”<sup id="cite_ref-Wired_5-1" class="reference"><a href="#cite_note-Wired-5">[5]</a></sup> Another issue is the “often abusive relationships between editors” on talk pages, which “…can make Wikipedia a less than welcoming place for …minority groups looking to get involved” in editing Wikipedia.<sup id="cite_ref-Wired_5-2" class="reference"><a href="#cite_note-Wired-5">[5]</a></sup> The Wikipedia editing "...community can also appear hostile, both to outsiders looking in and to those involved in it" by editing articles; indeed, article "[t]alk pages [discussions about articles] routinely devolve into seemingly petty arguments".<sup id="cite_ref-atlantic-18nov2015_7-0" class="reference"><a href="#cite_note-atlantic-18nov2015-7">[7]</a></sup></p>
+<p>There has been "...criticism of bias [on Wikipedia], both on individual pages [articles] and as a systemic mind-set that the editing network has as a whole."<sup id="cite_ref-atlantic-18nov2015_7-1" class="reference"><a href="#cite_note-atlantic-18nov2015-7">[7]</a></sup> <a href="/w/index.php?title=William_Beutler&amp;action=edit&amp;redlink=1" class="new" title="William Beutler (page does not exist)">William Beutler</a>, author of the blog <a href="/w/index.php?title=The_Wikipedian&amp;action=edit&amp;redlink=1" class="new" title="The Wikipedian (page does not exist)">The Wikipedian</a> and a consultant on Wikipedia issues for clients, states that "...certain areas of Wikipedia, including certain political areas of Wikipedia...tend to be controlled by a small number of editors who tend to see things the same way."<sup id="cite_ref-atlantic-18nov2015_7-2" class="reference"><a href="#cite_note-atlantic-18nov2015-7">[7]</a></sup> Various communities have raised concerns about "...Wikipedia and its editors, saying that the pages had obvious systemic bias against them."<sup id="cite_ref-atlantic-18nov2015_7-3" class="reference"><a href="#cite_note-atlantic-18nov2015-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Responses">Responses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Racial_bias_on_Wikipedia&amp;action=edit&amp;section=2" title="Edit section: Responses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:WikiConference_North_America_20170810-7225.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/WikiConference_North_America_20170810-7225.jpg/220px-WikiConference_North_America_20170810-7225.jpg" width="220" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/WikiConference_North_America_20170810-7225.jpg/330px-WikiConference_North_America_20170810-7225.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/WikiConference_North_America_20170810-7225.jpg/440px-WikiConference_North_America_20170810-7225.jpg 2x" data-file-width="5098" data-file-height="3474" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WikiConference_North_America_20170810-7225.jpg" class="internal" title="Enlarge"></a></div>
+Sherry Antoine of <a href="/wiki/AfroCrowd" title="AfroCrowd">AfroCROWD</a> presents at <a href="/wiki/WikiConference_North_America" title="WikiConference North America">WikiConference North America</a>, August 2017</div>
+</div>
+</div>
+<p>Attempts have been made to rectify racial biases through <a href="/wiki/Edit-a-thon" title="Edit-a-thon">edit-a-thons</a>, organised events at which Wikipedia editors attempt to improve coverage of certain topics and train new editors. In February 2015, multiple edit-a-thons were organised to commemorate <a href="/wiki/Black_History_Month" title="Black History Month">Black History Month</a> in the <a href="/wiki/United_States_of_America" class="mw-redirect" title="United States of America">United States of America</a>. One such edit-a-thon was organized by the <a href="/wiki/White_House" title="White House">White House</a> to create and improve articles on <a href="/wiki/African_Americans" title="African Americans">African Americans</a> in science, technology, engineering and mathematics (<a href="/wiki/STEM" class="mw-redirect" title="STEM">STEM</a>).<sup id="cite_ref-Wired_5-3" class="reference"><a href="#cite_note-Wired-5">[5]</a></sup> The <a href="/wiki/Schomburg_Center" class="mw-redirect" title="Schomburg Center">Schomburg Center</a>, <a href="/wiki/Howard_University" title="Howard University">Howard University</a>, and <a href="/wiki/National_Public_Radio" class="mw-redirect" title="National Public Radio">National Public Radio</a>, also coordinated edit-a-thons to improve coverage of black history.<sup id="cite_ref-NYtimes_2-1" class="reference"><a href="#cite_note-NYtimes-2">[2]</a></sup> “Wikipedia editors… have held “edit-a-thons," to "....encourage others to come learn how to…contribute content on subjects that have been largely ignored.”<sup id="cite_ref-huffpo-15apr2015_6-7" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup> Liriano has endorsed Wikipedia edit-a-thons, stating that for Wikipedia’s content to “…be representative, everyone has to participate”</p>
+<p>In 2015 and 2016, the Schomburg Center held a “Black Life Matters” edit-a-thon to coincide with <a href="/wiki/Black_History_Month" title="Black History Month">Black History Month</a>. Volunteer editors added coverage about Black historical individuals and about key concepts in black culture (e.g., about the <a href="/wiki/Harlem_Book_Fair" title="Harlem Book Fair">Harlem Book Fair</a> and about Black costume designer <a href="/wiki/Judy_Dearing" title="Judy Dearing">Judy Dearing</a>)<sup id="cite_ref-huffpo-15apr2015_6-8" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup> New articles about Black history and Black historical individuals were also created. The 2016 edit-a-thon was organized by <a href="/wiki/AfroCrowd" title="AfroCrowd">AfroCROWD</a>.<sup id="cite_ref-nytimes-29feb2016_8-0" class="reference"><a href="#cite_note-nytimes-29feb2016-8">[8]</a></sup></p>
+<p>Wikipedia editors Michael Mandiberg and Dorothy Howard have organized diversity-themed edit-a-thons to “…help raise awareness of some of the glaring holes on Wikipedia, and the need for people with diverse backgrounds and knowledge to fill them”.<sup id="cite_ref-Wired_5-4" class="reference"><a href="#cite_note-Wired-5">[5]</a></sup> Liriano stated “It's really important that people of color know that there's this gap” of coverage of Black history on Wikipedia “…and they can correct it” by participating as editors.<sup id="cite_ref-huffpo-15apr2015_6-9" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup> In the US, the <a href="/wiki/National_Science_Foundation" title="National Science Foundation">National Science Foundation</a> has provided $200,000 to fund research on the issue of bias in the coverage of topics in Wikipedia.<sup id="cite_ref-huffpo-15apr2015_6-10" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup> The National Science Foundation has commissioned two studies of why there is bias in Wikipedia editing.<sup id="cite_ref-Wired_5-5" class="reference"><a href="#cite_note-Wired-5">[5]</a></sup></p>
+<p>The <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a> is trying to deal with the issue of racial bias in Wikipedia. In 2015, it was reported that the Wikipedia Foundation made numerous grants “…to organizations in the "Global South" -- including Africa, Latin America, Asia and the Middle East -- with plans to improve [coverage of Global South topics in] Wikipedia.“<sup id="cite_ref-huffpo-15apr2015_6-11" class="reference"><a href="#cite_note-huffpo-15apr2015-6">[6]</a></sup> While Wikipedia supports these edit-a-thons, the organization has always stressed that adequate citations must always be present and neutrality must always be maintained.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Wikipedia co-founder <a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a> has stated that the Wikimedia Foundation has “completely failed” to meet its goals of resolving the lack of diversity amongst Wikipedia editors.<sup id="cite_ref-Wired_5-6" class="reference"><a href="#cite_note-Wired-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Racial_bias_on_Wikipedia&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:AmericaAfrica.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AmericaAfrica.svg/32px-AmericaAfrica.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AmericaAfrica.svg/48px-AmericaAfrica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AmericaAfrica.svg/64px-AmericaAfrica.svg.png 2x" data-file-width="927" data-file-height="592" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:African_American" title="Portal:African American">African American portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Disclogo1.svg/18px-Disclogo1.svg.png" width="18" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Disclogo1.svg/28px-Disclogo1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Disclogo1.svg/37px-Disclogo1.svg.png 2x" data-file-width="169" data-file-height="254" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Discrimination" title="Portal:Discrimination">Discrimination portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Criticism_of_Wikipedia" title="Criticism of Wikipedia">Criticism of Wikipedia</a></li>
+<li><a href="/wiki/Gender_bias_on_Wikipedia" title="Gender bias on Wikipedia">Gender bias on Wikipedia</a></li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Racial_bias_on_Wikipedia&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-philly-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-philly_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Melamed, Samantha. <a rel="nofollow" class="external text" href="http://articles.philly.com/2015-03-26/entertainment/60480419_1_new-artists-american-art-philadelphia-museum">"Edit-athon aims to put left-out black artists into Wikipedia"</a>. <i>Philly.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARacial+bias+on+Wikipedia&amp;rft.atitle=Edit-athon+aims+to+put+left-out+black+artists+into+Wikipedia&amp;rft.aufirst=Samantha&amp;rft.aulast=Melamed&amp;rft.genre=unknown&amp;rft.jtitle=Philly.com&amp;rft_id=http%3A%2F%2Farticles.philly.com%2F2015-03-26%2Fentertainment%2F60480419_1_new-artists-american-art-philadelphia-museum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NYtimes-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYtimes_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYtimes_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Smith, Jada. <a rel="nofollow" class="external text" href="https://www.nytimes.com/2015/02/20/us/at-howard-a-historically-black-university-filling-in-wikipedias-gaps-in-color.html">"Howard University Fills in Wikipedia’s Gaps in Black History"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARacial+bias+on+Wikipedia&amp;rft.atitle=Howard+University+Fills+in+Wikipedia%E2%80%99s+Gaps+in+Black+History&amp;rft.aufirst=Jada&amp;rft.aulast=Smith&amp;rft.genre=unknown&amp;rft.jtitle=The+New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2015%2F02%2F20%2Fus%2Fat-howard-a-historically-black-university-filling-in-wikipedias-gaps-in-color.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BusinessDay-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-BusinessDay_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Goko, Colleen. <a rel="nofollow" class="external text" href="http://www.bdlive.co.za/business/technology/2013/09/23/drive-launched-to-africanise-wikipedia">"Drive launched to ‘Africanise’ Wikipedia"</a>. <i><a href="/wiki/Business_Day_(South_Africa)" title="Business Day (South Africa)">BusinessDay</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARacial+bias+on+Wikipedia&amp;rft.atitle=Drive+launched+to+%E2%80%98Africanise%E2%80%99+Wikipedia&amp;rft.aufirst=Colleen&amp;rft.aulast=Goko&amp;rft.genre=unknown&amp;rft.jtitle=BusinessDay&amp;rft_id=http%3A%2F%2Fwww.bdlive.co.za%2Fbusiness%2Ftechnology%2F2013%2F09%2F23%2Fdrive-launched-to-africanise-wikipedia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fast_Company-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fast_Company_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fast_Company_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Cassano, Jay. <a rel="nofollow" class="external text" href="http://www.fastcoexist.com/3041572/black-history-matters-so-why-is-wikipedia-missing-so-much-of-it">"Black History Matters, So Why Is Wikipedia Missing So Much Of It?"</a>. <i><a href="/wiki/Fast_Company_(magazine)" title="Fast Company (magazine)">Fast Company</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARacial+bias+on+Wikipedia&amp;rft.atitle=Black+History+Matters%2C+So+Why+Is+Wikipedia+Missing+So+Much+Of+It%3F&amp;rft.aufirst=Jay&amp;rft.aulast=Cassano&amp;rft.genre=unknown&amp;rft.jtitle=Fast+Company&amp;rft_id=http%3A%2F%2Fwww.fastcoexist.com%2F3041572%2Fblack-history-matters-so-why-is-wikipedia-missing-so-much-of-it&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Wired-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wired_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wired_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Wired_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Wired_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Wired_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Wired_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Wired_5-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Lapowsky, Issie. <a rel="nofollow" class="external text" href="https://www.wired.com/2015/03/wikipedia-sexism/">"Meet the Editors Fighting Racism and Sexism on Wikipedia"</a>. <i><a href="/wiki/Wired_(magazine)" title="Wired (magazine)">Wired</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARacial+bias+on+Wikipedia&amp;rft.atitle=Meet+the+Editors+Fighting+Racism+and+Sexism+on+Wikipedia&amp;rft.aufirst=Issie&amp;rft.aulast=Lapowsky&amp;rft.genre=unknown&amp;rft.jtitle=Wired&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2015%2F03%2Fwikipedia-sexism%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-huffpo-15apr2015-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-huffpo-15apr2015_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-huffpo-15apr2015_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-huffpo-15apr2015_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-huffpo-15apr2015_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-huffpo-15apr2015_6-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-huffpo-15apr2015_6-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-huffpo-15apr2015_6-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-huffpo-15apr2015_6-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-huffpo-15apr2015_6-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-huffpo-15apr2015_6-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-huffpo-15apr2015_6-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-huffpo-15apr2015_6-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Boboltz, Sara (15 April 2015). <a rel="nofollow" class="external text" href="http://www.huffingtonpost.ca/entry/wikipedia-gender-racial-bias_n_7054550">"Editors Are Trying To Fix Wikipedia's Gender And Racial Bias Problem"</a>. <i>www.huffingtonpost.ca</i>. Huffington Post<span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARacial+bias+on+Wikipedia&amp;rft.atitle=Editors+Are+Trying+To+Fix+Wikipedia%27s+Gender+And+Racial+Bias+Problem&amp;rft.aufirst=Sara&amp;rft.aulast=Boboltz&amp;rft.date=2015-04-15&amp;rft.genre=unknown&amp;rft.jtitle=www.huffingtonpost.ca&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.ca%2Fentry%2Fwikipedia-gender-racial-bias_n_7054550&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-atlantic-18nov2015-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-atlantic-18nov2015_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-atlantic-18nov2015_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-atlantic-18nov2015_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-atlantic-18nov2015_7-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Montellaro, Zach (18 November 2015). <a rel="nofollow" class="external text" href="https://www.theatlantic.com/politics/archive/2015/11/how-does-political-wikipedia-stay-apolitical/450948/">"How Does Political Wikipedia Stay Apolitical?: The seventh-most visited site is one of the first online listings for any elected official—but how does a site that stakes its reputation on neutrality walk that line"</a>. <i>www.theatlantic.com</i>. The Atlantic<span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARacial+bias+on+Wikipedia&amp;rft.atitle=How+Does+Political+Wikipedia+Stay+Apolitical%3F%3A+The+seventh-most+visited+site+is+one+of+the+first+online+listings+for+any+elected+official%E2%80%94but+how+does+a+site+that+stakes+its+reputation+on+neutrality+walk+that+line&amp;rft.aufirst=Zach&amp;rft.aulast=Montellaro&amp;rft.date=2015-11-18&amp;rft.genre=unknown&amp;rft.jtitle=www.theatlantic.com&amp;rft_id=https%3A%2F%2Fwww.theatlantic.com%2Fpolitics%2Farchive%2F2015%2F11%2Fhow-does-political-wikipedia-stay-apolitical%2F450948%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nytimes-29feb2016-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-nytimes-29feb2016_8-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Allum, Cynthia (29 February 2016). <a rel="nofollow" class="external text" href="http://nytlive.nytimes.com/womenintheworld/2016/02/29/women-leading-movements-to-champion-equality-on-wikipedia/">"Women leading movements to champion equality on Wikipedia"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARacial+bias+on+Wikipedia&amp;rft.atitle=Women+leading+movements+to+champion+equality+on+Wikipedia&amp;rft.aufirst=Cynthia&amp;rft.aulast=Allum&amp;rft.date=2016-02-29&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft_id=http%3A%2F%2Fnytlive.nytimes.com%2Fwomenintheworld%2F2016%2F02%2F29%2Fwomen-leading-movements-to-champion-equality-on-wikipedia%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Reynosa, Peter. <a rel="nofollow" class="external text" href="http://eltecolote.org/content/en/commentary/why-dont-more-latinos-contribute-to-wikipedia/">"Why Don't More Latinos Contribute To Wikipedia?"</a>. <a href="/wiki/El_Tecolote_(newspaper)" title="El Tecolote (newspaper)">El Tecolote</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 3,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARacial+bias+on+Wikipedia&amp;rft.aufirst=Peter&amp;rft.aulast=Reynosa&amp;rft.btitle=Why+Don%27t+More+Latinos+Contribute+To+Wikipedia%3F&amp;rft.genre=unknown&amp;rft.pub=El+Tecolote&amp;rft_id=http%3A%2F%2Feltecolote.org%2Fcontent%2Fen%2Fcommentary%2Fwhy-dont-more-latinos-contribute-to-wikipedia%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20170919073219
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.252 seconds
+Real time usage: 0.343 seconds
+Preprocessor visited node count: 1016/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43308/2097152 bytes
+Template argument size: 586/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.089/10.000 seconds
+Lua memory usage: 4.18 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  243.875      1 -total
+ 35.62%   86.880      1 Template:Reflist
+ 23.83%   58.117      8 Template:Cite_web
+ 17.04%   41.552      1 Template:Globalize
+ 14.94%   36.432      1 Template:Ambox
+ 13.18%   32.133      1 Template:Use_American_English
+ 10.27%   25.042      1 Template:Authority_control
+  9.21%   22.471      1 Template:Discrimination_sidebar
+  5.92%   14.444      2 Template:DMCA
+  5.25%   12.798      2 Template:Dated_maintenance_category
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:46401819-0!canonical and timestamp 20170919073218 and revision id 796499997
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Racial_bias_on_Wikipedia&amp;oldid=796499997">https://en.wikipedia.org/w/index.php?title=Racial_bias_on_Wikipedia&amp;oldid=796499997</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Criticism_of_Wikipedia" title="Category:Criticism of Wikipedia">Criticism of Wikipedia</a></li><li><a href="/wiki/Category:Discrimination" title="Category:Discrimination">Discrimination</a></li><li><a href="/wiki/Category:Ethnocentrism" title="Category:Ethnocentrism">Ethnocentrism</a></li><li><a href="/wiki/Category:Racism" title="Category:Racism">Racism</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_American_English_from_August_2017" title="Category:Use American English from August 2017">Use American English from August 2017</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">All Wikipedia articles written in American English</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2017" title="Category:Use dmy dates from August 2017">Use dmy dates from August 2017</a></li><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_May_2015" title="Category:Articles with limited geographic scope from May 2015">Articles with limited geographic scope from May 2015</a></li><li><a href="/wiki/Category:Pages_in_non-existent_country_centric_categories" title="Category:Pages in non-existent country centric categories">Pages in non-existent country centric categories</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Racial+bias+on+Wikipedia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Racial+bias+on+Wikipedia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Racial_bias_on_Wikipedia" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Racial_bias_on_Wikipedia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Racial_bias_on_Wikipedia">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Racial_bias_on_Wikipedia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Racial_bias_on_Wikipedia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Racial_bias_on_Wikipedia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Racial_bias_on_Wikipedia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Racial_bias_on_Wikipedia&amp;oldid=796499997" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Racial_bias_on_Wikipedia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19894322" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Racial_bias_on_Wikipedia&amp;id=796499997" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Racial+bias+on+Wikipedia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Racial+bias+on+Wikipedia&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DRacial%2Bbias%2Bon%2BWikipedia%26returnto%3DRacial%2Bbias%2Bon%2BWikipedia%26oldid%3D796499997%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Racial_bias_on_Wikipedia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19894322#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 21 August 2017, at 07:55.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Racial_bias_on_Wikipedia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.343","ppvisitednodes":{"value":1016,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43308,"limit":2097152},"templateargumentsize":{"value":586,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  243.875      1 -total"," 35.62%   86.880      1 Template:Reflist"," 23.83%   58.117      8 Template:Cite_web"," 17.04%   41.552      1 Template:Globalize"," 14.94%   36.432      1 Template:Ambox"," 13.18%   32.133      1 Template:Use_American_English"," 10.27%   25.042      1 Template:Authority_control","  9.21%   22.471      1 Template:Discrimination_sidebar","  5.92%   14.444      2 Template:DMCA","  5.25%   12.798      2 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.089","limit":"10.000"},"limitreport-memusage":{"value":4387214,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20170919073219","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>

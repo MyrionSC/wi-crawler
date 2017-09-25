@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikivoyage - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wikivoyage","wgTitle":"Wikivoyage","wgCurRevisionId":801237836,"wgRevisionId":801237836,"wgArticleId":12362880,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 maint: BOT: original-url status unknown","Use mdy dates from January 2013","Pages using deprecated image syntax","Articles containing potentially dated statements from September 2017","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from August 2015","Creative Commons-licensed websites","Internet properties established in 2006","MediaWiki websites","Multilingual websites","Travel websites","Wiki communities","Wikimedia projects","Advertising-free websites"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikivoyage","wgRelevantArticleId":12362880,"wgRequestId":"WcJRMQpAADsAAFqhprMAAABO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q373","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wikivoyage-Logo-v3-en.svg/1200px-Wikivoyage-Logo-v3-en.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wikivoyage"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wikivoyage&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wikivoyage&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikivoyage"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wikivoyage rootpage-Wikivoyage skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Wikivoyage</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable"><span class="plainlinks selfreference noprint">For project information on how Wikivoyage relates to English Wikipedia, see <a href="/wiki/Wikipedia:Wikivoyage" title="Wikipedia:Wikivoyage">Wikipedia:Wikivoyage</a>.</span></div>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Wikivoyage</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Wikivoyage-Logo-v3-en.svg" class="image" title="The current Wikivoyage logo"><img alt="The current Wikivoyage logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wikivoyage-Logo-v3-en.svg/150px-Wikivoyage-Logo-v3-en.svg.png" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wikivoyage-Logo-v3-en.svg/225px-Wikivoyage-Logo-v3-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wikivoyage-Logo-v3-en.svg/300px-Wikivoyage-Logo-v3-en.svg.png 2x" data-file-width="303" data-file-height="303" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Wikivoyage_Splash.png" class="image" title="Screenshot of the English Wikivoyage's new portal"><img alt="Screenshot of the English Wikivoyage's new portal" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wikivoyage_Splash.png/250px-Wikivoyage_Splash.png" width="250" height="179" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wikivoyage_Splash.png/375px-Wikivoyage_Splash.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wikivoyage_Splash.png/500px-Wikivoyage_Splash.png 2x" data-file-width="1280" data-file-height="916" /></a>
+<div>Screenshot of the English Wikivoyage's portal</div>
+</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Type of site</div>
+</th>
+<td><a href="/wiki/Wiki" title="Wiki">Wiki</a></td>
+</tr>
+<tr>
+<th scope="row">Available&#160;in</th>
+<td>18 active editions (English, Chinese, Dutch, Finnish, French, German, Greek, Hebrew, Italian, Persian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Ukrainian, Vietnamese)</td>
+</tr>
+<tr>
+<th scope="row">Headquarters</th>
+<td class="adr"><span class="locality"><a href="/wiki/United_States" title="United States">United States</a></span></td>
+</tr>
+<tr>
+<th scope="row">Owner</th>
+<td><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a> (non-profit)</td>
+</tr>
+<tr>
+<th scope="row">Created&#160;by</th>
+<td>Wikivoyage e.V. association</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td class="url"><span class="url"><a class="external text" href="http://www.wikivoyage.org/">www<wbr />.wikivoyage<wbr />.org</a></span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th>
+<td><img alt="Positive decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/11px-Decrease_Positive.svg.png" title="Positive decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/17px-Decrease_Positive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/22px-Decrease_Positive.svg.png 2x" data-file-width="300" data-file-height="300" /> 22,833 (September 2017<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikivoyage&amp;action=edit">[update]</a></sup>)<sup id="cite_ref-alexa_1-0" class="reference"><a href="#cite_note-alexa-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Commercial</th>
+<td>No</td>
+</tr>
+<tr>
+<th scope="row">Registration</th>
+<td>Optional</td>
+</tr>
+<tr>
+<th scope="row">Launched</th>
+<td>First version (German language) December&#160;10, 2006<span class="noprint">; 10 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2006-12-10</span>)</span>. English-language version January&#160;15, 2013<span class="noprint">; 4 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2013-01-15</span>)</span></td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Content license</div>
+</th>
+<td><a href="/wiki/CC_BY-SA_3.0" class="mw-redirect" title="CC BY-SA 3.0">CC BY-SA 3.0</a></td>
+</tr>
+</table>
+<p><b>Wikivoyage</b> is a free web-based <a href="/wiki/Travel_guide" class="mw-redirect" title="Travel guide">travel guide</a> for travel destinations and travel topics written by volunteer authors. It is a sister project of Wikipedia and supported and hosted by the same non-profit <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>. Wikivoyage has been called the "Wikipedia of travel guides".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>The project was started when editors at the German and then Italian versions of <a href="/wiki/Wikitravel" title="Wikitravel">Wikitravel</a> decided in September 2006 to move their editing activities and then current content to a new site, in accordance with the site license, a procedure known as "<a href="/wiki/Fork_(software_development)" title="Fork (software development)">forking</a>". The resulting site went live as "Wikivoyage" on December 10, 2006 and was owned and operated by a German association set up for that purpose, Wikivoyage e.V. (which continues to be its representative association). Content was published under the <a href="/wiki/Copyleft" title="Copyleft">copyleft</a> license <a href="/wiki/Creative_Commons" title="Creative Commons">Creative Commons Attribution-ShareAlike</a>.</p>
+<p>In 2012, following a lengthy history of dissatisfaction with their existing host,<sup id="cite_ref-wv_faq_3-0" class="reference"><a href="#cite_note-wv_faq-3">[3]</a></sup> the English-language version community of Wikitravel also decided as a community to fork their project. In a two-way move, the English Wikitravel community re-merged with Wikivoyage under the Wikivoyage brand, and also all Wikivoyage language versions moved their operations to be hosted by the Wikimedia Foundation (WMF), a non-profit organization hosting several of the world's largest wiki-based communities such as Wikipedia.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Following agreements by the various communities involved and the Wikimedia Foundation, the site was moved to the WMF servers in December 2012 and the whole of Wikivoyage was officially re-launched as a <a href="/wiki/Wikimedia_project" class="mw-redirect" title="Wikimedia project">Wikimedia project</a> on January 15, 2013, the day of the 12th anniversary of Wikipedia's launch.<sup id="cite_ref-WMF_Press_Release_6-0" class="reference"><a href="#cite_note-WMF_Press_Release-6">[6]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Destinations"><span class="tocnumber">1.1</span> <span class="toctext">Destinations</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Itineraries"><span class="tocnumber">1.2</span> <span class="toctext">Itineraries</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Phrasebooks"><span class="tocnumber">1.3</span> <span class="toctext">Phrasebooks</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Travel_topics"><span class="tocnumber">1.4</span> <span class="toctext">Travel topics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Organization_and_operation"><span class="tocnumber">2</span> <span class="toctext">Organization and operation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Mode_of_operation"><span class="tocnumber">2.1</span> <span class="toctext">Mode of operation</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#License"><span class="tocnumber">2.2</span> <span class="toctext">License</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Information_structure"><span class="tocnumber">2.3</span> <span class="toctext">Information structure</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Languages"><span class="tocnumber">2.4</span> <span class="toctext">Languages</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Grand_Total"><span class="tocnumber">2.5</span> <span class="toctext">Grand Total</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Distribution"><span class="tocnumber">2.6</span> <span class="toctext">Distribution</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Launch"><span class="tocnumber">3.1</span> <span class="toctext">Launch</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Additional_languages_and_migration"><span class="tocnumber">3.2</span> <span class="toctext">Additional languages and migration</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Evolution"><span class="tocnumber">3.3</span> <span class="toctext">Evolution</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Using a <a href="/wiki/Wiki" title="Wiki">wiki</a> model, Wikivoyage is built through collaboration of <i>Wikivoyagers</i> from around the globe. Articles can cover different levels of geographic specificity, from continents to districts of a city. These are logically connected in a hierarchy, by specifying that the location covered in one article "is within" the larger location described by another. The project also includes articles on travel-related topics, phrasebooks for travelers, and suggested itineraries.</p>
+<p>Wikivoyage is a multilingual project available in nine languages, with each language-specific project developed independently. While now a Wikimedia project, it was begun independently. Wikivoyage content is broadly categorized as: destinations, itineraries, phrasebooks, and travel topics.</p>
+<h3><span class="mw-headline" id="Destinations">Destinations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=2" title="Edit section: Destinations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Geographical units within the geographical hierarchy may be described in articles, based on the criterion, "can you sleep there?"</p>
+<p>The hierarchy includes:</p>
+<ul>
+<li><i>Continents</i></li>
+<li><i>Continental sections</i> (like Southeast Asia)</li>
+<li><i>Countries</i></li>
+<li><i>Regions</i> within countries (provinces, counties, states, groups of states etc.)</li>
+<li><i>Cities</i> of any size, including fairly small villages if they are tourist destinations</li>
+<li><i>Districts</i> within large cities</li>
+<li><i>National parks</i> provided they have accommodation for the traveller</li>
+</ul>
+<p><b>Attractions</b> such as hotels, restaurants, bars, stores, nightclubs, tour operators, museums, statues or other works of art, city parks, town squares or streets, festivals or events, transport systems or stations, bodies of water, and uninhabited islands are listed in the article for the place within which they are located.</p>
+<h3><span class="mw-headline" id="Itineraries">Itineraries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=3" title="Edit section: Itineraries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An itinerary describes a group of destinations according to a temporal division rather than a spatial one and will list destinations and attractions to visit during a given amount of time, with recommended durations of stay and routes to follow. Itineraries may cross geographical regions, but usually have a well-defined path.</p>
+<h3><span class="mw-headline" id="Phrasebooks">Phrasebooks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=4" title="Edit section: Phrasebooks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A phrasebook includes:</p>
+<ol>
+<li>An overview of the language, giving a brief history, scope (where it is spoken, how many speakers), alphabet or symbol set, and any other general info on the language.</li>
+<li>A pronunciation guide, with a description of each written symbol in the language (that is, its alphabet), and a pronunciation note for each symbol.</li>
+<li>A phrase list. Each entry in the phrase list includes the word or phrase being translated, the spelling in the local language symbol set as it would be seen written down, and a pronunciation cue.</li>
+</ol>
+<h3><span class="mw-headline" id="Travel_topics">Travel topics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=5" title="Edit section: Travel topics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Travel topics are articles that deal with a specific topic of interest to travelers that is too large or detailed to go in a specific travel guide destination page; travel tips that are so general that they apply to nearly all destinations and do not need to be in each specific travel guide; major events that occur in different places; and specialist travel information, such as regional guides to scuba-diving sites.</p>
+<h2><span class="mw-headline" id="Organization_and_operation">Organization and operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=6" title="Edit section: Organization and operation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Mode_of_operation">Mode of operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=7" title="Edit section: Mode of operation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wikivoyage uses the <a href="/wiki/Free_software" title="Free software">free</a> <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> software (developed for Wikipedia) to allow internet-based editing without requiring registration. Quality assurance occurs in the same way as on Wikipedia: through reciprocal control by editors. The use of the same software is intended to facilitate familiarization with Wikivoyage.</p>
+<h3><span class="mw-headline" id="License">License</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=8" title="Edit section: License">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wikivoyage uses the <a href="/wiki/Creative_Commons" title="Creative Commons">Creative Commons Attribution-ShareAlike</a> license, but not the <a href="/wiki/GNU_free_documentation_license" class="mw-redirect" title="GNU free documentation license">GNU free documentation license</a>. This is intended to facilitate the production of printed guides from a legal point of view. Media files are intended to be published either in the public domain or under multiple licenses (GNU, Creative Commons).</p>
+<h3><span class="mw-headline" id="Information_structure">Information structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=9" title="Edit section: Information structure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The information is built up in a more structured way than usual for encyclopaedias. Articles belonging to a topic are grouped by the <i>categories</i> known from the Mediawiki software as well as through the so-called <i><a href="/wiki/Breadcrumb_(navigation)" title="Breadcrumb (navigation)">bread crumb trails</a></i> which show the geographical connection between the articles.</p>
+<p>In the German-language version, different name spaces are used to separate different topics. The main name space contains travel destinations within their geographical hierarchy. Two other important name spaces are reserved for <i>travel topics</i> and <i>travel news</i>, with the intent to allow a tight interconnection between travel destinations and topics.</p>
+<p>The content design is decided by consensus of the community of authors.</p>
+<h3><span class="mw-headline" id="Languages">Languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=10" title="Edit section: Languages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the time of transfer to WMF, the content of Wikivoyage was available in <a href="/wiki/German_language" title="German language">German</a>, <a href="/wiki/Italian_language" title="Italian language">Italian</a>, <a href="/wiki/English_language" title="English language">English</a>, <a href="/wiki/French_language" title="French language">French</a>, <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>, <a href="/wiki/Russian_language" title="Russian language">Russian</a>, and <a href="/wiki/Swedish_language" title="Swedish language">Swedish</a> languages. The Russian language project is named Викигид (which translates roughly as "wiki guide").</p>
+<p>On January 3, 2013, <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a> and <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> versions were created. In March 2013, <a href="/wiki/Polish_language" title="Polish language">Polish</a> and <a href="/wiki/Romanian_language" title="Romanian language">Romanian</a> versions followed. In April 2013, <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a> and <a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a> versions were added, followed in May 2013 by <a href="/wiki/Greek_language" title="Greek language">Greek</a>, the Vietnamese version in August 2013 and the Chinese version on January 2014.</p>
+<p><br /></p>
+<ul>
+<li>Statistics at 12:00, 10 October 2016 (UTC)</li>
+</ul>
+<table class="wikitable sortable" style="background:#f9f9f9; border:1px solid #aaa; border-collapse:collapse; white-space:nowrap; text-align:left;" cellspacing="0" cellpadding="2" border="1">
+<tr>
+<th>№</th>
+<th>Language</th>
+<th>Language (local)</th>
+<th>Wiki</th>
+<th>Good</th>
+<th>Total</th>
+<th>Edits</th>
+<th>Admins</th>
+<th>Users</th>
+<th>Active Users</th>
+<th>Files</th>
+</tr>
+<tr style="text-align: right;">
+<td>1</td>
+<td><a href="/wiki/English_language" title="English language">English</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="//en.wikipedia.org/wiki/English_language">English</a></td>
+<td><a class="external text" href="//en.wikivoyage.org/wiki/">en</a></td>
+<td><a class="external text" href="//en.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>27543</b></a></td>
+<td>131374</td>
+<td><a class="external text" href="//en.wikivoyage.org/wiki/Special:Recentchanges">3061788</a></td>
+<td><a class="external text" href="//en.wikivoyage.org/wiki/Special:Listadmins">52</a></td>
+<td><a class="external text" href="//en.wikivoyage.org/wiki/Special:Listusers">2164887</a></td>
+<td><a class="external text" href="//en.wikivoyage.org/wiki/Special:ActiveUsers">473</a></td>
+<td><a class="external text" href="//en.wikivoyage.org/wiki/Special:FileList">1032</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>2</td>
+<td><a href="/wiki/German_language" title="German language">German</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://de.wikipedia.org/wiki/Deutsch">Deutsch</a></td>
+<td><a class="external text" href="//de.wikivoyage.org/wiki/">de</a></td>
+<td><a class="external text" href="//de.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>15537</b></a></td>
+<td>62221</td>
+<td><a class="external text" href="//de.wikivoyage.org/wiki/Special:Recentchanges">951435</a></td>
+<td><a class="external text" href="//de.wikivoyage.org/wiki/Special:Listadmins">15</a></td>
+<td><a class="external text" href="//de.wikivoyage.org/wiki/Special:Listusers">20590</a></td>
+<td><a class="external text" href="//de.wikivoyage.org/wiki/Special:ActiveUsers">137</a></td>
+<td><a class="external text" href="//de.wikivoyage.org/wiki/Special:FileList">654</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>3</td>
+<td><a href="/wiki/Persian_language" title="Persian language">Persian</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C">فارسی</a></td>
+<td><a class="external text" href="//fa.wikivoyage.org/wiki/">fa</a></td>
+<td><a class="external text" href="//fa.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>8441</b></a></td>
+<td>17743</td>
+<td><a class="external text" href="//fa.wikivoyage.org/wiki/Special:Recentchanges">87080</a></td>
+<td><a class="external text" href="//fa.wikivoyage.org/wiki/Special:Listadmins">1</a></td>
+<td><a class="external text" href="//fa.wikivoyage.org/wiki/Special:Listusers">4493</a></td>
+<td><a class="external text" href="//fa.wikivoyage.org/wiki/Special:ActiveUsers">29</a></td>
+<td><a class="external text" href="//fa.wikivoyage.org/wiki/Special:FileList">20</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>4</td>
+<td><a href="/wiki/Italian_language" title="Italian language">Italian</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://it.wikipedia.org/wiki/Lingua_italiana">Italiano</a></td>
+<td><a class="external text" href="//it.wikivoyage.org/wiki/">it</a></td>
+<td><a class="external text" href="//it.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>6708</b></a></td>
+<td>27793</td>
+<td><a class="external text" href="//it.wikivoyage.org/wiki/Special:Recentchanges">479520</a></td>
+<td><a class="external text" href="//it.wikivoyage.org/wiki/Special:Listadmins">5</a></td>
+<td><a class="external text" href="//it.wikivoyage.org/wiki/Special:Listusers">14019</a></td>
+<td><a class="external text" href="//it.wikivoyage.org/wiki/Special:ActiveUsers">73</a></td>
+<td><a class="external text" href="//it.wikivoyage.org/wiki/Special:FileList">0</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>5</td>
+<td><a href="/wiki/French_language" title="French language">French</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://fr.wikipedia.org/wiki/Fran%C3%A7ais">Français</a></td>
+<td><a class="external text" href="//fr.wikivoyage.org/wiki/">fr</a></td>
+<td><a class="external text" href="//fr.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>6377</b></a></td>
+<td>19877</td>
+<td><a class="external text" href="//fr.wikivoyage.org/wiki/Special:Recentchanges">333670</a></td>
+<td><a class="external text" href="//fr.wikivoyage.org/wiki/Special:Listadmins">4</a></td>
+<td><a class="external text" href="//fr.wikivoyage.org/wiki/Special:Listusers">17605</a></td>
+<td><a class="external text" href="//fr.wikivoyage.org/wiki/Special:ActiveUsers">78</a></td>
+<td><a class="external text" href="//fr.wikivoyage.org/wiki/Special:FileList">41</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>6</td>
+<td><a href="/wiki/Russian_language" title="Russian language">Russian</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA">Русский</a></td>
+<td><a class="external text" href="//ru.wikivoyage.org/wiki/">ru</a></td>
+<td><a class="external text" href="//ru.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>4387</b></a></td>
+<td>13502</td>
+<td><a class="external text" href="//ru.wikivoyage.org/wiki/Special:Recentchanges">194488</a></td>
+<td><a class="external text" href="//ru.wikivoyage.org/wiki/Special:Listadmins">4</a></td>
+<td><a class="external text" href="//ru.wikivoyage.org/wiki/Special:Listusers">15123</a></td>
+<td><a class="external text" href="//ru.wikivoyage.org/wiki/Special:ActiveUsers">170</a></td>
+<td><a class="external text" href="//ru.wikivoyage.org/wiki/Special:FileList">1834</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>7</td>
+<td><a href="/wiki/Polish_language" title="Polish language">Polish</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://pl.wikipedia.org/wiki/J%C4%99zyk_polski">Polski</a></td>
+<td><a class="external text" href="//pl.wikivoyage.org/wiki/">pl</a></td>
+<td><a class="external text" href="//pl.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>3768</b></a></td>
+<td>5761</td>
+<td><a class="external text" href="//pl.wikivoyage.org/wiki/Special:Recentchanges">68161</a></td>
+<td><a class="external text" href="//pl.wikivoyage.org/wiki/Special:Listadmins">1</a></td>
+<td><a class="external text" href="//pl.wikivoyage.org/wiki/Special:Listusers">4360</a></td>
+<td><a class="external text" href="//pl.wikivoyage.org/wiki/Special:ActiveUsers">22</a></td>
+<td><a class="external text" href="//pl.wikivoyage.org/wiki/Special:FileList">0</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>8</td>
+<td><a href="/wiki/Dutch_language" title="Dutch language">Dutch</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://nl.wikipedia.org/wiki/Nederlands">Nederlands</a></td>
+<td><a class="external text" href="//nl.wikivoyage.org/wiki/">nl</a></td>
+<td><a class="external text" href="//nl.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>3620</b></a></td>
+<td>11428</td>
+<td><a class="external text" href="//nl.wikivoyage.org/wiki/Special:Recentchanges">118387</a></td>
+<td><a class="external text" href="//nl.wikivoyage.org/wiki/Special:Listadmins">5</a></td>
+<td><a class="external text" href="//nl.wikivoyage.org/wiki/Special:Listusers">6579</a></td>
+<td><a class="external text" href="//nl.wikivoyage.org/wiki/Special:ActiveUsers">27</a></td>
+<td><a class="external text" href="//nl.wikivoyage.org/wiki/Special:FileList">0</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>9</td>
+<td><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://pt.wikipedia.org/wiki/L%C3%ADngua_portuguesa">Português</a></td>
+<td><a class="external text" href="//pt.wikivoyage.org/wiki/">pt</a></td>
+<td><a class="external text" href="//pt.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>3436</b></a></td>
+<td>6646</td>
+<td><a class="external text" href="//pt.wikivoyage.org/wiki/Special:Recentchanges">112231</a></td>
+<td><a class="external text" href="//pt.wikivoyage.org/wiki/Special:Listadmins">2</a></td>
+<td><a class="external text" href="//pt.wikivoyage.org/wiki/Special:Listusers">6093</a></td>
+<td><a class="external text" href="//pt.wikivoyage.org/wiki/Special:ActiveUsers">38</a></td>
+<td><a class="external text" href="//pt.wikivoyage.org/wiki/Special:FileList">0</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>10</td>
+<td><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol">Español</a></td>
+<td><a class="external text" href="//es.wikivoyage.org/wiki/">es</a></td>
+<td><a class="external text" href="//es.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>2205</b></a></td>
+<td>8056</td>
+<td><a class="external text" href="//es.wikivoyage.org/wiki/Special:Recentchanges">127443</a></td>
+<td><a class="external text" href="//es.wikivoyage.org/wiki/Special:Listadmins">6</a></td>
+<td><a class="external text" href="//es.wikivoyage.org/wiki/Special:Listusers">10024</a></td>
+<td><a class="external text" href="//es.wikivoyage.org/wiki/Special:ActiveUsers">36</a></td>
+<td><a class="external text" href="//es.wikivoyage.org/wiki/Special:FileList">0</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>11</td>
+<td><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://he.wikipedia.org/wiki/%D7%A2%D7%91%D7%A8%D7%99%D7%AA">עברית</a></td>
+<td><a class="external text" href="//he.wikivoyage.org/wiki/">he</a></td>
+<td><a class="external text" href="//he.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>2082</b></a></td>
+<td>15893</td>
+<td><a class="external text" href="//he.wikivoyage.org/wiki/Special:Recentchanges">150313</a></td>
+<td><a class="external text" href="//he.wikivoyage.org/wiki/Special:Listadmins">1</a></td>
+<td><a class="external text" href="//he.wikivoyage.org/wiki/Special:Listusers">2691</a></td>
+<td><a class="external text" href="//he.wikivoyage.org/wiki/Special:ActiveUsers">15</a></td>
+<td><a class="external text" href="//he.wikivoyage.org/wiki/Special:FileList">110</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>12</td>
+<td><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD">中文</a></td>
+<td><a class="external text" href="//zh.wikivoyage.org/wiki/">zh</a></td>
+<td><a class="external text" href="//zh.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>1739</b></a></td>
+<td>9485</td>
+<td><a class="external text" href="//zh.wikivoyage.org/wiki/Special:Recentchanges">73042</a></td>
+<td><a class="external text" href="//zh.wikivoyage.org/wiki/Special:Listadmins">4</a></td>
+<td><a class="external text" href="//zh.wikivoyage.org/wiki/Special:Listusers">4005</a></td>
+<td><a class="external text" href="//zh.wikivoyage.org/wiki/Special:ActiveUsers">25</a></td>
+<td><a class="external text" href="//zh.wikivoyage.org/wiki/Special:FileList">64</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>13</td>
+<td><a href="/wiki/Vietnamese_language" title="Vietnamese language">Vietnamese</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Vi%E1%BB%87t">Tiếng Việt</a></td>
+<td><a class="external text" href="//vi.wikivoyage.org/wiki/">vi</a></td>
+<td><a class="external text" href="//vi.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>1597</b></a></td>
+<td>3475</td>
+<td><a class="external text" href="//vi.wikivoyage.org/wiki/Special:Recentchanges">33691</a></td>
+<td><a class="external text" href="//vi.wikivoyage.org/wiki/Special:Listadmins">1</a></td>
+<td><a class="external text" href="//vi.wikivoyage.org/wiki/Special:Listusers">2652</a></td>
+<td><a class="external text" href="//vi.wikivoyage.org/wiki/Special:ActiveUsers">18</a></td>
+<td><a class="external text" href="//vi.wikivoyage.org/wiki/Special:FileList">0</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>14</td>
+<td><a href="/wiki/Swedish_language" title="Swedish language">Swedish</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://sv.wikipedia.org/wiki/Svenska">Svenska</a></td>
+<td><a class="external text" href="//sv.wikivoyage.org/wiki/">sv</a></td>
+<td><a class="external text" href="//sv.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>1501</b></a></td>
+<td>10416</td>
+<td><a class="external text" href="//sv.wikivoyage.org/wiki/Special:Recentchanges">79051</a></td>
+<td><a class="external text" href="//sv.wikivoyage.org/wiki/Special:Listadmins">3</a></td>
+<td><a class="external text" href="//sv.wikivoyage.org/wiki/Special:Listusers">5484</a></td>
+<td><a class="external text" href="//sv.wikivoyage.org/wiki/Special:ActiveUsers">10</a></td>
+<td><a class="external text" href="//sv.wikivoyage.org/wiki/Special:FileList">0</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>15</td>
+<td><a href="/wiki/Greek_language" title="Greek language">Greek</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%B3%CE%BB%CF%8E%CF%83%CF%83%CE%B1">Ελληνικά</a></td>
+<td><a class="external text" href="//el.wikivoyage.org/wiki/">el</a></td>
+<td><a class="external text" href="//el.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>1278</b></a></td>
+<td>2371</td>
+<td><a class="external text" href="//el.wikivoyage.org/wiki/Special:Recentchanges">20205</a></td>
+<td><a class="external text" href="//el.wikivoyage.org/wiki/Special:Listadmins">1</a></td>
+<td><a class="external text" href="//el.wikivoyage.org/wiki/Special:Listusers">1730</a></td>
+<td><a class="external text" href="//el.wikivoyage.org/wiki/Special:ActiveUsers">11</a></td>
+<td><a class="external text" href="//el.wikivoyage.org/wiki/Special:FileList">1</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>16</td>
+<td><a href="/wiki/Romanian_language" title="Romanian language">Romanian</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://ro.wikipedia.org/wiki/Limba_rom%C3%A2n%C4%83">Română</a></td>
+<td><a class="external text" href="//ro.wikivoyage.org/wiki/">ro</a></td>
+<td><a class="external text" href="//ro.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>929</b></a></td>
+<td>2473</td>
+<td><a class="external text" href="//ro.wikivoyage.org/wiki/Special:Recentchanges">18706</a></td>
+<td><a class="external text" href="//ro.wikivoyage.org/wiki/Special:Listadmins">0</a></td>
+<td><a class="external text" href="//ro.wikivoyage.org/wiki/Special:Listusers">1353</a></td>
+<td><a class="external text" href="//ro.wikivoyage.org/wiki/Special:ActiveUsers">5</a></td>
+<td><a class="external text" href="//ro.wikivoyage.org/wiki/Special:FileList">2</a></td>
+</tr>
+<tr style="text-align: right;">
+<td>17</td>
+<td><a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a></td>
+<td class="plainlinksneverexpand"><a class="external text" href="https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0">Українська</a></td>
+<td><a class="external text" href="//uk.wikivoyage.org/wiki/">uk</a></td>
+<td><a class="external text" href="//uk.wikivoyage.org/wiki/Special:Statistics?action=raw"><b>605</b></a></td>
+<td>1591</td>
+<td><a class="external text" href="//uk.wikivoyage.org/wiki/Special:Recentchanges">16282</a></td>
+<td><a class="external text" href="//uk.wikivoyage.org/wiki/Special:Listadmins">0</a></td>
+<td><a class="external text" href="//uk.wikivoyage.org/wiki/Special:Listusers">2205</a></td>
+<td><a class="external text" href="//uk.wikivoyage.org/wiki/Special:ActiveUsers">10</a></td>
+<td><a class="external text" href="//uk.wikivoyage.org/wiki/Special:FileList">4</a></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Grand_Total">Grand Total</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=11" title="Edit section: Grand Total">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="width:75%; background:#f9f9f9; border:1px solid #aaa; border-collapse:collapse; white-space:nowrap;" cellspacing="0" cellpadding="2" border="1">
+<tr>
+<th>Articles</th>
+<th>Total</th>
+<th>Edits</th>
+<th>Admins</th>
+<th>Users</th>
+<th>Files</th>
+</tr>
+<tr style="text-align: right;">
+<td><b>91 753</b></td>
+<td><b>350 105</b></td>
+<td><b>5 925 493</b></td>
+<td><b>105</b></td>
+<td><b>2 283 893</b></td>
+<td><b>3 762</b></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Distribution">Distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=12" title="Edit section: Distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The choice of the <a href="/wiki/Creative_Commons" title="Creative Commons">Creative Commons Attribution-ShareAlike</a> license is intended to allow simplified distribution by mention of the authors, without the need to state the complete license text.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Creative Commons Attribution-ShareAlike allows distribution through mirrors or by other means of modern media.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Up-to-date archives are provided on a weekly basis.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The files contained in these archives are provided with all the necessary legal licensing information, e.g. the attribution of the authors.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=13" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wikivoyage.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wikivoyage.jpg/220px-Wikivoyage.jpg" width="220" height="185" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wikivoyage.jpg/330px-Wikivoyage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wikivoyage.jpg/440px-Wikivoyage.jpg 2x" data-file-width="910" data-file-height="767" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Wikivoyage.jpg" class="internal" title="Enlarge"></a></div>
+Screenshot of Wikivoyage's portal before the WMF migration</div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Wikitravel#Community_fork_in_2012" title="Wikitravel">Wikitravel §&#160;Community fork in 2012</a>, and <a href="/wiki/Internet_Brands#Wikitravel_and_Wikimedia" title="Internet Brands">Internet Brands §&#160;Wikitravel and Wikimedia</a></div>
+<p>The name is a portmanteau of the words "<a href="/wiki/Wiki" title="Wiki">Wiki</a>" (an Internet-based software system that allows change and extension of the text by any user) and "<a href="https://en.wiktionary.org/wiki/voyage" class="extiw" title="wikt:voyage">voyage</a>", meaning travel, journey, or trip. It was retained after extensive voting amongst established editors to decide on the post re-launch name.</p>
+<h3><span class="mw-headline" id="Launch">Launch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=14" title="Edit section: Launch">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many Wikivoyage authors and administrators started by working on <a href="/wiki/Wikitravel" title="Wikitravel">Wikitravel</a>, which launched its German version on October 7, 2004. On April 20, 2006, Wikitravel was acquired by the for-profit <a href="/wiki/Internet_Brands" title="Internet Brands">Internet Brands</a>, an operator of media and e-commerce sites. Discontent increased in response to the management style of the new owners, and this led to the decision by most German administrators and authors to continue the project as a <a href="/wiki/Fork_(software_development)" title="Fork (software development)">fork</a>.</p>
+<p>After about six months of preparation, the non-profit association Wikivoyage e.V. was founded and registered, as both the owner of the domain names and operator of the servers.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> On December 10, 2006, the project went live online with the initial data from the German-language Wikitravel. After seven months, 40% of the articles were new, rising to 50% after 10 months.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> At this stage there were still major gaps in the coverage, but there were several articles for travel destinations like Egypt, Thailand and Switzerland and for the travel topic "cycling".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>The Italian branch of Wikivoyage was launched on December 10, 2007. The organization of media data and the administration of user access were already applicable for use in branches in other languages.</p>
+<p>The project garnered some press reports, particularly by Swiss radio and newspapers. The <i><a href="/wiki/Tages-Anzeiger" title="Tages-Anzeiger">Tages-Anzeiger</a></i><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> from Zurich and the Swiss radio station <a href="/wiki/SRG_SSR_id%C3%A9e_suisse" class="mw-redirect" title="SRG SSR idée suisse">DRS1</a> reported broadly on the project and discussed its weaknesses.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The project was mainly supported by German and Swiss authors.</p>
+<h3><span class="mw-headline" id="Additional_languages_and_migration">Additional languages and migration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=15" title="Edit section: Additional languages and migration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2012, after a lengthy history of dissatisfaction with Wikitravel's host and owner, Internet Brands, it was proposed that the community at Wikitravel fork their work from <i>Wikitravel</i> and <i>Wikitravel Shared</i> and – together with the existing sites at Wikivoyage – merge to create a new travel wiki hosted by the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>, the steward of <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> and a large range of other <a href="/wiki/Non-profit" class="mw-redirect" title="Non-profit">non-profit</a> reference sites based upon a <a href="/wiki/Wiki_community" class="mw-redirect" title="Wiki community">wiki community</a> culture.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> After lengthy discussion by users of all three communities, comments by their respective hosts, and confirmation by the Wikimedia Foundation that it would host a travel project if users wished, nearly all administrators and bureaucrats at Wikitravel decided to fork their existing work to Wikivoyage.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>The contents of Wikitravel in all languages and its related Commons-equivalent site (for images, video, and other media files) were downloaded on August 2, 2012 as a "database dump" in preparation for such a migration. This content became the starting point for all languages excluding German and Italian, which were already hosted by Wikivoyage. Forking is a normal or anticipated activity in wiki communities and is expressly permitted by the Creative Commons–Attribution–Share Alike (CC BY-SA) license in use on sites such as Wikitravel. <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a>, the wiki software used for Wikitravel, included that facility, although Internet Brands disabled the function shortly after this date in an attempt to prevent the data migration.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2015)">citation needed</span></a></i>]</sup> The community discussion at Wikimedia ended on August 23, 2012 with 540 votes for and 152 votes against the creation of a Wikimedia Foundation travel guide.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> The project began in beta on WMF servers on November 10, 2012<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> and was launched fully on January 15, 2013.</p>
+<p>As part of the migration, it is planned that current owners and user body "Wikivoyage e.V." will remain in place as an associated organization affiliated with the Wikimedia Foundation "at an organizational level". Wikivoyage stated that, freed of the need to maintain its servers, it would be able to benefit by increasing its work related to outreach, community support, discussion and information, and technical enhancements to the site's software.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<p>In September 2012, Internet Brands filed a lawsuit against one Wikitravel administrator, Ryan Holliday, and one Wikipedia administrator, <a href="/wiki/James_Heilman" title="James Heilman">James Heilman</a>, accusing them of trademark breach and commercial misconduct in the proposals affecting that site, with the defendants and Wikimedia rejecting the case as an example of a <a href="/wiki/SLAPP" class="mw-redirect" title="SLAPP">SLAPP</a> lawsuit—one that is undertaken without plausible legal grounds for the primary purpose of deterring, overwhelming, or frustrating people engaged in fully lawful actions.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> On November 19, 2012, the claims by Internet Brands were dismissed by the <a href="/wiki/United_States_District_Court_for_the_Central_District_of_California" title="United States District Court for the Central District of California">United States District Court for the Central District of California</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p>
+<h3><span class="mw-headline" id="Evolution">Evolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=16" title="Edit section: Evolution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>English Wikivoyage experiences a constant increase in number of articles (about +1% per month) and a stable amount of activity (about 300 monthly active users and 800 total monthly editors).<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<p>After a peak in visits and activity between January and March 2013,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> confirmed by an <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> global rank of about 8000 in March for English Wikivoyage, 2013<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> Wikivoyage has been between the 20,000 and 30,000 position in the global Alexa rank,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> lower than <a href="/wiki/Wikitravel" title="Wikitravel">Wikitravel</a>'s rank which however declined from around 3000th position in 2011<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> to about 6000th in 2015.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Tourism" title="Tourism">Tourism</a></li>
+<li><a href="/wiki/List_of_travel_magazines" title="List of travel magazines">Travel magazines</a></li>
+<li><a href="/wiki/Travel_technology" title="Travel technology">Travel technology</a></li>
+<li><a href="/wiki/Travel_website" title="Travel website">Travel website</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-alexa-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/siteinfo/Wikivoyage.org">"Wikivoyage.org Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-09-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Wikivoyage.org+Site+Info&amp;rft.genre=unknown&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2FWikivoyage.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/2013/01/22/wikivoyage-wikipedia-travel-industry_n_2475326.html">"WikiVoyage, Wikipedia of travel guides, leaves beta to take on the travel industry"</a>. Huffington Post. 1 January 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.atitle=WikiVoyage%2C+Wikipedia+of+travel+guides%2C+leaves+beta+to+take+on+the+travel+industry&amp;rft.date=2013-01-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2F2013%2F01%2F22%2Fwikivoyage-wikipedia-travel-industry_n_2475326.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-wv_faq-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-wv_faq_3-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://meta.wikimedia.org/w/index.php?title=Wikivoyage/Migration/FAQ&amp;oldid=4914831">Migration FAQ at Wikivoyage, 22:09, December 25, 2012</a>. Retrieved January 16, 2013.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://governancexborders.com/2012/07/13/challenges-of-merging-communities-the-case-of-wikitravel-and-wikivoyage/">The Case of Wikitravel and Wikivoyage</a> Governance Across Borders, July 2012</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://skift.com/2012/07/13/wikipedia-parent-launch-travel-guide-wikitravel-rebels">"Wikipedia parent to launch travel guide with Wikitravel rebels"</a>. Skift.com. July 13, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">January 16,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Wikipedia+parent+to+launch+travel+guide+with+Wikitravel+rebels&amp;rft.date=2012-07-13&amp;rft.genre=unknown&amp;rft.pub=Skift.com&amp;rft_id=http%3A%2F%2Fskift.com%2F2012%2F07%2F13%2Fwikipedia-parent-launch-travel-guide-wikitravel-rebels&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WMF_Press_Release-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-WMF_Press_Release_6-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a class="external text" href="https://wikimediafoundation.org/wiki/Press_releases/Wikimedia_Foundation_launches_Wikivoyage">"Wikimedia Foundation launches Wikivoyage, a free, worldwide travel guide that anyone can edit"</a> (Press release). <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 15,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Wikimedia+Foundation+launches+Wikivoyage%2C+a+free%2C+worldwide+travel+guide+that+anyone+can+edit&amp;rft.genre=unknown&amp;rft.pub=Wikimedia+Foundation&amp;rft_id=https%3A%2F%2Fwikimediafoundation.org%2Fwiki%2FPress_releases%2FWikimedia_Foundation_launches_Wikivoyage&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://meta.wikimedia.org/wiki/Licensing_update">"Licensing update - Meta"</a>. Meta.wikimedia.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Licensing+update+-+Meta&amp;rft.genre=unknown&amp;rft.pub=Meta.wikimedia.org&amp;rft_id=https%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FLicensing_update&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://dumps.wikimedia.org/legal.html">"License information about Wikimedia dump downloads"</a>. Dumps.wikimedia.org. 2005-09-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=License+information+about+Wikimedia+dump+downloads&amp;rft.date=2005-09-25&amp;rft.genre=unknown&amp;rft.pub=Dumps.wikimedia.org&amp;rft_id=https%3A%2F%2Fdumps.wikimedia.org%2Flegal.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://dumps.wikimedia.org/">"Wikimedia Downloads"</a>. Dumps.wikimedia.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Wikimedia+Downloads&amp;rft.genre=unknown&amp;rft.pub=Dumps.wikimedia.org&amp;rft_id=https%3A%2F%2Fdumps.wikimedia.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">See the <a class="external text" href="http://www.wikivoyage.org/assoc/Satzung">bylaws</a> of the Wikivoyage association.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.wikivoyage.org/de/Spezial:Statistik">"Wikivoyage statistics page"</a> (in German). Wikivoyage<span class="reference-accessdate">. Retrieved <span class="nowrap">January 16,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Wikivoyage+statistics+page&amp;rft.genre=unknown&amp;rft.pub=Wikivoyage&amp;rft_id=http%3A%2F%2Fwww.wikivoyage.org%2Fde%2FSpezial%3AStatistik&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">The article distribution of Wikivoyage can be seen on a <a class="external text" href="http://www.wikivoyage.org/w/de/index.php?title=Spezial:LdbListSubLocs/Welt&amp;mode=stat">special page</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Zedi, Roger (January 20, 2007). "Eine Sammelstelle für praktisches Reise-Wissen". <i>Tages-Anzeiger</i> (Zurich). p. 60.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Huwyler, Daniela. "AllerWeltsGeschichte / Heute aktuell". DRS 1, February 21, 2007, 15:45 (local time).</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://meta.wikimedia.org/wiki/Travel_Guide">"Travel Guide"</a>. Wikimedia Meta wiki<span class="reference-accessdate">. Retrieved <span class="nowrap">November 9,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Travel+Guide&amp;rft.genre=unknown&amp;rft.pub=Wikimedia+Meta+wiki&amp;rft_id=http%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FTravel_Guide&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a class="external autonumber" href="http://meta.wikimedia.org/w/index.php?title=Travel_Guide&amp;oldid=4064419">[1]</a>, Travel Guide proposal on Wikimedia meta-wiki (Revision as of 20:12, August 24, 2012).</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a class="external autonumber" href="http://www.wikivoyage.org/w/general/index.php?title=Migration_FAQ&amp;oldid=12931">[2]</a>, Wikivoyage Migration FAQ (revision as of 23:15, August 26, 2012).</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://wikitravel.org/wiki/en/index.php?title=Wikitravel:Travellers%27_pub&amp;oldid=1914778">[3]</a>, Discussions (towards the bottom) on Wikitravel's Travellers' Pub regarding the migration to Wikimedia/Wikivoyage (Revision as of 01:16, August 26, 2012).</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a class="external text" href="https://meta.wikimedia.org/w/index.php?title=Requests_for_comment/Travel_Guide&amp;oldid=4059415">Request for comment</a> on the travel guide proposal at Meta, the version at the time discussion ended.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://meta.wikimedia.org/w/index.php?title=Wikivoyage/Launch&amp;oldid=4527499">"Wikivoyage/Launch"</a>. <i>Wikimedia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 15,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.atitle=Wikivoyage%2FLaunch&amp;rft.genre=unknown&amp;rft.jtitle=Wikimedia&amp;rft_id=http%3A%2F%2Fmeta.wikimedia.org%2Fw%2Findex.php%3Ftitle%3DWikivoyage%2FLaunch%26oldid%3D4527499&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a class="external text" href="http://meta.wikimedia.org/w/index.php?title=Wikivoyage&amp;oldid=4326621">Wikimedia.org website October 25, 2012</a>: states "In preparation of Wikivoyage becoming part of the new Wikimedia travel guide..." and "Wikivoyage e.V. plans to hand over its domain and the responsibility for operating the Wikivoyage project to the Wikimedia Foundation. A corresponding resolution has been made by the general assembly in June 2012. Part of this resolution is the goal to keep Wikivoyage as an association, becoming affiliated with Wikimedia on an organizational level."</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">See also <a class="external text" href="https://lists.wikimedia.org/mailman/listinfo/wikivoyage-l">Wikivoyage mailing list</a> by Wikimedia Foundation] as at October 25, 2012: "The mailing list for Wikivoyage, a planned Wikimedia project"</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news">Cohen, Noam (September 9, 2012). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2012/09/10/business/media/once-a-profit-dream-wikitravel-now-bedevils-owner.html?pagewanted=all&amp;_r=0">"Wikitravel, Once a Profit Dream, Now Bedevils Its Owner"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 9,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.atitle=Wikitravel%2C+Once+a+Profit+Dream%2C+Now+Bedevils+Its+Owner&amp;rft.aufirst=Noam&amp;rft.aulast=Cohen&amp;rft.date=2012-09-09&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2012%2F09%2F10%2Fbusiness%2Fmedia%2Fonce-a-profit-dream-wikitravel-now-bedevils-owner.html%3Fpagewanted%3Dall%26_r%3D0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://wikimediafoundation.org/wiki/File:2012-11-19_D18_Order_re_Special_Mtn_to_Strike_and_Mtn_to_Dismiss.pdf">"Internet Brands Inc versus Ryan Holliday et al."</a> <span style="font-size:85%;">(PDF)</span>. United States District Court of Central California<span class="reference-accessdate">. Retrieved <span class="nowrap">December 16,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Internet+Brands+Inc+versus+Ryan+Holliday+et+al.&amp;rft.genre=unknown&amp;rft.pub=United+States+District+Court+of+Central+California&amp;rft_id=https%3A%2F%2Fwikimediafoundation.org%2Fwiki%2FFile%3A2012-11-19_D18_Order_re_Special_Mtn_to_Strike_and_Mtn_to_Dismiss.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news">Mello Jr., John P. (January 15, 2013). <a rel="nofollow" class="external text" href="http://www.pcworld.com/article/2028594/wikivoyage-emerges-from-legal-cloud-as-the-travel-site-grows.html">"Wikivoyage emerges from legal cloud as the travel site grows"</a>. <i>PCWorld</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.atitle=Wikivoyage+emerges+from+legal+cloud+as+the+travel+site+grows&amp;rft.au=Mello+Jr.%2C+John+P.&amp;rft.date=2013-01-15&amp;rft.genre=article&amp;rft.jtitle=PCWorld&amp;rft_id=http%3A%2F%2Fwww.pcworld.com%2Farticle%2F2028594%2Fwikivoyage-emerges-from-legal-cloud-as-the-travel-site-grows.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news">Musil, Steven (November 30, 2011). <a rel="nofollow" class="external text" href="http://news.cnet.com/8301-1023_3-57569807-93/wikimedia-internet-brands-settle-wikivoyage-lawsuits/">"Wikimedia, Internet Brands settle Wikivoyage lawsuits"</a>. CNET News<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.atitle=Wikimedia%2C+Internet+Brands+settle+Wikivoyage+lawsuits&amp;rft.aufirst=Steven&amp;rft.aulast=Musil&amp;rft.date=2011-11-30&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.cnet.com%2F8301-1023_3-57569807-93%2Fwikimedia-internet-brands-settle-wikivoyage-lawsuits%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://stats.wikimedia.org/wikivoyage/EN/TablesWikipediaZZ.htm">"Wikivoyage Statistics - Tables - All languages"</a>. Stats.wikimedia.org. 2004-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Wikivoyage+Statistics+-+Tables+-+All+languages&amp;rft.date=2004-07-03&amp;rft.genre=unknown&amp;rft.pub=Stats.wikimedia.org&amp;rft_id=https%3A%2F%2Fstats.wikimedia.org%2Fwikivoyage%2FEN%2FTablesWikipediaZZ.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://stats.wikimedia.org/wikivoyage/EN/TablesPageViewsMonthly.htm">"Page Views for Wikivoyage, Normalized"</a>. Stats.wikimedia.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Page+Views+for+Wikivoyage%2C+Normalized&amp;rft.genre=unknown&amp;rft.pub=Stats.wikimedia.org&amp;rft_id=https%3A%2F%2Fstats.wikimedia.org%2Fwikivoyage%2FEN%2FTablesPageViewsMonthly.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web">Čeština. <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikivoyage&amp;diff=542236631&amp;oldid=541842248">"Wikivoyage: Difference between revisions - Wikipedia"</a>. En.wikipedia.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.au=%C4%8Ce%C5%A1tina&amp;rft.btitle=Wikivoyage%3A+Difference+between+revisions+-+Wikipedia&amp;rft.genre=unknown&amp;rft.pub=En.wikipedia.org&amp;rft_id=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DWikivoyage%26diff%3D542236631%26oldid%3D541842248&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130926192649/http://www.alexa.com/siteinfo/Wikivoyage.org">"Wikivoyage.org Site Info"</a>. Web.archive.org. 2013-09-26. Archived from the original on September 26, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Wikivoyage.org+Site+Info&amp;rft.date=2013-09-26&amp;rft.genre=unknown&amp;rft.pub=Web.archive.org&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2FWikivoyage.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: BOT: original-url status unknown (<a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">link</a>)</span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150320080010/http://www.alexa.com/siteinfo/wikivoyage.org">"wikivoyage.org Site Overview"</a>. Web.archive.org. 2015-03-20. Archived from the original on March 20, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=wikivoyage.org+Site+Overview&amp;rft.date=2015-03-20&amp;rft.genre=unknown&amp;rft.pub=Web.archive.org&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fwikivoyage.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: BOT: original-url status unknown (<a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">link</a>)</span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110925190922/http://www.alexa.com/siteinfo/wikitravel.org">"Wikitravel.org Site Info"</a>. Web.archive.org. Archived from the original on September 25, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=Wikitravel.org+Site+Info&amp;rft.genre=unknown&amp;rft.pub=Web.archive.org&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fwikitravel.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: BOT: original-url status unknown (<a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">link</a>)</span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20151128084553/http://www.alexa.com/siteinfo/wikitravel.org">"wikitravel.org Site Overview"</a>. Web.archive.org. Archived from the original on November 28, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikivoyage&amp;rft.btitle=wikitravel.org+Site+Overview&amp;rft.genre=unknown&amp;rft.pub=Web.archive.org&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fwikitravel.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: BOT: original-url status unknown (<a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">link</a>)</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Wikivoyage" class="extiw" title="commons:Category:Wikivoyage">Wikivoyage</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="https://en.wikivoyage.org/wiki/" class="extiw" title="voy:">Wikivoyage.org</a>, official website</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Wikimedia_Foundation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wikimedia_Foundation" title="Template:Wikimedia Foundation"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wikimedia_Foundation" title="Template talk:Wikimedia Foundation"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikimedia_Foundation&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Wikimedia_Foundation" style="font-size:114%;margin:0 4em"><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Current</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aaron_Halfaker" title="Aaron Halfaker">Aaron Halfaker</a></li>
+<li><a href="/wiki/James_Heilman" title="James Heilman">James Heilman</a></li>
+<li><a href="/wiki/Dariusz_Jemielniak" title="Dariusz Jemielniak">Dariusz Jemielniak</a></li>
+<li><a href="/wiki/Katherine_Maher" title="Katherine Maher">Katherine Maher</a></li>
+<li><a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Past</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hampton_Catlin" title="Hampton Catlin">Hampton Catlin</a></li>
+<li><a href="/wiki/Danese_Cooper" title="Danese Cooper">Danese Cooper</a></li>
+<li><a href="/wiki/Bishakha_Datta" title="Bishakha Datta">Bishakha Datta</a></li>
+<li><a href="/wiki/Florence_Devouard" title="Florence Devouard">Florence Devouard</a></li>
+<li><a href="/wiki/Oscar_van_Dillen" title="Oscar van Dillen">Oscar van Dillen</a></li>
+<li><a href="/wiki/Sue_Gardner" title="Sue Gardner">Sue Gardner</a></li>
+<li><a href="/wiki/Arnnon_Geshuri" title="Arnnon Geshuri">Arnnon Geshuri</a></li>
+<li><a href="/wiki/Mike_Godwin" title="Mike Godwin">Mike Godwin</a></li>
+<li><a href="/wiki/Guy_Kawasaki" title="Guy Kawasaki">Guy Kawasaki</a></li>
+<li><a href="/wiki/Erik_M%C3%B6ller" title="Erik Möller">Erik Möller</a></li>
+<li><a href="/wiki/Lila_Tretikov" title="Lila Tretikov">Lila Tretikov</a></li>
+<li><a href="/wiki/Luis_Villa" title="Luis Villa">Luis Villa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wikimedia_project" class="mw-redirect" title="Wikimedia project">Content projects</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>
+<ul>
+<li><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>
+<ul>
+<li><a href="/wiki/List_of_Wiktionaries" title="List of Wiktionaries">List of Wiktionaries</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a></li>
+<li><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a></li>
+<li><a href="/wiki/Wikiquote" title="Wikiquote">Wikiquote</a></li>
+<li><a href="/wiki/Wikibooks" title="Wikibooks">Wikibooks</a></li>
+<li><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a></li>
+<li><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a></li>
+<li><a href="/wiki/Wikinews" title="Wikinews">Wikinews</a></li>
+<li><a href="/wiki/Wikiversity" title="Wikiversity">Wikiversity</a></li>
+<li><a class="mw-selflink selflink">Wikivoyage</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikimedia_movement" title="Wikimedia movement">Wikimedia movement</a>
+<ul>
+<li><a href="/wiki/List_of_Wikimedia_chapters" title="List of Wikimedia chapters">List of Wikimedia chapters</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikimania" title="Wikimania">Wikimania</a></li>
+<li><a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a></li>
+<li><a href="/wiki/Litigation_involving_the_Wikimedia_Foundation" title="Litigation involving the Wikimedia Foundation">Litigation</a>
+<ul>
+<li><i><a href="/wiki/Wikimedia_Foundation_v._NSA" title="Wikimedia Foundation v. NSA">Wikimedia v. NSA</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Knowledge_Engine_(Wikimedia_Foundation)" title="Knowledge Engine (Wikimedia Foundation)">Knowledge Engine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Signpost" title="The Signpost">The Signpost</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1254
+Cached time: 20170919185134
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.288 seconds
+Real time usage: 0.371 seconds
+Preprocessor visited node count: 2483/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 62532/2097152 bytes
+Template argument size: 3020/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 3/500
+Lua time usage: 0.119/10.000 seconds
+Lua memory usage: 5 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  313.210      1 -total
+ 37.58%  117.691      1 Template:Reflist
+ 23.62%   73.971      1 Template:Infobox_website
+ 22.04%   69.018      1 Template:Infobox
+ 21.96%   68.783     16 Template:Cite_web
+ 11.13%   34.858      1 Template:Citation_needed
+ 10.45%   32.745      1 Template:Fix
+  7.42%   23.255      1 Template:Commons_category
+  6.56%   20.544      1 Template:Commons
+  6.14%   19.223      1 Template:Sister_project
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12362880-0!canonical and timestamp 20170919185134 and revision id 801237836
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikivoyage&amp;oldid=801237836">https://en.wikipedia.org/w/index.php?title=Wikivoyage&amp;oldid=801237836</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Creative_Commons-licensed_websites" title="Category:Creative Commons-licensed websites">Creative Commons-licensed websites</a></li><li><a href="/wiki/Category:Internet_properties_established_in_2006" title="Category:Internet properties established in 2006">Internet properties established in 2006</a></li><li><a href="/wiki/Category:MediaWiki_websites" title="Category:MediaWiki websites">MediaWiki websites</a></li><li><a href="/wiki/Category:Multilingual_websites" title="Category:Multilingual websites">Multilingual websites</a></li><li><a href="/wiki/Category:Travel_websites" title="Category:Travel websites">Travel websites</a></li><li><a href="/wiki/Category:Wiki_communities" title="Category:Wiki communities">Wiki communities</a></li><li><a href="/wiki/Category:Wikimedia_projects" title="Category:Wikimedia projects">Wikimedia projects</a></li><li><a href="/wiki/Category:Advertising-free_websites" title="Category:Advertising-free websites">Advertising-free websites</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">CS1 maint: BOT: original-url status unknown</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_January_2013" title="Category:Use mdy dates from January 2013">Use mdy dates from January 2013</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_September_2017" title="Category:Articles containing potentially dated statements from September 2017">Articles containing potentially dated statements from September 2017</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2015" title="Category:Articles with unsourced statements from August 2015">Articles with unsourced statements from August 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikivoyage" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikivoyage" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Wikivoyage" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Wikivoyage" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Wikivoyage">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Wikivoyage&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wikivoyage&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikivoyage" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikivoyage" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikivoyage&amp;oldid=801237836" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikivoyage&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q373" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wikivoyage&amp;id=801237836" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikivoyage">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikivoyage&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DWikivoyage%26returnto%3DWikivoyage%26oldid%3D801237836%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikivoyage&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wikivoyage" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Wikivoyage" hreflang="en">Meta-Wiki</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A_%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA" title="ويكي الرحلات – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Vikis%C9%99yah%C9%99t" title="Vikisəyahət – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3" title="উইকিভ্রমণ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D1%8A%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%B8%D0%BA" title="Уикипътешественик – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Viquiviatges" title="Viquiviatges – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Wikicesty" title="Wikicesty – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CF%84%CE%B1%CE%BE%CE%AF%CE%B4%CE%B9%CE%B1" title="Βικιταξίδια – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikiviajes" title="Wikiviajes – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Vikivoja%C4%9Do" title="Vikivojaĝo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Wikibidaiak" title="Wikibidaiak – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D8%B3%D9%81%D8%B1" title="ویکی‌سفر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EC%97%AC%ED%96%89" title="위키여행 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D5%AB%D6%84%D5%AB%D5%B3%D5%A1%D5%B4%D6%83%D5%B8%D6%80%D5%A4" title="Վիքիճամփորդ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE" title="विकियात्रा – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%9E%D7%A1%D7%A2" title="ויקימסע – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%95%E1%83%9D%E1%83%98%E1%83%90%E1%83%9F%E1%83%98" title="ვიკივოიაჟი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/W%C3%AEk%C3%AEger" title="Wîkîger – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Vikikelion%C4%97s" title="Vikikelionės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AA%E0%B4%B0%E0%B5%8D%E0%B4%AF%E0%B4%9F%E0%B4%A8%E0%B4%82" title="വിക്കിപര്യടനം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9C%E3%83%A4%E3%83%BC%E3%82%B8%E3%83%A5" title="ウィキボヤージュ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Vikigid" title="Vikigid – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A8%BF%E0%A8%95%E0%A9%80%E0%A8%B8%E0%A8%AB%E0%A8%BC%E0%A8%B0" title="ਵਿਕੀਸਫ਼ਰ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%9C%E1%9E%B7%E1%9E%82%E1%9E%B8%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%85%E1%9E%9A%E1%9E%8E%E1%9F%8D" title="វិគីទេសចរណ៍ – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wikipodr%C3%B3%C5%BCe" title="Wikipodróże – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%B3%D0%B8%D0%B4" title="Викигид – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Wikipotovanje" title="Wikipotovanje – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Wikimatkat" title="Wikimatkat – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%AF%E0%AE%A3%E0%AE%AE%E0%AF%8D" title="விக்கிப்பயணம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D3%99%D1%84%D3%99%D1%80" title="Викисәфәр – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7" title="วิกิท่องเที่ยว – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%B3%D0%B8%D0%B4" title="Викигид – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Vikigezgin" title="Vikigezgin – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B8" title="Вікімандри – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C_%D8%B3%D9%81%D8%B1%D9%86%D8%A7%D9%85%DB%81" title="ویکی سفرنامہ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Veizgiek_Lijyouz" title="Veizgiek Lijyouz – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Wikivoyage" title="Wikivoyage – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E9%81%8A%E5%9F%A0" title="維基遊埠 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E5%AF%BC%E6%B8%B8" title="维基导游 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q373#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 18 September 2017, at 14:41.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikivoyage&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.371","ppvisitednodes":{"value":2483,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":62532,"limit":2097152},"templateargumentsize":{"value":3020,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  313.210      1 -total"," 37.58%  117.691      1 Template:Reflist"," 23.62%   73.971      1 Template:Infobox_website"," 22.04%   69.018      1 Template:Infobox"," 21.96%   68.783     16 Template:Cite_web"," 11.13%   34.858      1 Template:Citation_needed"," 10.45%   32.745      1 Template:Fix","  7.42%   23.255      1 Template:Commons_category","  6.56%   20.544      1 Template:Commons","  6.14%   19.223      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.119","limit":"10.000"},"limitreport-memusage":{"value":5239805,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20170919185134","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1264"});});</script>
+	</body>
+</html>

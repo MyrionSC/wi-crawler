@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia:Version 1.0 Editorial Team/Statistics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Version_1.0_Editorial_Team/Statistics","wgTitle":"Version 1.0 Editorial Team/Statistics","wgCurRevisionId":770797637,"wgRevisionId":770797637,"wgArticleId":5647891,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:Version_1.0_Editorial_Team/Statistics","wgRelevantArticleId":5647891,"wgRequestId":"WcY13QpAMFcAAJZEF9oAAAAC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q15869925","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wikipedia:Version_1.0_Editorial_Team/Statistics&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wikipedia:Version_1.0_Editorial_Team/Statistics&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikipedia:Version_1.0_Editorial_Team/Statistics"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_Version_1_0_Editorial_Team_Statistics rootpage-Wikipedia_Version_1_0_Editorial_Team skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Wikipedia:Version 1.0 Editorial Team/Statistics</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/Wikipedia:Version_1.0_Editorial_Team" title="Wikipedia:Version 1.0 Editorial Team">Wikipedia:Version 1.0 Editorial Team</a></span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="center" style="border-collapse:collapsed;border:0;text-align:center;">
+<tr>
+<td width="50%">
+<table class="ratingstable wikitable plainlinks" style="text-align: right; margin-left: auto; margin-right: auto;">
+<tr>
+<th colspan="7" class="ratingstabletitle">All rated articles by quality and importance</th>
+</tr>
+<tr>
+<th rowspan="2" style="vertical-align: bottom"><b>Quality</b></th>
+<th colspan="6"><b>Importance</b></th>
+</tr>
+<tr>
+<th class="import-top" style="text-align:center; background: #ff00ff;"><b><a href="/wiki/Category:Top-importance_articles" title="Category:Top-importance articles">Top</a></b></th>
+<th class="import-high" style="text-align:center; background: #ff88ff;"><b><a href="/wiki/Category:High-importance_articles" title="Category:High-importance articles">High</a></b></th>
+<th class="import-mid" style="text-align:center; background: #ffbbff;"><b><a href="/wiki/Category:Mid-importance_articles" title="Category:Mid-importance articles">Mid</a></b></th>
+<th class="import-low" style="text-align:center; background: #ffddff;"><b><a href="/wiki/Category:Low-importance_articles" title="Category:Low-importance articles">Low</a></b></th>
+<th class="assess-" style="background: transparent; text-align: center;"><b><a href="/wiki/Category:Unassessed_articles" title="Category:Unassessed articles">???</a></b></th>
+<th style="text-align: center;"><b>Total</b></th>
+</tr>
+<tr>
+<td class="assess-fa" style="background: #6699ff; text-align: center;"><span style="" title="Featured Article"><a href="/wiki/File:Featured_article_star.svg" class="image" title="Featured article"><img alt="Featured article" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Featured_article_star.svg/16px-Featured_article_star.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Featured_article_star.svg/24px-Featured_article_star.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Featured_article_star.svg/32px-Featured_article_star.svg.png 2x" data-file-width="180" data-file-height="180" /></a></span> <b><a href="/wiki/Category:FA-Class_articles" title="Category:FA-Class articles">FA</a></b></td>
+<td>1,231</td>
+<td>1,865</td>
+<td>1,772</td>
+<td>1,135</td>
+<td>194</td>
+<td><b>6,197</b></td>
+</tr>
+<tr>
+<td class="assess-fl" style="background: #6699ff; text-align: center;"><span style="" title="Featured List"><a href="/wiki/File:Featured_article_star.svg" class="image" title="Featured list"><img alt="Featured list" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Featured_article_star.svg/16px-Featured_article_star.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Featured_article_star.svg/24px-Featured_article_star.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Featured_article_star.svg/32px-Featured_article_star.svg.png 2x" data-file-width="180" data-file-height="180" /></a></span> <b><a href="/wiki/Category:FL-Class_articles" title="Category:FL-Class articles">FL</a></b></td>
+<td>142</td>
+<td>579</td>
+<td>686</td>
+<td>598</td>
+<td>121</td>
+<td><b>2,126</b></td>
+</tr>
+<tr>
+<td class="assess-a" style="background: #66ffff; text-align:center;"><span style="" title="A-Class Article"><a href="/wiki/File:Symbol_a_class.svg" class="image" title="A-Class article"><img alt="A-Class article" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Symbol_a_class.svg/16px-Symbol_a_class.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Symbol_a_class.svg/24px-Symbol_a_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Symbol_a_class.svg/32px-Symbol_a_class.svg.png 2x" data-file-width="180" data-file-height="185" /></a></span> <b><a href="/wiki/Category:A-Class_articles" title="Category:A-Class articles">A</a></b></td>
+<td>229</td>
+<td>446</td>
+<td>596</td>
+<td>375</td>
+<td>80</td>
+<td><b>1,726</b></td>
+</tr>
+<tr>
+<td class="assess-ga" style="background: #66ff66; text-align: center;"><span style="" title="Good Article"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/16px-Symbol_support_vote.svg.png" title="Good article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/24px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/32px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></span> <b><a href="/wiki/Category:GA-Class_articles" title="Category:GA-Class articles">GA</a></b></td>
+<td>2,169</td>
+<td>4,962</td>
+<td>9,637</td>
+<td>10,604</td>
+<td>1,746</td>
+<td><b>29,118</b></td>
+</tr>
+<tr>
+<td class="assess-b" style="background: #b2ff66; text-align: center;"><b><a href="/wiki/Category:B-Class_articles" title="Category:B-Class articles">B</a></b></td>
+<td>12,329</td>
+<td>23,388</td>
+<td>35,844</td>
+<td>29,406</td>
+<td>14,138</td>
+<td><b>115,105</b></td>
+</tr>
+<tr>
+<td class="assess-c" style="background: #ffff66; text-align: center;"><b><a href="/wiki/Category:C-Class_articles" title="Category:C-Class articles">C</a></b></td>
+<td>10,678</td>
+<td>31,292</td>
+<td>69,972</td>
+<td>98,628</td>
+<td>44,698</td>
+<td><b>255,268</b></td>
+</tr>
+<tr>
+<td class="assess-start" style="background: #ffaa66; text-align: center;"><b><a href="/wiki/Category:Start-Class_articles" title="Category:Start-Class articles">Start</a></b></td>
+<td>17,487</td>
+<td>78,002</td>
+<td>314,601</td>
+<td>833,275</td>
+<td>301,183</td>
+<td><b>1,544,548</b></td>
+</tr>
+<tr>
+<td class="assess-stub" style="background: #ff6666; text-align: center;"><b><a href="/wiki/Category:Stub-Class_articles" title="Category:Stub-Class articles">Stub</a></b></td>
+<td>4,254</td>
+<td>31,118</td>
+<td>232,944</td>
+<td>1,931,209</td>
+<td>843,245</td>
+<td><b>3,042,770</b></td>
+</tr>
+<tr>
+<td class="assess-list" style="background: #aa88ff; text-align: center;"><b><a href="/wiki/Category:List-Class_articles" title="Category:List-Class articles">List</a></b></td>
+<td>3,128</td>
+<td>11,656</td>
+<td>35,671</td>
+<td>98,212</td>
+<td>61,731</td>
+<td><b>210,398</b></td>
+</tr>
+<tr>
+<td><b>Assessed</b></td>
+<td>51,647</td>
+<td>183,308</td>
+<td>701,723</td>
+<td>3,003,442</td>
+<td>1,267,136</td>
+<td><b>5,207,256</b></td>
+</tr>
+<tr>
+<td class="assess-unassessed" style="background: transparent; text-align:center;"><b><a href="/wiki/Category:Unassessed_articles" title="Category:Unassessed articles">Unassessed</a></b></td>
+<td>117</td>
+<td>437</td>
+<td>1,845</td>
+<td>16,760</td>
+<td>574,247</td>
+<td><b>593,406</b></td>
+</tr>
+<tr>
+<td style="text-align: center;"><b>Total</b></td>
+<td><b>51,764</b></td>
+<td><b>183,745</b></td>
+<td><b>703,568</b></td>
+<td><b>3,020,202</b></td>
+<td><b>1,841,383</b></td>
+<td><b>5,800,662</b></td>
+</tr>
+</table>
+<div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><a href="/wiki/User:WP_1.0_bot/Web/FAQ#The_global_summary_table" title="User:WP 1.0 bot/Web/FAQ">About this table</a></div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20170923094505
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.244 seconds
+Real time usage: 0.272 seconds
+Preprocessor visited node count: 8649/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13886/2097152 bytes
+Template argument size: 220/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  258.578      1 -total
+ 99.47%  257.196      1 User:WP_1.0_bot/Tables/OverallArticles
+ 84.02%  217.250      1 User:WP_1.0_bot/WikiWork
+ 83.11%  214.904      1 User:WP_1.0_bot/WikiWork/ta
+ 82.33%  212.884      1 User:WP_1.0_bot/WikiWork/ta/pri
+ 81.32%  210.266      1 User:WP_1.0_bot/WikiWork/ww
+  2.37%    6.117     11 Template:Classcol
+  2.17%    5.601      1 Template:FA-Class
+  2.11%    5.466      1 Template:Unknown-Class
+  1.71%    4.413      4 Template:Classicon
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5647891-0!canonical and timestamp 20170923094505 and revision id 770797637
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Version_1.0_Editorial_Team/Statistics&amp;oldid=770797637">https://en.wikipedia.org/w/index.php?title=Wikipedia:Version_1.0_Editorial_Team/Statistics&amp;oldid=770797637</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikipedia%3AVersion+1.0+Editorial+Team%2FStatistics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3AVersion+1.0+Editorial+Team%2FStatistics" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-project" class="selected"><span><a href="/wiki/Wikipedia:Version_1.0_Editorial_Team/Statistics" title="View the project page [c]" accesskey="c">Project page</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Wikipedia_talk:Version_1.0_Editorial_Team/Statistics" rel="discussion" class="mw-redirect" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Wikipedia:Version_1.0_Editorial_Team/Statistics">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Wikipedia:Version_1.0_Editorial_Team/Statistics&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:Version_1.0_Editorial_Team/Statistics&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:Version_1.0_Editorial_Team/Statistics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:Version_1.0_Editorial_Team/Statistics" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Version_1.0_Editorial_Team/Statistics&amp;oldid=770797637" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Version_1.0_Editorial_Team/Statistics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15869925" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AVersion+1.0+Editorial+Team%2FStatistics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikipedia%3AVersion+1.0+Editorial+Team%2FStatistics&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DWikipedia%253AVersion%2B1.0%2BEditorial%2BTeam%252FStatistics%26returnto%3DWikipedia%253AVersion%2B1.0%2BEditorial%2BTeam%252FStatistics%26oldid%3D770797637%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Version_1.0_Editorial_Team/Statistics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%B0%E0%A6%A3_%E0%A7%A7.%E0%A7%A6_%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%A6%E0%A6%B2/%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8" title="উইকিপিডিয়া:সংস্করণ ১.০ সম্পাদকীয় দল/পরিসংখ্যান – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Projet:%C3%89valuation/Statistiques" title="Projet:Évaluation/Statistiques – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%9C%84%ED%82%A4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%9C%84%EC%9B%90%ED%9A%8C/%ED%86%B5%EA%B3%84" title="위키백과:위키프로젝트 위원회/통계 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Wikip%C3%A9dia:Cikk%C3%A9rt%C3%A9kel%C3%A9si_m%C5%B1hely/Statisztika" title="Wikipédia:Cikkértékelési műhely/Statisztika – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%99_1.0/%E0%B8%AA%E0%B8%96%E0%B8%B4%E0%B8%95%E0%B8%B4" title="วิกิพีเดีย:ทีมผู้แก้ไขเวอร์ชัน 1.0/สถิติ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Wikipedia:%E4%B8%93%E9%A2%98%E5%A7%94%E5%91%98%E4%BC%9A/%E5%BD%93%E5%89%8D%E7%8A%B6%E6%80%81" title="Wikipedia:专题委员会/当前状态 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15869925#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 17 March 2017, at 17:09.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia:Version_1.0_Editorial_Team/Statistics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.272","ppvisitednodes":{"value":8649,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13886,"limit":2097152},"templateargumentsize":{"value":220,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  258.578      1 -total"," 99.47%  257.196      1 User:WP_1.0_bot/Tables/OverallArticles"," 84.02%  217.250      1 User:WP_1.0_bot/WikiWork"," 83.11%  214.904      1 User:WP_1.0_bot/WikiWork/ta"," 82.33%  212.884      1 User:WP_1.0_bot/WikiWork/ta/pri"," 81.32%  210.266      1 User:WP_1.0_bot/WikiWork/ww","  2.37%    6.117     11 Template:Classcol","  2.17%    5.601      1 Template:FA-Class","  2.11%    5.466      1 Template:Unknown-Class","  1.71%    4.413      4 Template:Classicon"]},"cachereport":{"origin":"mw1248","timestamp":"20170923094505","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1252"});});</script>
+	</body>
+</html>

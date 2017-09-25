@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia:Translation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Translation","wgTitle":"Translation","wgCurRevisionId":801250667,"wgRevisionId":801250667,"wgArticleId":473353,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia move-protected project pages","Wikipedia translation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:Translation","wgRelevantArticleId":473353,"wgRequestId":"Wb-vyApAIDQAAGJlonUAAAAG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3361708","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wikipedia:Translation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wikipedia:Translation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikipedia:Translation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_Translation rootpage-Wikipedia_Translation skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Wikipedia:Translation</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Wikipedia:RFT" redirects here. For requests for new or changed templates, see <a href="/wiki/Wikipedia:Requested_templates" title="Wikipedia:Requested templates">Wikipedia:Requested templates</a>. For refactoring talk pages, see <a href="/wiki/Wikipedia:RTP" class="mw-redirect" title="Wikipedia:RTP">Wikipedia:RTP</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"Wikipedia:TIE" redirects here. For strong national ties to a topic, see <a href="/wiki/Wikipedia:TIES" class="mw-redirect" title="Wikipedia:TIES">Wikipedia:TIES</a>.</div>
+<table class="plainlinks ombox ombox-notice" role="presentation">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/60px-Information_icon4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/80px-Information_icon4.svg.png 2x" data-file-width="620" data-file-height="620" /></td>
+<td class="mbox-text" style="text-align: left;"><b>Are you in the right place?</b><br />
+<ul>
+<li>For non-English articles already in English Wikipedia, see <a href="/wiki/Wikipedia:Pages_needing_translation_into_English" title="Wikipedia:Pages needing translation into English">Wikipedia:Pages needing translation into English</a>.</li>
+<li>To learn about translation of English Wikipedia articles <i>into other languages</i>, see <a href="/wiki/Wikipedia:Translate_us" title="Wikipedia:Translate us">Translate us</a></li>
+<li>To request a translation of an English Wikipedia article <i>into another language</i>, click on the appropriate sidebar language link on this page to access the foreign-language Wikipedia's equivalent translation project.</li>
+<li>To learn about translation of foreign-language Wikipedia articles <i>into English</i>, read on.</li>
+<li>For a tool for cross-wiki translation, see <a href="/wiki/Wikipedia:Content_translation_tool" title="Wikipedia:Content translation tool">Content translation tool</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks WSerieV" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;background:#efefef">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;background: #cccccc; font-size: 1.2em">Translation Department</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align:left">
+<ul>
+<li><b><a class="mw-selflink selflink">Wikipedia:Translation</a></b></li>
+<li><a href="/wiki/Wikipedia:Babel" title="Wikipedia:Babel">Babel: user templates</a></li>
+<li><a href="/wiki/Wikipedia:Translators_available" title="Wikipedia:Translators available">Translators</a></li>
+<li><a href="/wiki/Wikipedia:Pages_needing_translation_into_English" title="Wikipedia:Pages needing translation into English">Quick translation needed</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background: #cccccc; font-size: 1em">Related Projects</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align:left">
+<ul>
+<li><a href="/wiki/Wikipedia:Featured_articles_in_other_languages" title="Wikipedia:Featured articles in other languages">Featured articles in<br />
+other languages</a></li>
+<li><a href="https://meta.wikimedia.org/wiki/Translation_of_the_week" class="extiw" title="meta:Translation of the week">Meta Translation of the Week</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Translation_department" title="Template:Translation department"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Translation_department" title="Template talk:Translation department"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Translation_department&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Requesting_a_translation_from_a_foreign_language_to_English"><span class="tocnumber">1</span> <span class="toctext">Requesting a translation from a foreign language to English</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Articles_needing_translation"><span class="tocnumber">2</span> <span class="toctext">Articles needing translation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#License_requirements"><span class="tocnumber">3</span> <span class="toctext">License requirements</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#How_to_translate"><span class="tocnumber">4</span> <span class="toctext">How to translate</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Avoid_machine_translations"><span class="tocnumber">4.1</span> <span class="toctext">Avoid machine translations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Translation_from_English_to_another_language"><span class="tocnumber">5</span> <span class="toctext">Translation from English to another language</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Classroom_collaborations"><span class="tocnumber">6</span> <span class="toctext">Classroom collaborations</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Userboxes"><span class="tocnumber">7</span> <span class="toctext">Userboxes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Requesting_a_translation_from_a_foreign_language_to_English">Requesting a translation from a foreign language to English</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=edit&amp;section=1" title="Edit section: Requesting a translation from a foreign language to English">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="position:relative;top:-3em"><span id="WP:TRANSLATETOHERE"></span></div>
+<div class="shortcutbox plainlist noprint" role="note" style="float:right;border:1px solid #aaa;background:#fff;margin:.3em .3em .3em 1em;padding:.4em .6em;text-align:center;font-size:smaller;line-height:2em;font-weight:bold"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>:
+<ul>
+<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:TRANSLATETOHERE&amp;redirect=no">WP:TRANSLATETOHERE</a></span></li>
+</ul>
+</div>
+<p>Requesting a <a href="/wiki/Translation" title="Translation">translation</a> from a foreign-language Wikipedia into English is easy.</p>
+<ul>
+<li><b>If the English article already exists</b> (but a translation would be useful because the article in the foreign language is of higher quality, or includes additional information):
+<ul>
+<li>simply place a translation template from the category <a href="/wiki/Category:Expand_by_language_Wikipedia_templates" title="Category:Expand by language Wikipedia templates">Category:Expand by language Wikipedia templates</a> on the English article page. For example, to request improvement of the English article on <a href="/wiki/Fuerteventura" title="Fuerteventura">Fuerteventura</a>, based on the <a href="https://es.wikipedia.org/wiki/Fuerteventura" class="extiw" title="es:Fuerteventura">equivalent article on Spanish Wikipedia</a>, place <kbd>{{Expand Spanish|Fuerteventura}}</kbd> on the English article <a href="/wiki/Fuerteventura" title="Fuerteventura">Fuerteventura</a>.</li>
+</ul>
+</li>
+<li><b>If the English article does not yet exist</b>:
+<ul>
+<li><b>you can</b>:
+<ul>
+<li>create the article on English Wikipedia using the process described at <a href="/wiki/Wikipedia:Your_first_article" title="Wikipedia:Your first article">Your first article</a>;</li>
+<li>tag your article with a translation template, as above.</li>
+</ul>
+</li>
+<li><b>or</b>
+<ul>
+<li>add a page request red link in the <a href="/wiki/Wikipedia:RA" class="mw-redirect" title="Wikipedia:RA">Requested articles Project section</a> with the proposed title of the article which will contain the translation adding an interwiki link to the foreign-language Wikipedia page(s). Note that fewer people will likely see a request created using this method.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<dl>
+<dd>
+<dl>
+<dd>In either case, articles must meet the relevant <a href="/wiki/Wikipedia:N" class="mw-redirect" title="Wikipedia:N">notability criteria</a> for the English-language Wikipedia – foreign-language Wikipedias may have differing standards, and the acceptance of an article in one language is no guarantee that it will be accepted in another.</dd>
+</dl>
+</dd>
+</dl>
+<p>Note that this page is not for requesting translations of copyrighted sources outside Wikipedia. It is also not for pages currently <i>in</i> English Wikipedia that are not in English. For that, please see <a href="/wiki/Wikipedia:Pages_needing_translation_into_English" title="Wikipedia:Pages needing translation into English">Wikipedia:Pages needing translation into English</a>.</p>
+<h2><span class="mw-headline" id="Articles_needing_translation">Articles needing translation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=edit&amp;section=2" title="Edit section: Articles needing translation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Category:Articles_needing_translation_from_foreign-language_Wikipedias" title="Category:Articles needing translation from foreign-language Wikipedias">Category:Articles needing translation from foreign-language Wikipedias</a> contains all articles tagged as needing translation into English. Browse the appropriate language category to find an article you are interested in.</li>
+<li>Tools like <a href="https://tools.wmflabs.org/not-in-the-other-language/" class="extiw" title="toollabs:not-in-the-other-language/">this one</a> can locate articles that may need translation by finding foreign-language articles with no interwiki link to English, but interwiki links to several other languages.</li>
+<li>A project specifically working to translate key medical articles. <a href="/wiki/Wikipedia:MED/Translation_project" class="mw-redirect" title="Wikipedia:MED/Translation project">Wikipedia:MED/Translation_project</a></li>
+</ul>
+<h2><span class="mw-headline" id="License_requirements">License requirements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=edit&amp;section=3" title="Edit section: License requirements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A translation is a derivative work. Wikipedia articles are under a <a href="/wiki/Copyleft" title="Copyleft">copyleft</a> license that requires attribution to the original source and authors in all derivative works. How to do this is described on <a href="/wiki/Wikipedia:Copying_within_Wikipedia#Translating_from_other_language_Wikimedia_projects" title="Wikipedia:Copying within Wikipedia">Translating from other language Wikimedia projects</a>.</p>
+<h2><span class="mw-headline" id="How_to_translate">How to translate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=edit&amp;section=4" title="Edit section: How to translate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:502px;">
+<div id="mwe_player_0" class="PopUpMediaTransform" style="width:500px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:854px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Content_Translation_Screencast_%28English%29.webm/854px--Content_Translation_Screencast_%28English%29.webm.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:854px;height:480px&quot; class=&quot;kskin&quot; data-durationhint=&quot;255.983&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Content_Translation_Screencast_(English).webm&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Content_Translation_Screencast_%28English%29.webm/Content_Translation_Screencast_%28English%29.webm.720p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;HD WebM (720P)&quot; data-shorttitle=&quot;WebM 720P&quot; data-transcodekey=&quot;720p.webm&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;439400&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/e/ee/Content_Translation_Screencast_%28English%29.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Original WebM file, 1,280 × 720 (519 kbps)&quot; data-shorttitle=&quot;WebM source&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;518769&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Content_Translation_Screencast_%28English%29.webm/Content_Translation_Screencast_%28English%29.webm.480p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;SD WebM (480P)&quot; data-shorttitle=&quot;WebM 480P&quot; data-transcodekey=&quot;480p.webm&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;844312&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Content_Translation_Screencast_%28English%29.webm/Content_Translation_Screencast_%28English%29.webm.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;193768&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Content_Translation_Screencast_%28English%29.webm/Content_Translation_Screencast_%28English%29.webm.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Small WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;305632&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Content_Translation_Screencast_%28English%29.webm/Content_Translation_Screencast_%28English%29.webm.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-transcodekey=&quot;360p.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;452624&quot; data-framerate=&quot;25&quot;/&gt;&lt;track src=&quot;https://commons.wikimedia.org/w/index.php?title=TimedText:Content_Translation_Screencast_(English).webm.ar.srt&amp;amp;action=raw&amp;amp;ctype=text%2Fx-srt&quot; kind=&quot;subtitles&quot; type=&quot;text/x-srt&quot; srclang=&quot;ar&quot; label=&quot;العربية (ar) subtitles&quot; data-mwtitle=&quot;TimedText:Content_Translation_Screencast_(English).webm.ar.srt&quot; data-mwprovider=&quot;wikimediacommons&quot; data-dir=&quot;rtl&quot;/&gt;&lt;track src=&quot;https://commons.wikimedia.org/w/index.php?title=TimedText:Content_Translation_Screencast_(English).webm.de.srt&amp;amp;action=raw&amp;amp;ctype=text%2Fx-srt&quot; kind=&quot;subtitles&quot; type=&quot;text/x-srt&quot; srclang=&quot;de&quot; label=&quot;Deutsch (de) subtitles&quot; data-mwtitle=&quot;TimedText:Content_Translation_Screencast_(English).webm.de.srt&quot; data-mwprovider=&quot;wikimediacommons&quot; data-dir=&quot;ltr&quot;/&gt;&lt;track src=&quot;https://commons.wikimedia.org/w/index.php?title=TimedText:Content_Translation_Screencast_(English).webm.en.srt&amp;amp;action=raw&amp;amp;ctype=text%2Fx-srt&quot; kind=&quot;subtitles&quot; type=&quot;text/x-srt&quot; srclang=&quot;en&quot; label=&quot;English (en) subtitles&quot; data-mwtitle=&quot;TimedText:Content_Translation_Screencast_(English).webm.en.srt&quot; data-mwprovider=&quot;wikimediacommons&quot; data-dir=&quot;ltr&quot;/&gt;&lt;track src=&quot;https://commons.wikimedia.org/w/index.php?title=TimedText:Content_Translation_Screencast_(English).webm.eo.srt&amp;amp;action=raw&amp;amp;ctype=text%2Fx-srt&quot; kind=&quot;subtitles&quot; type=&quot;text/x-srt&quot; srclang=&quot;eo&quot; label=&quot;Esperanto (eo) subtitles&quot; data-mwtitle=&quot;TimedText:Content_Translation_Screencast_(English).webm.eo.srt&quot; data-mwprovider=&quot;wikimediacommons&quot; data-dir=&quot;ltr&quot;/&gt;&lt;track src=&quot;https://commons.wikimedia.org/w/index.php?title=TimedText:Content_Translation_Screencast_(English).webm.es.srt&amp;amp;action=raw&amp;amp;ctype=text%2Fx-srt&quot; kind=&quot;subtitles&quot; type=&quot;text/x-srt&quot; srclang=&quot;es&quot; label=&quot;español (es) subtitles&quot; data-mwtitle=&quot;TimedText:Content_Translation_Screencast_(English).webm.es.srt&quot; data-mwprovider=&quot;wikimediacommons&quot; data-dir=&quot;ltr&quot;/&gt;&lt;track src=&quot;https://commons.wikimedia.org/w/index.php?title=TimedText:Content_Translation_Screencast_(English).webm.fr.srt&amp;amp;action=raw&amp;amp;ctype=text%2Fx-srt&quot; kind=&quot;subtitles&quot; type=&quot;text/x-srt&quot; srclang=&quot;fr&quot; label=&quot;français (fr) subtitles&quot; data-mwtitle=&quot;TimedText:Content_Translation_Screencast_(English).webm.fr.srt&quot; data-mwprovider=&quot;wikimediacommons&quot; data-dir=&quot;ltr&quot;/&gt;&lt;track src=&quot;https://commons.wikimedia.org/w/index.php?title=TimedText:Content_Translation_Screencast_(English).webm.he.srt&amp;amp;action=raw&amp;amp;ctype=text%2Fx-srt&quot; kind=&quot;subtitles&quot; type=&quot;text/x-srt&quot; srclang=&quot;he&quot; label=&quot;עברית (he) subtitles&quot; data-mwtitle=&quot;TimedText:Content_Translation_Screencast_(English).webm.he.srt&quot; data-mwprovider=&quot;wikimediacommons&quot; data-dir=&quot;rtl&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="File:Content Translation Screencast (English).webm" style="width:500px;height:281px" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Content_Translation_Screencast_%28English%29.webm/500px--Content_Translation_Screencast_%28English%29.webm.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/e/ee/Content_Translation_Screencast_%28English%29.webm" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Content_Translation_Screencast_(English).webm" class="internal" title="Enlarge"></a></div>
+Screencast showing how to use <a href="/wiki/Special:ContentTranslation" title="Special:ContentTranslation">Content Translation</a></div>
+</div>
+</div>
+<p>Articles on a given subject in different languages are typically edited independently, and need not correspond closely in form, style or content. If portions of an article appear to be low-quality or unverifiable, use your judgment and do not translate those portions. Once you have finished translating, you may ask a <a href="/wiki/Category:Available_proofreaders_in_Wikipedia" title="Category:Available proofreaders in Wikipedia">proofreader</a> to check the translation.</p>
+<p><span id="copyright_attribution"></span> <b>The new, translated article must credit the source article</b>. The recommended way to do this is to do both of the following:</p>
+<dl>
+<dd>
+<ul>
+<li>(a) Provide in the first <a href="/wiki/Help:Edit_summary" title="Help:Edit summary">edit summary</a> of the target article a statement of your translation, together with an <a href="/wiki/Help:Interlanguage_links" title="Help:Interlanguage links">interlanguage link</a> to the source (translated-from) article. Example: <code>Content in this edit is translated from the existing French Wikipedia article at [[:fr:Exact name of French article]]; see its history for attribution.</code></li>
+<li>(b) Place the template {{<a href="/wiki/Template:Translated_page" title="Template:Translated page">Translated page</a>}} on the target article's talk page.</li>
+</ul>
+</dd>
+</dl>
+<p>You are not required to import the revision history, but if you wish to do so, ask at <a href="/wiki/Wikipedia:Requests_for_page_importation" title="Wikipedia:Requests for page importation">Wikipedia:Requests for page importation</a> for the page to either be imported into your userspace or over your translated version of the article. (See also <a href="/wiki/Wikipedia:Copying_within_Wikipedia" title="Wikipedia:Copying within Wikipedia">Wikipedia:Copying within Wikipedia</a>, and its section at <a href="/wiki/Wikipedia:RIA" class="mw-redirect" title="Wikipedia:RIA">WP:RIA</a> if you find a translation that failed to provide mandatory copyright attribution.)</p>
+<p>Avoid being overly influenced by the style of the original. With the exception of quotations, use normal <a href="/wiki/Wikipedia:Manual_of_Style#Clarity" title="Wikipedia:Manual of Style">English encyclopedic style</a>, as appropriate for the topic.</p>
+<p>The English text should be <a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">understandable to a wide audience</a>, so – other things being equal – use everyday English expressions rather than <a href="/wiki/Jargon" title="Jargon">jargon</a> or foreign expressions. It may be necessary to add material explaining terms or cultural concepts unfamiliar to English-speaking readers.</p>
+<p>The <a href="/wiki/Special:ContentTranslation" title="Special:ContentTranslation">Content Translation tool</a> may be used to facilitate the translation process. This tool is currently limited to <a href="/wiki/Wikipedia:Extended_confirmed_editors" class="mw-redirect" title="Wikipedia:Extended confirmed editors">extended confirmed</a> editors (those with 30 days tenure and at least 500 edits). The community is actively developing a process whereby trusted editors will be able to gain access to this tool. Please see more information at <a href="/wiki/Wikipedia:Content_translation_tool" title="Wikipedia:Content translation tool">Wikipedia:Content translation tool</a>.</p>
+<h3><span class="mw-headline" id="Avoid_machine_translations">Avoid machine translations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=edit&amp;section=5" title="Edit section: Avoid machine translations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span id="Machine_translation"></span></p>
+<div style="position:relative;top:-3em"><span id="WP:MACHINETRANSLATION"></span></div>
+<div class="shortcutbox plainlist noprint" role="note" style="float:right;border:1px solid #aaa;background:#fff;margin:.3em .3em .3em 1em;padding:.4em .6em;text-align:center;font-size:smaller;line-height:2em;font-weight:bold"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>:
+<ul>
+<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:MACHINETRANSLATION&amp;redirect=no">WP:MACHINETRANSLATION</a></span></li>
+</ul>
+</div>
+<p>Translation takes work. Machine translation almost always produces very low-quality results. Wikipedia consensus is that <b>an unedited machine translation, left as a Wikipedia article, is worse than nothing.</b> (This is partly because translation templates automatically carry links to machine translations, so readers can easily access machine translations anyway‍—‌pasting a machine translation into an "article" really achieves nothing).</p>
+<h2><span class="mw-headline" id="Translation_from_English_to_another_language">Translation from English to another language</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=edit&amp;section=6" title="Edit section: Translation from English to another language">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Translations of an article on English Wikipedia into some other language are covered at <a href="/wiki/Wikipedia:Translate_us" title="Wikipedia:Translate us">Wikipedia:Translate us</a>.</p>
+<h2><span class="mw-headline" id="Classroom_collaborations">Classroom collaborations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=edit&amp;section=7" title="Edit section: Classroom collaborations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main pages: <a href="/wiki/Wikipedia:WikiProject_Classroom_coordination" title="Wikipedia:WikiProject Classroom coordination">Wikipedia:WikiProject Classroom coordination</a> and <a href="/wiki/Wikipedia:Student_assignments" title="Wikipedia:Student assignments">Wikipedia:Student assignments</a></div>
+<p>Wikipedia welcomes the involvement of students in article editing. Article translation is particularly well-suited to student involvement. Such efforts provide useful, real-world translation experience for students, who will be motivated by the fact that their work will be seen by thousands of Wikipedia readers. They also benefit Wikipedia readers, who gain access to information about other cultures and peoples. For assistance setting up a classroom translation project, please see <a href="/wiki/Wikipedia:Student_assignments" title="Wikipedia:Student assignments">Wikipedia:Student assignments</a> and <a href="/wiki/Wikipedia:WikiProject_Classroom_coordination" title="Wikipedia:WikiProject Classroom coordination">Wikipedia:WikiProject Classroom coordination</a>.</p>
+<h2><span class="mw-headline" id="Userboxes">Userboxes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=edit&amp;section=8" title="Edit section: Userboxes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>{{<a href="/wiki/Template:User_Translator" title="Template:User Translator">User Translator</a>}} indicates your willingness to participate in this project through translation, copy editing, or other ways.</p>
+<table>
+<tr>
+<td style="padding:10px;">{{User Translator|es}} produces:<br />
+<div class="wikipediauserbox" style="float:left;border:1px solid #000;margin:1px;width:238px">
+<table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#d3d3d3">
+<tr>
+<td style="border:0;width:45px;height:45px;background:#fff;text-align:center;font-size:12pt;font-weight:bold;color:#000;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle">
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_es.svg" class="image" title="Spanish"><img alt="Spanish" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ISO_639_Icon_es.svg/30px-ISO_639_Icon_es.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ISO_639_Icon_es.svg/45px-ISO_639_Icon_es.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ISO_639_Icon_es.svg/60px-ISO_639_Icon_es.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+<a href="/wiki/File:U%2B21D4.svg" class="image"><img alt="to" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/18px-U%2B21D4.svg.png" width="18" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/27px-U%2B21D4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/36px-U%2B21D4.svg.png 2x" data-file-width="25" data-file-height="14" /></a>
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_en.svg" class="image" title="English"><img alt="English" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/30px-ISO_639_Icon_en.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/45px-ISO_639_Icon_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/60px-ISO_639_Icon_en.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+</td>
+<td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">This user is a translator from Spanish to English on <a class="mw-selflink selflink">Wikipedia:Translation</a>.</td>
+</tr>
+</table>
+</div>
+</td>
+<td style="padding:10px;">{{User Translator|hi|proofreader=yes}} produces:<br />
+<div class="wikipediauserbox" style="float:left;border:1px solid #000;margin:1px;width:238px">
+<table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#d3d3d3">
+<tr>
+<td style="border:0;width:45px;height:45px;background:#fff;text-align:center;font-size:12pt;font-weight:bold;color:#000;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle">
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_hi.svg" class="image" title="Hindi"><img alt="Hindi" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/ISO_639_Icon_hi.svg/30px-ISO_639_Icon_hi.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/ISO_639_Icon_hi.svg/45px-ISO_639_Icon_hi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/ISO_639_Icon_hi.svg/60px-ISO_639_Icon_hi.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+<a href="/wiki/File:U%2B21D4.svg" class="image"><img alt="to" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/18px-U%2B21D4.svg.png" width="18" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/27px-U%2B21D4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/36px-U%2B21D4.svg.png 2x" data-file-width="25" data-file-height="14" /></a>
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_en.svg" class="image" title="English"><img alt="English" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/30px-ISO_639_Icon_en.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/45px-ISO_639_Icon_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/60px-ISO_639_Icon_en.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+</td>
+<td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">This user is a translator and proofreader from Hindi to English on <a class="mw-selflink selflink">Wikipedia:Translation</a>.</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:10px;">{{User Translator|ar|project=no}} produces:<br />
+<div class="wikipediauserbox" style="float:left;border:1px solid #000;margin:1px;width:238px">
+<table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#d3d3d3">
+<tr>
+<td style="border:0;width:45px;height:45px;background:#fff;text-align:center;font-size:12pt;font-weight:bold;color:#000;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle">
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_ar.svg" class="image" title="Arabic"><img alt="Arabic" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/ISO_639_Icon_ar.svg/30px-ISO_639_Icon_ar.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/ISO_639_Icon_ar.svg/45px-ISO_639_Icon_ar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/ISO_639_Icon_ar.svg/60px-ISO_639_Icon_ar.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+<a href="/wiki/File:U%2B21D4.svg" class="image"><img alt="to" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/18px-U%2B21D4.svg.png" width="18" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/27px-U%2B21D4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/36px-U%2B21D4.svg.png 2x" data-file-width="25" data-file-height="14" /></a>
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_en.svg" class="image" title="English"><img alt="English" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/30px-ISO_639_Icon_en.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/45px-ISO_639_Icon_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/60px-ISO_639_Icon_en.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+</td>
+<td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">This user likes to <a class="mw-selflink selflink">translate</a> articles from Arabic to English.</td>
+</tr>
+</table>
+</div>
+</td>
+<td style="padding:10px;">{{User Translator|de|proofreader=yes|project=no}} produces:<br />
+<div class="wikipediauserbox" style="float:left;border:1px solid #000;margin:1px;width:238px">
+<table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#d3d3d3">
+<tr>
+<td style="border:0;width:45px;height:45px;background:#fff;text-align:center;font-size:12pt;font-weight:bold;color:#000;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle">
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_de.svg" class="image" title="German"><img alt="German" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ISO_639_Icon_de.svg/30px-ISO_639_Icon_de.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ISO_639_Icon_de.svg/45px-ISO_639_Icon_de.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ISO_639_Icon_de.svg/60px-ISO_639_Icon_de.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+<a href="/wiki/File:U%2B21D4.svg" class="image"><img alt="to" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/18px-U%2B21D4.svg.png" width="18" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/27px-U%2B21D4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/36px-U%2B21D4.svg.png 2x" data-file-width="25" data-file-height="14" /></a>
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_en.svg" class="image" title="English"><img alt="English" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/30px-ISO_639_Icon_en.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/45px-ISO_639_Icon_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/60px-ISO_639_Icon_en.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+</td>
+<td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">This user likes to <a class="mw-selflink selflink">translate and proofread</a> articles from German to English.</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:10px;">{{User Translator|sd|project=no}} produces:<br />
+<div class="wikipediauserbox" style="float:left;border:1px solid #000;margin:1px;width:238px">
+<table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#d3d3d3">
+<tr>
+<td style="border:0;width:45px;height:45px;background:#fff;text-align:center;font-size:12pt;font-weight:bold;color:#000;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle">
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_sd.svg" class="image" title="Sindhi"><img alt="Sindhi" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/ISO_639_Icon_sd.svg/30px-ISO_639_Icon_sd.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/ISO_639_Icon_sd.svg/45px-ISO_639_Icon_sd.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/ISO_639_Icon_sd.svg/60px-ISO_639_Icon_sd.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+<a href="/wiki/File:U%2B21D4.svg" class="image"><img alt="to" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/18px-U%2B21D4.svg.png" width="18" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/27px-U%2B21D4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/36px-U%2B21D4.svg.png 2x" data-file-width="25" data-file-height="14" /></a>
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_en.svg" class="image" title="English"><img alt="English" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/30px-ISO_639_Icon_en.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/45px-ISO_639_Icon_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/60px-ISO_639_Icon_en.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+</td>
+<td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">This user likes to <a class="mw-selflink selflink">translate</a> articles from Sindhi to English.</td>
+</tr>
+</table>
+</div>
+</td>
+<td style="padding:10px;">{{User Translator|sd|proofreader=yes|project=no}} produces:<br />
+<div class="wikipediauserbox" style="float:left;border:1px solid #000;margin:1px;width:238px">
+<table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#d3d3d3">
+<tr>
+<td style="border:0;width:45px;height:45px;background:#fff;text-align:center;font-size:12pt;font-weight:bold;color:#000;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle">
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_sd.svg" class="image" title="Sindhi"><img alt="Sindhi" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/ISO_639_Icon_sd.svg/30px-ISO_639_Icon_sd.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/ISO_639_Icon_sd.svg/45px-ISO_639_Icon_sd.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/ISO_639_Icon_sd.svg/60px-ISO_639_Icon_sd.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+<a href="/wiki/File:U%2B21D4.svg" class="image"><img alt="to" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/18px-U%2B21D4.svg.png" width="18" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/27px-U%2B21D4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/U%2B21D4.svg/36px-U%2B21D4.svg.png 2x" data-file-width="25" data-file-height="14" /></a>
+<div style="position:relative; top:0px; border:0px solid black"><a href="/wiki/File:ISO_639_Icon_en.svg" class="image" title="English"><img alt="English" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/30px-ISO_639_Icon_en.svg.png" width="30" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/45px-ISO_639_Icon_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/60px-ISO_639_Icon_en.svg.png 2x" data-file-width="400" data-file-height="180" /></a></div>
+</td>
+<td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">This user likes to <a class="mw-selflink selflink">translate and proofread</a> articles from Sindhi to English.</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<p>After putting this template on a userpage, the page will be added to the appropriate subcategory of <a href="/wiki/Category:Available_translators_in_Wikipedia" title="Category:Available translators in Wikipedia">Category:Available translators in Wikipedia</a>. When the <code>proofreader</code> attribute is set to 'yes', the page will also be added to a subcategory of <a href="/wiki/Category:Available_proofreaders_in_Wikipedia" title="Category:Available proofreaders in Wikipedia">Category:Available proofreaders in Wikipedia</a>.</p>
+<p>{{<a href="/wiki/Template:User_Translator_2" title="Template:User Translator 2">User Translator 2</a>}} works in the same way in the other direction (from English to another language).</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Category:Wikipedia_translation_templates" title="Category:Wikipedia translation templates">Category:Wikipedia translation templates</a></li>
+<li><a href="/wiki/EASE_Guidelines_for_Authors_and_Translators_of_Scientific_Articles" title="EASE Guidelines for Authors and Translators of Scientific Articles">EASE Guidelines for Authors and Translators of Scientific Articles</a></li>
+<li><a href="/wiki/Category:Multilingual_websites" title="Category:Multilingual websites">Category:Multilingual websites</a> (Editors who translate articles between different versions of Wikipedia can use some of these websites for references.)</li>
+<li><a href="/wiki/Machine_translation" title="Machine translation">Machine translation</a></li>
+<li><a href="/wiki/Template:Notenglish-section" class="mw-redirect" title="Template:Notenglish-section">Template:Notenglish-section</a></li>
+<li><a href="/wiki/Wikipedia:Basic_copyediting" title="Wikipedia:Basic copyediting">Wikipedia:Basic copyediting</a>, a task commonly following translation</li>
+<li><a href="/wiki/Wikipedia:Pages_needing_translation_into_English" title="Wikipedia:Pages needing translation into English">Wikipedia:Pages needing translation into English</a>, for pages on the <a href="/wiki/English_Wikipedia" title="English Wikipedia">English Wikipedia</a> that will shortly be deleted unless translated</li>
+<li><a href="/wiki/Wikipedia:Translating_German_Wikipedia" title="Wikipedia:Translating German Wikipedia">Wikipedia:Translating German Wikipedia</a></li>
+<li><a href="/wiki/Wikipedia:Translators_available" title="Wikipedia:Translators available">Wikipedia:Translators available</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Cross-language_Editing_and_Learning_Exchange" title="Wikipedia:WikiProject Cross-language Editing and Learning Exchange">Wikipedia:WikiProject Cross-language Editing and Learning Exchange</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Translation_Studies" class="mw-redirect" title="Wikipedia:WikiProject Translation Studies">Wikipedia:WikiProject Translation Studies</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="https://en.wiktionary.org/wiki/Wiktionary:Translations" class="extiw" title="wiktionary:Wiktionary:Translations">Wiktionary:Translations</a></li>
+<li><a href="https://meta.wikimedia.org/wiki/Translation_of_the_week" class="extiw" title="meta:Translation of the week">Meta:Translation of the week</a></li>
+<li><a href="https://translatewiki.net/wiki/Translating:MediaWiki" class="extiw" title="translatewiki:Translating:MediaWiki">MediaWiki translation</a> on <a href="/wiki/Translatewiki.net" title="Translatewiki.net">translatewiki.net</a>, a localisation platform for translation communities, language communities, and open source projects</li>
+<li><a rel="nofollow" class="external text" href="http://courses.logos.it">LOGOS - Multilingual Translation Portal</a> (translation course)</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Wikipedia_community" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="text-align: center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wikipedia_community" title="Template:Wikipedia community"><abbr title="View this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wikipedia_community" title="Template talk:Wikipedia community"><abbr title="Discuss this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikipedia_community&amp;action=edit"><abbr title="Edit this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Wikipedia_community" style="font-size:114%;margin:0 4em"><a href="/wiki/Wikipedia_community" title="Wikipedia community">Wikipedia community</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="text-align: center;">
+<div><i>For a listing of current collaborations, tasks, and news, see the <b><a href="/wiki/Wikipedia:Community_portal" title="Wikipedia:Community portal">Community portal</a></b>.<br />
+For a listing of ongoing discussions and current requests, see the <b><a href="/wiki/Wikipedia:Dashboard" title="Wikipedia:Dashboard">Dashboard</a></b>.</i></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Welcoming_committee/Welcome_to_Wikipedia" title="Wikipedia:Welcoming committee/Welcome to Wikipedia">Welcome!</a></li>
+<li><a href="/wiki/Wikipedia:Administration" title="Wikipedia:Administration">Administration</a></li>
+<li><a href="/wiki/Wikipedia:News" title="Wikipedia:News">News</a>
+<ul>
+<li><i><a href="/wiki/Wikipedia:Wikipedia_Signpost" title="Wikipedia:Wikipedia Signpost">The Signpost</a></i></li>
+<li><a href="/wiki/Wikipedia:Goings-on" title="Wikipedia:Goings-on">Goings-on</a></li>
+<li><a href="/wiki/Wikipedia:Wikipedia_in_the_media" title="Wikipedia:Wikipedia in the media">In the media</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Meetup" title="Wikipedia:Meetup">Meetups</a></li>
+<li><a href="/wiki/Wikipedia:Mailing_lists" title="Wikipedia:Mailing lists">Mailing lists</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Contests" title="Wikipedia:Contests">Contests</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Wikipedians" title="Wikipedia:Wikipedians">Wikipedians</a></li>
+<li><a href="/wiki/Wikipedia:Statistics" title="Wikipedia:Statistics">Statistics</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Milestones" title="Wikipedia:Milestones">Milestones</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:The_Wikipedia_Library" title="Wikipedia:The Wikipedia Library">The Wikipedia Library</a></li>
+<li><a href="/wiki/Wikipedia:Centralized_discussion" title="Wikipedia:Centralized discussion">Centralized discussion</a></li>
+<li><a href="/wiki/Wikipedia:Village_pump" title="Wikipedia:Village pump">Village pump</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Village_pump_(idea_lab)" title="Wikipedia:Village pump (idea lab)">Idea lab</a></li>
+<li><a href="/wiki/Wikipedia:Village_pump_(policy)" title="Wikipedia:Village pump (policy)">Policy</a></li>
+<li><a href="/wiki/Wikipedia:Village_pump_(proposals)" title="Wikipedia:Village pump (proposals)">Proposals</a></li>
+<li><a href="/wiki/Wikipedia:Village_pump_(technical)" title="Wikipedia:Village pump (technical)">Technical</a></li>
+<li><a href="/wiki/Wikipedia:Village_pump_(miscellaneous)" title="Wikipedia:Village pump (miscellaneous)">Miscellaneous</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Awards" title="Wikipedia:Awards">Awards</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Reward_board" title="Wikipedia:Reward board">Reward board</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Portal:Contents" title="Portal:Contents">Contents</a> and <a href="/wiki/Wikipedia:WikiProject_assessment" title="Wikipedia:WikiProject assessment">grading</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Requested_articles" title="Wikipedia:Requested articles">Requested articles</a></li>
+<li><a href="/wiki/Wikipedia:Most-wanted_articles" title="Wikipedia:Most-wanted articles">Most-wanted articles</a></li>
+<li><a href="/wiki/Wikipedia:Requested_articles/Images" title="Wikipedia:Requested articles/Images">Images needing articles</a></li>
+<li><a href="/wiki/Wikipedia:Requested_pictures" title="Wikipedia:Requested pictures">Articles needing images</a></li>
+<li><a href="/wiki/Wikipedia:Articles_for_creation" title="Wikipedia:Articles for creation">Articles for creation</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Article_creation" title="Wikipedia:Article creation">Creation</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Articles_for_creation/Help_desk" title="Wikipedia:WikiProject Articles for creation/Help desk">Help</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Vital_articles" title="Wikipedia:Vital articles">Vital articles</a></li>
+<li><a href="/wiki/Wikipedia:Today%27s_articles_for_improvement" title="Wikipedia:Today's articles for improvement">Today's articles for improvement</a></li>
+<li><a href="/wiki/Wikipedia:Peer_review" title="Wikipedia:Peer review">Peer review</a></li>
+<li><a href="/wiki/Wikipedia:Good_article_nominations" title="Wikipedia:Good article nominations">Good article nominations</a></li>
+<li><a href="/wiki/Wikipedia:Featured_article_candidates" title="Wikipedia:Featured article candidates">Featured article candidates</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Featured_list_candidates" title="Wikipedia:Featured list candidates">Lists</a></li>
+<li><a href="/wiki/Wikipedia:Featured_picture_candidates" title="Wikipedia:Featured picture candidates">Pictures</a></li>
+<li><a href="/wiki/Wikipedia:Featured_portal_candidates" title="Wikipedia:Featured portal candidates">Portals</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topic_candidates" title="Wikipedia:Featured topic candidates">Topics</a></li>
+</ul>
+</li>
+<li><a class="mw-selflink selflink">Article translation</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Pages_needing_translation_into_English" title="Wikipedia:Pages needing translation into English">Pages</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Talk:Main_Page" title="Talk:Main Page">Main Page</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Main_Page/Errors" title="Wikipedia:Main Page/Errors">Errors</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:WikiProject" title="Wikipedia:WikiProject">WikiProjects</a> and groups</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Council/Directory" title="Wikipedia:WikiProject Council/Directory">Directory</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Council/Directory/Culture" title="Wikipedia:WikiProject Council/Directory/Culture">Culture and the arts</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Council/Directory/Geographical" title="Wikipedia:WikiProject Council/Directory/Geographical">Geographical</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Council/Directory/History_and_society" title="Wikipedia:WikiProject Council/Directory/History and society">History and society</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Council/Directory/Science" title="Wikipedia:WikiProject Council/Directory/Science">Science, technology and engineering</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Council/Directory/Wikipedia" title="Wikipedia:WikiProject Council/Directory/Wikipedia">Wikipedia assistance and tasks</a></li>
+<li><a href="/wiki/Wikipedia:Patrols" title="Wikipedia:Patrols">Patrols</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Recent_changes_patrol" title="Wikipedia:Recent changes patrol">Recent changes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Counter-Vandalism_Unit" title="Wikipedia:Counter-Vandalism Unit">Counter-Vandalism Unit</a></li>
+<li><a href="/wiki/Wikipedia:Version_1.0_Editorial_Team" title="Wikipedia:Version 1.0 Editorial Team">Version 1.0 Editorial Team</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Accessibility" title="Wikipedia:WikiProject Accessibility">Accessibility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:Maintenance" title="Wikipedia:Maintenance">Maintenance tasks</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Task_Center" title="Wikipedia:Task Center">Task Center</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Community_portal/Opentask" title="Wikipedia:Community portal/Opentask">Open tasks</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Backlog" title="Wikipedia:Backlog">Backlog</a></li>
+<li><a href="/wiki/Wikipedia:Database_reports" title="Wikipedia:Database reports">Database reports</a></li>
+<li><a href="/wiki/Template:Category_tracker" title="Template:Category tracker">Category tracker</a></li>
+<li><a href="/wiki/Wikipedia:Dusty_articles" title="Wikipedia:Dusty articles">Dusty articles</a></li>
+<li><a href="/wiki/Special:SpecialPages" title="Special:SpecialPages">Special pages</a>
+<ul>
+<li><a href="/wiki/Special:NewPagesFeed" title="Special:NewPagesFeed">New pages</a></li>
+<li><a href="/wiki/Special:RecentChanges" title="Special:RecentChanges">Recent changes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:List_of_controversial_issues" title="Wikipedia:List of controversial issues">Controversial issues</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:Administrators" title="Wikipedia:Administrators">Administrators</a><br />
+and <a href="/wiki/Wikipedia:Noticeboards" title="Wikipedia:Noticeboards">noticeboards</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Admin_dashboard" title="Template:Admin dashboard">Admin dashboard</a></li>
+<li><a href="/wiki/Wikipedia:Requests_for_administrator_attention" title="Wikipedia:Requests for administrator attention">Admin requests</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_noticeboard" title="Wikipedia:Administrators' noticeboard">Administrators'</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Administrators%27_noticeboard/Incidents" title="Wikipedia:Administrators' noticeboard/Incidents">Incidents</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_noticeboard/Edit_warring" title="Wikipedia:Administrators' noticeboard/Edit warring">Edit warring</a></li>
+<li><a href="/wiki/Wikipedia:Administrator_intervention_against_vandalism" title="Wikipedia:Administrator intervention against vandalism">Vandalism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Administrators%27_noticeboard/Requests_for_closure" title="Wikipedia:Administrators' noticeboard/Requests for closure">Requests for closure</a></li>
+<li><a href="/wiki/Wikipedia:Revision_deletion" title="Wikipedia:Revision deletion">Revision deletion</a></li>
+<li><a href="/wiki/Wikipedia:Oversight" title="Wikipedia:Oversight">Oversight</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Requests_for_oversight" title="Wikipedia:Requests for oversight">Request</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Requests_for_page_protection" title="Wikipedia:Requests for page protection">Page protection</a></li>
+<li><a href="/wiki/Wikipedia:Regional_notice_boards" title="Wikipedia:Regional notice boards">Regional notice boards</a></li>
+<li><a href="/wiki/Wikipedia:Sockpuppet_investigations" title="Wikipedia:Sockpuppet investigations">Sockpuppets</a></li>
+<li><a href="/wiki/Wikipedia:Requests_for_permissions" title="Wikipedia:Requests for permissions">User permissions</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_on_open_proxies" title="Wikipedia:WikiProject on open proxies">Open proxies</a></li>
+<li><a href="/wiki/Wikipedia:Usernames_for_administrator_attention" title="Wikipedia:Usernames for administrator attention">Usernames</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Changing_username" title="Wikipedia:Changing username">Changing</a></li>
+<li><a href="/wiki/MediaWiki_talk:Titleblacklist" title="MediaWiki talk:Titleblacklist">Title blacklist</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:OTRS_noticeboard" title="Wikipedia:OTRS noticeboard">OTRS</a></li>
+<li><a href="/wiki/Wikipedia:Bureaucrats%27_noticeboard" title="Wikipedia:Bureaucrats' noticeboard">Bureaucrats'</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Requests_for_adminship" title="Wikipedia:Requests for adminship">Requests for adminship</a> and <a href="/wiki/Wikipedia:Requests_for_adminship#About_RfB" title="Wikipedia:Requests for adminship">bureaucratship</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Arbitration_Committee/Noticeboard" title="Wikipedia:Arbitration Committee/Noticeboard">Arbitration Committee</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Arbitration/Requests" title="Wikipedia:Arbitration/Requests">Requests</a></li>
+<li><a href="/wiki/Wikipedia:Arbitration/Requests/Enforcement" title="Wikipedia:Arbitration/Requests/Enforcement">Enforcement</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:Dispute_resolution#Resolving_content_disputes_with_outside_help" title="Wikipedia:Dispute resolution">Content dispute<br />
+resolution</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Editor_assistance/Requests" title="Wikipedia:Editor assistance/Requests">Editor assistance</a></li>
+<li><a href="/wiki/Wikipedia:Requests_for_comment/All" title="Wikipedia:Requests for comment/All">Requests for comment</a></li>
+<li><a href="/wiki/Wikipedia:Third_opinion" title="Wikipedia:Third opinion">Third opinion</a></li>
+<li><a href="/wiki/Wikipedia:Dispute_resolution_noticeboard" title="Wikipedia:Dispute resolution noticeboard">Dispute resolution noticeboard</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Biographies_of_living_persons/Noticeboard" title="Wikipedia:Biographies of living persons/Noticeboard">Biographies of living persons</a></li>
+<li><a href="/wiki/Wikipedia:Conflict_of_interest/Noticeboard" title="Wikipedia:Conflict of interest/Noticeboard">Conflict of interest</a></li>
+<li><a href="/wiki/Wikipedia:External_links/Noticeboard" title="Wikipedia:External links/Noticeboard">External links</a></li>
+<li><a href="/wiki/Wikipedia:Fringe_theories/Noticeboard" title="Wikipedia:Fringe theories/Noticeboard">Fringe theories</a></li>
+<li><a href="/wiki/Wikipedia:Neutral_point_of_view/Noticeboard" title="Wikipedia:Neutral point of view/Noticeboard">Neutral point of view</a></li>
+<li><a href="/wiki/Wikipedia:No_original_research/Noticeboard" title="Wikipedia:No original research/Noticeboard">No original research</a></li>
+<li><a href="/wiki/Wikipedia:Reliable_sources/Noticeboard" title="Wikipedia:Reliable sources/Noticeboard">Reliable sources</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Requests_for_mediation" title="Wikipedia:Requests for mediation">Mediation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%">Other noticeboards<br />
+and assistance</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Request_directory" title="Wikipedia:Request directory">Requests for help</a></li>
+<li><a href="/wiki/Wikipedia:Questions" title="Wikipedia:Questions">Asking&#160;questions</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Teahouse" title="Wikipedia:Teahouse">Teahouse</a></li>
+<li><a href="/wiki/Wikipedia:Help_desk" title="Wikipedia:Help desk">Help&#160;desk</a></li>
+<li><a href="/wiki/Wikipedia:Reference_desk" title="Wikipedia:Reference desk">Reference&#160;desk</a></li>
+<li><a href="/wiki/Wikipedia:Adopt-a-user" title="Wikipedia:Adopt-a-user">Adopt-a-user</a></li>
+<li><a href="/wiki/Special:OnlineVolunteers" title="Special:OnlineVolunteers">Online Ambassadors</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Copyright_assistance" title="Wikipedia:Copyright assistance">Copyright assistance</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Contributor_copyright_investigations" title="Wikipedia:Contributor copyright investigations">Copyright investigations</a></li>
+<li><a href="/wiki/Wikipedia:Copyright_problems" title="Wikipedia:Copyright problems">Text problems</a></li>
+<li><a href="/wiki/Wikipedia:Media_copyright_questions" title="Wikipedia:Media copyright questions">Media questions</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:WikiProject_Cooperation/Paid_editor_help" title="Wikipedia:WikiProject Cooperation/Paid editor help">Paid editors</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Resource_Exchange/Resource_Request" title="Wikipedia:WikiProject Resource Exchange/Resource Request">Resource requests</a></li>
+<li><a href="/wiki/Wikipedia:Proposed_mergers" title="Wikipedia:Proposed mergers">Mergers</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Requests_for_history_merge" title="Wikipedia:Requests for history merge">History mergers</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">Moves</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Requests_for_page_importation" title="Wikipedia:Requests for page importation">Page importation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia_talk:WikiProject_Spam" title="Wikipedia talk:WikiProject Spam">Spam</a>
+<ul>
+<li><a href="/wiki/MediaWiki_talk:Spam-blacklist" title="MediaWiki talk:Spam-blacklist">Blacklist</a></li>
+<li><a href="/wiki/MediaWiki_talk:Spam-whitelist" title="MediaWiki talk:Spam-whitelist">Whitelist</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Bots/Noticeboard" title="Wikipedia:Bots/Noticeboard">Bots</a></li>
+<li><a href="/wiki/Wikipedia:Education_noticeboard" title="Wikipedia:Education noticeboard">Education</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Education_noticeboard/Incidents" title="Wikipedia:Education noticeboard/Incidents">Incidents</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:New_pages_patrol/Noticeboard" title="Wikipedia:New pages patrol/Noticeboard">New pages patrol</a></li>
+<li><a href="/wiki/Wikipedia:General_sanctions" title="Wikipedia:General sanctions">General sanctions</a></li>
+<li><a href="/wiki/Wikipedia:Editing_restrictions" title="Wikipedia:Editing restrictions">Editor sanctions</a></li>
+<li><a href="/wiki/Wikipedia:Long-term_abuse" title="Wikipedia:Long-term abuse">Long-term abuse</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:Deletion_process#Deletion_discussions" title="Wikipedia:Deletion process">Deletion<br />
+discussions</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Guide_to_deletion" title="Wikipedia:Guide to deletion">Guide</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Deletion_guidelines_for_administrators" title="Wikipedia:Deletion guidelines for administrators">Admin</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:XfD_today" title="Wikipedia:XfD today">Today</a></li>
+<li><a href="/wiki/Wikipedia:Articles_for_deletion" title="Wikipedia:Articles for deletion">Articles</a></li>
+<li><a href="/wiki/Wikipedia:Templates_for_discussion" title="Wikipedia:Templates for discussion">Templates</a></li>
+<li><a href="/wiki/Wikipedia:Files_for_discussion" title="Wikipedia:Files for discussion">Files</a></li>
+<li><a href="/wiki/Wikipedia:Categories_for_discussion" title="Wikipedia:Categories for discussion">Categories</a></li>
+<li><a href="/wiki/Wikipedia:Redirects_for_discussion" title="Wikipedia:Redirects for discussion">Redirects</a></li>
+<li><a href="/wiki/Wikipedia:Miscellany_for_deletion" title="Wikipedia:Miscellany for deletion">Miscellany</a></li>
+<li><a href="/wiki/Wikipedia:Criteria_for_speedy_deletion" title="Wikipedia:Criteria for speedy deletion">Speedy</a></li>
+<li><a href="/wiki/Wikipedia:Proposed_deletion" title="Wikipedia:Proposed deletion">Proposed</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Proposed_deletion_of_biographies_of_living_people" title="Wikipedia:Proposed deletion of biographies of living people">BLP</a></li>
+<li><a href="/wiki/Wikipedia:Proposed_deletion_(books)" title="Wikipedia:Proposed deletion (books)">Books</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Deletion_review" title="Wikipedia:Deletion review">Review</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Requests_for_undeletion" title="Wikipedia:Requests for undeletion">Undeletion</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Arguments_to_avoid_in_deletion_discussions" title="Wikipedia:Arguments to avoid in deletion discussions">Arguments to avoid</a></li>
+<li><a href="/wiki/Wikipedia:Arguments_to_make_in_deletion_discussions" title="Wikipedia:Arguments to make in deletion discussions">Arguments to make</a></li>
+<li><a href="/wiki/Wikipedia:Article_Rescue_Squadron" title="Wikipedia:Article Rescue Squadron">Article Rescue</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:Elections" title="Wikipedia:Elections">Elections</a> and <a href="/wiki/Wikipedia:Voting" title="Wikipedia:Voting">votings</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Requests_for_comment" title="Wikipedia:Requests for comment">Requests for comment</a> (<a href="https://meta.wikimedia.org/wiki/Requests_for_comment" class="extiw" title="m:Requests for comment">meta</a>)</li>
+<li><a href="https://meta.wikimedia.org/wiki/Wikimedia_Foundation_elections" class="extiw" title="m:Wikimedia Foundation elections">Wikimedia Foundation elections</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Democracy" title="Wikipedia:WikiProject Democracy">WP Democracy</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Voting_is_not_evil" title="Wikipedia:Voting is not evil">Voting is not evil</a></li>
+<li><a href="/wiki/Wikipedia:Times_that_1000_or_more_Wikipedians_supported_something" title="Wikipedia:Times that 1000 or more Wikipedians supported something">Milestones</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:Directories_and_indexes" title="Wikipedia:Directories and indexes">Directories</a><br />
+and summaries</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Department_directory" title="Wikipedia:Department directory">Departments</a></li>
+<li><a href="/wiki/Wikipedia:Edit_summary_legend" title="Wikipedia:Edit summary legend">Edit summary legend</a></li>
+<li><a href="/wiki/Wikipedia:Editor%27s_index_to_Wikipedia" title="Wikipedia:Editor's index to Wikipedia">Editor's index</a></li>
+<li><a href="/wiki/Wikipedia:Essay_directory" title="Wikipedia:Essay directory">Essays</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Index" title="Wikipedia:FAQ/Index">FAQs</a></li>
+<li><a href="/wiki/Wikipedia:Glossary" title="Wikipedia:Glossary">Glossary</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Wikipedia_abbreviations" title="Wikipedia:Wikipedia abbreviations">Abbreviations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Help:Directory" title="Help:Directory">Help</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Contents" title="Wikipedia:Manual of Style/Contents">Manual of Style</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Simplified_Manual_of_Style" title="Wikipedia:Simplified Manual of Style">Simplified</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Simplified_ruleset" title="Wikipedia:Simplified ruleset">Rules</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Five_pillars" title="Wikipedia:Five pillars">Five pillars</a></li>
+<li><a href="/wiki/Wikipedia:List_of_policies" title="Wikipedia:List of policies">Policies</a></li>
+<li><a href="/wiki/Wikipedia:List_of_guidelines" title="Wikipedia:List of guidelines">Guidelines</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Shortcut_directory" title="Wikipedia:Shortcut directory">Shortcuts</a></li>
+<li><a href="/wiki/Wikipedia:Template_messages" title="Wikipedia:Template messages">Template messages</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Citation_templates" title="Wikipedia:Citation templates">Citation templates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Tips" title="Wikipedia:Tips">Tips</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Tip_of_the_day" title="Wikipedia:Tip of the day">Today</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Tools" title="Wikipedia:Tools">Tools</a></li>
+<li><a href="/wiki/Wikipedia:WikiNode" title="Wikipedia:WikiNode">Wikis</a></li>
+<li><a href="/wiki/Help:Cheatsheet" title="Help:Cheatsheet">Wiki markup</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20170918160815
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.168 seconds
+Real time usage: 0.252 seconds
+Preprocessor visited node count: 1012/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 70661/2097152 bytes
+Template argument size: 1098/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 8/500
+Lua time usage: 0.052/10.000 seconds
+Lua memory usage: 2.72 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  147.657      1 -total
+ 21.60%   31.890      6 Template:User_Translator
+ 20.14%   29.732      6 Template:Userbox
+ 17.20%   25.396      1 Template:Notice
+ 16.23%   23.961      1 Template:Pp-move-indef
+ 15.58%   23.008      1 Template:Mbox
+ 11.27%   16.641      2 Template:Shortcut
+  8.44%   12.459      2 Template:Redirect
+  7.40%   10.928      1 Template:Wikipedia_community
+  6.44%    9.504      1 Template:Translation_department
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:473353-0!canonical and timestamp 20170918160815 and revision id 801250667
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Translation&amp;oldid=801250667">https://en.wikipedia.org/w/index.php?title=Wikipedia:Translation&amp;oldid=801250667</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_translation" title="Category:Wikipedia translation">Wikipedia translation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_move-protected_project_pages" title="Category:Wikipedia move-protected project pages">Wikipedia move-protected project pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikipedia%3ATranslation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3ATranslation" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-project" class="selected"><span><a href="/wiki/Wikipedia:Translation" title="View the project page [c]" accesskey="c">Project page</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Wikipedia_talk:Translation" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Wikipedia:Translation">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:Translation&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:Translation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:Translation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Translation&amp;oldid=801250667" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Translation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3361708" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3ATranslation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikipedia%3ATranslation&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DWikipedia%253ATranslation%26returnto%3DWikipedia%253ATranslation%26oldid%3D801250667%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Translation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/Project:Translation" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Help:Translation" hreflang="en">Wikispecies</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Hilfe:Ratschl%C3%A4ge_f%C3%BCr_%C3%9Cbersetzungen" title="Hilfe:Ratschläge für Übersetzungen – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%B1%D8%AC%D9%85%D8%A9_%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA_%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7" title="ويكيبيديا:ترجمة مقالات ويكيبيديا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A7%8D%E0%A7%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA_%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%A6" title="ৱিকিপিডিয়া:ৱিকিপ্ৰকল্প অনুবাদ – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Vikipediya:T%C9%99rc%C3%BCm%C9%99_Qrupu" title="Vikipediya:Tərcümə Qrupu – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%A6" title="উইকিপিডিয়া:অনুবাদ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%8B%D1%8F:%D0%9F%D0%B5%D1%80%D0%B0%D0%BA%D0%BB%D0%B0%D0%B4" title="Вікіпедыя:Пераклад – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F:%D0%9F%D0%B5%D1%80%D0%B0%D0%BA%D0%BB%D0%B0%D0%B4" title="Вікіпэдыя:Пераклад – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6_%E0%A4%96%E0%A4%BE%E0%A4%A4%E0%A4%BF%E0%A4%B0_%E0%A4%B2%E0%A5%87%E0%A4%96" title="विकिपीडिया:अनुवाद खातिर लेख – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D0%B2%D0%BE%D0%B4" title="Уикипедия:Превод – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Traduccions" title="Viquipèdia:Traduccions – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Hj%C3%A6lp:Overs%C3%A6ttelser" title="Hjælp:Oversættelser – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wikipedia:%C3%9Cbersetzungen" title="Wikipedia:Übersetzungen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Vikipeedia:T%C3%B5lkimine" title="Vikipeedia:Tõlkimine – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1:%CE%9C%CE%B5%CF%84%CE%B1%CF%86%CF%81%CE%AC%CF%83%CE%B5%CE%B9%CF%82" title="Βικιπαίδεια:Μεταφράσεις – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikipedia:Traducciones" title="Wikipedia:Traducciones – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Vikipedio:Tradukoj" title="Vikipedio:Tradukoj – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D8%AE%D9%88%D8%AF%D8%A2%D9%85%D9%88%D8%B2_(%D8%AA%D8%B1%D8%AC%D9%85%D9%87)" title="ویکی‌پدیا:خودآموز (ترجمه) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%B2%88%EC%97%AD" title="위키백과:번역 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6_%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B0%E0%A5%8B%E0%A4%A7" title="विकिपीडिया:अनुवाद अनुरोध – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Wikipedija:P%C5%99e%C5%82o%C5%BEki" title="Wikipedija:Přełožki – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikipedia:Panduan_dalam_menerjemahkan_artikel" title="Wikipedia:Panduan dalam menerjemahkan artikel – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Wikipedia:Notendur_sem_geta_%C3%BE%C3%BDtt" title="Wikipedia:Notendur sem geta þýtt – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Wikipedia:Traduzioni" title="Wikipedia:Traduzioni – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%9E%D7%93%D7%A8%D7%99%D7%9A_%D7%9C%D7%AA%D7%A8%D7%92%D7%95%D7%9D_%D7%A2%D7%A8%D7%9B%D7%99%D7%9D" title="ויקיפדיה:מדריך לתרגום ערכים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Wikipedia:Paugeran_nerjemahak%C3%A9_artikel" title="Wikipedia:Paugeran nerjemahaké artikel – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Vicipaedia:Translatio" title="Vicipaedia:Translatio – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Wikip%C3%A9dia:Ford%C3%ADt%C3%A1si_%C3%BAtmutat%C3%B3" title="Wikipédia:Fordítási útmutató – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9F%D1%80%D0%B5%D0%B2%D0%B5%D0%B4%D1%83%D0%B2%D0%B0%D1%9A%D0%B5" title="Википедија:Преведување – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wikipedia:Terjemahan" title="Wikipedia:Terjemahan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Biquip%C3%A9dia:Tradu%C3%A7on" title="Biquipédia:Traduçon – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Help:Tips_voor_het_vertalen_van_een_artikel_vanaf_een_andere_Wikipedia" title="Help:Tips voor het vertalen van een artikel vanaf een andere Wikipedia – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Wikipedia:%E7%BF%BB%E8%A8%B3%E3%81%AE%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3" title="Wikipedia:翻訳のガイドライン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Wikipedia:Oversettelsessiden" title="Wikipedia:Oversettelsessiden – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A8%BF%E0%A8%95%E0%A9%80%E0%A8%AA%E0%A9%80%E0%A8%A1%E0%A9%80%E0%A8%86:%E0%A8%85%E0%A8%A8%E0%A9%81%E0%A8%B5%E0%A8%BE%E0%A8%A6" title="ਵਿਕੀਪੀਡੀਆ:ਅਨੁਵਾਦ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wikipedia:T%C5%82umaczenia" title="Wikipedia:Tłumaczenia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Tradu%C3%A7%C3%A3o" title="Wikipédia:Tradução – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Vikipediya:Tercime" title="Vikipediya:Tercime – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Wikipedia:Articole_de_tradus" title="Wikipedia:Articole de tradus – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Vikipidiya:Amboldimata" title="Vikipidiya:Amboldimata – Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%9A%E0%B7%92%E0%B6%B4%E0%B7%93%E0%B6%A9%E0%B7%92%E0%B6%BA%E0%B7%8F:%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%AD%E0%B6%B1%E0%B6%BA" title="විකිපීඩියා:පරිවර්තනය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Wikipedia:Pitulung_narjamahkeun" title="Wikipedia:Pitulung narjamahkeun – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Wikipedia:%C3%96vers%C3%A4ttning" title="Wikipedia:Översättning – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wikipedia:Pagsasalinwika" title="Wikipedia:Pagsasalinwika – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D3%99%D0%BA%D0%B0%D0%BB%D3%99%D0%BB%D3%99%D1%80_%D1%82%D3%99%D1%80%D2%97%D0%B5%D0%BC%D3%99%D1%81%D0%B5" title="Википедия:Мәкаләләр тәрҗемәсе – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Vikipedi:%C3%87eviri_grubu" title="Vikipedi:Çeviri grubu – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%B4" title="Вікіпедія:Переклад – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Wikipedia:Tradusion" title="Wikipedia:Tradusion – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Wikipedia:Bi%C3%AAn_d%E1%BB%8Bch" title="Wikipedia:Biên dịch – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/Wikipedia:%E7%BF%BB%E8%AD%AF%E8%AB%8B%E6%B1%82" title="Wikipedia:翻譯請求 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Wikipedia:%E7%BF%BB%E8%AD%AF%E6%8C%87%E5%BC%95" title="Wikipedia:翻譯指引 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3361708#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 18 September 2017, at 16:08.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia:Translation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.168","walltime":"0.252","ppvisitednodes":{"value":1012,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70661,"limit":2097152},"templateargumentsize":{"value":1098,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  147.657      1 -total"," 21.60%   31.890      6 Template:User_Translator"," 20.14%   29.732      6 Template:Userbox"," 17.20%   25.396      1 Template:Notice"," 16.23%   23.961      1 Template:Pp-move-indef"," 15.58%   23.008      1 Template:Mbox"," 11.27%   16.641      2 Template:Shortcut","  8.44%   12.459      2 Template:Redirect","  7.40%   10.928      1 Template:Wikipedia_community","  6.44%    9.504      1 Template:Translation_department"]},"scribunto":{"limitreport-timeusage":{"value":"0.052","limit":"10.000"},"limitreport-memusage":{"value":2848968,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20170918160815","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1182"});});</script>
+	</body>
+</html>

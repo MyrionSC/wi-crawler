@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Latvian Wikipedia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Latvian_Wikipedia","wgTitle":"Latvian Wikipedia","wgCurRevisionId":738417894,"wgRevisionId":738417894,"wgArticleId":6731163,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Latvian-language sources (lv)","CS1 Lithuanian-language sources (lt)","CS1 uses Russian-language script (ru)","CS1 Russian-language sources (ru)","Pages using deprecated image syntax","Articles containing Latvian-language text","Articles with hAudio microformats","Articles containing potentially dated statements from July 2014","All articles containing potentially dated statements","Articles containing potentially dated statements from March 2015","Articles with Latvian-language external links","Wikipedias by language","Latvian-language encyclopedias","Internet properties established in 2003","Latvian-language websites","21st-century encyclopedias"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Latvian_Wikipedia","wgRelevantArticleId":6731163,"wgRequestId":"WcUnVApAEKgAABfvHmgAAABS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q728945","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Wikipedia-logo-v2-lv.svg/1200px-Wikipedia-logo-v2-lv.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Latvian_Wikipedia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Latvian_Wikipedia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Latvian_Wikipedia rootpage-Latvian_Wikipedia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Latvian Wikipedia</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<caption class="fn org"><a href="/wiki/File:Wikipedia%27s_W.svg" class="image" title="Favicon of Wikipedia"><img alt="Favicon of Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/17px-Wikipedia%27s_W.svg.png" width="17" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/26px-Wikipedia%27s_W.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/34px-Wikipedia%27s_W.svg.png 2x" data-file-width="128" data-file-height="128" /></a> Latvian Wikipedia</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Wikipedia-logo-v2-lv.svg" class="image" title="Logo of the Latvian Wikipedia"><img alt="Logo of the Latvian Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Wikipedia-logo-v2-lv.svg/135px-Wikipedia-logo-v2-lv.svg.png" width="135" height="155" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Wikipedia-logo-v2-lv.svg/203px-Wikipedia-logo-v2-lv.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Wikipedia-logo-v2-lv.svg/270px-Wikipedia-logo-v2-lv.svg.png 2x" data-file-width="135" data-file-height="155" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Vikip%C4%93dija_S%C4%81kumlapa_2014-05-09.png" class="image" title="The main page of the Latvian Wikipedia on 9 May 2014"><img alt="The main page of the Latvian Wikipedia on 9 May 2014" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Vikip%C4%93dija_S%C4%81kumlapa_2014-05-09.png/220px-Vikip%C4%93dija_S%C4%81kumlapa_2014-05-09.png" width="220" height="359" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Vikip%C4%93dija_S%C4%81kumlapa_2014-05-09.png/330px-Vikip%C4%93dija_S%C4%81kumlapa_2014-05-09.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Vikip%C4%93dija_S%C4%81kumlapa_2014-05-09.png/440px-Vikip%C4%93dija_S%C4%81kumlapa_2014-05-09.png 2x" data-file-width="972" data-file-height="1588" /></a></td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Type of site</div>
+</th>
+<td><a href="/wiki/Internet_encyclopedia" class="mw-redirect" title="Internet encyclopedia">Internet encyclopedia</a></td>
+</tr>
+<tr>
+<th scope="row">Owner</th>
+<td><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Slogan" title="Slogan">Slogan(s)</a></th>
+<td>Brīva enciklopēdija</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td class="url"><a href="https://lv.wikipedia.org/wiki/" class="extiw" title="lv:">lv.wikipedia.org</a></td>
+</tr>
+<tr>
+<th scope="row">Commercial</th>
+<td>No</td>
+</tr>
+<tr>
+<th scope="row">Registration</th>
+<td>Optional</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Registered_user" title="Registered user">Users</a></th>
+<td>67,765 registered accounts<br />
+1,435 contributors<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[a]</a></sup> <small>(July 2014)</small></td>
+</tr>
+<tr>
+<th scope="row">Launched</th>
+<td>6&#160;June 2003<span class="noprint">; 14 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2003-06-06</span>)</span></td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Content license</div>
+</th>
+<td><span class="nowrap"><a href="/wiki/Creative_Commons_licenses" class="mw-redirect" title="Creative Commons licenses">CC Attribution / Share-Alike</a> 3.0</span><br />
+<small>Most text also dual-licensed under <a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>. Media licensing varies.</small></td>
+</tr>
+</table>
+<p>The <b>Latvian Wikipedia</b> (<a href="/wiki/Latvian_language" title="Latvian language">Latvian</a>: <span lang="lv"><i>Vikipēdija latviešu valodā</i></span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Latvian" title="Help:IPA/Latvian">[ˈvikipɜːdija]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:LV_vikip%C4%93dija_latvie%C5%A1u_valod%C4%81.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/0/04/Lv_Vikip%C4%93dija_latvie%C5%A1u_valod%C4%81.oga" class="internal" title="Lv Vikipēdija latviešu valodā.oga">listen</a></span></span>)</small>) is the <a href="/wiki/Latvian_language" title="Latvian language">Latvian-language</a> edition of the free online encyclopedia <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>. It was created on 6 June 2003.<sup id="cite_ref-nra.lv_3-0" class="reference"><a href="#cite_note-nra.lv-3">[2]</a></sup><sup id="cite_ref-GrowthSummary_4-0" class="reference"><a href="#cite_note-GrowthSummary-4">[3]</a></sup><sup id="cite_ref-Aktualitates_5-0" class="reference"><a href="#cite_note-Aktualitates-5">[4]</a></sup> With about 79,000 articles, it is currently the 65th-largest Wikipedia as measured by the number of articles<sup id="cite_ref-wmeta_6-0" class="reference"><a href="#cite_note-wmeta-6">[5]</a></sup> and the second-largest Wikipedia in a <a href="/wiki/Baltic_languages" title="Baltic languages">Baltic language</a>.<sup id="cite_ref-wmeta-group-bat_7-0" class="reference"><a href="#cite_note-wmeta-group-bat-7">[6]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Name_and_logo"><span class="tocnumber">1.1</span> <span class="toctext">Name and logo</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Related_projects"><span class="tocnumber">1.2</span> <span class="toctext">Related projects</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Milestones"><span class="tocnumber">1.3</span> <span class="toctext">Milestones</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Latvian_Wikipedia_Marathon"><span class="tocnumber">1.4</span> <span class="toctext">Latvian Wikipedia Marathon</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Policies"><span class="tocnumber">2</span> <span class="toctext">Policies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Images"><span class="tocnumber">2.1</span> <span class="toctext">Images</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Statistics"><span class="tocnumber">3</span> <span class="toctext">Statistics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Community"><span class="tocnumber">3.1</span> <span class="toctext">Community</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Latvian Wikipedia was created alongside the <a href="/wiki/Serbian_Wikipedia" title="Serbian Wikipedia">Serbian</a>, <a href="/wiki/Kannada_Wikipedia" title="Kannada Wikipedia">Kannada</a>, <a href="/wiki/Walloon_Wikipedia" class="mw-redirect" title="Walloon Wikipedia">Walloon</a>, <a href="/wiki/Wolof_Wikipedia" title="Wolof Wikipedia">Wolof</a>, and Xhosa Wikipedias.<sup id="cite_ref-GrowthSummary_4-1" class="reference"><a href="#cite_note-GrowthSummary-4">[3]</a></sup> The oldest article is "Psihologija", which was published on 6 June 2003 and redirected to "Psiholoģija" (psychology) on 7 December 2004.<sup id="cite_ref-EarliestRev_8-0" class="reference"><a href="#cite_note-EarliestRev-8">[7]</a></sup> The main page was added four months after the first article, on 6 October 2003.<sup id="cite_ref-EarliestRevMain_9-0" class="reference"><a href="#cite_note-EarliestRevMain-9">[8]</a></sup></p>
+<p>The edition's initial growth was slow and some articles about important aspects of Latvian culture were missing at first.<sup id="cite_ref-nra.lv_3-1" class="reference"><a href="#cite_note-nra.lv-3">[2]</a></sup> The article about <a href="/wiki/J%C4%81%C5%86i" title="Jāņi">Jāņi</a>, for instance, was not written until March 2008.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup> The Latvian Wikipedia's growth rate has been very stable since 2006.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup></p>
+<p>On 30 September 2013, the <a href="/wiki/VisualEditor" title="VisualEditor">VisualEditor</a> was made available to logged-in users, and by 7 October 2013, it was available to all users on the Latvian Wikipedia.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup></p>
+<p>The Latvian Wikipedia turned 10 years old on 6 June 2013. A commemorative logo was uploaded for the occasion, and small parties among the community's "Wikiholics" ensued, as it is customary whenever a new milestone is reached.<sup id="cite_ref-Diena10_13-0" class="reference"><a href="#cite_note-Diena10-13">[12]</a></sup> The edition surpassed 50,000 articles on 17 August 2013.<sup id="cite_ref-Aktualitates_5-1" class="reference"><a href="#cite_note-Aktualitates-5">[4]</a></sup></p>
+<p>As of July 2014<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Latvian_Wikipedia&amp;action=edit">[update]</a></sup>, according to the <a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias_by_sample_of_articles" class="extiw" title="meta:List of Wikipedias by sample of articles">list of Wikipedias by sample of articles</a> at Meta-Wiki, which is based on the <a href="https://meta.wikimedia.org/wiki/List_of_articles_every_Wikipedia_should_have" class="extiw" title="meta:List of articles every Wikipedia should have">list of articles every Wikipedia should have</a>, the Latvian Wikipedia ranks 52nd out of 287 editions, with a score of 20.83/100. It lacks almost no article from the list of vital articles, but contains generally short articles.</p>
+<h3><span class="mw-headline" id="Name_and_logo">Name and logo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=2" title="Edit section: Name and logo">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 22 September 2004, the first Latvian "Wikipēdija" logo was uploaded, and on 1 June 2005, the name was changed to "Vikipēdija".<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[13]</a></sup> In Latvian media, the words "Wikipedia" and "Vikipēdija" are used interchangeably to refer to both Wikipedia in general and to the Latvian edition specifically, but "Vikipēdija" is more common.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[15]</a></sup></p>
+<p>In response to the <a href="/wiki/Zolit%C5%ABde_shopping_centre_roof_collapse" title="Zolitūde shopping centre roof collapse">Zolitūde shopping centre roof collapse</a> disaster of 21 November 2013, the Latvian Wikipedia, just as several other Latvian websites, changed its logo for three days to include black and the image of a candle.</p>
+<h3><span class="mw-headline" id="Related_projects">Related projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=3" title="Edit section: Related projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A separate Latgalian Wikipedia (<a href="https://ltg.wikipedia.org/wiki/" class="extiw" title="ltg:">ltg</a>) has been created on 18 March 2011.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[16]</a></sup> <a href="/wiki/Latgalian_language" title="Latgalian language">Latgalian</a> is spoken in <a href="/wiki/Latgale" title="Latgale">Latgale</a>, the eastern part of Latvia, and its <a href="/wiki/Standard_language" title="Standard language">standardized</a> form is recognized and protected as a variety of Latvian language by Latvian law,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[17]</a></sup> although it is debated whether it is a <a href="/wiki/Dialect" title="Dialect">dialect</a> of Latvian or a separate language.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[18]</a></sup></p>
+<h3><span class="mw-headline" id="Milestones">Milestones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=4" title="Edit section: Milestones">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table>
+<tr>
+<td>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; width:35em; font-size:small">
+<ul>
+<li>2003-06-06&#160;— <b>1</b> article</li>
+<li>2004-12-28&#160;— <b>500</b> articles</li>
+<li>2005-03-05&#160;— <b>1,000</b> articles</li>
+<li>2005-10-15&#160;— <b>2,500</b> articles</li>
+<li>2006-09-07&#160;— <b>5,000</b> articles</li>
+<li>2007-07-19&#160;— <b>10,000</b> articles</li>
+<li>2009-02-13&#160;— <b>20,000</b> articles</li>
+<li>2010-09-19&#160;— <b>30,000</b> articles</li>
+<li>2012-02-19&#160;— <b>40,000</b> articles</li>
+<li>2013-08-17&#160;— <b>50,000</b> articles</li>
+<li>2015-03-03&#160;— <b>60,000</b> articles</li>
+<li>2016-06-19&#160;— <b>70,000</b> articles</li>
+</ul>
+</div>
+</td>
+<td><a href="/wiki/File:PlotTotalArticlesLV.png" class="image" title="Number of articles on the Latvian Wikipedia"><img alt="Number of articles on the Latvian Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PlotTotalArticlesLV.png/300px-PlotTotalArticlesLV.png" width="300" height="113" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PlotTotalArticlesLV.png/450px-PlotTotalArticlesLV.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PlotTotalArticlesLV.png/600px-PlotTotalArticlesLV.png 2x" data-file-width="640" data-file-height="240" /></a></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Latvian_Wikipedia_Marathon">Latvian Wikipedia Marathon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=5" title="Edit section: Latvian Wikipedia Marathon">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Vikimaratona_plak%C4%81ts_%C4%A2ertr%C5%ABdes_iel%C4%81.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vikimaratona_plak%C4%81ts_%C4%A2ertr%C5%ABdes_iel%C4%81.jpg/220px-Vikimaratona_plak%C4%81ts_%C4%A2ertr%C5%ABdes_iel%C4%81.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vikimaratona_plak%C4%81ts_%C4%A2ertr%C5%ABdes_iel%C4%81.jpg/330px-Vikimaratona_plak%C4%81ts_%C4%A2ertr%C5%ABdes_iel%C4%81.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vikimaratona_plak%C4%81ts_%C4%A2ertr%C5%ABdes_iel%C4%81.jpg/440px-Vikimaratona_plak%C4%81ts_%C4%A2ertr%C5%ABdes_iel%C4%81.jpg 2x" data-file-width="2448" data-file-height="3264" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Vikimaratona_plak%C4%81ts_%C4%A2ertr%C5%ABdes_iel%C4%81.jpg" class="internal" title="Enlarge"></a></div>
+Poster of Latvian Wikipedia Marathon in <a href="/wiki/Riga" title="Riga">Riga</a></div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Latvian_Wikipedia_Marathon" title="Latvian Wikipedia Marathon">Latvian Wikipedia Marathon</a></div>
+<p>Latvian Wikipedia Marathon (<a href="/wiki/Latvian_language" title="Latvian language">Latvian</a>: <span lang="lv"><i>Latvijas Vikipēdijas maratons</i></span>) is a project that brings together the Latvian Wikipedia community with several private partners in joint effort with the aim of expanding the Latvian Wikipedia to activate the usability of the Latvian language in the learning process, cognition and research work.</p>
+<h2><span class="mw-headline" id="Policies">Policies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=6" title="Edit section: Policies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since 31 October 2012, the Latvian Wikipedia displays a notice encouraging users to sign a petition on the Latvian social initiative platform <a href="/wiki/ManaBalss.lv" title="ManaBalss.lv">ManaBalss.lv</a> in an effort to change the Latvian copyright law, which permits taking pictures of architectural works and monuments, but only for non-commercial purposes. According to the petition, "such restrictions are not reasonable for buildings, monuments, sculptures and other three-dimensional works that cannot be fully reproduced in two dimensions".<sup id="cite_ref-nra.lv_3-2" class="reference"><a href="#cite_note-nra.lv-3">[2]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup> If the law changed, pictures of Latvian public buildings would become valid on Wikimedia Commons.</p>
+<ul>
+<li>As opposed to the English Wikipedia, it is not required to be logged-in to create a new article on the Latvian Wikipedia.</li>
+<li>Many users use personalized license templates on the images they upload locally to have them grouped.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[20]</a></sup></li>
+<li>Unlike most major Wikipedias, the Latvian Wikipedia adopted <a href="/wiki/Wikipedia:Gadget" title="Wikipedia:Gadget">gadgets</a> very late, in May 2014.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[21]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Images">Images</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=7" title="Edit section: Images">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Latvian Wikipedia has an Exemption Doctrine Policy (<i>Godprātīga lietošana</i>) that allows local uploads of non-free, <a href="/wiki/Fair_use" title="Fair use">fair use</a> images and audio/video files (with copyright restrictions). However, users are encouraged to release their work under a Creative Commons license and upload it on Wikimedia Commons instead, thus making it accessible throughout all editions of Wikipedia. This stance is similar to the English Wikipedia's, and in contrast to some other editions, which rely strictly on <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> for images, sound, and other media files, including i.a. the <a href="/wiki/Spanish_Wikipedia" title="Spanish Wikipedia">Spanish</a>, <a href="/wiki/Swedish_Wikipedia" title="Swedish Wikipedia">Swedish</a>, <a href="/wiki/Polish_Wikipedia" title="Polish Wikipedia">Polish</a>, <a href="/wiki/Basque_Wikipedia" title="Basque Wikipedia">Basque</a>, <a href="/wiki/Czech_Wikipedia" title="Czech Wikipedia">Czech</a>, <a href="/wiki/Danish_Wikipedia" title="Danish Wikipedia">Danish</a>, <a href="/wiki/Wikipedia:Volap%C3%BCk_Wikipedia" title="Wikipedia:Volapük Wikipedia">Volapük</a> and <a href="/wiki/Latin_Wikipedia" title="Latin Wikipedia">Latin</a> Wikipedias.<sup id="cite_ref-wmeta_6-1" class="reference"><a href="#cite_note-wmeta-6">[5]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[23]</a></sup></p>
+<p>Content and images from the Latvian Wikipedia often appear on Latvian news websites.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[24]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup></p>
+<h2><span class="mw-headline" id="Statistics">Statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=8" title="Edit section: Statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="right">
+<tr>
+<td>
+<div class="barbox" style="border:1px solid silver; font-size:88%; padding:0.4em; width:260px; background: white;">
+<table style="border-collapse:collapse; width:100%;">
+<tr style="background:#eee">
+<th colspan="5">Shares of Baltic Wikipedias (September 2017)<sup id="cite_ref-wmeta-group-bat_7-1" class="reference"><a href="#cite_note-wmeta-group-bat-7">[6]</a></sup></th>
+</tr>
+<tr style="font-size:88%; height:4px;">
+<td style="padding:0 4px;"></td>
+<td style="padding:0 4px; text-align:right;"></td>
+<td style="width:100px;"></td>
+<td style="padding:0 4px; width:1em; text-align:right;"></td>
+<td style="padding:0 4px; text-align:right;"></td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;"><a href="/wiki/Lithuanian_Wikipedia" title="Lithuanian Wikipedia">Lithuanian</a></td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:#006A44; width:65.6%; overflow: hidden;">&#160; </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">65.6%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Latvian</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:#9E3039; width:28.3%; overflow: hidden;">&#160; </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">28.3%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;"><a href="/wiki/Samogitian_Wikipedia" title="Samogitian Wikipedia">Samogitian</a></td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:Black; width:5.8%; overflow: hidden;">&#160; </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">5.8%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Latgalian</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:#0072BC; width:0.3%; overflow: hidden;">&#160; </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">0.3%</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<p>As of September 2017, the Latvian Wikipedia's 79,000 articles<sup id="cite_ref-wmeta_6-2" class="reference"><a href="#cite_note-wmeta-6">[5]</a></sup> account for approximately 28% of all the articles written in a Baltic language, making it the second-largest edition in the family after Lithuanian, which accounts for 66%.<sup id="cite_ref-wmeta-group-bat_7-2" class="reference"><a href="#cite_note-wmeta-group-bat-7">[6]</a></sup> The most popular articles are "<a href="https://lv.wikipedia.org/wiki/Latvija" class="extiw" title="lv:Latvija">Latvija</a>" (Latvia), "<a href="https://lv.wikipedia.org/wiki/Eiropa" class="extiw" title="lv:Eiropa">Eiropa</a>" (Europe), and "<a href="https://lv.wikipedia.org/wiki/Latvijas_v%C4%93sture" class="extiw" title="lv:Latvijas vēsture">Latvijas vēsture</a>" (History of Latvia).<sup id="cite_ref-nra.lv_3-3" class="reference"><a href="#cite_note-nra.lv-3">[2]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[28]</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[29]</a></sup></p>
+<p>In terms of quality, as of July 2014<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Latvian_Wikipedia&amp;action=edit">[update]</a></sup>, the Latvian Wikipedia has 49 <a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">featured articles</a> (<i><span lang="lv">vērtīgi raksti</span></i>),<sup id="cite_ref-FA_31-0" class="reference"><a href="#cite_note-FA-31">[30]</a></sup> 76 <a href="/wiki/Wikipedia:Good_articles" title="Wikipedia:Good articles">good articles</a> (<i><span lang="lv">labi raksti</span></i>),<sup id="cite_ref-GA_32-0" class="reference"><a href="#cite_note-GA-32">[31]</a></sup> 19 <a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">featured lists</a> (<i><span lang="lv">vērtīgi saraksti</span></i>),<sup id="cite_ref-FL_33-0" class="reference"><a href="#cite_note-FL-33">[32]</a></sup> and an average ratio of 0.9 featured articles per 1000 articles; on par with the <a href="/wiki/Bulgarian_Wikipedia" title="Bulgarian Wikipedia">Bulgarian</a>, <a href="/wiki/Spanish_Wikipedia" title="Spanish Wikipedia">Spanish</a>, and <a href="/wiki/English_Wikipedia" title="English Wikipedia">English</a> Wikipedias. It currently has a high depth indicator of 82.5,<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[b]</a></sup> which is not only greater than those of all other Wikipedias in the language family combined,<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[c]</a></sup> but also than some of the largest editions such as German (97.6), Polish (25.5), and Dutch (13.6). As of March 2015<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Latvian_Wikipedia&amp;action=edit">[update]</a></sup>, there are 17 Wikiprojects (<i>Vikiprojekts</i>) on the Latvian Wikipedia,<sup id="cite_ref-wikiprojects_36-0" class="reference"><a href="#cite_note-wikiprojects-36">[33]</a></sup> and 81 approved <a href="/wiki/Wikipedia:Bots" title="Wikipedia:Bots">bots</a>, assisting users in the editing process.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[34]</a></sup></p>
+<h3><span class="mw-headline" id="Community">Community</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=9" title="Edit section: Community">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:Vikialus_2013_01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vikialus_2013_01.jpg/260px-Vikialus_2013_01.jpg" width="260" height="173" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vikialus_2013_01.jpg/390px-Vikialus_2013_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vikialus_2013_01.jpg/520px-Vikialus_2013_01.jpg 2x" data-file-width="3452" data-file-height="2302" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Vikialus_2013_01.jpg" class="internal" title="Enlarge"></a></div>
+Some of the most active contributors to the Latvian Wikipedian in 2013. From left to right: <a href="https://lv.wikipedia.org/wiki/Lietot%C4%81js:Laurijs" class="extiw" title="lv:Lietotājs:Laurijs">Laurijs</a>, <a href="https://lv.wikipedia.org/wiki/Lietot%C4%81js:ScAvenger" class="extiw" title="lv:Lietotājs:ScAvenger">ScAvenger</a>, <a href="https://lv.wikipedia.org/wiki/Lietot%C4%81js:Feens" class="extiw" title="lv:Lietotājs:Feens">Feens</a>, <a href="https://lv.wikipedia.org/wiki/Lietot%C4%81js:IndulisMX" class="extiw" title="lv:Lietotājs:IndulisMX">IndulisMX</a>, <a href="https://lv.wikipedia.org/wiki/Lietot%C4%81js:Treisijs" class="extiw" title="lv:Lietotājs:Treisijs">Treisijs</a>, <a href="https://lv.wikipedia.org/wiki/Lietot%C4%81js:GreenZeb" class="extiw" title="lv:Lietotājs:GreenZeb">GreenZeb</a>, <a href="https://lv.wikipedia.org/wiki/Lietot%C4%81js:Papuass" class="extiw" title="lv:Lietotājs:Papuass">Papuass</a>, and <a href="https://lv.wikipedia.org/wiki/Lietot%C4%81js:Dainis" class="extiw" title="lv:Lietotājs:Dainis">Dainis</a>.</div>
+</div>
+</div>
+<p>The Latvian Wikipedia is the third most read edition in <a href="/wiki/Latvia" title="Latvia">Latvia</a>, after the <a href="/wiki/English_Wikipedia" title="English Wikipedia">English Wikipedia</a> and the <a href="/wiki/Russian_Wikipedia" title="Russian Wikipedia">Russian Wikipedia</a>.<sup id="cite_ref-PageViewsPerCountryTrends_38-0" class="reference"><a href="#cite_note-PageViewsPerCountryTrends-38">[35]</a></sup> It is also the seventh most read edition on the island of <a href="/wiki/Guernsey" title="Guernsey">Guernsey</a>,<sup id="cite_ref-PageViewsPerCountryTrends_38-1" class="reference"><a href="#cite_note-PageViewsPerCountryTrends-38">[35]</a></sup> where there is an emerging Latvian diaspora of approximately 1,500 to 2,000 migrant workers.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[36]</a></sup> Despite Latvian having less than 2 million speakers, the edition enjoys a relatively high level of community participation, with 54 editors per million speakers, even though there is still no <a href="/wiki/List_of_Wikimedia_chapters" title="List of Wikimedia chapters">Wikimedia chapter</a> in Latvia.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[37]</a></sup> At around 39.5 articles per speaker, the Latvian Wikipedia has an above-average number of articles per speaker.<sup id="cite_ref-perarticle_41-0" class="reference"><a href="#cite_note-perarticle-41">[38]</a></sup> These figures were based on an estimate of 1.8 million speakers of Latvian.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[39]</a></sup> Its editing community currently consists of 12 administrators (0.79% of all active users) and 1523 active contributors, of which on average between 12 and 20 are very active every month,<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[d]</a></sup> and there are in total 62 users with over 1,000 edits (excluding bots).<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[40]</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[41]</a></sup> Around 90% of both views and edits originate from Latvia, where Wikipedia is the 14th most popular website.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[42]</a></sup></p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=10" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Wikipedia-logo-lv-040922.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wikipedia-logo-lv-040922.png/104px-Wikipedia-logo-lv-040922.png" width="104" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/6/6f/Wikipedia-logo-lv-040922.png 1.5x" data-file-width="135" data-file-height="155" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Latvian Wikipedia's original logo. Note that "Wikipēdija" was spelled with a 'W' from 22 September 2004 to 1 June 2005</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Wikipedia-logo-lv-50K.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wikipedia-logo-lv-50K.png/104px-Wikipedia-logo-lv-50K.png" width="104" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/b/b8/Wikipedia-logo-lv-50K.png 1.5x" data-file-width="135" data-file-height="155" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Latvian Wikipedia's 50,000 articles commemorative logo (17 August 2013)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Wikipedia-logo-v2-lv-131123.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Wikipedia-logo-v2-lv-131123.png/104px-Wikipedia-logo-v2-lv-131123.png" width="104" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/f/f5/Wikipedia-logo-v2-lv-131123.png 1.5x" data-file-width="135" data-file-height="155" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The logo displayed in memory of the victims of the <a href="/wiki/Zolit%C5%ABde_shopping_centre_roof_collapse" title="Zolitūde shopping centre roof collapse">Zolitūde shopping centre roof collapse</a> (23–26 November 2013)</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=12" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><b>Contributors</b> are users who edited at least 10 times since they registered.<sup id="cite_ref-WP_stats_editors_1_1-0" class="reference"><a href="#cite_note-WP_stats_editors_1-1">[1]</a></sup></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><b>Depth</b> is a rough indicator of a Wikipedia's collaborative quality showing how frequently its articles are updated. A higher depth usually indicates that articles are more often edited.</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">The Lithuanian, Samogitian, and Latgalian Wikipedias have a depth indicator of 22.8, 6.1, and 67 respectively.</span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">A <b>very active user</b> is one with 100+ edits in the main namespace of a given project over the last 30 days.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-WP_stats_editors_1-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-WP_stats_editors_1_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://stats.wikimedia.org/EN/TablesWikipediansContributors.htm">"Wikipedia Statistics&#160;— Tables&#160;— Contributors"</a>. stats.wikimedia.org<span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Wikipedia+Statistics+%E2%80%94+Tables+%E2%80%94+Contributors&amp;rft.genre=unknown&amp;rft.pub=stats.wikimedia.org&amp;rft_id=http%3A%2F%2Fstats.wikimedia.org%2FEN%2FTablesWikipediansContributors.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nra.lv-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-nra.lv_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nra.lv_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nra.lv_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nra.lv_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://nra.lv/latvija/96248-vikipedijas-latviesu-versijai-jau-desmit-gadi.htm">"<span style="padding-left:0.2em;">"</span>Vikipēdijas" latviešu versijai jau desmit gadi"</a> (in Latvian). <a href="https://lv.wikipedia.org/wiki/Neatkar%C4%ABg%C4%81_R%C4%ABta_Av%C4%ABze" class="extiw" title="lv:Neatkarīgā Rīta Avīze">Neatkarīgā Rīta Avīze</a>. 5 June 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">21 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=%22Vikip%C4%93dijas%22+latvie%C5%A1u+versijai+jau+desmit+gadi&amp;rft.date=2013-06-05&amp;rft.genre=unknown&amp;rft.pub=Neatkar%C4%ABg%C4%81+R%C4%ABta+Av%C4%ABze&amp;rft_id=http%3A%2F%2Fnra.lv%2Flatvija%2F96248-vikipedijas-latviesu-versijai-jau-desmit-gadi.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GrowthSummary-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-GrowthSummary_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GrowthSummary_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Zachte, Erik. <a class="external text" href="http://stats.wikimedia.org/EN/TablesWikipediaGrowthSummary.htm">"Creation history / Accomplishments"</a>. <i>stats.wikimedia.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=Creation+history+%2F+Accomplishments&amp;rft.aufirst=Erik&amp;rft.aulast=Zachte&amp;rft.genre=unknown&amp;rft.jtitle=stats.wikimedia.org&amp;rft_id=http%3A%2F%2Fstats.wikimedia.org%2FEN%2FTablesWikipediaGrowthSummary.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Aktualitates-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Aktualitates_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Aktualitates_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lv.wikipedia.org/wiki/Vikipēdija:Aktualitātes">"Vikipēdija:Aktualitātes"</a>. <i>Vikipēdija</i> (in Latvian). Wikimedia Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=Vikip%C4%93dija%3AAktualit%C4%81tes&amp;rft.genre=unknown&amp;rft.jtitle=Vikip%C4%93dija&amp;rft_id=http%3A%2F%2Flv.wikipedia.org%2Fwiki%2FVikip%C4%93dija%3AAktualit%C4%81tes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-wmeta-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-wmeta_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wmeta_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-wmeta_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://meta.wikimedia.org/wiki/List_of_Wikipedias#10_000.2B_articles">"List of Wikipedias"</a>. <i>Meta-Wiki</i>. Wikimedia Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=List+of+Wikipedias&amp;rft.genre=unknown&amp;rft.jtitle=Meta-Wiki&amp;rft_id=http%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FList_of_Wikipedias%2310_000.2B_articles&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-wmeta-group-bat-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-wmeta-group-bat_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wmeta-group-bat_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-wmeta-group-bat_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://meta.wikimedia.org/wiki/List_of_Wikipedias_by_language_group#Baltic">"List of Wikipedias by language group"</a>. <i>Meta-Wiki</i>. Wikimedia Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=List+of+Wikipedias+by+language+group&amp;rft.genre=unknown&amp;rft.jtitle=Meta-Wiki&amp;rft_id=http%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FList_of_Wikipedias_by_language_group%23Baltic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EarliestRev-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-EarliestRev_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lv.wikipedia.org/w/index.php?title=Psihologija&amp;action=history">"Raksta "Psiholoģija" vēsture"</a> (in Latvian). Vikipēdija<span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Raksta+%22Psiholo%C4%A3ija%22+v%C4%93sture&amp;rft.genre=unknown&amp;rft.pub=Vikip%C4%93dija&amp;rft_id=http%3A%2F%2Flv.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DPsihologija%26action%3Dhistory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EarliestRevMain-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-EarliestRevMain_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lv.wikipedia.org/w/index.php?title=Sākumlapa&amp;action=history">"Raksta "Sākumlapa" vēsture"</a> (in Latvian). Vikipēdija<span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Raksta+%22S%C4%81kumlapa%22+v%C4%93sture&amp;rft.genre=unknown&amp;rft.pub=Vikip%C4%93dija&amp;rft_id=http%3A%2F%2Flv.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DS%C4%81kumlapa%26action%3Dhistory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140513072308/http://latviansonline.com/links/topic/C649/">"Links&#160;— Reference"</a>. Latvians Online. Archived from <a rel="nofollow" class="external text" href="http://latviansonline.com/links/topic/C649/">the original</a> on 13 May 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>. <q>Incidentally, seeing as Jāņi is fast approaching, we searched Vikipēdija but came up with nothing. The English version, though, does have quite a comprehensive section on the subject of "Midsummer," covering the whole region of Northern Europe and the way it celebrates this time of the year.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Links+%E2%80%94+Reference&amp;rft.genre=unknown&amp;rft.pub=Latvians+Online&amp;rft_id=http%3A%2F%2Flatviansonline.com%2Flinks%2Ftopic%2FC649%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Zachte, Erik. <a class="external text" href="http://stats.wikimedia.org/EN_Europe/PlotsPngArticlesTotal.htm#p7">"Wikipedia Statistics&#160;— Europe&#160;— Contributors"</a>. stats.wikimedia.org<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.aufirst=Erik&amp;rft.aulast=Zachte&amp;rft.btitle=Wikipedia+Statistics+%E2%80%94+Europe+%E2%80%94+Contributors&amp;rft.genre=unknown&amp;rft.pub=stats.wikimedia.org&amp;rft_id=http%3A%2F%2Fstats.wikimedia.org%2FEN_Europe%2FPlotsPngArticlesTotal.htm%23p7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.mediawiki.org/wiki/VisualEditor#Timeline">"VisualEditor"</a>. <i>MediaWiki</i>. Wikimedia Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=VisualEditor&amp;rft.genre=unknown&amp;rft.jtitle=MediaWiki&amp;rft_id=http%3A%2F%2Fwww.mediawiki.org%2Fwiki%2FVisualEditor%23Timeline&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Diena10-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Diena10_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Elīna, Zalāne (7 June 2013). <a rel="nofollow" class="external text" href="http://www.diena.lv/dienas-zurnali/sestdiena/latviesu-vikipedija-svin-10-gadu-jubileju-14011382">"Latviešu Vikipēdija svin 10 gadu jubileju"</a> (in Latvian). Diena<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.aufirst=Zal%C4%81ne&amp;rft.aulast=El%C4%ABna&amp;rft.btitle=Latvie%C5%A1u+Vikip%C4%93dija+svin+10+gadu+jubileju&amp;rft.date=2013-06-07&amp;rft.genre=unknown&amp;rft.pub=Diena&amp;rft_id=http%3A%2F%2Fwww.diena.lv%2Fdienas-zurnali%2Fsestdiena%2Flatviesu-vikipedija-svin-10-gadu-jubileju-14011382&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lv.wikipedia.org/wiki/Vikip%C4%93dija:Kopienas_port%C4%81ls/Arh%C4%ABvs1#Aizvien_par_.22Wikip.C4.93dija.22_.2F_.22Vikip.C4.93dija.22">"Aizvien par "Wikipēdija" / "Vikipēdija<span style="padding-right:0.2em;">"</span>"</a> (in Latvian). Vikipēdija<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Aizvien+par+%22Wikip%C4%93dija%22+%2F+%22Vikip%C4%93dija%22&amp;rft.genre=unknown&amp;rft.pub=Vikip%C4%93dija&amp;rft_id=http%3A%2F%2Flv.wikipedia.org%2Fwiki%2FVikip%25C4%2593dija%3AKopienas_port%25C4%2581ls%2FArh%25C4%25ABvs1%23Aizvien_par_.22Wikip.C4.93dija.22_.2F_.22Vikip.C4.93dija.22&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kasnotiek.com/2012/07/vikipedijas-krievu-valodas-versija.html">"Vikipēdijas krievu valodas versija pārtrauc darbu, protestējot pret interneta cenzēšanu"</a> (in Latvian). Kasnotiek.com. 10 July 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Vikip%C4%93dijas+krievu+valodas+versija+p%C4%81rtrauc+darbu%2C+protest%C4%93jot+pret+interneta+cenz%C4%93%C5%A1anu&amp;rft.date=2012-07-10&amp;rft.genre=unknown&amp;rft.pub=Kasnotiek.com&amp;rft_id=http%3A%2F%2Fwww.kasnotiek.com%2F2012%2F07%2Fvikipedijas-krievu-valodas-versija.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.delfi.lv/sievietem/relationships/dzive/karalisko-dzemdibu-histerija-parnem-pasauli-top-4-izpausmes.d?id=43483107&amp;page=2">"Pirmā persona, kas iegūst savu "Wikipedia" lapu vēl pirms piedzimšanas"</a> (in Latvian). <a href="/wiki/Delfi_(web_portal)" title="Delfi (web portal)">DELFI.lv</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Pirm%C4%81+persona%2C+kas+ieg%C5%ABst+savu+%22Wikipedia%22+lapu+v%C4%93l+pirms+piedzim%C5%A1anas&amp;rft.genre=unknown&amp;rft.pub=DELFI.lv&amp;rft_id=http%3A%2F%2Fwww.delfi.lv%2Fsievietem%2Frelationships%2Fdzive%2Fkaralisko-dzemdibu-histerija-parnem-pasauli-top-4-izpausmes.d%3Fid%3D43483107%26page%3D2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.delfi.lt/mokslas/technologijos/wikipedia-jau-turi-versija-latgaliu-kalba.d?id=43971567">"<span style="padding-left:0.2em;">"</span>Wikipedia" jau turi versiją latgalių kalba"</a> (in Lithuanian). <a href="/wiki/Delfi_(web_portal)" title="Delfi (web portal)">DELFI.lt</a>. 4 April 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=%22Wikipedia%22+jau+turi+versij%C4%85+latgali%C5%B3+kalba&amp;rft.date=2011-04-04&amp;rft.genre=unknown&amp;rft.pub=DELFI.lt&amp;rft_id=http%3A%2F%2Fwww.delfi.lt%2Fmokslas%2Ftechnologijos%2Fwikipedia-jau-turi-versija-latgaliu-kalba.d%3Fid%3D43971567&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://likumi.lv/doc.php?id=14740">"Valsts valodas likums"</a> (in Latvian). Likumi.lv. 1 September 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Valsts+valodas+likums&amp;rft.date=2000-09-01&amp;rft.genre=unknown&amp;rft.pub=Likumi.lv&amp;rft_id=http%3A%2F%2Flikumi.lv%2Fdoc.php%3Fid%3D14740&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Ina Druviete (22 July 2001). <a rel="nofollow" class="external text" href="http://politika.lv/article/recenzija-par-petijumu-valodas-loma-regiona-attistiba">"Recenzija par pētījumu "Valodas loma reģiona attīstībā<span style="padding-right:0.2em;">"</span>"</a> (in Latvian). <a href="https://lv.wikipedia.org/wiki/politika.lv" class="extiw" title="lv:politika.lv">politika.lv</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.au=Ina+Druviete&amp;rft.btitle=Recenzija+par+p%C4%93t%C4%ABjumu+%22Valodas+loma+re%C4%A3iona+att%C4%ABst%C4%ABb%C4%81%22&amp;rft.date=2001-07-22&amp;rft.genre=unknown&amp;rft.pub=politika.lv&amp;rft_id=http%3A%2F%2Fpolitika.lv%2Farticle%2Frecenzija-par-petijumu-valodas-loma-regiona-attistiba&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lv.wikipedia.org/w/index.php?title=MediaWiki:Sitenotice&amp;oldid=1824281">"MediaWiki:Sitenotice"</a> (in Latvian). Vikipēdija<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=MediaWiki%3ASitenotice&amp;rft.genre=unknown&amp;rft.pub=Vikip%C4%93dija&amp;rft_id=http%3A%2F%2Flv.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DMediaWiki%3ASitenotice%26oldid%3D1824281&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lv.wikipedia.org/wiki/Kategorija:Individuālās_attēlu_autortiesību_veidnes">"Kategorija:Individuālās attēlu autortiesību veidnes"</a> (in Latvian). Vikipēdija<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Kategorija%3AIndividu%C4%81l%C4%81s+att%C4%93lu+autorties%C4%ABbu+veidnes&amp;rft.genre=unknown&amp;rft.pub=Vikip%C4%93dija&amp;rft_id=http%3A%2F%2Flv.wikipedia.org%2Fwiki%2FKategorija%3AIndividu%C4%81l%C4%81s_att%C4%93lu_autorties%C4%ABbu_veidnes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lv.wikipedia.org/wiki/Vikip%C4%93dija:Kopienas_port%C4%81ls/Arh%C4%ABvs28#Da.C5.BEas_f.C4.AB.C4.8Das">"Dažas fīčas"</a>. Vikipēdija. 9 May 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">21 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Da%C5%BEas+f%C4%AB%C4%8Das&amp;rft.date=2014-05-09&amp;rft.genre=unknown&amp;rft.pub=Vikip%C4%93dija&amp;rft_id=http%3A%2F%2Flv.wikipedia.org%2Fwiki%2FVikip%25C4%2593dija%3AKopienas_port%25C4%2581ls%2FArh%25C4%25ABvs28%23Da.C5.BEas_f.C4.AB.C4.8Das&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://meta.wikimedia.org/wiki/Non-free_content">"Non-free content"</a>. <i>Meta-Wiki</i>. Wikimedia Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=Non-free+content&amp;rft.genre=unknown&amp;rft.jtitle=Meta-Wiki&amp;rft_id=http%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FNon-free_content&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kasjauns.lv/lv/lielasbildes.html?bigimage_offset=5">"Londona iet ar kājām"</a> (in Latvian). Kasjauns.lv. 5 February 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Londona+iet+ar+k%C4%81j%C4%81m&amp;rft.date=2014-02-05&amp;rft.genre=unknown&amp;rft.pub=Kasjauns.lv&amp;rft_id=http%3A%2F%2Fwww.kasjauns.lv%2Flv%2Flielasbildes.html%3Fbigimage_offset%3D5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tvnet.lv/izklaide/skatuve/506227-manfelde_velas_atteikties_no_projekta_par_nacistu_cukuru">"Kapteinis Herberts Cukurs"</a> (in Latvian). TVNET/LETA. 17 April 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Kapteinis+Herberts+Cukurs&amp;rft.date=2014-04-17&amp;rft.genre=unknown&amp;rft.pub=TVNET%2FLETA&amp;rft_id=http%3A%2F%2Fwww.tvnet.lv%2Fizklaide%2Fskatuve%2F506227-manfelde_velas_atteikties_no_projekta_par_nacistu_cukuru&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kasjauns.lv/lv/zinas/39095/ainars-bagatskis-nezina-kur-dzivo-pingvini">"Ainaram Bagatskim paskaidrojums no wikipedia.org"</a> (in Latvian). Kasjauns.lv. 31 January 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Ainaram+Bagatskim+paskaidrojums+no+wikipedia.org&amp;rft.date=2011-01-31&amp;rft.genre=unknown&amp;rft.pub=Kasjauns.lv&amp;rft_id=http%3A%2F%2Fwww.kasjauns.lv%2Flv%2Fzinas%2F39095%2Fainars-bagatskis-nezina-kur-dzivo-pingvini&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kasjauns.lv/lv/lielasbildes/557/halovins-ir-klat">"Halovīns ir klāt"</a> (in Latvian). Kasjauns.lv. 31 October 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>. <q>Halovīns Visu svēto dienas priekšvakars, 31. oktobra vakars. Šajā vakarā cilvēki pārģērbjas par spokiem, raganām, miroņiem un citiem mošķiem un staigā pa mājām, prasot saldumus. Tā ir ASV tradīcija, taču globalizācijas rezultātā šī tradīcija tiek pārnesta arī uz citām valstīm, arī Latviju. Info: Wikipedia [...] Tesmeņveidīgie mākoņi jeb maisveida mākoņi ir mākoņi ar nokareniem puslodes formas izspiedumiem to apakšdaļā. Šie izspiedumi tiecas uz leju līdzīgi tesmeņiem vai nokarenām kabatām. No tā radies mākoņu nosaukums. Šādi mākoņi retumis novērojami negaisa mākoņu aizmugurē vasaras periodā. Info: Wikipedia</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Halov%C4%ABns+ir+kl%C4%81t&amp;rft.date=2013-10-31&amp;rft.genre=unknown&amp;rft.pub=Kasjauns.lv&amp;rft_id=http%3A%2F%2Fwww.kasjauns.lv%2Flv%2Flielasbildes%2F557%2Fhalovins-ir-klat&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kasjauns.lv/lv/lielasbildes/591/tesmenveidigo-makonu-neparastais-skaistums">"Tesmeņveidīgo mākoņu neparastais skaistums"</a> (in Latvian). Kasjauns.lv. 23 January 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>. <q>Tesmeņveidīgie mākoņi jeb maisveida mākoņi ir mākoņi ar nokareniem puslodes formas izspiedumiem to apakšdaļā. Šie izspiedumi tiecas uz leju līdzīgi tesmeņiem vai nokarenām kabatām. No tā radies mākoņu nosaukums. Šādi mākoņi retumis novērojami negaisa mākoņu aizmugurē vasaras periodā. Info: Wikipedia</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Tesme%C5%86veid%C4%ABgo+m%C4%81ko%C5%86u+neparastais+skaistums&amp;rft.date=2014-01-23&amp;rft.genre=unknown&amp;rft.pub=Kasjauns.lv&amp;rft_id=http%3A%2F%2Fwww.kasjauns.lv%2Flv%2Flielasbildes%2F591%2Ftesmenveidigo-makonu-neparastais-skaistums&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wikistics.falsikon.de/long/wikipedia/lv/">"Yearly wiki page Hits for lv.wikipedia"</a>. wikistics.falsikon.de<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Yearly+wiki+page+Hits+for+lv.wikipedia&amp;rft.genre=unknown&amp;rft.pub=wikistics.falsikon.de&amp;rft_id=http%3A%2F%2Fwikistics.falsikon.de%2Flong%2Fwikipedia%2Flv%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blogtop.lv/wikipedia/">"Latviešu Vikipēdijas apmeklētāko rakstu"</a> (in Latvian). blogtop.lv<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Latvie%C5%A1u+Vikip%C4%93dijas+apmekl%C4%93t%C4%81ko+rakstu&amp;rft.genre=unknown&amp;rft.pub=blogtop.lv&amp;rft_id=http%3A%2F%2Fblogtop.lv%2Fwikipedia%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FA-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-FA_31-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lv.wikipedia.org/wiki/Vikip%C4%93dija:V%C4%93rt%C4%ABgi_raksti">"Vikipēdija:Vērtīgi raksti"</a>. <i>Vikipēdija</i> (in Latvian)<span class="reference-accessdate">. Retrieved <span class="nowrap">19 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=Vikip%C4%93dija%3AV%C4%93rt%C4%ABgi+raksti&amp;rft.genre=unknown&amp;rft.jtitle=Vikip%C4%93dija&amp;rft_id=http%3A%2F%2Flv.wikipedia.org%2Fwiki%2FVikip%25C4%2593dija%3AV%25C4%2593rt%25C4%25ABgi_raksti&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GA-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-GA_32-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lv.wikipedia.org/wiki/Vikip%C4%93dija:Labi_raksti">"Vikipēdija:Labi raksti"</a>. <i>Vikipēdija</i> (in Latvian)<span class="reference-accessdate">. Retrieved <span class="nowrap">19 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=Vikip%C4%93dija%3ALabi+raksti&amp;rft.genre=unknown&amp;rft.jtitle=Vikip%C4%93dija&amp;rft_id=http%3A%2F%2Flv.wikipedia.org%2Fwiki%2FVikip%25C4%2593dija%3ALabi_raksti&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FL-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-FL_33-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lv.wikipedia.org/wiki/Vikip%C4%93dija:V%C4%93rt%C4%ABgi_saraksti">"Vērtīgi saraksti"</a>. <i>Vikipēdija</i> (in Latvian)<span class="reference-accessdate">. Retrieved <span class="nowrap">19 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=V%C4%93rt%C4%ABgi+saraksti&amp;rft.genre=unknown&amp;rft.jtitle=Vikip%C4%93dija&amp;rft_id=http%3A%2F%2Flv.wikipedia.org%2Fwiki%2FVikip%25C4%2593dija%3AV%25C4%2593rt%25C4%25ABgi_saraksti&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-wikiprojects-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-wikiprojects_36-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lv.wikipedia.org/wiki/Vikip%C4%93dija:Vikiprojekts">"Vikipēdija:Vikiprojekts"</a>. <i>Vikipēdija</i> (in Latvian)<span class="reference-accessdate">. Retrieved <span class="nowrap">19 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=Vikip%C4%93dija%3AVikiprojekts&amp;rft.genre=unknown&amp;rft.jtitle=Vikip%C4%93dija&amp;rft_id=http%3A%2F%2Flv.wikipedia.org%2Fwiki%2FVikip%25C4%2593dija%3AVikiprojekts&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://lv.wikipedia.org/wiki/Vikipēdija:Boti">"Vikipēdija:Boti"</a> (in Latvian). Vikipēdija<span class="reference-accessdate">. Retrieved <span class="nowrap">13 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Vikip%C4%93dija%3ABoti&amp;rft.genre=unknown&amp;rft.pub=Vikip%C4%93dija&amp;rft_id=https%3A%2F%2Flv.wikipedia.org%2Fwiki%2FVikip%C4%93dija%3ABoti&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-PageViewsPerCountryTrends-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-PageViewsPerCountryTrends_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PageViewsPerCountryTrends_38-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Zachte, Erik. <a class="external text" href="http://stats.wikimedia.org/wikimedia/squids/SquidReportPageViewsPerCountryTrends.htm#Latvia">"Wikimedia Traffic Analysis Report&#160;— Wikipedia Page Views Per Country&#160;— Trends"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.aufirst=Erik&amp;rft.aulast=Zachte&amp;rft.btitle=Wikimedia+Traffic+Analysis+Report+%E2%80%94+Wikipedia+Page+Views+Per+Country+%E2%80%94+Trends&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fstats.wikimedia.org%2Fwikimedia%2Fsquids%2FSquidReportPageViewsPerCountryTrends.htm%23Latvia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lulle, Aija (22 January 2014). <a rel="nofollow" class="external text" href="http://balticworlds.com/wp-content/uploads/2014/01/Aija-lulle.pdf">"Latvians in Guernsey an Emerging Translocal Labor Diaspora"</a> <span style="font-size:85%;">(PDF)</span>. <i>Baltic Worlds</i>. VI:3-4: 10–16<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=Latvians+in+Guernsey+an+Emerging+Translocal+Labor+Diaspora&amp;rft.aufirst=Aija&amp;rft.aulast=Lulle&amp;rft.date=2014-01-22&amp;rft.genre=article&amp;rft.jtitle=Baltic+Worlds&amp;rft.pages=10-16&amp;rft.volume=VI%3A3-4&amp;rft_id=http%3A%2F%2Fbalticworlds.com%2Fwp-content%2Fuploads%2F2014%2F01%2FAija-lulle.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web">Zachte, Erik. <a class="external text" href="http://stats.wikimedia.org/EN/Sitemap.htm">"Wikipedia Statistics&#160;— Sitemap"</a>. stats.wikimedia.org<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.aufirst=Erik&amp;rft.aulast=Zachte&amp;rft.btitle=Wikipedia+Statistics+%E2%80%94+Sitemap&amp;rft.genre=unknown&amp;rft.pub=stats.wikimedia.org&amp;rft_id=http%3A%2F%2Fstats.wikimedia.org%2FEN%2FSitemap.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-perarticle-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-perarticle_41-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://meta.wikimedia.org/wiki/List_of_Wikipedias_by_speakers_per_article">"List of Wikipedias by speakers per article"</a>. <i>Meta-Wiki</i>. Wikimedia Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=List+of+Wikipedias+by+speakers+per+article&amp;rft.genre=unknown&amp;rft.jtitle=Meta-Wiki&amp;rft_id=http%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FList_of_Wikipedias_by_speakers_per_article&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://www.vvk.lv/doc_upl/Valodas_Latvijaa_RUS.pdf"><bdi lang="ru">Латышский язык, языки в Латвии</bdi></a> <span style="font-size:85%;">(PDF)</span> (in Russian). Valsts valodas komisija. 2003. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9984720365" title="Special:BookSources/9984720365">9984720365</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=%D0%9B%D0%B0%D1%82%D1%8B%D1%88%D1%81%D0%BA%D0%B8%D0%B9+%D1%8F%D0%B7%D1%8B%D0%BA%2C+%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8+%D0%B2+%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=9984720365&amp;rft.pub=Valsts+valodas+komisija&amp;rft_id=http%3A%2F%2Fwww.vvk.lv%2Fdoc_upl%2FValodas_Latvijaa_RUS.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web">Zachte, Erik. <a class="external text" href="http://stats.wikimedia.org/EN/TablesWikipediaLV.htm#wikipedians">"50 recently active wikipedians, excl. bots, ordered by number of contributions"</a>. <i>stats.wikimedia.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=50+recently+active+wikipedians%2C+excl.+bots%2C+ordered+by+number+of+contributions&amp;rft.aufirst=Erik&amp;rft.aulast=Zachte&amp;rft.genre=unknown&amp;rft.jtitle=stats.wikimedia.org&amp;rft_id=http%3A%2F%2Fstats.wikimedia.org%2FEN%2FTablesWikipediaLV.htm%23wikipedians&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.mediawiki.org/wiki/Analytics/Metric_definitions">"Analytics/Metric definitions"</a>. <i>MediaWiki, The Free Wiki Engine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.atitle=Analytics%2FMetric+definitions&amp;rft.genre=unknown&amp;rft.jtitle=MediaWiki%2C+The+Free+Wiki+Engine&amp;rft_id=http%3A%2F%2Fwww.mediawiki.org%2Fwiki%2FAnalytics%2FMetric_definitions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/topsites/countries/LV">"Top Sites in Latvia"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a>, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatvian+Wikipedia&amp;rft.btitle=Top+Sites+in+Latvia&amp;rft.genre=unknown&amp;rft.pub=Alexa+Internet%2C+Inc.&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Ftopsites%2Fcountries%2FLV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png" width="40" height="37" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/80px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></td>
+<td class="mbox-text plainlist"><i><b><a href="https://lv.wikipedia.org/wiki/" class="extiw" title="lv:">Latvian edition</a></b></i> of <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, the free encyclopedia</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/40px-Wikimedia_Community_Logo.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/60px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/80px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></td>
+<td class="mbox-text plainlist">Meta has related information at: <i><b><a href="https://meta.wikimedia.org/wiki/Tell_us_about_Latvian_Wikipedia" class="extiw" title="meta:Tell us about Latvian Wikipedia">Tell us about Latvian Wikipedia</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Latvian_Wikipedia" class="extiw" title="commons:Category:Latvian Wikipedia">Latvian Wikipedia</a> at Wikimedia Commons</li>
+<li><a class="external text" href="http://lv.wikipedia.org">Latvian Wikipedia</a> <span class="languageicon">(in Latvian)</span></li>
+<li><a class="external text" href="http://lv.m.wikipedia.org">Latvian Wikipedia (mobile)</a> <span class="languageicon">(in Latvian)</span></li>
+<li><a rel="nofollow" class="external text" href="http://twitter.com/wikipedia_lv">Twitter page of the Latvian Wikipedia</a> <span class="languageicon">(in Latvian)</span></li>
+<li><a href="https://lv.wikipedia.org/wiki/Vikip%C4%93dija:V%C4%93stniec%C4%ABba" class="extiw" title="lv:Vikipēdija:Vēstniecība">Embassy of the Latvian Wikipedia</a> <small>(English, French, German, Polish, and Russian)</small></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="List_of_Wikipedias_by_article_count" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wikipedias" title="Template:Wikipedias"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wikipedias" title="Template talk:Wikipedias"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikipedias&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="List_of_Wikipedias_by_article_count" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a> by article count</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">5,000,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/English_Wikipedia" title="English Wikipedia">English</a></li>
+<li><a href="/wiki/Cebuano_Wikipedia" class="mw-redirect" title="Cebuano Wikipedia">Cebuano</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2,000,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Swedish_Wikipedia" title="Swedish Wikipedia">Swedish</a></li>
+<li><a href="/wiki/German_Wikipedia" title="German Wikipedia">German</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dutch_Wikipedia" title="Dutch Wikipedia">Dutch</a></li>
+<li><a href="/wiki/French_Wikipedia" title="French Wikipedia">French</a></li>
+<li><a href="/wiki/Russian_Wikipedia" title="Russian Wikipedia">Russian</a></li>
+<li><a href="/wiki/Italian_Wikipedia" title="Italian Wikipedia">Italian</a></li>
+<li><a href="/wiki/Spanish_Wikipedia" title="Spanish Wikipedia">Spanish</a></li>
+<li><a href="/wiki/Waray_Wikipedia" title="Waray Wikipedia">Waray</a></li>
+<li><a href="/wiki/Polish_Wikipedia" title="Polish Wikipedia">Polish</a></li>
+<li><a href="/wiki/Vietnamese_Wikipedia" title="Vietnamese Wikipedia">Vietnamese</a></li>
+<li><a href="/wiki/Japanese_Wikipedia" title="Japanese Wikipedia">Japanese</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Portuguese_Wikipedia" title="Portuguese Wikipedia">Portuguese</a></li>
+<li><a href="/wiki/Chinese_Wikipedia" title="Chinese Wikipedia">Chinese</a></li>
+<li><a href="/wiki/Ukrainian_Wikipedia" title="Ukrainian Wikipedia">Ukrainian</a></li>
+<li><a href="/wiki/Persian_Wikipedia" title="Persian Wikipedia">Persian</a></li>
+<li><a href="/wiki/Catalan_Wikipedia" title="Catalan Wikipedia">Catalan</a></li>
+<li><a href="/wiki/Arabic_Wikipedia" title="Arabic Wikipedia">Arabic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Norwegian_Wikipedia" title="Norwegian Wikipedia">Norwegian (bokmål/riksmål)</a></li>
+<li><a href="/wiki/Serbo-Croatian_Wikipedia" title="Serbo-Croatian Wikipedia">Serbo-Croatian</a></li>
+<li><a href="/wiki/Finnish_Wikipedia" title="Finnish Wikipedia">Finnish</a></li>
+<li><a href="/wiki/Hungarian_Wikipedia" title="Hungarian Wikipedia">Hungarian</a></li>
+<li><a href="/wiki/Indonesian_Wikipedia" title="Indonesian Wikipedia">Indonesian</a></li>
+<li><a href="/wiki/Korean_Wikipedia" title="Korean Wikipedia">Korean</a></li>
+<li><a href="/wiki/Czech_Wikipedia" title="Czech Wikipedia">Czech</a></li>
+<li><a href="/wiki/Romanian_Wikipedia" title="Romanian Wikipedia">Romanian</a></li>
+<li><a href="/wiki/Serbian_Wikipedia" title="Serbian Wikipedia">Serbian</a></li>
+<li><a href="/wiki/Malay_Wikipedia" title="Malay Wikipedia">Malay</a></li>
+<li><a href="/wiki/Turkish_Wikipedia" title="Turkish Wikipedia">Turkish</a></li>
+<li><a href="/wiki/Basque_Wikipedia" title="Basque Wikipedia">Basque</a></li>
+<li><a href="/wiki/Esperanto_Wikipedia" title="Esperanto Wikipedia">Esperanto</a></li>
+<li><a href="/wiki/Bulgarian_Wikipedia" title="Bulgarian Wikipedia">Bulgarian</a></li>
+<li><a href="/wiki/Danish_Wikipedia" title="Danish Wikipedia">Danish</a></li>
+<li><a href="/wiki/Armenian_Wikipedia" title="Armenian Wikipedia">Armenian</a></li>
+<li><a href="/wiki/Slovak_Wikipedia" title="Slovak Wikipedia">Slovak</a></li>
+<li><a href="/wiki/Minangkabau_Wikipedia" class="mw-redirect" title="Minangkabau Wikipedia">Minangkabau</a></li>
+<li><a href="/wiki/Min_Nan_Wikipedia" class="mw-redirect" title="Min Nan Wikipedia">Min Nan</a></li>
+<li><a href="/wiki/Kazakh_Wikipedia" title="Kazakh Wikipedia">Kazakh</a></li>
+<li><a href="/wiki/Hebrew_Wikipedia" title="Hebrew Wikipedia">Hebrew</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lithuanian_Wikipedia" title="Lithuanian Wikipedia">Lithuanian</a></li>
+<li><a href="/wiki/Croatian_Wikipedia" title="Croatian Wikipedia">Croatian</a></li>
+<li><a href="/wiki/Chechen_Wikipedia" class="mw-redirect" title="Chechen Wikipedia">Chechen</a></li>
+<li><a href="/wiki/Estonian_Wikipedia" title="Estonian Wikipedia">Estonian</a></li>
+<li><a href="/wiki/Slovene_Wikipedia" title="Slovene Wikipedia">Slovene</a></li>
+<li><a href="/wiki/Belarusian_Wikipedia" title="Belarusian Wikipedia">Belarusian</a></li>
+<li><a href="/wiki/Galician_Wikipedia" title="Galician Wikipedia">Galician</a></li>
+<li><a href="/wiki/Greek_Wikipedia" title="Greek Wikipedia">Greek</a></li>
+<li><a href="/wiki/Norwegian_Wikipedia" title="Norwegian Wikipedia">Norwegian (nynorsk)</a></li>
+<li><a href="/wiki/Uzbek_Wikipedia" title="Uzbek Wikipedia">Uzbek</a></li>
+<li><a href="/wiki/Simple_English_Wikipedia" title="Simple English Wikipedia">Simple English</a></li>
+<li><a href="/wiki/Latin_Wikipedia" title="Latin Wikipedia">Latin</a></li>
+<li><a href="/wiki/Azerbaijani_Wikipedia" title="Azerbaijani Wikipedia">Azerbaijani</a></li>
+<li><a href="/wiki/Urdu_Wikipedia" title="Urdu Wikipedia">Urdu</a></li>
+<li><a href="/wiki/Hindi_Wikipedia" title="Hindi Wikipedia">Hindi</a></li>
+<li><a href="/wiki/Volap%C3%BCk_Wikipedia" class="mw-redirect" title="Volapük Wikipedia">Volapük</a></li>
+<li><a href="/wiki/Thai_Wikipedia" title="Thai Wikipedia">Thai</a></li>
+<li><a href="/wiki/Georgian_Wikipedia" title="Georgian Wikipedia">Georgian</a></li>
+<li><a href="/wiki/Tamil_Wikipedia" title="Tamil Wikipedia">Tamil</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">50,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Welsh_Wikipedia" title="Welsh Wikipedia">Welsh</a></li>
+<li><a href="/wiki/Macedonian_Wikipedia" title="Macedonian Wikipedia">Macedonian</a></li>
+<li><a href="/wiki/Occitan_Wikipedia" title="Occitan Wikipedia">Occitan</a></li>
+<li><a href="/wiki/Malagasy_Wikipedia" title="Malagasy Wikipedia">Malagasy</a></li>
+<li><a class="mw-selflink selflink">Latvian</a></li>
+<li><a href="/wiki/Bosnian_Wikipedia" title="Bosnian Wikipedia">Bosnian</a></li>
+<li><a href="/wiki/Tagalog_Wikipedia" title="Tagalog Wikipedia">Tagalog</a></li>
+<li><a href="/wiki/Kyrgyz_Wikipedia" title="Kyrgyz Wikipedia">Kirghiz</a></li>
+<li><a href="/wiki/Nepal_Bhasa_Wikipedia" title="Nepal Bhasa Wikipedia">Newar</a></li>
+<li><a href="/wiki/Tatar_Wikipedia" title="Tatar Wikipedia">Tatar</a></li>
+<li><a href="/wiki/Tajik_Wikipedia" class="mw-redirect" title="Tajik Wikipedia">Tajik</a></li>
+<li><a href="/wiki/Telugu_Wikipedia" title="Telugu Wikipedia">Telugu</a></li>
+<li><a href="/wiki/Albanian_Wikipedia" title="Albanian Wikipedia">Albanian</a></li>
+<li><a href="/wiki/Piedmontese_Wikipedia" class="mw-redirect" title="Piedmontese Wikipedia">Piedmontese</a></li>
+<li><a href="/wiki/Breton_Wikipedia" title="Breton Wikipedia">Breton</a></li>
+<li><a href="/wiki/Belarusian_(Tara%C5%A1kievica)_Wikipedia" class="mw-redirect" title="Belarusian (Taraškievica) Wikipedia">Belarusian (Taraškievica)</a></li>
+<li><a href="/wiki/Cantonese_Wikipedia" title="Cantonese Wikipedia">Cantonese</a></li>
+<li><a href="/wiki/Malayalam_Wikipedia" title="Malayalam Wikipedia">Malayalam</a></li>
+<li><a href="/wiki/Bengali_Wikipedia" title="Bengali Wikipedia">Bengali</a></li>
+<li><a href="/wiki/Haitian_Creole_Wikipedia" class="mw-redirect" title="Haitian Creole Wikipedia">Haitian</a></li>
+<li><a href="/wiki/Javanese_Wikipedia" title="Javanese Wikipedia">Javanese</a></li>
+<li><a href="/wiki/Asturian_Wikipedia" title="Asturian Wikipedia">Asturian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">20,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Luxembourgish_Wikipedia" title="Luxembourgish Wikipedia">Luxembourgish</a></li>
+<li><a href="/wiki/Marathi_Wikipedia" title="Marathi Wikipedia">Marathi</a></li>
+<li><a href="/wiki/Afrikaans_Wikipedia" title="Afrikaans Wikipedia">Afrikaans</a></li>
+<li><a href="/wiki/Scots_Wikipedia" title="Scots Wikipedia">Scots</a></li>
+<li><a href="/wiki/Western_Punjabi_Wikipedia" class="mw-redirect" title="Western Punjabi Wikipedia">Western Punjabi</a></li>
+<li><a href="/wiki/Icelandic_Wikipedia" class="mw-redirect" title="Icelandic Wikipedia">Icelandic</a></li>
+<li><a href="/wiki/Irish_Wikipedia" title="Irish Wikipedia">Irish</a></li>
+<li><a href="/wiki/Chuvash_Wikipedia" title="Chuvash Wikipedia">Chuvash</a></li>
+<li><a href="/wiki/West_Frisian_Wikipedia" title="West Frisian Wikipedia">West Frisian</a></li>
+<li><a href="/wiki/Sundanese_Wikipedia" class="mw-redirect" title="Sundanese Wikipedia">Sundanese</a></li>
+<li><a href="/wiki/Swahili_Wikipedia" title="Swahili Wikipedia">Swahili</a></li>
+<li><a href="/wiki/Burmese_Wikipedia" title="Burmese Wikipedia">Burmese</a></li>
+<li><a href="/wiki/Aragonese_Wikipedia" title="Aragonese Wikipedia">Aragonese</a></li>
+<li><a href="/wiki/Yoruba_Wikipedia" title="Yoruba Wikipedia">Yoruba</a></li>
+<li><a href="/wiki/Ido_Wikipedia" class="mw-redirect" title="Ido Wikipedia">Ido</a></li>
+<li><a href="/wiki/Punjabi_Wikipedia" title="Punjabi Wikipedia">Punjabi</a></li>
+<li><a href="/wiki/Sicilian_Wikipedia" title="Sicilian Wikipedia">Sicilian</a></li>
+<li><a href="/wiki/Bishnupriya_Manipuri_Wikipedia" class="mw-redirect" title="Bishnupriya Manipuri Wikipedia">Bishnupriya Manipuri</a></li>
+<li><a href="/wiki/Alemannic_Wikipedia" title="Alemannic Wikipedia">Alemannic</a></li>
+<li><a href="/wiki/Kannada_Wikipedia" title="Kannada Wikipedia">Kannada</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">10,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mongolian_Wikipedia" title="Mongolian Wikipedia">Mongolian</a></li>
+<li><a href="/wiki/Egyptian_Arabic_Wikipedia" title="Egyptian Arabic Wikipedia">Egyptian Arabic</a></li>
+<li><a href="/wiki/Samogitian_Wikipedia" title="Samogitian Wikipedia">Samogitian</a></li>
+<li><a href="/wiki/Yiddish_Wikipedia" title="Yiddish Wikipedia">Yiddish</a></li>
+<li><a href="/wiki/Odia_Wikipedia" title="Odia Wikipedia">Odia</a></li>
+<li><a href="/wiki/Sanskrit_Wikipedia" title="Sanskrit Wikipedia">Sanskrit</a></li>
+<li><a href="/wiki/Mengrelian_Wikipedia" class="mw-redirect" title="Mengrelian Wikipedia">Mengrelian</a></li>
+<li><a href="/wiki/Ossetian_Wikipedia" title="Ossetian Wikipedia">Ossetian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pashto_Wikipedia" title="Pashto Wikipedia">Pashto</a></li>
+<li><a href="/wiki/Sindhi_Wikipedia" title="Sindhi Wikipedia">Sindhi</a></li>
+<li><a href="/wiki/Northern_Sami_Wikipedia" title="Northern Sami Wikipedia">Northern Sami</a></li>
+<li><a href="/wiki/Dutch_Low_Saxon_Wikipedia" title="Dutch Low Saxon Wikipedia">Dutch Low Saxon</a></li>
+<li><a href="/wiki/Classical_Chinese_Wikipedia" class="mw-redirect" title="Classical Chinese Wikipedia">Classical Chinese</a></li>
+<li><a href="/wiki/Silesian_Wikipedia" title="Silesian Wikipedia">Silesian</a></li>
+<li><a href="/wiki/Crimean_Tatar_Wikipedia" title="Crimean Tatar Wikipedia">Crimean Tatar</a></li>
+<li><a href="/wiki/Assamese_Wikipedia" title="Assamese Wikipedia">Assamese</a></li>
+<li><a href="/wiki/Konkani_Wikipedia" title="Konkani Wikipedia">Konkani</a></li>
+<li><a href="/wiki/Uyghur_Wikipedia" title="Uyghur Wikipedia">Uyghur</a></li>
+<li><a href="/wiki/Ripuarian_Wikipedia" title="Ripuarian Wikipedia">Ripuarian</a></li>
+<li><a href="/wiki/Aramaic_Wikipedia" class="mw-redirect" title="Aramaic Wikipedia">Aramaic</a></li>
+<li><a href="/wiki/Wolof_Wikipedia" title="Wolof Wikipedia">Wolof</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zulu_Wikipedia" title="Zulu Wikipedia">Zulu</a></li>
+<li><a href="/wiki/Tulu_Wikipedia" title="Tulu Wikipedia">Tulu</a></li>
+<li><a href="/wiki/Xhosa_Wikipedia" title="Xhosa Wikipedia">Xhosa</a></li>
+<li><a href="/wiki/Bambara_Wikipedia" title="Bambara Wikipedia">Bambara</a></li>
+<li><a href="/wiki/Venda_Wikipedia" class="mw-redirect" title="Venda Wikipedia">Venda</a></li>
+<li><a href="/wiki/Cree_Wikipedia" class="mw-redirect" title="Cree Wikipedia">Cree</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1213
+Cached time: 20170922150805
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.880 seconds
+Real time usage: 0.996 seconds
+Preprocessor visited node count: 13742/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 118744/2097152 bytes
+Template argument size: 9310/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 4/500
+Lua time usage: 0.328/10.000 seconds
+Lua memory usage: 4.74 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  913.321      1 -total
+ 42.45%  387.683      2 Template:Reflist
+ 31.47%  287.415     40 Template:Cite_web
+ 18.23%  166.471      1 Template:Infobox_website
+ 17.58%  160.553      1 Template:Infobox
+ 16.76%  153.028     80 Template:NUMBEROF
+ 15.36%  140.292     80 Template:NUMBEROF/data
+ 13.56%  123.827      6 Template:NUMBEROFGROUP
+ 13.56%  123.801      1 Template:Bar_box
+ 13.34%  121.810      6 Template:NUMBEROFGROUP/data
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6731163-0!canonical and timestamp 20170922150804 and revision id 738417894
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Latvian_Wikipedia&amp;oldid=738417894">https://en.wikipedia.org/w/index.php?title=Latvian_Wikipedia&amp;oldid=738417894</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedias_by_language" title="Category:Wikipedias by language">Wikipedias by language</a></li><li><a href="/wiki/Category:Latvian-language_encyclopedias" title="Category:Latvian-language encyclopedias">Latvian-language encyclopedias</a></li><li><a href="/wiki/Category:Internet_properties_established_in_2003" title="Category:Internet properties established in 2003">Internet properties established in 2003</a></li><li><a href="/wiki/Category:Latvian-language_websites" title="Category:Latvian-language websites">Latvian-language websites</a></li><li><a href="/wiki/Category:21st-century_encyclopedias" title="Category:21st-century encyclopedias">21st-century encyclopedias</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Latvian-language_sources_(lv)" title="Category:CS1 Latvian-language sources (lv)">CS1 Latvian-language sources (lv)</a></li><li><a href="/wiki/Category:CS1_Lithuanian-language_sources_(lt)" title="Category:CS1 Lithuanian-language sources (lt)">CS1 Lithuanian-language sources (lt)</a></li><li><a href="/wiki/Category:CS1_uses_Russian-language_script_(ru)" title="Category:CS1 uses Russian-language script (ru)">CS1 uses Russian-language script (ru)</a></li><li><a href="/wiki/Category:CS1_Russian-language_sources_(ru)" title="Category:CS1 Russian-language sources (ru)">CS1 Russian-language sources (ru)</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_Latvian-language_text" title="Category:Articles containing Latvian-language text">Articles containing Latvian-language text</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_July_2014" title="Category:Articles containing potentially dated statements from July 2014">Articles containing potentially dated statements from July 2014</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_March_2015" title="Category:Articles containing potentially dated statements from March 2015">Articles containing potentially dated statements from March 2015</a></li><li><a href="/wiki/Category:Articles_with_Latvian-language_external_links" title="Category:Articles with Latvian-language external links">Articles with Latvian-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Latvian+Wikipedia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Latvian+Wikipedia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Latvian_Wikipedia" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Latvian_Wikipedia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Latvian_Wikipedia">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Latvian_Wikipedia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Latvian_Wikipedia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Latvian_Wikipedia&amp;oldid=738417894" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Latvian_Wikipedia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q728945" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Latvian_Wikipedia&amp;id=738417894" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Latvian+Wikipedia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Latvian+Wikipedia&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DLatvian%2BWikipedia%26returnto%3DLatvian%2BWikipedia%26oldid%3D738417894%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Latvian_Wikipedia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Latvian_Wikipedia" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Letse_Wikipedia" title="Letse Wikipedia – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D8%A7%D9%84%D9%84%D8%A7%D8%AA%D9%81%D9%8A%D8%A9" title="ويكيبيديا اللاتفية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%B2%E0%A6%BE%E0%A6%9F%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BC_%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="লাটভিয় ৱিকিপিডিয়া – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B2%E0%A6%BE%E0%A6%9F%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BC_%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="লাটভিয় উইকিপিডিয়া – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%8B%D1%88%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%8B%D1%8F" title="Латышская Вікіпедыя – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%8B%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F" title="Латыская Вікіпэдыя – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%BB%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B8_%D0%B5%D0%B7%D0%B8%D0%BA" title="Уикипедия на латвийски език – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%8B%D1%88_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9%C4%95" title="Латыш Википедийĕ – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Loty%C5%A1sk%C3%A1_Wikipedie" title="Lotyšská Wikipedie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/L%C3%A4tikeelne_Vikipeedia" title="Lätikeelne Vikipeedia – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CF%84%CE%BF%CE%BD%CE%B9%CE%BA%CE%AE_%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1" title="Λετονική Βικιπαίδεια – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikipedia_en_let%C3%B3n" title="Wikipedia en letón – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Letonierazko_Wikipedia" title="Letonierazko Wikipedia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7%DB%8C_%D9%84%D8%AA%D9%88%D9%86%DB%8C%D8%A7%DB%8C%DB%8C" title="ویکی‌پدیای لتونیایی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia_en_letton" title="Wikipédia en letton – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%9D%BC%ED%8A%B8%EB%B9%84%EC%95%84%EC%96%B4_%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC" title="라트비아어 위키백과 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BC%D5%A1%D5%BF%D5%AB%D5%B7%D5%A5%D6%80%D5%A5%D5%B6_%D5%8E%D5%AB%D6%84%D5%AB%D5%BA%D5%A5%D5%A4%D5%AB%D5%A1" title="Լատիշերեն Վիքիպեդիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%A4%E0%A4%B5%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%88_%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="लातवियाई विकिपीडिया – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikipedia_bahasa_Latvi" title="Wikipedia bahasa Latvi – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Wikipedia_in_lettone" title="Wikipedia in lettone – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%94%D7%9C%D7%98%D7%91%D7%99%D7%AA" title="ויקיפדיה הלטבית – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%90%E1%83%A2%E1%83%95%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90" title="ლატვიური ვიკიპედია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C_%D9%BE%D8%AF%DB%8C%D8%A7_%D9%84%D8%AA%D9%88%D9%86%DB%8C" title="ویکی پدیا لتونی – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Vikip%C4%93dija_latvie%C5%A1u_valod%C4%81" title="Vikipēdija latviešu valodā – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Latvi%C5%A1koji_Vikipedija" title="Latviškoji Vikipedija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Lett_Wikip%C3%A9dia" title="Lett Wikipédia – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Letse_Wikipedia" title="Letse Wikipedia – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%8B%D1%88%D0%B8%D0%B9%D0%BD_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8" title="Латышийн Википеди – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/%C5%81otewska_Wikipedia" title="Łotewska Wikipedia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia_em_let%C3%A3o" title="Wikipédia em letão – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%8B%D1%88%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Латышская Википедия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Latvian_Wikipedia" title="Latvian Wikipedia – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D0%BB%D0%B5%D1%82%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA%D1%83" title="Википедија на летонском језику – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Latvijska_Wikipedija" title="Latvijska Wikipedija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Wikipedia:Latviankielinen_Wikipedia" title="Wikipedia:Latviankielinen Wikipedia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wikipediang_Leton" title="Wikipediang Leton – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2" title="วิกิพีเดียภาษาลัตเวีย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Letonca_Vikipedi" title="Letonca Vikipedi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B2%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F" title="Латвійська Вікіпедія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Wikipedia_ti%E1%BA%BFng_Latvia" title="Wikipedia tiếng Latvia – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E6%96%87%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8" title="拉脫維亞文維基大典 – Classical Chinese" lang="zh-classical" hreflang="zh-classical" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E6%96%87%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" title="拉脫維亞文維基百科 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Latv%C4%97%C5%A1ka_Vikiped%C4%97j%C4%97" title="Latvėška Vikipedėjė – Samogitian" lang="bat-smg" hreflang="bat-smg" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Wikipedia:%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E8%AA%9E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" title="Wikipedia:拉脫維亞語維基百科 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q728945#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 8 September 2016, at 20:56.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Latvian_Wikipedia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.880","walltime":"0.996","ppvisitednodes":{"value":13742,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":118744,"limit":2097152},"templateargumentsize":{"value":9310,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  913.321      1 -total"," 42.45%  387.683      2 Template:Reflist"," 31.47%  287.415     40 Template:Cite_web"," 18.23%  166.471      1 Template:Infobox_website"," 17.58%  160.553      1 Template:Infobox"," 16.76%  153.028     80 Template:NUMBEROF"," 15.36%  140.292     80 Template:NUMBEROF/data"," 13.56%  123.827      6 Template:NUMBEROFGROUP"," 13.56%  123.801      1 Template:Bar_box"," 13.34%  121.810      6 Template:NUMBEROFGROUP/data"]},"scribunto":{"limitreport-timeusage":{"value":"0.328","limit":"10.000"},"limitreport-memusage":{"value":4971550,"limit":52428800}},"cachereport":{"origin":"mw1213","timestamp":"20170922150805","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1098,"wgHostname":"mw1213"});});</script>
+	</body>
+</html>

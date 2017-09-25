@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Urdu Wikipedia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Urdu_Wikipedia","wgTitle":"Urdu Wikipedia","wgCurRevisionId":801087390,"wgRevisionId":801087390,"wgArticleId":3237838,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Urdu-language sources (ur)","All articles with dead external links","Articles with dead external links from June 2016","Pages using deprecated image syntax","Articles containing Urdu-language text","All articles with unsourced statements","Articles with unsourced statements from April 2016","Articles with Urdu-language external links","Wikipedias by language","Internet properties established in 2004","Urdu encyclopedias","Urdu-language websites","Online encyclopedias","21st-century encyclopedias"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Urdu_Wikipedia","wgRelevantArticleId":3237838,"wgRequestId":"WcIq6gpAEKcAAFcv@kUAAACW","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1067878","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/3d/Wikipedia-logo-v2-ur.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Urdu_Wikipedia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Urdu_Wikipedia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Urdu_Wikipedia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Urdu_Wikipedia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Urdu_Wikipedia rootpage-Urdu_Wikipedia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Urdu Wikipedia</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<caption class="fn org"><a href="/wiki/File:Wikipedia%27s_W.svg" class="image" title="Favicon of Wikipedia"><img alt="Favicon of Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/17px-Wikipedia%27s_W.svg.png" width="17" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/26px-Wikipedia%27s_W.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/34px-Wikipedia%27s_W.svg.png 2x" data-file-width="128" data-file-height="128" /></a> Urdu Wikipedia<br />
+<span class="Nastaliq" title="Nastaliq" style="font-size: 125%; font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq';">اردو ویکیپیڈیا</span></caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Wikipedia-logo-v2-ur.png" class="image"><img alt="Wikipedia-logo-v2-ur.png" src="//upload.wikimedia.org/wikipedia/commons/3/3d/Wikipedia-logo-v2-ur.png" width="140" height="161" data-file-width="135" data-file-height="155" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Urdu_Wikipedia.PNG" class="image"><img alt="Urdu Wikipedia.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Urdu_Wikipedia.PNG/300px-Urdu_Wikipedia.PNG" width="300" height="1137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Urdu_Wikipedia.PNG/450px-Urdu_Wikipedia.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Urdu_Wikipedia.PNG/600px-Urdu_Wikipedia.PNG 2x" data-file-width="777" data-file-height="2944" /></a>
+<div><i>Screenshot of the main page of Wikipedia Urdu</i></div>
+</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Type of site</div>
+</th>
+<td><a href="/wiki/Internet_encyclopedia_project" class="mw-redirect" title="Internet encyclopedia project">Internet encyclopedia project</a></td>
+</tr>
+<tr>
+<th scope="row">Available&#160;in</th>
+<td><a href="/wiki/Urdu_language" class="mw-redirect" title="Urdu language">Urdu</a></td>
+</tr>
+<tr>
+<th scope="row">Headquarters</th>
+<td class="adr"><span class="locality"><a href="/wiki/Miami,_Florida" class="mw-redirect" title="Miami, Florida">Miami, Florida</a></span></td>
+</tr>
+<tr>
+<th scope="row">Owner</th>
+<td><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td class="url"><a class="external text" href="http://ur.wikipedia.org/">ur.wikipedia.org</a></td>
+</tr>
+<tr>
+<th scope="row">Commercial</th>
+<td>No</td>
+</tr>
+<tr>
+<th scope="row">Registration</th>
+<td>Optional</td>
+</tr>
+</table>
+<p><b>Urdu Wikipedia</b> (<a href="/wiki/Urdu_language" class="mw-redirect" title="Urdu language">Urdu</a>: <span lang="ur" dir="rtl" xml:lang="ur"><span class="Nastaliq" title="Nastaliq" style="font-size: 125%; font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq';">اردو وکیپیڈیا</span></span>‎), started in January 2004, is the <a href="/wiki/Urdu_language" class="mw-redirect" title="Urdu language">Urdu language</a> edition of <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, a free, open-content encyclopedia. As of 30 February, 2017, it had more than 116,100 articles.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Milestones"><span class="tocnumber">2</span> <span class="toctext">Milestones</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urdu_Wikipedia&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wikipedia started being multilingual in May 2001. As of December 2007, <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> had approximately 9.25 million articles in 253 languages. The original site address for Urdu Wikipedia was ur.wikipedia.com and all pages were written in the <a href="/wiki/Latin_alphabet" title="Latin alphabet">Latin alphabet</a>, as the software did not work with Urdu characters.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2016)">citation needed</span></a></i>]</sup></p>
+<p>At first, Urdu Wikipedia faced technical problems with the Urdu script font, but now this matter is mostly settled; some unsolved areas remain. Urdu is written in <a href="/wiki/Perso-Arabic_script" class="mw-redirect" title="Perso-Arabic script">Perso-Arabic script</a>, a right-to-left <a href="/wiki/Writing_system" title="Writing system">writing system</a>. As a result, users sometimes need to configure their operating systems and web browsers accordingly.</p>
+<p>Currently Urdu Wikipedia uses "Urdu Naskh Asiatype" font, which was introduced and is freely distributed by <a href="/wiki/BBC" title="BBC">BBC</a> at BBC Urdu Service website.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The font is primarily used for article bodies and headings. Urdu variation of <a href="/wiki/Times_New_Roman" title="Times New Roman">Times New Roman</a> is used for navigation links. Both of these fonts are variations of <a href="/wiki/Naskh_(script)" title="Naskh (script)">Naskh</a> style.</p>
+<p>Some <a href="/wiki/Pakistan" title="Pakistan">Pakistani</a> variations of complex <a href="/wiki/Nasta%27liq_script" class="mw-redirect" title="Nasta'liq script">Nasta'liq script</a> are also supported only as a secondary choice in <a href="/wiki/HTML" title="HTML">class</a> definitions of <a href="/wiki/CSS" class="mw-redirect" title="CSS">CSS</a>, i.e. if default font is not found on client system, then Nasta'liq script is used.</p>
+<p>The translation of the Wikipedia interface and project information pages into Urdu is still in progress. Some pages about how to edit have been translated.</p>
+<h2><span class="mw-headline" id="Milestones">Milestones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urdu_Wikipedia&amp;action=edit&amp;section=2" title="Edit section: Milestones">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Date</th>
+<th>Milestone</th>
+</tr>
+<tr>
+<td>2007</td>
+<td>5,000</td>
+</tr>
+<tr>
+<td>2009</td>
+<td>10,000</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>20,000</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>40,000</td>
+</tr>
+<tr>
+<td>24 April 2014</td>
+<td>50,000</td>
+</tr>
+<tr>
+<td>12 August 2015</td>
+<td>75,000</td>
+</tr>
+<tr>
+<td>29 December 2015</td>
+<td>100,000</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urdu_Wikipedia&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png" width="40" height="37" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/80px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></td>
+<td class="mbox-text plainlist"><i><b><a href="https://ur.wikipedia.org/wiki/" class="extiw" title="ur:">Urdu edition</a></b></i> of <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, the free encyclopedia</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/National_Language_Authority" class="mw-redirect" title="National Language Authority">National Language Authority</a> - Pakistan</li>
+<li><a href="/wiki/National_Council_for_Promotion_of_Urdu_Language" title="National Council for Promotion of Urdu Language">National Council for Promotion of Urdu Language</a> - Ministry of HRD India</li>
+<li><a href="/wiki/Urdu_Informatics" title="Urdu Informatics">Urdu Informatics</a></li>
+<li><a href="/wiki/Urdu_keyboard" title="Urdu keyboard">Urdu keyboard</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urdu_Wikipedia&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140430014030/http://www.karachiupdates.com/v1.5/index.php?option=com_content&amp;view=article&amp;id=1938%3A2009-10-19-10-28-43&amp;catid=2%3A2009-07-03-13-16-07">"کراچی میں وکی پیڈیا صارفین کا تاریخی اجلا"</a> (in Urdu). Karachi: Karachi Updates. October 19, 2009. Archived from <a rel="nofollow" class="external text" href="http://www.karachiupdates.com/v1.5/index.php?option=com_content&amp;view=article&amp;id=1938:2009-10-19-10-28-43&amp;catid=2:2009-07-03-13-16-07">the original</a> on April 30, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUrdu+Wikipedia&amp;rft.atitle=%DA%A9%D8%B1%D8%A7%DA%86%DB%8C+%D9%85%DB%8C%DA%BA+%D9%88%DA%A9%DB%8C+%D9%BE%DB%8C%DA%88%DB%8C%D8%A7+%D8%B5%D8%A7%D8%B1%D9%81%DB%8C%D9%86+%DA%A9%D8%A7+%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C+%D8%A7%D8%AC%D9%84%D8%A7&amp;rft.date=2009-10-19&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.karachiupdates.com%2Fv1.5%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1938%3A2009-10-19-10-28-43%26catid%3D2%3A2009-07-03-13-16-07&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://newsurdu.net/2009/10/wikipedia-2/">"Wikipedians meetup in Pakistan"</a> (in Urdu). Karachi: News Urdu. October 19, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUrdu+Wikipedia&amp;rft.atitle=Wikipedians+meetup+in+Pakistan&amp;rft.date=2009-10-19&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnewsurdu.net%2F2009%2F10%2Fwikipedia-2%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.geourdu.com/newsDetail.php?uID=34433">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since June 2016">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/urdu/">"BBC Urdu - صفحۂ اول"</a>. Bbc.co.uk. 1970-01-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUrdu+Wikipedia&amp;rft.btitle=BBC+Urdu+-+%D8%B5%D9%81%D8%AD%DB%82+%D8%A7%D9%88%D9%84&amp;rft.date=1970-01-01&amp;rft.genre=unknown&amp;rft.pub=Bbc.co.uk&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Furdu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Urdu_Wikipedia&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Urdu_Wikipedia" class="extiw" title="commons:Category:Urdu Wikipedia">Urdu Wikipedia</a> at Wikimedia Commons</p>
+<ul>
+<li><span class="languageicon">(in Urdu)</span> <a href="https://ur.wikipedia.org/wiki/" class="extiw" title="ur:">Urdu Wikipedia</a></li>
+<li><span class="languageicon">(in Urdu)</span> <a class="external text" href="http://ur.m.wikipedia.org/">Urdu Wikipedia mobile version</a> (homepage not yet configured)</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Wikipedia" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wikipedia" title="Template:Wikipedia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wikipedia" title="Template talk:Wikipedia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikipedia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Wikipedia" style="font-size:114%;margin:0 4em"><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Outline_of_Wikipedia" title="Outline of Wikipedia">Overview</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Censorship_of_Wikipedia" title="Censorship of Wikipedia">Censorship</a></li>
+<li><a href="/wiki/Conflict-of-interest_editing_on_Wikipedia" title="Conflict-of-interest editing on Wikipedia">Conflict-of-interest editing</a></li>
+<li><a href="/wiki/Criticism_of_Wikipedia" title="Criticism of Wikipedia">Criticism</a></li>
+<li><a href="/wiki/Deletionism_and_inclusionism_in_Wikipedia" title="Deletionism and inclusionism in Wikipedia">Deletionism and inclusionism</a></li>
+<li><a href="/wiki/Gender_bias_on_Wikipedia" title="Gender bias on Wikipedia">Gender bias</a></li>
+<li><a href="/wiki/Racial_bias_on_Wikipedia" title="Racial bias on Wikipedia">Racial bias</a></li>
+<li><a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a></li>
+<li><a href="/wiki/Notability_in_the_English_Wikipedia" title="Notability in the English Wikipedia">Notability</a></li>
+<li><a href="/wiki/Reliability_of_Wikipedia" title="Reliability of Wikipedia">Reliability</a></li>
+<li><a href="/wiki/Vandalism_on_Wikipedia" title="Vandalism on Wikipedia">Vandalism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wikipedia_community" title="Wikipedia community">Community</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia_administrators" title="Wikipedia administrators">Administrators</a></li>
+<li><a href="/wiki/Arbitration_Committee" title="Arbitration Committee">Arbitration Committee</a></li>
+<li><a href="/wiki/Edit-a-thon" title="Edit-a-thon">Edit-a-thon</a></li>
+<li><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a></li>
+<li><i><a href="/wiki/The_Signpost" title="The Signpost">The Signpost</a></i></li>
+<li><a href="/wiki/Wikipedian_in_residence" title="Wikipedian in residence">Wikipedian in residence</a></li>
+<li><a href="/wiki/Wikimania" title="Wikimania">Wikimania</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Florence_Devouard" title="Florence Devouard">Florence Devouard</a></li>
+<li><a href="/wiki/Sue_Gardner" title="Sue Gardner">Sue Gardner</a></li>
+<li><a href="/wiki/James_Heilman" title="James Heilman">James Heilman</a></li>
+<li><a href="/wiki/Katherine_Maher" title="Katherine Maher">Katherine Maher</a></li>
+<li><a href="/wiki/Magnus_Manske" title="Magnus Manske">Magnus Manske</a></li>
+<li><a href="/wiki/Erik_M%C3%B6ller" title="Erik Möller">Erik Möller</a></li>
+<li><a href="/wiki/Larry_Sanger" title="Larry Sanger">Larry Sanger</a></li>
+<li><a href="/wiki/Lila_Tretikov" title="Lila Tretikov">Lila Tretikov</a></li>
+<li><a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a></li>
+<li><a href="/wiki/Wikipedia_community" title="Wikipedia community">Wikipedians</a></li>
+<li><a href="/wiki/Wikipedian_of_the_Year" title="Wikipedian of the Year">Wikipedian of the Year</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Wikipedia" title="History of Wikipedia">History</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bomis" title="Bomis">Bomis</a></li>
+<li><a href="/wiki/Wikipedia_logo" title="Wikipedia logo">Logo</a></li>
+<li><a href="/wiki/List_of_Wikipedia_controversies" title="List of Wikipedia controversies">Controversies</a>
+<ul>
+<li><a href="/wiki/United_States_Congressional_staff_edits_to_Wikipedia" title="United States Congressional staff edits to Wikipedia">U.S. Congressional staff edits</a></li>
+<li><a href="/wiki/Essjay_controversy" title="Essjay controversy">Essjay controversy</a></li>
+<li><a href="/wiki/Wikipedia_Seigenthaler_biography_incident" title="Wikipedia Seigenthaler biography incident">Seigenthaler biography incident</a></li>
+<li><a href="/wiki/Henryk_Batuta_hoax" title="Henryk Batuta hoax">Henryk Batuta hoax</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Internet_Watch_Foundation_and_Wikipedia" title="Internet Watch Foundation and Wikipedia">Internet Watch Foundation</a></li>
+<li><a href="/wiki/Church_of_Scientology_editing_on_Wikipedia" title="Church of Scientology editing on Wikipedia">Scientology</a></li>
+<li><a href="/wiki/Italian_Wikipedia#2011_mass_blanking_protest" title="Italian Wikipedia">Italian Wikipedia blackout</a></li>
+<li><a href="/wiki/Protests_against_SOPA_and_PIPA#Wikimedia_community" title="Protests against SOPA and PIPA">English Wikipedia blackout</a></li>
+<li><a href="/wiki/Hillsborough_Wikipedia_posts" title="Hillsborough Wikipedia posts">Hillsborough Wikipedia posts</a></li>
+<li><a href="/wiki/MyWikiBiz" title="MyWikiBiz">MyWikiBiz</a></li>
+<li><a href="/wiki/Lsjbot" title="Lsjbot">Lsjbot</a></li>
+<li><a href="/wiki/VisualEditor" title="VisualEditor">VisualEditor</a></li>
+<li><a href="/wiki/Art%2BFeminism" title="Art+Feminism">Art+Feminism</a></li>
+<li><a href="/wiki/1Lib1Ref" title="1Lib1Ref">#1Lib1Ref</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Honors</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Quadriga_(award)" title="Quadriga (award)">2008 Quadriga award</a></li>
+<li><i><a href="/wiki/Wikipedia_Monument" title="Wikipedia Monument">Wikipedia Monument</a></i></li>
+<li><a href="/wiki/Erasmus_Prize" title="Erasmus Prize">2015 Erasmus Prize</a></li>
+<li><a href="/wiki/Princess_of_Asturias_Awards" title="Princess of Asturias Awards">2015 Princess of Asturias Award</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">References<br />
+and analysis</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia_in_culture" title="Wikipedia in culture">Cultural</a></li>
+<li><a href="/wiki/Bibliography_of_Wikipedia" title="Bibliography of Wikipedia">Bibliography</a></li>
+<li><a href="/wiki/List_of_films_about_Wikipedia" title="List of films about Wikipedia">Films</a></li>
+<li><a href="/wiki/Academic_studies_about_Wikipedia" title="Academic studies about Wikipedia">Academic studies</a></li>
+<li><a href="/wiki/WikiScanner" title="WikiScanner">WikiScanner</a></li>
+<li><a href="/wiki/Wikipedia_Review" title="Wikipedia Review">Wikipedia Review</a></li>
+<li><a href="/wiki/Wikipediocracy" title="Wikipediocracy">Wikipediocracy</a></li>
+<li><a href="/wiki/Wiki-Watch" title="Wiki-Watch">Wiki-Watch</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mobile access</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_Wikipedia_mobile_applications" title="List of Wikipedia mobile applications">Apps</a></li>
+<li><a href="/wiki/QRpedia" title="QRpedia">QRpedia</a></li>
+<li><a href="/wiki/Wapedia" title="Wapedia">Wapedia</a></li>
+<li><a href="/wiki/WikiNodes" title="WikiNodes">WikiNodes</a></li>
+<li><a href="/wiki/Wikipedia_Zero" title="Wikipedia Zero">Wikipedia Zero</a></li>
+<li><a href="/wiki/Wikiwand" title="Wikiwand">Wikiwand</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Content use</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Books_LLC" title="Books LLC">Books LLC</a></li>
+<li><a href="/wiki/DBpedia" title="DBpedia">DBpedia</a></li>
+<li><a href="/wiki/Deletionpedia" title="Deletionpedia">Deletionpedia</a></li>
+<li><a href="/wiki/Kiwix" title="Kiwix">Kiwix</a></li>
+<li><a href="/wiki/WikiReader" title="WikiReader">WikiReader</a></li>
+<li><a href="/wiki/Health_information_on_Wikipedia" title="Health information on Wikipedia">Health information</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Similar projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Interpedia" title="Interpedia">Interpedia</a></li>
+<li><a href="/wiki/Nupedia" title="Nupedia">Nupedia</a></li>
+<li><a href="/wiki/Citizendium" title="Citizendium">Citizendium</a></li>
+<li><a href="/wiki/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol" title="Enciclopedia Libre Universal en Español">Enciclopedia Libre Universal en Español</a></li>
+<li><a href="/wiki/Veropedia" title="Veropedia">Veropedia</a></li>
+<li><a href="/wiki/List_of_online_encyclopedias" title="List of online encyclopedias">List of online encyclopedias</a></li>
+<li><a href="/wiki/List_of_wikis" title="List of wikis">List of wikis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a></li>
+<li><a href="/wiki/Wikimedia_movement" title="Wikimedia movement">Wikimedia movement</a></li>
+<li><i><a href="/wiki/The_Iraq_War:_A_Historiography_of_Wikipedia_Changelogs" title="The Iraq War: A Historiography of Wikipedia Changelogs">The Iraq War: A Historiography of Wikipedia Changelogs</a></i></li>
+<li><a href="/wiki/Print_Wikipedia" title="Print Wikipedia">Print Wikipedia</a></li>
+<li><i><a href="/wiki/Magna_Carta_(An_Embroidery)" title="Magna Carta (An Embroidery)">Magna Carta (An Embroidery)</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Wikipedia" title="Category:Wikipedia">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="List_of_Wikipedias_by_article_count" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wikipedias" title="Template:Wikipedias"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wikipedias" title="Template talk:Wikipedias"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikipedias&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="List_of_Wikipedias_by_article_count" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a> by article count</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">5,000,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/English_Wikipedia" title="English Wikipedia">English</a></li>
+<li><a href="/wiki/Cebuano_Wikipedia" class="mw-redirect" title="Cebuano Wikipedia">Cebuano</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2,000,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Swedish_Wikipedia" title="Swedish Wikipedia">Swedish</a></li>
+<li><a href="/wiki/German_Wikipedia" title="German Wikipedia">German</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dutch_Wikipedia" title="Dutch Wikipedia">Dutch</a></li>
+<li><a href="/wiki/French_Wikipedia" title="French Wikipedia">French</a></li>
+<li><a href="/wiki/Russian_Wikipedia" title="Russian Wikipedia">Russian</a></li>
+<li><a href="/wiki/Italian_Wikipedia" title="Italian Wikipedia">Italian</a></li>
+<li><a href="/wiki/Spanish_Wikipedia" title="Spanish Wikipedia">Spanish</a></li>
+<li><a href="/wiki/Waray_Wikipedia" title="Waray Wikipedia">Waray</a></li>
+<li><a href="/wiki/Polish_Wikipedia" title="Polish Wikipedia">Polish</a></li>
+<li><a href="/wiki/Vietnamese_Wikipedia" title="Vietnamese Wikipedia">Vietnamese</a></li>
+<li><a href="/wiki/Japanese_Wikipedia" title="Japanese Wikipedia">Japanese</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Portuguese_Wikipedia" title="Portuguese Wikipedia">Portuguese</a></li>
+<li><a href="/wiki/Chinese_Wikipedia" title="Chinese Wikipedia">Chinese</a></li>
+<li><a href="/wiki/Ukrainian_Wikipedia" title="Ukrainian Wikipedia">Ukrainian</a></li>
+<li><a href="/wiki/Persian_Wikipedia" title="Persian Wikipedia">Persian</a></li>
+<li><a href="/wiki/Catalan_Wikipedia" title="Catalan Wikipedia">Catalan</a></li>
+<li><a href="/wiki/Arabic_Wikipedia" title="Arabic Wikipedia">Arabic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Norwegian_Wikipedia" title="Norwegian Wikipedia">Norwegian (bokmål/riksmål)</a></li>
+<li><a href="/wiki/Serbo-Croatian_Wikipedia" title="Serbo-Croatian Wikipedia">Serbo-Croatian</a></li>
+<li><a href="/wiki/Finnish_Wikipedia" title="Finnish Wikipedia">Finnish</a></li>
+<li><a href="/wiki/Hungarian_Wikipedia" title="Hungarian Wikipedia">Hungarian</a></li>
+<li><a href="/wiki/Indonesian_Wikipedia" title="Indonesian Wikipedia">Indonesian</a></li>
+<li><a href="/wiki/Korean_Wikipedia" title="Korean Wikipedia">Korean</a></li>
+<li><a href="/wiki/Czech_Wikipedia" title="Czech Wikipedia">Czech</a></li>
+<li><a href="/wiki/Romanian_Wikipedia" title="Romanian Wikipedia">Romanian</a></li>
+<li><a href="/wiki/Serbian_Wikipedia" title="Serbian Wikipedia">Serbian</a></li>
+<li><a href="/wiki/Malay_Wikipedia" title="Malay Wikipedia">Malay</a></li>
+<li><a href="/wiki/Turkish_Wikipedia" title="Turkish Wikipedia">Turkish</a></li>
+<li><a href="/wiki/Basque_Wikipedia" title="Basque Wikipedia">Basque</a></li>
+<li><a href="/wiki/Esperanto_Wikipedia" title="Esperanto Wikipedia">Esperanto</a></li>
+<li><a href="/wiki/Bulgarian_Wikipedia" title="Bulgarian Wikipedia">Bulgarian</a></li>
+<li><a href="/wiki/Danish_Wikipedia" title="Danish Wikipedia">Danish</a></li>
+<li><a href="/wiki/Armenian_Wikipedia" title="Armenian Wikipedia">Armenian</a></li>
+<li><a href="/wiki/Slovak_Wikipedia" title="Slovak Wikipedia">Slovak</a></li>
+<li><a href="/wiki/Minangkabau_Wikipedia" class="mw-redirect" title="Minangkabau Wikipedia">Minangkabau</a></li>
+<li><a href="/wiki/Min_Nan_Wikipedia" class="mw-redirect" title="Min Nan Wikipedia">Min Nan</a></li>
+<li><a href="/wiki/Kazakh_Wikipedia" title="Kazakh Wikipedia">Kazakh</a></li>
+<li><a href="/wiki/Hebrew_Wikipedia" title="Hebrew Wikipedia">Hebrew</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lithuanian_Wikipedia" title="Lithuanian Wikipedia">Lithuanian</a></li>
+<li><a href="/wiki/Croatian_Wikipedia" title="Croatian Wikipedia">Croatian</a></li>
+<li><a href="/wiki/Chechen_Wikipedia" class="mw-redirect" title="Chechen Wikipedia">Chechen</a></li>
+<li><a href="/wiki/Estonian_Wikipedia" title="Estonian Wikipedia">Estonian</a></li>
+<li><a href="/wiki/Slovene_Wikipedia" title="Slovene Wikipedia">Slovene</a></li>
+<li><a href="/wiki/Belarusian_Wikipedia" title="Belarusian Wikipedia">Belarusian</a></li>
+<li><a href="/wiki/Galician_Wikipedia" title="Galician Wikipedia">Galician</a></li>
+<li><a href="/wiki/Greek_Wikipedia" title="Greek Wikipedia">Greek</a></li>
+<li><a href="/wiki/Norwegian_Wikipedia" title="Norwegian Wikipedia">Norwegian (nynorsk)</a></li>
+<li><a href="/wiki/Uzbek_Wikipedia" title="Uzbek Wikipedia">Uzbek</a></li>
+<li><a href="/wiki/Simple_English_Wikipedia" title="Simple English Wikipedia">Simple English</a></li>
+<li><a href="/wiki/Latin_Wikipedia" title="Latin Wikipedia">Latin</a></li>
+<li><a href="/wiki/Azerbaijani_Wikipedia" title="Azerbaijani Wikipedia">Azerbaijani</a></li>
+<li><a class="mw-selflink selflink">Urdu</a></li>
+<li><a href="/wiki/Hindi_Wikipedia" title="Hindi Wikipedia">Hindi</a></li>
+<li><a href="/wiki/Volap%C3%BCk_Wikipedia" class="mw-redirect" title="Volapük Wikipedia">Volapük</a></li>
+<li><a href="/wiki/Thai_Wikipedia" title="Thai Wikipedia">Thai</a></li>
+<li><a href="/wiki/Georgian_Wikipedia" title="Georgian Wikipedia">Georgian</a></li>
+<li><a href="/wiki/Tamil_Wikipedia" title="Tamil Wikipedia">Tamil</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">50,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Welsh_Wikipedia" title="Welsh Wikipedia">Welsh</a></li>
+<li><a href="/wiki/Macedonian_Wikipedia" title="Macedonian Wikipedia">Macedonian</a></li>
+<li><a href="/wiki/Occitan_Wikipedia" title="Occitan Wikipedia">Occitan</a></li>
+<li><a href="/wiki/Malagasy_Wikipedia" title="Malagasy Wikipedia">Malagasy</a></li>
+<li><a href="/wiki/Latvian_Wikipedia" title="Latvian Wikipedia">Latvian</a></li>
+<li><a href="/wiki/Bosnian_Wikipedia" title="Bosnian Wikipedia">Bosnian</a></li>
+<li><a href="/wiki/Tagalog_Wikipedia" title="Tagalog Wikipedia">Tagalog</a></li>
+<li><a href="/wiki/Kyrgyz_Wikipedia" title="Kyrgyz Wikipedia">Kirghiz</a></li>
+<li><a href="/wiki/Nepal_Bhasa_Wikipedia" title="Nepal Bhasa Wikipedia">Newar</a></li>
+<li><a href="/wiki/Tatar_Wikipedia" title="Tatar Wikipedia">Tatar</a></li>
+<li><a href="/wiki/Tajik_Wikipedia" class="mw-redirect" title="Tajik Wikipedia">Tajik</a></li>
+<li><a href="/wiki/Telugu_Wikipedia" title="Telugu Wikipedia">Telugu</a></li>
+<li><a href="/wiki/Albanian_Wikipedia" title="Albanian Wikipedia">Albanian</a></li>
+<li><a href="/wiki/Piedmontese_Wikipedia" class="mw-redirect" title="Piedmontese Wikipedia">Piedmontese</a></li>
+<li><a href="/wiki/Breton_Wikipedia" title="Breton Wikipedia">Breton</a></li>
+<li><a href="/wiki/Belarusian_(Tara%C5%A1kievica)_Wikipedia" class="mw-redirect" title="Belarusian (Taraškievica) Wikipedia">Belarusian (Taraškievica)</a></li>
+<li><a href="/wiki/Cantonese_Wikipedia" title="Cantonese Wikipedia">Cantonese</a></li>
+<li><a href="/wiki/Malayalam_Wikipedia" title="Malayalam Wikipedia">Malayalam</a></li>
+<li><a href="/wiki/Bengali_Wikipedia" title="Bengali Wikipedia">Bengali</a></li>
+<li><a href="/wiki/Haitian_Creole_Wikipedia" class="mw-redirect" title="Haitian Creole Wikipedia">Haitian</a></li>
+<li><a href="/wiki/Javanese_Wikipedia" title="Javanese Wikipedia">Javanese</a></li>
+<li><a href="/wiki/Asturian_Wikipedia" title="Asturian Wikipedia">Asturian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">20,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Luxembourgish_Wikipedia" title="Luxembourgish Wikipedia">Luxembourgish</a></li>
+<li><a href="/wiki/Marathi_Wikipedia" title="Marathi Wikipedia">Marathi</a></li>
+<li><a href="/wiki/Afrikaans_Wikipedia" title="Afrikaans Wikipedia">Afrikaans</a></li>
+<li><a href="/wiki/Scots_Wikipedia" title="Scots Wikipedia">Scots</a></li>
+<li><a href="/wiki/Western_Punjabi_Wikipedia" class="mw-redirect" title="Western Punjabi Wikipedia">Western Punjabi</a></li>
+<li><a href="/wiki/Icelandic_Wikipedia" class="mw-redirect" title="Icelandic Wikipedia">Icelandic</a></li>
+<li><a href="/wiki/Irish_Wikipedia" title="Irish Wikipedia">Irish</a></li>
+<li><a href="/wiki/Chuvash_Wikipedia" title="Chuvash Wikipedia">Chuvash</a></li>
+<li><a href="/wiki/West_Frisian_Wikipedia" title="West Frisian Wikipedia">West Frisian</a></li>
+<li><a href="/wiki/Sundanese_Wikipedia" class="mw-redirect" title="Sundanese Wikipedia">Sundanese</a></li>
+<li><a href="/wiki/Swahili_Wikipedia" title="Swahili Wikipedia">Swahili</a></li>
+<li><a href="/wiki/Burmese_Wikipedia" title="Burmese Wikipedia">Burmese</a></li>
+<li><a href="/wiki/Aragonese_Wikipedia" title="Aragonese Wikipedia">Aragonese</a></li>
+<li><a href="/wiki/Yoruba_Wikipedia" title="Yoruba Wikipedia">Yoruba</a></li>
+<li><a href="/wiki/Ido_Wikipedia" class="mw-redirect" title="Ido Wikipedia">Ido</a></li>
+<li><a href="/wiki/Punjabi_Wikipedia" title="Punjabi Wikipedia">Punjabi</a></li>
+<li><a href="/wiki/Sicilian_Wikipedia" title="Sicilian Wikipedia">Sicilian</a></li>
+<li><a href="/wiki/Bishnupriya_Manipuri_Wikipedia" class="mw-redirect" title="Bishnupriya Manipuri Wikipedia">Bishnupriya Manipuri</a></li>
+<li><a href="/wiki/Alemannic_Wikipedia" title="Alemannic Wikipedia">Alemannic</a></li>
+<li><a href="/wiki/Kannada_Wikipedia" title="Kannada Wikipedia">Kannada</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">10,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mongolian_Wikipedia" title="Mongolian Wikipedia">Mongolian</a></li>
+<li><a href="/wiki/Egyptian_Arabic_Wikipedia" title="Egyptian Arabic Wikipedia">Egyptian Arabic</a></li>
+<li><a href="/wiki/Samogitian_Wikipedia" title="Samogitian Wikipedia">Samogitian</a></li>
+<li><a href="/wiki/Yiddish_Wikipedia" title="Yiddish Wikipedia">Yiddish</a></li>
+<li><a href="/wiki/Odia_Wikipedia" title="Odia Wikipedia">Odia</a></li>
+<li><a href="/wiki/Sanskrit_Wikipedia" title="Sanskrit Wikipedia">Sanskrit</a></li>
+<li><a href="/wiki/Mengrelian_Wikipedia" class="mw-redirect" title="Mengrelian Wikipedia">Mengrelian</a></li>
+<li><a href="/wiki/Ossetian_Wikipedia" title="Ossetian Wikipedia">Ossetian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pashto_Wikipedia" title="Pashto Wikipedia">Pashto</a></li>
+<li><a href="/wiki/Sindhi_Wikipedia" title="Sindhi Wikipedia">Sindhi</a></li>
+<li><a href="/wiki/Northern_Sami_Wikipedia" title="Northern Sami Wikipedia">Northern Sami</a></li>
+<li><a href="/wiki/Dutch_Low_Saxon_Wikipedia" title="Dutch Low Saxon Wikipedia">Dutch Low Saxon</a></li>
+<li><a href="/wiki/Classical_Chinese_Wikipedia" class="mw-redirect" title="Classical Chinese Wikipedia">Classical Chinese</a></li>
+<li><a href="/wiki/Silesian_Wikipedia" title="Silesian Wikipedia">Silesian</a></li>
+<li><a href="/wiki/Crimean_Tatar_Wikipedia" title="Crimean Tatar Wikipedia">Crimean Tatar</a></li>
+<li><a href="/wiki/Assamese_Wikipedia" title="Assamese Wikipedia">Assamese</a></li>
+<li><a href="/wiki/Konkani_Wikipedia" title="Konkani Wikipedia">Konkani</a></li>
+<li><a href="/wiki/Uyghur_Wikipedia" title="Uyghur Wikipedia">Uyghur</a></li>
+<li><a href="/wiki/Ripuarian_Wikipedia" title="Ripuarian Wikipedia">Ripuarian</a></li>
+<li><a href="/wiki/Aramaic_Wikipedia" class="mw-redirect" title="Aramaic Wikipedia">Aramaic</a></li>
+<li><a href="/wiki/Wolof_Wikipedia" title="Wolof Wikipedia">Wolof</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zulu_Wikipedia" title="Zulu Wikipedia">Zulu</a></li>
+<li><a href="/wiki/Tulu_Wikipedia" title="Tulu Wikipedia">Tulu</a></li>
+<li><a href="/wiki/Xhosa_Wikipedia" title="Xhosa Wikipedia">Xhosa</a></li>
+<li><a href="/wiki/Bambara_Wikipedia" title="Bambara Wikipedia">Bambara</a></li>
+<li><a href="/wiki/Venda_Wikipedia" class="mw-redirect" title="Venda Wikipedia">Venda</a></li>
+<li><a href="/wiki/Cree_Wikipedia" class="mw-redirect" title="Cree Wikipedia">Cree</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1256
+Cached time: 20170918104332
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.232 seconds
+Real time usage: 0.315 seconds
+Preprocessor visited node count: 1415/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 65202/2097152 bytes
+Template argument size: 3546/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 4/500
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 3.38 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  255.528      1 -total
+ 27.83%   71.106      1 Template:Infobox_website
+ 26.66%   68.117      1 Template:Reflist
+ 25.08%   64.085      1 Template:Infobox
+ 17.78%   45.433      2 Template:Cite_news
+ 12.74%   32.550      6 Template:Category_handler
+ 11.20%   28.622      1 Template:Cn
+ 10.95%   27.993      1 Template:Lang-ur
+ 10.93%   27.940      2 Template:Fix
+ 10.36%   26.471      1 Template:Language_with_name_and_transliteration
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3237838-0!canonical and timestamp 20170918104332 and revision id 801087390
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Urdu_Wikipedia&amp;oldid=801087390">https://en.wikipedia.org/w/index.php?title=Urdu_Wikipedia&amp;oldid=801087390</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedias_by_language" title="Category:Wikipedias by language">Wikipedias by language</a></li><li><a href="/wiki/Category:Internet_properties_established_in_2004" title="Category:Internet properties established in 2004">Internet properties established in 2004</a></li><li><a href="/wiki/Category:Urdu_encyclopedias" title="Category:Urdu encyclopedias">Urdu encyclopedias</a></li><li><a href="/wiki/Category:Urdu-language_websites" title="Category:Urdu-language websites">Urdu-language websites</a></li><li><a href="/wiki/Category:Online_encyclopedias" title="Category:Online encyclopedias">Online encyclopedias</a></li><li><a href="/wiki/Category:21st-century_encyclopedias" title="Category:21st-century encyclopedias">21st-century encyclopedias</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Urdu-language_sources_(ur)" title="Category:CS1 Urdu-language sources (ur)">CS1 Urdu-language sources (ur)</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_June_2016" title="Category:Articles with dead external links from June 2016">Articles with dead external links from June 2016</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_Urdu-language_text" title="Category:Articles containing Urdu-language text">Articles containing Urdu-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2016" title="Category:Articles with unsourced statements from April 2016">Articles with unsourced statements from April 2016</a></li><li><a href="/wiki/Category:Articles_with_Urdu-language_external_links" title="Category:Articles with Urdu-language external links">Articles with Urdu-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Urdu+Wikipedia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Urdu+Wikipedia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Urdu_Wikipedia" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Urdu_Wikipedia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Urdu_Wikipedia">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Urdu_Wikipedia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Urdu_Wikipedia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Urdu_Wikipedia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Urdu_Wikipedia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Urdu_Wikipedia&amp;oldid=801087390" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Urdu_Wikipedia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1067878" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Urdu_Wikipedia&amp;id=801087390" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Urdu+Wikipedia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Urdu+Wikipedia&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DUrdu%2BWikipedia%26returnto%3DUrdu%2BWikipedia%26oldid%3D801087390%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Urdu_Wikipedia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Urdu_Wikipedia" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Oerdoe_Wikipedia" title="Oerdoe Wikipedia – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%8A%D8%A9" title="ويكيبيديا الأردية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%89%E0%A7%B0%E0%A7%8D%E0%A6%A6%E0%A7%81_%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="উৰ্দু ৱিকিপিডিয়া – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%81_%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="উর্দু উইকিপিডিয়া – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%8B%D1%8F_%D0%BD%D0%B0_%D1%83%D1%80%D0%B4%D1%83" title="Вікіпедыя на урду – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%83%D1%80%D0%B4%D1%83" title="Уикипедия на урду – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Urdsk%C3%A1_Wikipedie" title="Urdská Wikipedie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikipedia_en_urdu" title="Wikipedia en urdu – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Urdulingva_Vikipedio" title="Urdulingva Vikipedio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Urduzko_Wikipedia" title="Urduzko Wikipedia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7%DB%8C_%D8%A7%D8%B1%D8%AF%D9%88" title="ویکی‌پدیای اردو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia_en_ourdou" title="Wikipédia en ourdou – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%A5%B4%EB%91%90%EC%96%B4_%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC" title="우르두어 위키백과 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%89%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%82_%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="उर्दू विकिपीडिया – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikipedia_bahasa_Urdu" title="Wikipedia bahasa Urdu – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Wikipedia_in_urdu" title="Wikipedia in urdu – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A3%E1%83%A0%E1%83%93%E1%83%A3_%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90" title="ურდუ ვიკიპედია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C_%D9%BE%D8%AF%DB%8C%D8%A7_%D8%A7%D8%B1%D8%AF%D9%88" title="ویکی پدیا اردو – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wikipedia_Bahasa_Urdu" title="Wikipedia Bahasa Urdu – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%89%E0%A8%B0%E0%A8%A6%E0%A9%82_%E0%A8%B5%E0%A8%BF%E0%A8%95%E0%A9%80%E0%A8%AA%E0%A9%80%E0%A8%A1%E0%A9%80%E0%A8%86" title="ਉਰਦੂ ਵਿਕੀਪੀਡੀਆ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%A7%D9%88%D8%B1%D8%AF%D9%88_%D9%88%D9%8A%DA%A9%D9%8A%D9%BE%DB%90%DA%89%D9%8A%D8%A7" title="اوردو ويکيپېډيا – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wikipedia_w_j%C4%99zyku_urdu" title="Wikipedia w języku urdu – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia_em_urdu" title="Wikipédia em urdu – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Urdu_Wikipedia" title="Urdu Wikipedia – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D9%88_%D9%88%DA%AA%D9%8A%D9%BE%D9%8A%DA%8A%D9%8A%D8%A7" title="اردو وڪيپيڊيا – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D1%83%D1%80%D0%B4%D1%83_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA%D1%83" title="Википедија на урду језику – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D1%83%D1%80%D0%B4%D1%83_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA%D1%83" title="Википедија на урду језику – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Wikipedia:Urdunkielinen_Wikipedia" title="Wikipedia:Urdunkielinen Wikipedia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wikipediang_Urdu" title="Wikipediang Urdu – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%81_%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE" title="உருது விக்கிப்பீடியா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A3%D1%80%D0%B4%D1%83_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D0%B5" title="Урду Википедиясе – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B9%E0%B8%A3%E0%B8%94%E0%B8%B9" title="วิกิพีเดียภาษาอูรดู – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Urduca_Vikipedi" title="Urduca Vikipedi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F_%D0%BC%D0%BE%D0%B2%D0%BE%D1%8E_%D1%83%D1%80%D0%B4%D1%83" title="Вікіпедія мовою урду – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D9%88_%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%DA%88%DB%8C%D8%A7" title="اردو ویکیپیڈیا – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%83%8F%E7%88%BE%E9%83%BD%E6%96%87%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" title="烏爾都文維基百科 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%B9%8C%E5%B0%94%E9%83%BD%E8%AF%AD%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91" title="乌尔都语维基百科 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1067878#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 17 September 2017, at 15:54.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Urdu_Wikipedia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.232","walltime":"0.315","ppvisitednodes":{"value":1415,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":65202,"limit":2097152},"templateargumentsize":{"value":3546,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  255.528      1 -total"," 27.83%   71.106      1 Template:Infobox_website"," 26.66%   68.117      1 Template:Reflist"," 25.08%   64.085      1 Template:Infobox"," 17.78%   45.433      2 Template:Cite_news"," 12.74%   32.550      6 Template:Category_handler"," 11.20%   28.622      1 Template:Cn"," 10.95%   27.993      1 Template:Lang-ur"," 10.93%   27.940      2 Template:Fix"," 10.36%   26.471      1 Template:Language_with_name_and_transliteration"]},"scribunto":{"limitreport-timeusage":{"value":"0.094","limit":"10.000"},"limitreport-memusage":{"value":3540695,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20170918104332","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1212"});});</script>
+	</body>
+</html>

@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia:Modelling Wikipedia's growth - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Modelling_Wikipedia's_growth","wgTitle":"Modelling Wikipedia's growth","wgCurRevisionId":799189981,"wgRevisionId":799189981,"wgArticleId":244139,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia statistics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:Modelling_Wikipedia's_growth","wgRelevantArticleId":244139,"wgRequestId":"WcZ1agpAAD4AAHeK8ewAAAEA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikipedia:Modelling_Wikipedia%27s_growth"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_Modelling_Wikipedia_s_growth rootpage-Wikipedia_Modelling_Wikipedia_s_growth skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Wikipedia:Modelling Wikipedia's growth</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:Wikipedia_article_size_in_gigabytes.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wikipedia_article_size_in_gigabytes.png/350px-Wikipedia_article_size_in_gigabytes.png" width="350" height="308" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wikipedia_article_size_in_gigabytes.png/525px-Wikipedia_article_size_in_gigabytes.png 1.5x, //upload.wikimedia.org/wikipedia/commons/2/29/Wikipedia_article_size_in_gigabytes.png 2x" data-file-width="657" data-file-height="578" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Wikipedia_article_size_in_gigabytes.png" class="internal" title="Enlarge"></a></div>
+Total article text in English Wikipedia, measured in gigabytes (compressed)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:Enwikipediagrowthcomparison.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Enwikipediagrowthcomparison.PNG/350px-Enwikipediagrowthcomparison.PNG" width="350" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Enwikipediagrowthcomparison.PNG/525px-Enwikipediagrowthcomparison.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Enwikipediagrowthcomparison.PNG/700px-Enwikipediagrowthcomparison.PNG 2x" data-file-width="964" data-file-height="437" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Enwikipediagrowthcomparison.PNG" class="internal" title="Enlarge"></a></div>
+Growth in new articles against predictions by Gompertz model, logistic model and extended growth model</div>
+</div>
+</div>
+<div style="position:relative;top:-3em"><span id="WP:GROWTH"></span></div>
+<div class="shortcutbox plainlist noprint" role="note" style="float:right;border:1px solid #aaa;background:#fff;margin:.3em .3em .3em 1em;padding:.4em .6em;text-align:center;font-size:smaller;line-height:2em;font-weight:bold"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>:
+<ul>
+<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:GROWTH&amp;redirect=no">WP:GROWTH</a></span></li>
+</ul>
+</div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Wikipedia:Statistics" title="Wikipedia:Statistics">WikiStats</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:P_cartesian_graph.svg" class="image"><img alt="P cartesian graph.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/P_cartesian_graph.svg/50px-P_cartesian_graph.svg.png" width="50" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/P_cartesian_graph.svg/75px-P_cartesian_graph.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/P_cartesian_graph.svg/100px-P_cartesian_graph.svg.png 2x" data-file-width="400" data-file-height="360" /></a></td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: #d0d0d0;">Main</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Wikipedia:Statistics" title="Wikipedia:Statistics">General info</a></li>
+<li><a href="/wiki/Special:Statistics" title="Special:Statistics">Status statistics</a></li>
+<li><a href="/wiki/Wikipedia:Statistics_Department" title="Wikipedia:Statistics Department">WikiStats project</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_edit_counters" title="Wikipedia:WikiProject edit counters">WikiProject edit counters</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: #d0d0d0;">General statistics</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Wikipedia:Awareness_statistics" title="Wikipedia:Awareness statistics">Awareness</a></li>
+<li><a href="/wiki/Wikipedia:Editor_statistics" class="mw-redirect" title="Wikipedia:Editor statistics">Editors</a></li>
+<li><a href="/wiki/Wikipedia:Size_of_Wikipedia" title="Wikipedia:Size of Wikipedia">Total size</a></li>
+<li><a href="/wiki/Wikipedia:Size_comparisons" title="Wikipedia:Size comparisons">Size comparisons</a></li>
+<li><a class="mw-selflink selflink">Growth</a></li>
+<li><a href="/wiki/Wikipedia:Wikipedia_records" title="Wikipedia:Wikipedia records">Records</a></li>
+<li><a href="/wiki/Wikipedia:Does_Wikipedia_traffic_obey_Zipf%27s_law%3F" title="Wikipedia:Does Wikipedia traffic obey Zipf's law?">Zipf's law comparison</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background-color: #d0d0d0;">Breakdowns</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Wikipedia:List_of_Wikipedians_by_number_of_edits" title="Wikipedia:List of Wikipedians by number of edits">Editors by number of edits</a></li>
+<li><a href="/wiki/Wikipedia:List_of_Wikipedians_by_article_count" title="Wikipedia:List of Wikipedians by article count">Editors by article count</a></li>
+<li><a href="/wiki/Wikipedia:Time_Between_Edits" title="Wikipedia:Time Between Edits">Time between edits</a></li>
+<li><a href="/wiki/User:JamesR/AdminStats" title="User:JamesR/AdminStats">Administrator actions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wikistats" title="Template:Wikistats"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Wikistats&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Wikistats (page does not exist)"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikistats&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>This page analyzes the article count data in <a href="/wiki/Wikipedia:Size_of_Wikipedia" title="Wikipedia:Size of Wikipedia">Wikipedia:Size of Wikipedia</a> and attempts to fit a simple <a href="/wiki/Computer_simulation" title="Computer simulation">numerical model</a> of past and future growth to the observed article count size and growth data.</p>
+<p>The rate of new articles initiated within the English Wikipedia grew exponentially until around 2007, though this is no longer the case. The rate of article creation is declining very slowly from its then-peak of around 50,000 new articles created per month. The two most credible growth models for the whole life of Wikipedia are a <a href="/wiki/Gompertz_function" title="Gompertz function">Gompertz function</a> model which predicts that article creation will eventually asymptotically approach zero, and a modified Gompertz model (see below) which predicts that growth will continue indefinitely, but at a significantly lower rate than in the early days of Wikipedia. As of September 23, 2017 there are 5,482,104 articles.</p>
+<p>On the other hand, the total amount of text in Wikipedia articles has been increasing essentially linearly, and the growth rate is essentially unchanged since 2006. This implies not that contribution to Wikipedia is fading over time, but that relatively more of the work done is on expanding existing articles or even merging articles that are similar in scope rather than creating new ones.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Growth_of_the_article_count"><span class="tocnumber">1</span> <span class="toctext">Growth of the article count</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Old_exponential_model_for_article_count_of_Wikipedia"><span class="tocnumber">1.1</span> <span class="toctext">Old exponential model for article count of Wikipedia</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Critique_of_the_exponential_model"><span class="tocnumber">1.2</span> <span class="toctext">Critique of the exponential model</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Quadratic_model_for_article_count_of_Wikipedia"><span class="tocnumber">1.3</span> <span class="toctext">Quadratic model for article count of Wikipedia</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Extended-growth_model"><span class="tocnumber">1.4</span> <span class="toctext">Extended-growth model</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Two-phase_exponential_model"><span class="tocnumber">1.5</span> <span class="toctext">Two-phase exponential model</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Seasonal_modulation_since_2006"><span class="tocnumber">1.5.1</span> <span class="toctext">Seasonal modulation since 2006</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Implications"><span class="tocnumber">1.5.2</span> <span class="toctext">Implications</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Further_info"><span class="tocnumber">1.5.3</span> <span class="toctext">Further info</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Gompertz_model_.282010.E2.80.93.29"><span class="tocnumber">1.6</span> <span class="toctext">Gompertz model (2010–)</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Modified_Gompertz_model"><span class="tocnumber">1.7</span> <span class="toctext">Modified Gompertz model</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Data_set_for_number_of_articles"><span class="tocnumber">2</span> <span class="toctext">Data set for number of articles</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Other_measurements_of_article_growth"><span class="tocnumber">3</span> <span class="toctext">Other measurements of article growth</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Edits_per_article"><span class="tocnumber">3.1</span> <span class="toctext">Edits per article</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Modelling_growth_of_Wikipedia_page_views_per_million"><span class="tocnumber">3.2</span> <span class="toctext">Modelling growth of Wikipedia page views per million</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Modelling_improvement_in_Wikipedia.27s_Alexa_traffic_rank"><span class="tocnumber">3.3</span> <span class="toctext">Modelling improvement in Wikipedia's Alexa traffic rank</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Growth_of_Wikipedia_network"><span class="tocnumber">4</span> <span class="toctext">Growth of Wikipedia network</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Growth_of_the_article_count">Growth of the article count</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=1" title="Edit section: Growth of the article count">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following graph shows the number of articles on the English Wikipedia from its creation in 2001 up to the present.</p>
+<p><a href="/wiki/File:EnwikipediaArt.PNG" class="image"><img alt="EnwikipediaArt.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/EnwikipediaArt.PNG/400px-EnwikipediaArt.PNG" width="400" height="286" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/EnwikipediaArt.PNG/600px-EnwikipediaArt.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/2/26/EnwikipediaArt.PNG 2x" data-file-width="760" data-file-height="544" /></a></p>
+<p>Here, several models are presented to attempt to explain the observed general trends in article growth.</p>
+<h3><span class="mw-headline" id="Old_exponential_model_for_article_count_of_Wikipedia">Old exponential model for article count of Wikipedia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=2" title="Edit section: Old exponential model for article count of Wikipedia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd><i>Note: Between 2003 and 2006/2007 this was the general model for article count of Wikipedia.</i></dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<p>Graphs of the article count for the English Wikipedia, from January 10, 2001, to September 9, 2007, based on statistics from this page and <a href="/wiki/Wikipedia:Announcements" class="mw-redirect" title="Wikipedia:Announcements">Wikipedia:Announcements</a>. The two graphs show both logarithmic and linear y-axes. The graphs also show the approximate rate of article increase per day, along with the projected number of articles based on annual doubling referenced to January 1, 2003.</p>
+<p><a href="/wiki/File:EnglishWikipediaArticleCountGraphs.png" class="image"><img alt="EnglishWikipediaArticleCountGraphs.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/EnglishWikipediaArticleCountGraphs.png" width="720" height="720" data-file-width="720" data-file-height="720" /></a></p>
+<p>The growth in articles had been approximately 100% per year from 2003 through most of 2006, but has tailed off since roughly September 2006. The trend is no longer one of <a href="/wiki/Exponential_growth" title="Exponential growth">exponential growth</a>, but has been closer to linear since that time.</p>
+<p><b>Notes</b></p>
+<p>A few notes on features of the graph:</p>
+<ul>
+<li>The start of the project showed a slow rise, which slowly increased in speed with time.</li>
+<li>The big slowdown in the rate of article creation in June–July 2002 was caused by major server performance problems, remedied by extensive work on the software.</li>
+<li>The sudden jump in article count in October 2002 is due to roughly 30,000 stub articles on U.S. towns and cities generated from a database being added by an auto-posting robot, <a href="/wiki/User:Rambot" title="User:Rambot">Rambot</a>, during an eight-day period. Although initially controversial as to whether these were "real" encyclopedia articles or merely "stubs", most of the Rambot articles have since been substantially expanded.</li>
+<li>Not counting the Rambot operation, the true maximum rate of article creation was in August 2006, when about 2400 net new articles were being added each day. From September 2006 through May 2007, the article count has increased by an average of about 1670 articles per day.</li>
+<li>During the first half of May 2007, the article growth rate dropped below 1500 articles per day, the lowest rate since October 2005. The growth rate has since rebounded to about 2000 articles per day from late July through early September 2007.</li>
+</ul>
+<h3><span class="mw-headline" id="Critique_of_the_exponential_model">Critique of the exponential model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=3" title="Edit section: Critique of the exponential model">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd><i>Note: This was developed from 2004 to 2006.</i></dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<div class="floatright"><a href="/wiki/File:WPlogsize.png" class="image"><img alt="WPlogsize.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/WPlogsize.png/400px-WPlogsize.png" width="400" height="255" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/WPlogsize.png/600px-WPlogsize.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/WPlogsize.png/800px-WPlogsize.png 2x" data-file-width="811" data-file-height="518" /></a></div>
+<p>The exponential model of Wikipedia growth is based on the following:</p>
+<ul>
+<li>more content leads to more traffic</li>
+<li>which leads to more edits</li>
+<li>which generate more content</li>
+</ul>
+<p>Moreover, the average rate of growth is assumed to be proportional to the size of the Wikipedia, as a consequence of which, the growth would be <a href="/wiki/Exponential_growth" title="Exponential growth">exponential</a>.</p>
+<p>The graph of article count on the right is plotted on a logarithmic scale, so exponential growth should manifest itself as linear behavior of the data. Between October 2002 and July 2006, the data do fit very well along the dotted line shown, while from July 2006 onwards there is a noticeable fall off from linear behaviour. Before October 2002, the behaviour is more complex.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:Number_of_articles_reg_01.jpg" class="image"><img alt="Number of articles reg 01.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Number_of_articles_reg_01.jpg/400px-Number_of_articles_reg_01.jpg" width="400" height="247" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Number_of_articles_reg_01.jpg/600px-Number_of_articles_reg_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Number_of_articles_reg_01.jpg/800px-Number_of_articles_reg_01.jpg 2x" data-file-width="972" data-file-height="601" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Number_of_articles_reg_01.jpg" class="internal" title="Enlarge"></a></div>
+</div>
+</div>
+</div>
+<p>The graph on the right below is a close-up of the data points that follow a linear trend: the best-fit line in red was computed using <a href="/wiki/Linear_regression" title="Linear regression">linear regression</a>. From the slope of this best-fit line, the proper time of the exponential growth can be found, giving:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>N</mi>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+        <mtext>&#xA0;</mtext>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>/</mo>
+            </mrow>
+            <mi>&#x03C4;<!-- τ --></mi>
+          </mrow>
+        </msup>
+        <mo>;</mo>
+        <mspace width="1em" />
+        <mi>&#x03C4;<!-- τ --></mi>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mn>500</mn>
+        <mtext>&#xA0;</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">a</mi>
+          <mi mathvariant="normal">y</mi>
+          <mi mathvariant="normal">s</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N(t)=N(0)\ e^{t/\tau };\quad \tau \approx 500\ \mathrm {days} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/84564fb0b769a576a9acbcefc7043d0f16e51e52" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:33.563ex; height:3.343ex;" alt="N(t)=N(0)\ e^{{t/\tau }};\quad \tau \approx 500\ {\mathrm  {days}}" /></span></dd>
+</dl>
+<p>The previous expression means that the number of articles doubled once every 346 days from October 2002 to October 2006, to a very good approximation. If Wikipedia had kept up with this trend, as shown on the graph, the number of articles by December 2006 would have been 1,900,000, by June 2007 2,800,000 and by December 2007 4,000,000, although there has been a slowdown of the growth and Wikipedia has apparently ceased growing exponentially.</p>
+<div class="floatright"><a href="/wiki/File:Wikigrow.png" class="image" title="Wikipedia growth and predictions from July 2006 to December 2008"><img alt="Wikipedia growth and predictions from July 2006 to December 2008" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wikigrow.png/400px-Wikigrow.png" width="400" height="289" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wikigrow.png/600px-Wikigrow.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wikigrow.png/800px-Wikigrow.png 2x" data-file-width="849" data-file-height="614" /></a></div>
+<p>The graph on the right is an exponential growth projection made in July 2006. The number of articles on the English Wikipedia up to July 2006 is shown in red, and this is extrapolated in blue using an exponential function (approximately 38000*exp(0.0017<i>t</i>) articles, where <i>t</i> is the number of days since January 1, 2001).</p>
+<p>By the end of 2006, when there were 1.5 million articles, the projection was already overestimating the growth by 10-15%, and the prediction of over 3 million articles by the end of 2007 is significantly more than the actual figure of about 2.1 million articles.</p>
+<p>It has been hypothesized that the growth rate of Wikipedia consists of a constant number of articles per day, submitted by "hard-core" Wikipedians, with additional articles submitted by less enthusiastic Wikipedians proportional to the current article count of Wikipedia. In this model the growth rate should be a linear function of the size of Wikipedia.</p>
+<p>Questions:</p>
+<ul>
+<li>is this model even remotely valid?</li>
+<li>how long can exponential growth go on, or is this just really the early part of a <a href="/wiki/Logistic_curve" class="mw-redirect" title="Logistic curve">logistic curve</a>?</li>
+<li>what does this imply for server and traffic scaling?</li>
+</ul>
+<p>Eventually there will probably be a point where the amount of articles created each day will begin to slow down, due to a lack of things to write about. But it is probable that the amount of information in each article will begin to increase in lieu of an increase in the number of articles. Limitations on the (current) Wikipedia interface will cause a bottle neck of sorts, limiting the type (and by default, the <i>amount</i>) of growth to vertical monolingual growth patterns, as opposed to lateral cross-lingual ones.</p>
+<p>Note that from the beginning of December 2005, only registered users can create new pages.</p>
+<p><br clear="all" /></p>
+<h3><span class="mw-headline" id="Quadratic_model_for_article_count_of_Wikipedia">Quadratic model for article count of Wikipedia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=4" title="Edit section: Quadratic model for article count of Wikipedia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd><i>Note: At the end of 2008, <a href="/wiki/Wikipedia:Size_of_Wikipedia#Annual_growth_rate" title="Wikipedia:Size of Wikipedia">WP:Size of Wikipedia#Annual growth rate</a> used a simple model with a reducing rate of new articles to predict when growth would come to an end.</i></dd>
+</dl>
+<table class="wikitable">
+<tr>
+<th>Date</th>
+<th>&#160; &#160; Article Count &#160; &#160;</th>
+<th>&#160; Increase during &#160;<br />
+Preceding Year</th>
+<th>&#160;&#160;% Increase during &#160;<br />
+Preceding Year</th>
+<th>&#160; Average Increase<br />
+per Day during Preceding Year</th>
+</tr>
+<tr align="center">
+<td>2009-01-01</td>
+<td>2,679,000</td>
+<td>526,000</td>
+<td>24%</td>
+<td>1437</td>
+</tr>
+<tr align="center">
+<td>&#160;2018-01-01^</td>
+<td>~4,759,000&#160;</td>
+<td>12,775&#160;</td>
+<td>0.26%</td>
+<td>35</td>
+</tr>
+<tr>
+<td colspan="5"><small>NOTE: January 2018 is projected from 2009/ 2008/2007 (adding 60,000 fewer articles each year). Final article count plateau is: 2,679k + 470+410+350+290+230+170+110+50k = ~4,759,000 articles (deleted/merged articles will balance the number of added articles). Assumes same attitudes about notability, merging &amp; lists.</small></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Extended-growth_model">Extended-growth model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=5" title="Edit section: Extended-growth model">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main page: <a href="/wiki/Wikipedia:Modelling_Wikipedia_extended_growth" title="Wikipedia:Modelling Wikipedia extended growth">WP:Modelling Wikipedia extended growth</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:332px;"><a href="/wiki/File:Graph_WP_extended_growth_2025.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Graph_WP_extended_growth_2025.gif/330px-Graph_WP_extended_growth_2025.gif" width="330" height="231" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/7/7c/Graph_WP_extended_growth_2025.gif 1.5x" data-file-width="400" data-file-height="280" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Graph_WP_extended_growth_2025.gif" class="internal" title="Enlarge"></a></div>
+Past &amp; projected monthly growth rate in articles per month.</div>
+</div>
+</div>
+<p>In 2009, the continued strong growth indicated there was no obvious nearby midpoint in the growth for new articles. Although growth was slowing, it was slowing more gradually, and could be expected to continue beyond another 15 years, creating up to 10 million articles. The predicted date for the 3-million-article mark would be much earlier, in mid-August 2009. The growth was supported by the need for various spin-off articles, such as unseen-hand and lost-world articles, millions of missing red-link articles, plus many thousands of new <a href="/wiki/Wikipedia:Disambiguation" title="Wikipedia:Disambiguation">disambiguation</a> pages needed to connect the other millions of pages. The new projected midpoint might occur in year 2011<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The date of the event predicted near this tag has passed.">needs update</span></a></i>]</sup>, although any massive auto-upload of numerous articles could change the schedule, such as a mass, automated effort to auto-generate red-link stubs with sources suggested from search-engine results. The continued strong growth fits the model reaching about 10 million articles, before deletions and merges would offset the increase of new articles being added.</p>
+<p><br clear="all" /></p>
+<h3><span class="mw-headline" id="Two-phase_exponential_model">Two-phase exponential model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=6" title="Edit section: Two-phase exponential model">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The growth rate N'(t) of Wikipedia (number of new articles per unit of time) can be accurately modeled by two exponentials, one increasing ("phase 1") and one decreasing ("phase 2"), with a fairly sharp crossover around January 2006. In the following plots, the dots are the observed counts N(t) (cleaned and resampled at equal 28-day "months") and the respective increments N'(t) (new articles per 28-day month). The solid lines are the values of N'(t) and N(t) computed by the model.</p>
+<table border="0">
+<tr align="center">
+<td><a href="/wiki/File:Wp-size-irr-2009-11-prd-p0-s0-dz-e0-y0.png" class="image"><img alt="Wp-size-irr-2009-11-prd-p0-s0-dz-e0-y0.png" src="//upload.wikimedia.org/wikipedia/commons/8/87/Wp-size-irr-2009-11-prd-p0-s0-dz-e0-y0.png" width="540" height="252" data-file-width="540" data-file-height="252" /></a><br />
+Growth rate N'(t) - linear scale</td>
+<td><a href="/wiki/File:Wp-size-irr-2009-11-prd-p0-s0-dz-e0-y1.png" class="image"><img alt="Wp-size-irr-2009-11-prd-p0-s0-dz-e0-y1.png" src="//upload.wikimedia.org/wikipedia/commons/0/0b/Wp-size-irr-2009-11-prd-p0-s0-dz-e0-y1.png" width="540" height="252" data-file-width="540" data-file-height="252" /></a><br />
+Growth rate N'(t) - log scale</td>
+</tr>
+<tr align="center">
+<td><a href="/wiki/File:Wp-size-irr-2009-11-prd-p0-s0-sz-e0-y0.png" class="image"><img alt="Wp-size-irr-2009-11-prd-p0-s0-sz-e0-y0.png" src="//upload.wikimedia.org/wikipedia/commons/b/b2/Wp-size-irr-2009-11-prd-p0-s0-sz-e0-y0.png" width="540" height="252" data-file-width="540" data-file-height="252" /></a><br />
+Article count N(t) - linear scale</td>
+<td><a href="/wiki/File:Wp-size-irr-2009-11-prd-p0-s0-sz-e0-y1.png" class="image"><img alt="Wp-size-irr-2009-11-prd-p0-s0-sz-e0-y1.png" src="//upload.wikimedia.org/wikipedia/commons/f/f3/Wp-size-irr-2009-11-prd-p0-s0-sz-e0-y1.png" width="540" height="252" data-file-width="540" data-file-height="252" /></a><br />
+Article count N(t) - log scale</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Seasonal_modulation_since_2006">Seasonal modulation since 2006</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=7" title="Edit section: Seasonal modulation since 2006">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Since 2006, there is also a strong semestral variation in the new article rate, with peaks in February and August. The following plots include this modulating factor:</p>
+<table border="0">
+<tr align="center">
+<td><a href="/wiki/File:Wp-size-irr-2009-11-prd-p0-s1-dz-e0-y0.png" class="image"><img alt="Wp-size-irr-2009-11-prd-p0-s1-dz-e0-y0.png" src="//upload.wikimedia.org/wikipedia/commons/2/27/Wp-size-irr-2009-11-prd-p0-s1-dz-e0-y0.png" width="540" height="252" data-file-width="540" data-file-height="252" /></a><br />
+Growth rate N'(t) - linear scale</td>
+<td><a href="/wiki/File:Wp-size-irr-2009-11-prd-p0-s1-dz-e0-y1.png" class="image"><img alt="Wp-size-irr-2009-11-prd-p0-s1-dz-e0-y1.png" src="//upload.wikimedia.org/wikipedia/commons/1/12/Wp-size-irr-2009-11-prd-p0-s1-dz-e0-y1.png" width="540" height="252" data-file-width="540" data-file-height="252" /></a><br />
+Growth rate N'(t) - log scale</td>
+</tr>
+<tr align="center">
+<td><a href="/wiki/File:Wp-size-irr-2009-11-prd-p0-s1-sz-e0-y0.png" class="image"><img alt="Wp-size-irr-2009-11-prd-p0-s1-sz-e0-y0.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/Wp-size-irr-2009-11-prd-p0-s1-sz-e0-y0.png" width="540" height="252" data-file-width="540" data-file-height="252" /></a><br />
+Article count N(t) - linear scale</td>
+<td><a href="/wiki/File:Wp-size-irr-2009-11-prd-p0-s1-sz-e0-y1.png" class="image"><img alt="Wp-size-irr-2009-11-prd-p0-s1-sz-e0-y1.png" src="//upload.wikimedia.org/wikipedia/commons/b/b8/Wp-size-irr-2009-11-prd-p0-s1-sz-e0-y1.png" width="540" height="252" data-file-width="540" data-file-height="252" /></a><br />
+Article count N(t) - log scale</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Implications">Implications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=8" title="Edit section: Implications">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Some implications of this model:</p>
+<ul>
+<li>The slowdown is not a "natural" phenomenon but rather the consequence of some change in Wikipedia policy and/or tools.</li>
+<li>The "fertility" of Wikipedia's corps of editors (their output of new articles) is shrinking.</li>
+<li>Wikipedia will nearly stop growing before reaching 6 million articles.</li>
+</ul>
+<h4><span class="mw-headline" id="Further_info">Further info</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=9" title="Edit section: Further info">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Here is the <a rel="nofollow" class="external text" href="http://www.ic.unicamp.br/~stolfi/misc/wikipedia-growth/wp-size-irr-2009-11-prd-p0-s1.txt">text file</a> with the data used to generate these plots. The first column is the time <i>t</i>, specifically elapsed days since January 1, 2001. Columns 2,3,4 are year,month,day. Column 5 is the observed article count N(t) on that date (cleaned and resampled). Column 7 is the value of N(t) predicted by the model. Columns 9 and 11 are the observed and predicted growth rates N'(t) in articles per "lunar" month (28 days). There is also a <a rel="nofollow" class="external text" href="http://www.ic.unicamp.br/~stolfi/misc/wikipedia-growth/wikipedia-growth.pdf">technical report</a> describing the model and the data set.</p>
+<h3><span id="Gompertz_model_(2010–)"></span><span class="mw-headline" id="Gompertz_model_.282010.E2.80.93.29">Gompertz model (2010–)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=10" title="Edit section: Gompertz model (2010–)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This model is based on the <a href="/wiki/Gompertz_function" title="Gompertz function">Gompertz function</a>. The Gompertz function is like a logistic function, but the future value asymptote of the function is approached much more gradually, in contrast to the logistic function in which both asymptotes are approached by the curve symmetrically.<br /></p>
+<p>The reasons for this new model are</p>
+<ul>
+<li>The growth rate function does not seem to be time-symmetrical, unlike the logistic function</li>
+<li>The percentage of article growth per month in the logarithmic graphs seem to be linear ( <a href="/wiki/File:EnwikipediapercgrowthGom.PNG" title="File:EnwikipediapercgrowthGom.PNG">(1)</a> and <a href="/wiki/File:WikigrowthTopPerc.PNG" title="File:WikigrowthTopPerc.PNG">(2)</a> ), as the Gompertz function</li>
+</ul>
+<p>The formula for the Gompertz function for the en.wikipedia is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>y</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>a</mi>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>b</mi>
+            <msup>
+              <mi>e</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>c</mi>
+                <mi>t</mi>
+              </mrow>
+            </msup>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle y(t)=ae^{be^{ct}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/591dc8929697209d8ad672a4aabd41cea00fbcc3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:12.244ex; height:3.509ex;" alt="y(t)=ae^{be^{ct}}" /></span>, with</p>
+<dl>
+<dd>a= 4378449 (the predicted maximum for about 4.4 million articles)</dd>
+<dd>b= -15.42677</dd>
+<dd>c= -0.384124</dd>
+<dd>t is the time in years since 2000-01-01 (so 2010-01-01 is t=10.00)</dd>
+</dl>
+<p>The expected maximum of the Gompertz model is between the logistic model and the <a href="/wiki/Wikipedia:Modelling_Wikipedia_extended_growth" title="Wikipedia:Modelling Wikipedia extended growth">Modelling Wikipedia extended growth</a>.</p>
+<p>See below 3 Gompertz model graphs, followed by 3 corresponding graphs of the Logistic model, a graph for a general comparison between the Logistic, Gompertz and the Extended Growth models, and a graph of the top 20 Wikipedia's which in general show the same behavior in Percentage of article growth.</p>
+<table>
+<tr>
+<td><a href="/wiki/File:EnwikipediagrowthGom.PNG" class="image"><img alt="EnwikipediagrowthGom.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/EnwikipediagrowthGom.PNG/319px-EnwikipediagrowthGom.PNG" width="319" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/EnwikipediagrowthGom.PNG/478px-EnwikipediagrowthGom.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/EnwikipediagrowthGom.PNG/637px-EnwikipediagrowthGom.PNG 2x" data-file-width="696" data-file-height="437" /></a></td>
+<td><a href="/wiki/File:EnwikipediaGom.PNG" class="image"><img alt="EnwikipediaGom.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/EnwikipediaGom.PNG/281px-EnwikipediaGom.PNG" width="281" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/EnwikipediaGom.PNG/421px-EnwikipediaGom.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/EnwikipediaGom.PNG/561px-EnwikipediaGom.PNG 2x" data-file-width="763" data-file-height="544" /></a></td>
+<td><a href="/wiki/File:EnwikipediapercgrowthGom.PNG" class="image"><img alt="EnwikipediapercgrowthGom.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/EnwikipediapercgrowthGom.PNG/310px-EnwikipediapercgrowthGom.PNG" width="310" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/EnwikipediapercgrowthGom.PNG/465px-EnwikipediapercgrowthGom.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/EnwikipediapercgrowthGom.PNG/619px-EnwikipediapercgrowthGom.PNG 2x" data-file-width="678" data-file-height="438" /></a></td>
+</tr>
+<tr>
+<td valign="top">Number of article growth on en.wikipedia.org<br />
+and <b>Gompertz</b> extrapolation</td>
+<td valign="top">Number of articles on en.wikipedia.org<br />
+and <b>Gompertz</b> extrapolation</td>
+<td valign="top">Percentage of article growth per month<br />
+on en.wikipedia.org and <b>Gompertz</b> extrapolation</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Enwikipediagrowth6.PNG" class="image"><img alt="Enwikipediagrowth6.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Enwikipediagrowth6.PNG/271px-Enwikipediagrowth6.PNG" width="271" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Enwikipediagrowth6.PNG/407px-Enwikipediagrowth6.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Enwikipediagrowth6.PNG/542px-Enwikipediagrowth6.PNG 2x" data-file-width="592" data-file-height="437" /></a></td>
+<td><a href="/wiki/File:Enwikipedialin.PNG" class="image"><img alt="Enwikipedialin.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Enwikipedialin.PNG/244px-Enwikipedialin.PNG" width="244" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Enwikipedialin.PNG/366px-Enwikipedialin.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Enwikipedialin.PNG/487px-Enwikipedialin.PNG 2x" data-file-width="678" data-file-height="487" /></a></td>
+<td><a href="/wiki/File:Enwikipediapercgrowth.PNG" class="image"><img alt="Enwikipediapercgrowth.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Enwikipediapercgrowth.PNG/271px-Enwikipediapercgrowth.PNG" width="271" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Enwikipediapercgrowth.PNG/407px-Enwikipediapercgrowth.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Enwikipediapercgrowth.PNG/542px-Enwikipediapercgrowth.PNG 2x" data-file-width="592" data-file-height="437" /></a></td>
+</tr>
+<tr>
+<td colspan="3">Same graphs for <i>logistic model</i> with extrapolation to 3, 3.5 and 4 million articles</td>
+</tr>
+<tr>
+<td colspan="2"><a href="/wiki/File:Enwikipediagrowthcomparison.PNG" class="image"><img alt="Enwikipediagrowthcomparison.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Enwikipediagrowthcomparison.PNG/442px-Enwikipediagrowthcomparison.PNG" width="442" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Enwikipediagrowthcomparison.PNG/662px-Enwikipediagrowthcomparison.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Enwikipediagrowthcomparison.PNG/883px-Enwikipediagrowthcomparison.PNG 2x" data-file-width="964" data-file-height="437" /></a></td>
+<td valign="bottom"><a href="/wiki/File:WikigrowthTopPerc.PNG" class="image"><img alt="WikigrowthTopPerc.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/WikigrowthTopPerc.PNG/208px-WikigrowthTopPerc.PNG" width="208" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/WikigrowthTopPerc.PNG/312px-WikigrowthTopPerc.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/WikigrowthTopPerc.PNG/416px-WikigrowthTopPerc.PNG 2x" data-file-width="641" data-file-height="463" /></a></td>
+</tr>
+<tr>
+<td colspan="2" valign="top">Comparison of number of articles growth on en.wikipedia.org<br />
+and <i>Logistic</i>, <b>Gompertz</b> and <i>Extended Growth</i> extrapolations</td>
+<td valign="top">Percentage of article growth per month of the Top Wikipedias</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Modified_Gompertz_model">Modified Gompertz model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=11" title="Edit section: Modified Gompertz model">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A small but significant disparity has started to develop between the measured article count and the fitted Gompertz curve, with the article count rising faster than predicted since mid-2011.</p>
+<p>One possible model, based on visual inspection of <a href="/wiki/File:EnwikipediapercgrowthGom.PNG" title="File:EnwikipediapercgrowthGom.PNG">File:EnwikipediapercgrowthGom.PNG</a>, might be a Gompertz curve with a small additional constant exponential growth term, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>y</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>a</mi>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>b</mi>
+            <msup>
+              <mi>e</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>c</mi>
+                <mi>t</mi>
+              </mrow>
+            </msup>
+            <mo>+</mo>
+            <mi>d</mi>
+            <mi>t</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle y(t)=ae^{be^{ct}+dt}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49aef9ee2e59b15c95299271f0da4be0468cc533" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:14.998ex; height:3.509ex;" alt="y(t)=ae^{{be^{{ct}}+dt}}" /></span>, which would have the property that the small <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>d</mi>
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle dt}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebee76a835701fd1f26047a09855f2ea36bb08fc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.076ex; height:2.176ex;" alt="dt" /></span> term would be "uncovered" only in the latter stages of the Gompertz growth curve, because it would be dominated by the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>t</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle be^{ct}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4906eff9a1960f1a912ec1bd9afac1c8673a76d6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.655ex; height:2.676ex;" alt="be^{{ct}}" /></span> term prior to that point.</p>
+<p>Applying this to the data at <a href="/wiki/Wikipedia:Size_of_Wikipedia#The_data_set" title="Wikipedia:Size of Wikipedia">Wikipedia:Size_of_Wikipedia#The_data_set</a>, using a bit of numerical optimization to find the parameters, gives a much better fit to at least the most recent parts of the data, like this:</p>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:2012_Wikipedia_article_count_tweaked_Gompertz_fit.png" class="image"><img alt="2012 Wikipedia article count tweaked Gompertz fit.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2012_Wikipedia_article_count_tweaked_Gompertz_fit.png/500px-2012_Wikipedia_article_count_tweaked_Gompertz_fit.png" width="500" height="363" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2012_Wikipedia_article_count_tweaked_Gompertz_fit.png/750px-2012_Wikipedia_article_count_tweaked_Gompertz_fit.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2012_Wikipedia_article_count_tweaked_Gompertz_fit.png/1000px-2012_Wikipedia_article_count_tweaked_Gompertz_fit.png 2x" data-file-width="1085" data-file-height="788" /></a></div>
+</div>
+<p>although with the extra parameter, it gets much easier to fit any curve, and there's a danger of <a href="/wiki/Overfitting" title="Overfitting">overfitting</a>. It also fits less well at the start, before the beginning of the fitting window in 2004.5 (done to remove the wild growth fluctuations of the Rambot-era data). But it adds some plausibility for the model, and at the very least provides a plausible-seeming new ad-hoc extrapolation that can be compared against the other candidates in the future.</p>
+<p>Here are the corresponding percentage interval-to-interval changes, using the data series resampled into 0.05 year intervals, with a log scale on the y-axis, showing the closeness of fit from 2005 onwards:</p>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:2012_Wikipedia_article_count_tweaked_Gompertz_fit_derivative.png" class="image"><img alt="2012 Wikipedia article count tweaked Gompertz fit derivative.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/2012_Wikipedia_article_count_tweaked_Gompertz_fit_derivative.png/500px-2012_Wikipedia_article_count_tweaked_Gompertz_fit_derivative.png" width="500" height="357" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/2012_Wikipedia_article_count_tweaked_Gompertz_fit_derivative.png/750px-2012_Wikipedia_article_count_tweaked_Gompertz_fit_derivative.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/2012_Wikipedia_article_count_tweaked_Gompertz_fit_derivative.png/1000px-2012_Wikipedia_article_count_tweaked_Gompertz_fit_derivative.png 2x" data-file-width="1105" data-file-height="788" /></a></div>
+</div>
+<p>Here are the corresponding results for dewiki:, which didn't have the initial 2002-era server slowdown/Rambot perturbations found in the enwiki: data:</p>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Dewiki_article_count_modified_Gompertz_model_fit_2012-06-17.png" class="image"><img alt="Dewiki article count modified Gompertz model fit 2012-06-17.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dewiki_article_count_modified_Gompertz_model_fit_2012-06-17.png/500px-Dewiki_article_count_modified_Gompertz_model_fit_2012-06-17.png" width="500" height="689" srcset="//upload.wikimedia.org/wikipedia/commons/8/89/Dewiki_article_count_modified_Gompertz_model_fit_2012-06-17.png 1.5x" data-file-width="605" data-file-height="834" /></a></div>
+</div>
+<h2><span class="mw-headline" id="Data_set_for_number_of_articles">Data set for number of articles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=12" title="Edit section: Data set for number of articles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As Erik Zachte's <a class="external text" href="http://stats.wikimedia.org/EN/TablesWikipediaEN.htm">statistics for the English language wikipedia</a> is not updated since October 2006, these are the figures I (HenkvD) use for generating the graphs. The data up to October 2006 was taken from one of Erik's Downloads. The data since I took manually each month at the date (or a day later) using the <a href="/wiki/Special:Statistics" title="Special:Statistics">Special:Statistics</a> page. See also <a href="/wiki/Wikipedia:Size_of_Wikipedia#The_data_set" title="Wikipedia:Size of Wikipedia">Wikipedia:Size of Wikipedia#The data set</a> for a list of values of the official count, recorded manually at irregular intervals.</p>
+<div style="margin-left:0px">
+<table class="mw-collapsible mw-collapsed" style="background: transparent; text-align: left; border: 1px solid silver; margin: 0.2em auto auto; width:100%; clear: both; padding: 1px;">
+<tr>
+<th style="background: #CCFFCC; font-size:87%; padding:0.2em 0.3em; text-align:center;"><span style="font-size:115%">Data set</span></th>
+</tr>
+<tr>
+<td style="border: solid 1px silver; padding: 8px; background: white;">
+<p>Date, Number of articles</p>
+<p>31/01/2001, 19</p>
+<p>28/02/2001, 208</p>
+<p>31/03/2001, 782</p>
+<p>30/04/2001, 1121</p>
+<p>31/05/2001, 1910</p>
+<p>30/06/2001, 2390</p>
+<p>31/07/2001, 3156</p>
+<p>31/08/2001, 4605</p>
+<p>30/09/2001, 7043</p>
+<p>31/10/2001, 10814</p>
+<p>30/11/2001, 13860</p>
+<p>31/12/2001, 16442</p>
+<p>31/01/2002, 18115</p>
+<p>28/02/2002, 26764</p>
+<p>31/03/2002, 29290</p>
+<p>30/04/2002, 30969</p>
+<p>31/05/2002, 32674</p>
+<p>30/06/2002, 35576</p>
+<p>31/07/2002, 38360</p>
+<p>31/08/2002, 43121</p>
+<p>30/09/2002, 52756</p>
+<p>31/10/2002, 90524</p>
+<p>30/11/2002, 95891</p>
+<p>31/12/2002, 100526</p>
+<p>31/01/2003, 106756</p>
+<p>28/02/2003, 111859</p>
+<p>31/03/2003, 117144</p>
+<p>30/04/2003, 122656</p>
+<p>31/05/2003, 129146</p>
+<p>30/06/2003, 135647</p>
+<p>31/07/2003, 144379</p>
+<p>31/08/2003, 152627</p>
+<p>30/09/2003, 161357</p>
+<p>31/10/2003, 168662</p>
+<p>30/11/2003, 178060</p>
+<p>31/12/2003, 189674</p>
+<p>31/01/2004, 200981</p>
+<p>29/02/2004, 217064</p>
+<p>31/03/2004, 239255</p>
+<p>30/04/2004, 258781</p>
+<p>31/05/2004, 277938</p>
+<p>30/06/2004, 298265</p>
+<p>31/07/2004, 320154</p>
+<p>31/08/2004, 341883</p>
+<p>30/09/2004, 364258</p>
+<p>31/10/2004, 388155</p>
+<p>30/11/2004, 415877</p>
+<p>31/12/2004, 444892</p>
+<p>31/01/2005, 469768</p>
+<p>28/02/2005, 492743</p>
+<p>31/03/2005, 521827</p>
+<p>30/04/2005, 555758</p>
+<p>31/05/2005, 591089</p>
+<p>30/06/2005, 626000</p>
+<p>31/07/2005, 674000</p>
+<p>31/08/2005, 725000</p>
+<p>30/09/2005, 768000</p>
+<p>31/10/2005, 819000</p>
+<p>30/11/2005, 866000</p>
+<p>31/12/2005, 922000</p>
+<p>31/01/2006, 961000</p>
+<p>28/02/2006, 1000000</p>
+<p>31/03/2006, 1054996</p>
+<p>30/04/2006, 1110854</p>
+<p>31/05/2006, 1166712</p>
+<p>30/06/2006, 1224289</p>
+<p>31/07/2006, 1289079</p>
+<p>31/08/2006, 1359717</p>
+<p>30/09/2006, 1412803</p>
+<p>31/10/2006, 1462910</p>
+<p>30/11/2006, 1510789</p>
+<p>31/12/2006, 1559619</p>
+<p>31/01/2007, 1611122</p>
+<p>28/02/2007, 1663419</p>
+<p>31/03/2007, 1715552</p>
+<p>30/04/2007, 1763740</p>
+<p>31/05/2007, 1811430</p>
+<p>30/06/2007, 1857844</p>
+<p>31/07/2007, 1926373</p>
+<p>31/08/2007, 1985128</p>
+<p>30/09/2007, 2030045</p>
+<p>31/10/2007, 2070696</p>
+<p>30/11/2007, 2109383</p>
+<p>31/12/2007, 2153891</p>
+<p>31/01/2008, 2203380</p>
+<p>29/02/2008, 2259431</p>
+<p>31/03/2008, 2312963</p>
+<p>30/04/2008, 2354835</p>
+<p>31/05/2008, 2395687</p>
+<p>30/06/2008, 2436382</p>
+<p>31/07/2008, 2485599</p>
+<p>31/08/2008, 2539665</p>
+<p>30/09/2008, 2568272</p>
+<p>31/10/2008, 2607839</p>
+<p>30/11/2008, 2642438</p>
+<p>31/12/2008, 2678813</p>
+<p>31/01/2009, 2721548</p>
+<p>28/02/2009, 2769317</p>
+<p>31/03/2009, 2821544</p>
+<p>30/04/2009, 2863293</p>
+<p>31/05/2009, 2898906</p>
+<p>30/06/2009, 2930449</p>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="Other_measurements_of_article_growth">Other measurements of article growth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=13" title="Edit section: Other measurements of article growth">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Edits_per_article">Edits per article</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=14" title="Edit section: Edits per article">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following graph shows the mean number of edits per article, and is intended as a measure of the quality of the articles, assuming that editing improves the content.</p>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:502px;"><a href="/wiki/File:Number_of_edits_01.jpg" class="image"><img alt="Number of edits 01.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Number_of_edits_01.jpg/500px-Number_of_edits_01.jpg" width="500" height="309" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Number_of_edits_01.jpg/750px-Number_of_edits_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f6/Number_of_edits_01.jpg 2x" data-file-width="972" data-file-height="601" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Number_of_edits_01.jpg" class="internal" title="Enlarge"></a></div>
+</div>
+</div>
+</div>
+</div>
+<p>The graph is plotted in logarithmic scale, and this data also fits well with exponential growth starting from October 2002. The number of edits per article has since doubled once every 505 days, a rate consistent with <a href="/wiki/Moore%27s_law" title="Moore's law">Moore's law</a>.</p>
+<h3><span class="mw-headline" id="Modelling_growth_of_Wikipedia_page_views_per_million">Modelling growth of Wikipedia page views per million</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=15" title="Edit section: Modelling growth of Wikipedia page views per million">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Using the Alexa page views per million data from <a href="/wiki/Wikipedia:Awareness_statistics" title="Wikipedia:Awareness statistics">Wikipedia:Awareness statistics</a> (see <a rel="nofollow" class="external autonumber" href="http://www.alexa.com/data/details/traffic_details?&amp;range=2y&amp;size=large&amp;y=p&amp;url=wikipedia.org#top">[1]</a> for a graph) in the period 1 January 2003 to 5 September 2005, filtering out all points less than 28 days away from the previous point (to avoid excessive weighting during time periods where points are densely sampled), and performing a linear least-squares fit of the logarithm of the data, gives the following approximate formula:</p>
+<dl>
+<dd>log_e(page_views_per_million) = -50 + 5e-08 * unix_epoch_of_date</dd>
+</dl>
+<p>for n = 21 points fitted</p>
+<p>This implies a doubling period of (log_e(2) / 5e-08) / 86400 days, which is approximately 160 days, and an annual growth factor in page views per million of approximately exp(5e-08*365*86400), which is approximately 5.</p>
+<p>Playing around with different time periods and filter times, we get a range of results from which can reasonably say that Wikipedia's estimated page views per million <i>doubling time is somewhere in the range 130 - 160 days</i>, with the recent <i>(2005) doubling time of 156 days or so</i> being within the range of the longest-term doubling time of about 155 - 159 days, with the 2004 period being the exception to the long-term and short-term trends.</p>
+<h3><span id="Modelling_improvement_in_Wikipedia's_Alexa_traffic_rank"></span><span class="mw-headline" id="Modelling_improvement_in_Wikipedia.27s_Alexa_traffic_rank">Modelling improvement in Wikipedia's Alexa traffic rank</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=16" title="Edit section: Modelling improvement in Wikipedia's Alexa traffic rank">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Applying a similar linear regression fit to the log of <a rel="nofollow" class="external text" href="http://www.alexa.com/data/details/traffic_details?q=&amp;url=http://www.wikipedia.org">Wikipedia's Alexa traffic rank</a> from October 2002 to September 2005 gives a similar result, with a halving period (lower is better for rank) of roughly 134 - 138 days over the long term, with a 2005-data-only halving time of 114 days! Since the page rank as of September 2005<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Modelling_Wikipedia%27s_growth&amp;action=edit">[update]</a></sup>, was roughly 40, this suggested, if taken to logical extremes, and using the most cautious of the three figures, and rounding it to 4.5 months, that Wikipedia would reach:</p>
+<ul>
+<li>page rank 20 in 4.5 months</li>
+<li>page rank 10 in 9 months</li>
+<li>page rank 5 in 13.5 months</li>
+<li>be fighting its way into the top 3 in 18 months, and</li>
+<li>be fighting its way to the #1 spot in 22.5 months...</li>
+</ul>
+<p>So, clearly this exponential growth had to stop or slow down, or it was going to be a wild ride...</p>
+<p><i><b>November 2005</b> — the daily page rank averaging 34 and reached 31 in October.</i></p>
+<p><i><b>January 2006</b> — the daily page rank averaging 20 for about a week; in line with the original predictions above.</i></p>
+<p><i><b>April 2006</b> — averaging 16/17 this month, although in March it reached as high as rank 12, the then record.</i></p>
+<p><i><b>July 2006</b> — deviating from predictions; Wikipedia was supposed to have reached rank 10 by now, yet for the whole of June we hovered between 16/18.</i></p>
+<p><i><b>September 2006</b> — Heavily deviating from predictions; by the end of October, Wikipedia was supposed to reach rank 5, yet still only making small gains, hovering between 14/16 now. The climb up the rankings has slowed down - but for now we are still climbing! Wikipedia has broken the "50,000 reach" barrier, meaning we reach as many people as youtube.com and even more than myspace.com!</i></p>
+<p><i><b>November 2006</b> — Alexa weekly rank now 12, and is still climbing, with occasional daily blips up to 11. Wikipedia once made the daily rank in the top 10 on 12th!</i></p>
+<p><i><b>February 2007</b> — 18 months after the predictions, I think it's safe to say the model is flawed. We should be ranked as 3rd, but the high is 8, with the average being 10/11. We're still getting gaining popularity, just not as fast as expected.</i></p>
+<p><i><b>May 2008</b> — Swaying between 7 and 8 for the past few months with 8 being slightly more common. The rise, though slow, continues.</i></p>
+<p><i><b>December 2008</b> — The traffic rank continues to be around 8. No clear trend is evident in the rank, but the number of daily pageviews displays a steady decline since June 2008.</i></p>
+<p><i><b>March 2009</b> — The traffic rank is consistently 7 for more than 6 weeks now, and has not been below 8 for three months. The half-year graph suggests a transition period from October to February for the move from rank 8 to 7. Pageviews have slightly recovered, again reaching July 2008 levels, though still far from those of June 2008.</i></p>
+<p><i><b>June 2009</b> — Fairly consistently 7, with only intermittent falls to 8. Pageviews are fairly steady at around 0.5% of global, with a very slight upward trend evident.</i></p>
+<p><i><b>September 2009</b> - Spending more time at 6, with intermittent returns to 7. Pageviews are about 0.55-0.6% of global with an upward trend still evident.</i></p>
+<p><i><b>November 2009</b> - Mostly at 6, with occasional returns to 7. Pageviews are level at about 0.53-0.6% of global.</i></p>
+<p><i><b>April 2011</b> - at 8. However, ComScore results as of January 2010 put all Wikimedia properties collectively at 5: see <a class="external free" href="http://meta.wikimedia.org/wiki/User:Stu/comScore_data_on_Wikimedia">http://meta.wikimedia.org/wiki/User:Stu/comScore_data_on_Wikimedia</a></i></p>
+<p><i><b>November 2012</b> - Back to 6, with 13% reach. For comparison, Google at position 2 worldwide has about four times the reach at 46%</i></p>
+<p><i><b>December 2013</b> - Global rank 6, U.S.-only rank 7.</i></p>
+<p><i><b>December 2014</b> - Global rank 7, U.S.-only rank 6.</i></p>
+<p><i><b>June 2015</b> - Global rank 6, U.S.-only rank 6.</i></p>
+<h2><span class="mw-headline" id="Growth_of_Wikipedia_network">Growth of Wikipedia network</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=17" title="Edit section: Growth of Wikipedia network">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the context of <a href="/wiki/Complex_network" title="Complex network">complex network</a> theory there is a number of efforts to model the growth of Wikipedia network in which the nodes represent the articles and links are the hyper links between articles.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> This type of models are based on simple local probabilistic rules which should reproduce different distributions of Wikipedias statistical variables. Analysis show that the distribution of the number of hyper links pointing to a given article have a very stable <a href="/wiki/Power_law" title="Power law">power law</a> <a href="/wiki/Exponent" class="mw-redirect" title="Exponent">exponent</a> for a number of Wikipedias in different languages. It was also confirmed that the <a href="/wiki/Reciprocity_in_network" class="mw-redirect" title="Reciprocity in network">reciprocity</a> - ratio between the number of hyper links connecting two articles in both directions to the total number of hyper links is a very stable across the number of different Wikipedias.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Law_of_accelerating_returns" class="mw-redirect" title="Law of accelerating returns">Law of accelerating returns</a></li>
+<li><a href="/wiki/User:Dragons_flight/Log_analysis" title="User:Dragons flight/Log analysis">User:Dragons flight/Log analysis</a></li>
+<li><a href="/wiki/Wikipedia:Academic_studies_of_Wikipedia" title="Wikipedia:Academic studies of Wikipedia">Wikipedia:Academic studies of Wikipedia</a></li>
+<li><a href="/wiki/Wikipedia:Inflationary_hypothesis_of_Wikipedia_growth" title="Wikipedia:Inflationary hypothesis of Wikipedia growth">Wikipedia:Inflationary hypothesis of Wikipedia growth</a></li>
+<li><a href="/wiki/Wikipedia:Modelling_Wikipedia%27s_growth/Previous_traffic_predictions" title="Wikipedia:Modelling Wikipedia's growth/Previous traffic predictions">Wikipedia:Modelling Wikipedia's growth/Previous traffic predictions</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Data from <a href="/wiki/Wikipedia:Database_download" title="Wikipedia:Database download">en:Wikipedia:Database download</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFZlati.C4.87.C5.A0tefan.C4.8Di.C4.872009" class="citation">Zlatić, Vinko; Štefančić, Hrvoje (2009), <i>Model of Wikipedia growth based on information exchange via reciprocal arcs</i>, <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/0902.3548">0902.3548</a> <img alt="Freely accessible" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" title="Freely accessible" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikipedia%3AModelling+Wikipedia%27s+growth&amp;rft.au=%C5%A0tefan%C4%8Di%C4%87%2C+Hrvoje&amp;rft.aufirst=Vinko&amp;rft.aulast=Zlati%C4%87&amp;rft.btitle=Model+of+Wikipedia+growth+based+on+information+exchange+via+reciprocal+arcs&amp;rft.date=2009&amp;rft.genre=book&amp;rft_id=info%3Aarxiv%2F0902.3548&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFCapocciServedioColaioriBuriol2006" class="citation">Capocci, A.; Servedio, V. D.; Colaiori, F.; Buriol, L. S.; Donato, D.; Leonardi, S.; Caldarelli, G. (2006), "Preferential attachment in the growth of social networks: the internet encyclopedia Wikipedia", <i>Physical Review E</i>, <b>74</b> (3): 036116, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1103%2FPhysRevE.74.036116">10.1103/PhysRevE.74.036116</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikipedia%3AModelling+Wikipedia%27s+growth&amp;rft.atitle=Preferential+attachment+in+the+growth+of+social+networks%3A+the+internet+encyclopedia+Wikipedia&amp;rft.au=Buriol%2C+L.+S.&amp;rft.au=Caldarelli%2C+G.&amp;rft.au=Colaiori%2C+F.&amp;rft.au=Donato%2C+D.&amp;rft.au=Leonardi%2C+S.&amp;rft.au=Servedio%2C+V.+D.&amp;rft.aufirst=A.&amp;rft.aulast=Capocci&amp;rft.date=2006&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Physical+Review+E&amp;rft.pages=036116&amp;rft.volume=74&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevE.74.036116&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www-users.cs.umn.edu/~echi/papers/2009-WikiSym/wikipedia-slow-growth-ASC-PARC.pdf">Suh, B., Convertino, G., Chi, E. H., &amp; Pirolli, P. (2009) The singularity is not near: slowing growth of Wikipedia. WikiSym, (pp. 8:1-10).</a></li>
+</ul>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www-users.cs.umn.edu/~echi/papers/2007-CHI/2007-05-altCHI-Power-Wikipedia.pdf">Aniket Kittur, Ed H. Chi, Bryan A. Pendleton, Bongwon Suh, Todd Mytkowicz. Power of the Few vs. Wisdom of the Crowd: Wikipedia and the Rise of the Bourgeoisie. Presented at alt.CHI at ACM SIGCHI Conference 2007. April, 2007. San Jose, CA.</a>, a paper examining what user groups are behind most of the edits in Wikipedia.</li>
+</ul>
+<ul>
+<li><a href="https://meta.wikimedia.org/wiki/Wikipedia_milestones" class="extiw" title="meta:Wikipedia milestones">Wikipedia milestones</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20170923145330
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.172 seconds
+Real time usage: 0.340 seconds
+Preprocessor visited node count: 813/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18397/2097152 bytes
+Template argument size: 1859/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Lua time usage: 0.053/10.000 seconds
+Lua memory usage: 2.4 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  154.141      1 -total
+ 29.81%   45.945      1 Template:Reflist
+ 25.21%   38.860      1 Template:Needs_update
+ 21.93%   33.805      2 Template:Citation
+ 18.99%   29.266      1 Template:Shortcut
+ 16.45%   25.350      1 Template:Fix
+ 10.11%   15.584      1 Template:Category_handler
+  9.76%   15.045      1 Template:Wikistats
+  8.44%   13.015      1 Template:Sidebar
+  6.36%    9.809      2 Template:DMCA
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:244139-0!canonical!math=5 and timestamp 20170923145330 and revision id 799189981
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;oldid=799189981">https://en.wikipedia.org/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;oldid=799189981</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_statistics" title="Category:Wikipedia statistics">Wikipedia statistics</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikipedia%3AModelling+Wikipedia%27s+growth" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3AModelling+Wikipedia%27s+growth" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-project" class="selected"><span><a href="/wiki/Wikipedia:Modelling_Wikipedia%27s_growth" title="View the project page [c]" accesskey="c">Project page</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Wikipedia_talk:Modelling_Wikipedia%27s_growth" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Wikipedia:Modelling_Wikipedia%27s_growth">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:Modelling_Wikipedia%27s_growth" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:Modelling_Wikipedia%27s_growth" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;oldid=799189981" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AModelling+Wikipedia%27s+growth">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikipedia%3AModelling+Wikipedia%27s+growth&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DWikipedia%253AModelling%2BWikipedia%2527s%2Bgrowth%26returnto%3DWikipedia%253AModelling%2BWikipedia%2527s%2Bgrowth%26oldid%3D799189981%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wikipedia:Wikipedistik/Wachstumsprognose" title="Wikipedia:Wikipedistik/Wachstumsprognose – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Pr%C3%A9visions" title="Wikipédia:Prévisions – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=enwiki&amp;page=Wikipedia%3AModelling+Wikipedia%27s+growth" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 6 September 2017, at 05:31.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia:Modelling_Wikipedia%27s_growth&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.172","walltime":"0.340","ppvisitednodes":{"value":813,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18397,"limit":2097152},"templateargumentsize":{"value":1859,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  154.141      1 -total"," 29.81%   45.945      1 Template:Reflist"," 25.21%   38.860      1 Template:Needs_update"," 21.93%   33.805      2 Template:Citation"," 18.99%   29.266      1 Template:Shortcut"," 16.45%   25.350      1 Template:Fix"," 10.11%   15.584      1 Template:Category_handler","  9.76%   15.045      1 Template:Wikistats","  8.44%   13.015      1 Template:Sidebar","  6.36%    9.809      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.053","limit":"10.000"},"limitreport-memusage":{"value":2516126,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20170923145330","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":434,"wgHostname":"mw1267"});});</script>
+	</body>
+</html>

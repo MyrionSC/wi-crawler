@@ -42,10 +42,12 @@ namespace we_crawler
                 string body = doc.DocumentNode.SelectSingleNode("//body").InnerHtml;
 
                 // remove html tags and symbols
+                title = ScrubHtml(title);
                 body = ScrubHtml(body);
                 title = removeSymbols(title);
                 body = removeSymbols(body);
-                string[] tokens = (title + " " + body).Split(' ');
+                string[] tokensWithWhitespace = (title + " " + body).Split(' ');
+                string[] tokens = tokensWithWhitespace.Where(item => item != "" && item != " ").ToArray();
                 
                 // throw each token into the meatgrinder
                 foreach (string token in tokens)
@@ -117,7 +119,7 @@ namespace we_crawler
         }
         
         private string ScrubHtml(string value) {
-            var step1 = Regex.Replace(value, @"<[^>]+>|&nbsp;", "").Trim();
+            var step1 = Regex.Replace(value, @"<[^>]+>|&nbsp;", " ").Trim();
             var step2 = Regex.Replace(step1, @"\s{2,}", " ");
             return step2;
         }

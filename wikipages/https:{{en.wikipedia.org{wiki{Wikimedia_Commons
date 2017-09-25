@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikimedia Commons - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wikimedia_Commons","wgTitle":"Wikimedia Commons","wgCurRevisionId":801237602,"wgRevisionId":801237602,"wgArticleId":18935434,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Wikipedia indefinitely move-protected pages","Use mdy dates from February 2012","Pages using deprecated image syntax","All articles with failed verification","Articles with failed verification from June 2013","All articles with dead external links","Articles with dead external links from April 2016","Articles needing additional references from June 2010","All articles needing additional references","Articles containing video clips","American websites","Free content","Image hosting","Internet properties established in 2004","MediaWiki websites","Multilingual websites","Open content projects","Photo archives","Stock photography","Video hosting","Wikimedia projects","Advertising-free websites"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikimedia_Commons","wgRelevantArticleId":18935434,"wgRequestId":"Wb-a7wpAMEsAAJfHjhUAAADN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q565","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/WikimediaMosaicCapture.png/1200px-WikimediaMosaicCapture.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wikimedia_Commons"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wikimedia_Commons&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wikimedia_Commons&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikimedia_Commons"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wikimedia_Commons rootpage-Wikimedia_Commons skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Wikimedia Commons</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">Wikimedia Commons</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Commons-logo-en.svg" class="image" title="Wikimedia Commons logo"><img alt="Wikimedia Commons logo" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Commons-logo-en.svg/100px-Commons-logo-en.svg.png" width="100" height="132" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Commons-logo-en.svg/150px-Commons-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Commons-logo-en.svg/200px-Commons-logo-en.svg.png 2x" data-file-width="608" data-file-height="800" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="background:transparent;text-align:left;background:gainsboro;text-align:center">Screenshot&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;text-align:center"><a href="/wiki/File:Commons_screenshot.png" class="image" title="Screenshot of Wikimedia Commons"><img alt="Screenshot of Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Commons_screenshot.png/240px-Commons_screenshot.png" width="240" height="401" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Commons_screenshot.png/360px-Commons_screenshot.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Commons_screenshot.png/480px-Commons_screenshot.png 2x" data-file-width="1267" data-file-height="2117" /></a>
+<div>Screenshot of the Wikimedia Commons main page</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Type of site</div>
+</th>
+<td><a href="/wiki/Digital_library" title="Digital library">Media repository</a></td>
+</tr>
+<tr>
+<th scope="row">Owner</th>
+<td><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a></td>
+</tr>
+<tr>
+<th scope="row">Created&#160;by</th>
+<td><a href="/wiki/Wikimedia_community" class="mw-redirect" title="Wikimedia community">Wikimedia community</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td class="url"><span class="url"><a class="external text" href="https://commons.wikimedia.org">commons<wbr />.wikimedia<wbr />.org</a></span></td>
+</tr>
+<tr>
+<th scope="row">Commercial</th>
+<td>No</td>
+</tr>
+<tr>
+<th scope="row">Registration</th>
+<td>Optional (required for uploading files)</td>
+</tr>
+<tr>
+<th scope="row">Launched</th>
+<td>September&#160;7, 2004<span class="noprint">; 13 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2004-09-07</span>)</span></td>
+</tr>
+<tr>
+<th scope="row">Current&#160;status</th>
+<td class="category">Online</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Content license</div>
+</th>
+<td>Free</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:WikimediaMosaicCapture.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/WikimediaMosaicCapture.png/220px-WikimediaMosaicCapture.png" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/WikimediaMosaicCapture.png/330px-WikimediaMosaicCapture.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/WikimediaMosaicCapture.png/440px-WikimediaMosaicCapture.png 2x" data-file-width="1440" data-file-height="1440" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WikimediaMosaicCapture.png" class="internal" title="Enlarge"></a></div>
+Wikimedia logo <a href="/wiki/Mosaic" title="Mosaic">mosaic</a> created to commemorate the one millionth file at Wikimedia Commons</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Featured_picture_nominations_per_month_in_Wikimedia_Commons.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Featured_picture_nominations_per_month_in_Wikimedia_Commons.svg/220px-Featured_picture_nominations_per_month_in_Wikimedia_Commons.svg.png" width="220" height="110" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Featured_picture_nominations_per_month_in_Wikimedia_Commons.svg/330px-Featured_picture_nominations_per_month_in_Wikimedia_Commons.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Featured_picture_nominations_per_month_in_Wikimedia_Commons.svg/440px-Featured_picture_nominations_per_month_in_Wikimedia_Commons.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Featured_picture_nominations_per_month_in_Wikimedia_Commons.svg" class="internal" title="Enlarge"></a></div>
+Successful featured picture nominations per month (2004-today)</div>
+</div>
+</div>
+<p><b>Wikimedia Commons</b> (or simply <b>Commons</b>) is an online repository of <a href="/wiki/Free_content" title="Free content">free-use</a> images, sound, and other media files.<sup id="cite_ref-Endres_1-0" class="reference"><a href="#cite_note-Endres-1">[1]</a></sup> It is a project of the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>.</p>
+<p>Files from Wikimedia Commons can be used across all Wikimedia projects<sup id="cite_ref-Embedding_2-0" class="reference"><a href="#cite_note-Embedding-2">[2]</a></sup> in all languages, including <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, <a href="/wiki/Wikibooks" title="Wikibooks">Wikibooks</a>, <a href="/wiki/Wikivoyage" title="Wikivoyage">Wikivoyage</a>, <a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>, <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a>, and <a href="/wiki/Wikinews" title="Wikinews">Wikinews</a>, or downloaded for offsite use. The repository contains over 41&#160;million media files.<sup id="cite_ref-CommonsStats_3-0" class="reference"><a href="#cite_note-CommonsStats-3">[3]</a></sup> In July 2013, the number of edits on Commons reached 100,000,000.<sup id="cite_ref-100.2C000.2C000_4-0" class="reference"><a href="#cite_note-100.2C000.2C000-4">[4]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Policies"><span class="tocnumber">2</span> <span class="toctext">Policies</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Controversial_content"><span class="tocnumber">3</span> <span class="toctext">Controversial content</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Utilities"><span class="tocnumber">4</span> <span class="toctext">Utilities</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Quality"><span class="tocnumber">5</span> <span class="toctext">Quality</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Content_figures"><span class="tocnumber">6</span> <span class="toctext">Content figures</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia_Commons&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The project was proposed by <a href="/wiki/Erik_M%C3%B6ller" title="Erik Möller">Erik Möller</a> in March 2004<sup id="cite_ref-Moller_5-0" class="reference"><a href="#cite_note-Moller-5">[5]</a></sup> and launched on September 7, 2004.<sup id="cite_ref-LaunchMain_6-0" class="reference"><a href="#cite_note-LaunchMain-6">[6]</a></sup><sup id="cite_ref-LaunchGolem_7-0" class="reference"><a href="#cite_note-LaunchGolem-7">[7]</a></sup> A key motivation behind the setup of a central repository was the desire to reduce duplication of effort across the Wikimedia projects and languages, as the same file had to be uploaded to many different wikis separately before Commons was created.</p>
+<h2><span class="mw-headline" id="Policies">Policies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia_Commons&amp;action=edit&amp;section=2" title="Edit section: Policies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The aim of Wikimedia Commons is to provide a media file repository "that makes available public domain and freely-licensed educational media content to all, and that acts as a common repository for the various projects of the Wikimedia Foundation." The expression "educational" is to be understood according to its broad meaning of "providing knowledge; instructional or informative".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>Most Wikimedia projects still allow local uploads which are not visible to other projects or languages, but this option is meant to be used primarily for material (such as <a href="/wiki/Fair_use" title="Fair use">fair use</a> content) which local project policies allow, but which would not be permitted according to the <a href="/wiki/Copyright" title="Copyright">copyright</a> policy of Commons. Wikimedia Commons itself does not allow fair use or uploads under non-free licenses, including licenses which restrict commercial use of materials or disallow derivative works. For this reason, Wikimedia Commons always hosts freely licensed media and deletes copyright violations. Licenses that are acceptable include the <a href="/wiki/GNU_Free_Documentation_License" title="GNU Free Documentation License">GNU Free Documentation License</a>, <a href="/wiki/Creative_Commons_license" title="Creative Commons license">Creative Commons</a> Attribution and Attribution/ShareAlike licenses,<sup id="cite_ref-CCL_9-0" class="reference"><a href="#cite_note-CCL-9">[9]</a></sup> other free content and <a href="/wiki/Free_software" title="Free software">free software</a> licenses, and the <a href="/wiki/Public_domain" title="Public domain">public domain</a>.</p>
+<p>The default language for Commons is English, but registered users can customize their interface to use any other available user interface translations. Many content pages, in particular policy pages and portals, have also been translated into various languages. Files on Wikimedia Commons are categorized using MediaWiki's category system. In addition, they are often collected on individual topical gallery pages. While the project was originally proposed to also contain free text files, these continue to be hosted on a sister project, <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a>.</p>
+<h2><span class="mw-headline" id="Controversial_content">Controversial content</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia_Commons&amp;action=edit&amp;section=3" title="Edit section: Controversial content">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The site has been criticized for hosting large amounts of amateur pornography, often uploaded by <a href="/wiki/Exhibitionism" title="Exhibitionism">exhibitionists</a> who exploit the site for personal gratification, and who are enabled by sympathetic administrators.<sup id="cite_ref-Daily_Dot_Pricasso_10-0" class="reference"><a href="#cite_note-Daily_Dot_Pricasso-10">[10]</a></sup> In 2012, <a href="/wiki/BuzzFeed" title="BuzzFeed">BuzzFeed</a> described Wikimedia Commons as "littered with dicks".<sup id="cite_ref-BuzzFeed_dicks_11-0" class="reference"><a href="#cite_note-BuzzFeed_dicks-11">[11]</a></sup></p>
+<p>In 2010, Wikipedia co-founder <a href="/wiki/Larry_Sanger" title="Larry Sanger">Larry Sanger</a> <a href="/wiki/Reporting_of_child_pornography_images_on_Wikimedia_Commons" title="Reporting of child pornography images on Wikimedia Commons">reported Wikimedia Commons to the FBI</a> for hosting sexualized images of children known as "lolicon". After this was reported in the media, <a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a>, founder of the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a> which hosts Commons, used his administrator status to delete several images without discussion from the Commons community. Wales responded to the backlash from the Commons community by voluntarily relinquishing some site privileges, including the ability to delete files.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Utilities">Utilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia_Commons&amp;action=edit&amp;section=4" title="Edit section: Utilities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Over time, additional functionality has been developed to interface Wikimedia Commons with the other Wikimedia projects. Daniel Kinzler wrote applications for finding appropriate categories for uploaded files ("CommonSense"), determining the usage of files across the Wikimedia projects ("CheckUsage"), locating images with missing copyright information ("UntaggedImages"), and relaying information about administrative actions such as deletions to the relevant wikis ("<a href="https://commons.wikimedia.org/wiki/Commons:Tools" class="extiw" title="commons:Commons:Tools">CommonsTicker</a>").</p>
+<p>Specialized uploading tools and scripts such as "<a href="https://commons.wikimedia.org/wiki/Commons:Tools/Commonist" class="extiw" title="commons:Commons:Tools/Commonist">Commonist</a>" have been created to simplify the process of uploading large numbers of files. In order to review free content photos uploaded to <a href="/wiki/Flickr" title="Flickr">Flickr</a>, users can participate in a defunct collaborative external review process ("<a href="https://commons.wikimedia.org/wiki/User:FlickrLickr" class="extiw" title="commons:User:FlickrLickr">FlickrLickr</a>"), which has resulted in more than 10,000 uploads to Commons.<sup id="cite_ref-Flickr_13-0" class="reference"><a href="#cite_note-Flickr-13">[13]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (June 2013)">not in citation given</span></a></i>]</sup><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since April 2016">dead link</span></a></i>]</span></sup></p>
+<h2><span class="mw-headline" id="Quality">Quality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia_Commons&amp;action=edit&amp;section=5" title="Edit section: Quality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikimedia_Commons&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(June 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>The site has three mechanisms for recognizing quality works. One is known as "<a href="https://commons.wikimedia.org/wiki/Commons:Featured_pictures" class="extiw" title="commons:Commons:Featured pictures">Featured pictures</a>", where works are nominated and other community members vote to accept or reject the nomination. This process began in November 2004. Another process known as "<a href="https://commons.wikimedia.org/wiki/Commons:Quality_Images" class="extiw" title="commons:Commons:Quality Images">Quality images</a>" began in June 2006, and has a simpler nomination process comparable to "Featured pictures". "Quality images" only accepts works created by Wikimedia users, whereas "Featured pictures" additionally accepts nominations of works by third parties such as NASA. A third image assessment project, known as "<a href="https://commons.wikimedia.org/wiki/Commons:Valued_images" class="extiw" title="commons:Commons:Valued images">Valued images</a>", began on June 1, 2008 with the purpose of recognising "the most valued illustration of its kind", in contrast to the other two processes which assess images mainly on technical quality.</p>
+<p>The three mentioned processes select a slight part (less than 0.1%) from the total number of files. However, Commons collects files of all quality levels, from the most professional level across simple documental and amateur files up to files of very poor quality. Generally, Commons is not a competition but a collection; a quality of the description and organization of files and their descriptive and informational benefits are often more relevant than technical or artistic perfection of the files. Files with specific defects can be tagged for improvement and warning or even proposed for deletion but there exists no process of systematic rating of all files.</p>
+<p>The site held its inaugural "Picture of the Year" competition, for 2006. All images that were made a Featured picture during 2006 were eligible, and voted on by eligible <a href="/wiki/Wikimedia_movement" title="Wikimedia movement">Wikimedia movement</a> members during two rounds of voting. The winning picture was a picture of the <a href="/wiki/Aurora_Borealis" class="mw-redirect" title="Aurora Borealis">Aurora Borealis</a> over snowlands, taken by an airman from the <a href="/wiki/United_States_Air_Force" title="United States Air Force">U.S. Air Force</a>. The competition has become an annual event.</p>
+<table style="background:transparent;margin-top:0.5em">
+<tr>
+<th style="text-align:center;font-weight:bold">Wikimedia Commons Pictures of the Year</th>
+</tr>
+<tr>
+<td>
+<table style="width:180px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:150px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Polarlicht_2.jpg" class="image" title="2006"><img alt="The Aurora Borealis, or Northern Lights, shines above Bear Lake, Eielson Air Force Base, Alaska." src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Polarlicht_2.jpg/160px-Polarlicht_2.jpg" width="160" height="104" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Polarlicht_2.jpg/240px-Polarlicht_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Polarlicht_2.jpg/320px-Polarlicht_2.jpg 2x" data-file-width="3008" data-file-height="1960" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:4.6em;width:167px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2006" class="extiw" title="commons:Commons:Picture of the Year/2006">2006</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:180px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:150px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Broadway_tower_edit.jpg" class="image" title="2007"><img alt="Broadway Tower in Cotswolds, England." src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Broadway_tower_edit.jpg/160px-Broadway_tower_edit.jpg" width="160" height="108" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Broadway_tower_edit.jpg/240px-Broadway_tower_edit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Broadway_tower_edit.jpg/320px-Broadway_tower_edit.jpg 2x" data-file-width="1428" data-file-height="968" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:4.6em;width:167px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2007" class="extiw" title="commons:Commons:Picture of the Year/2007">2007</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:180px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:150px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Biandintz_eta_zaldiak_-_modified2.jpg" class="image" title="2008"><img alt="Horses on Bianditz mountain. Behind them Aiako Harria mountain can be seen." src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Biandintz_eta_zaldiak_-_modified2.jpg/160px-Biandintz_eta_zaldiak_-_modified2.jpg" width="160" height="111" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Biandintz_eta_zaldiak_-_modified2.jpg/240px-Biandintz_eta_zaldiak_-_modified2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Biandintz_eta_zaldiak_-_modified2.jpg/320px-Biandintz_eta_zaldiak_-_modified2.jpg 2x" data-file-width="1850" data-file-height="1282" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:4.6em;width:167px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2008" class="extiw" title="commons:Commons:Picture of the Year/2008">2008</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:180px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:150px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Sikh_pilgrim_at_the_Golden_Temple_(Harmandir_Sahib)_in_Amritsar,_India.jpg" class="image" title="2009"><img alt="Sikh pilgrim at the Harmandir Sahib (Golden Temple) in Amritsar, India. The man has just had a ritual bath." src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg/160px-Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg" width="160" height="106" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg/240px-Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg/320px-Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg 2x" data-file-width="3008" data-file-height="2000" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:4.6em;width:167px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2009" class="extiw" title="commons:Commons:Picture of the Year/2009">2009</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:180px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:150px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg" class="image" title="2010"><img alt="A group of astronomers were observing the centre of the Milky Way using the laser guide star facility at Yepun." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/143px-Laser_Towards_Milky_Ways_Centre.jpg" width="143" height="130" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/215px-Laser_Towards_Milky_Ways_Centre.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/286px-Laser_Towards_Milky_Ways_Centre.jpg 2x" data-file-width="2000" data-file-height="1816" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:4.6em;width:167px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2010" class="extiw" title="commons:Commons:Picture of the Year/2010">2010</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:180px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:150px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Lake_Bondhus_Norway_2862.jpg" class="image" title="2011"><img alt="A view of the lake Bondhus in Norway. In the background a view of the Bondhus Glacier as a part of the Folgefonna Glacier." src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Bondhus_Norway_2862.jpg/160px-Lake_Bondhus_Norway_2862.jpg" width="160" height="107" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Bondhus_Norway_2862.jpg/240px-Lake_Bondhus_Norway_2862.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Bondhus_Norway_2862.jpg/320px-Lake_Bondhus_Norway_2862.jpg 2x" data-file-width="5611" data-file-height="3735" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:4.6em;width:167px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2011" class="extiw" title="commons:Commons:Picture of the Year/2011">2011</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:180px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:150px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Pair_of_Merops_apiaster_feeding.jpg" class="image" title="2012"><img alt="European Bee-eater, Ariège, France. The female (in front) awaits the offering which the male will make." src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pair_of_Merops_apiaster_feeding.jpg/160px-Pair_of_Merops_apiaster_feeding.jpg" width="160" height="107" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pair_of_Merops_apiaster_feeding.jpg/240px-Pair_of_Merops_apiaster_feeding.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pair_of_Merops_apiaster_feeding.jpg/320px-Pair_of_Merops_apiaster_feeding.jpg 2x" data-file-width="3570" data-file-height="2378" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:4.6em;width:167px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2012" class="extiw" title="commons:Commons:Picture of the Year/2012">2012</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:180px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:150px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Gl%C3%BChwendel_brennt_durch.jpg" class="image" title="2013"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gl%C3%BChwendel_brennt_durch.jpg/86px-Gl%C3%BChwendel_brennt_durch.jpg" width="86" height="130" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gl%C3%BChwendel_brennt_durch.jpg/130px-Gl%C3%BChwendel_brennt_durch.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gl%C3%BChwendel_brennt_durch.jpg/173px-Gl%C3%BChwendel_brennt_durch.jpg 2x" data-file-width="1882" data-file-height="2827" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:4.6em;width:167px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2013" class="extiw" title="commons:Commons:Picture of the Year/2013">2013</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:180px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:150px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:A_butterfly_feeding_on_the_tears_of_a_turtle_in_Ecuador.jpg" class="image" title="2014"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/A_butterfly_feeding_on_the_tears_of_a_turtle_in_Ecuador.jpg/160px-A_butterfly_feeding_on_the_tears_of_a_turtle_in_Ecuador.jpg" width="160" height="107" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/A_butterfly_feeding_on_the_tears_of_a_turtle_in_Ecuador.jpg/240px-A_butterfly_feeding_on_the_tears_of_a_turtle_in_Ecuador.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/A_butterfly_feeding_on_the_tears_of_a_turtle_in_Ecuador.jpg/320px-A_butterfly_feeding_on_the_tears_of_a_turtle_in_Ecuador.jpg 2x" data-file-width="4500" data-file-height="3000" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:4.6em;width:167px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2014" class="extiw" title="commons:Commons:Picture of the Year/2014">2014</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:180px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:150px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Pluto-01_Stern_03_Pluto_Color_TXT.jpg" class="image" title="2015"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/130px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg" width="130" height="130" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/195px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/260px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg 2x" data-file-width="8000" data-file-height="8000" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:4.6em;width:167px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2015" class="extiw" title="commons:Commons:Picture of the Year/2015">2015</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:180px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:150px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Jubilee_and_Munin,_Ravens,_Tower_of_London_2016-04-30.jpg" class="image" title="2016"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jubilee_and_Munin%2C_Ravens%2C_Tower_of_London_2016-04-30.jpg/130px-Jubilee_and_Munin%2C_Ravens%2C_Tower_of_London_2016-04-30.jpg" width="130" height="130" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jubilee_and_Munin%2C_Ravens%2C_Tower_of_London_2016-04-30.jpg/195px-Jubilee_and_Munin%2C_Ravens%2C_Tower_of_London_2016-04-30.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jubilee_and_Munin%2C_Ravens%2C_Tower_of_London_2016-04-30.jpg/260px-Jubilee_and_Munin%2C_Ravens%2C_Tower_of_London_2016-04-30.jpg 2x" data-file-width="2723" data-file-height="2723" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:4.6em;width:167px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2016" class="extiw" title="commons:Commons:Picture of the Year/2016">2016</a>&#160;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Content_figures">Content figures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia_Commons&amp;action=edit&amp;section=6" title="Edit section: Content figures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Geolocated_images_in_Wikimedia_Commons_2015-01-07.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Geolocated_images_in_Wikimedia_Commons_2015-01-07.png/300px-Geolocated_images_in_Wikimedia_Commons_2015-01-07.png" width="300" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Geolocated_images_in_Wikimedia_Commons_2015-01-07.png/450px-Geolocated_images_in_Wikimedia_Commons_2015-01-07.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Geolocated_images_in_Wikimedia_Commons_2015-01-07.png/600px-Geolocated_images_in_Wikimedia_Commons_2015-01-07.png 2x" data-file-width="720" data-file-height="360" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Geolocated_images_in_Wikimedia_Commons_2015-01-07.png" class="internal" title="Enlarge"></a></div>
+As of January 2015, there are well over 5.2M geolocated images in Wikimedia Commons. Mapping these shows significant variance in image numbers over the globe.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Commons_Growth.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Commons_Growth.svg/300px-Commons_Growth.svg.png" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Commons_Growth.svg/450px-Commons_Growth.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Commons_Growth.svg/600px-Commons_Growth.svg.png 2x" data-file-width="800" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Commons_Growth.svg" class="internal" title="Enlarge"></a></div>
+Growth of Wikimedia Commons</div>
+</div>
+</div>
+<p><i>Source: <a href="https://commons.wikimedia.org/wiki/Commons:Milestones" class="extiw" title="commons:Commons:Milestones">commons:Commons:Milestones</a></i></p>
+<ul>
+<li>November 30, 2006: 1&#160;million media files</li>
+<li>September 2, 2009: 5&#160;million media files</li>
+<li>April 15, 2011: 10&#160;million media files</li>
+<li>December 4, 2012: 15&#160;million media files</li>
+<li>July 14, 2013: 100,000,000 edits<sup id="cite_ref-100.2C000.2C000_4-1" class="reference"><a href="#cite_note-100.2C000.2C000-4">[4]</a></sup></li>
+<li>January 25, 2014: 20&#160;million media files</li>
+<li>January 13, 2016: 30&#160;million media files</li>
+<li>June 21, 2017: 40&#160;million media files</li>
+<li>Current figures: <a href="https://commons.wikimedia.org/wiki/Special:Statistics" class="extiw" title="commons:Special:Statistics">commons:Special:Statistics</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia_Commons&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Creative_Commons" title="Creative Commons">Creative Commons</a>&#160;– a project providing a set of content licenses and a directory of works using them</li>
+<li><a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>&#160;– an online collection of videos, documents and webpages</li>
+<li><a href="/wiki/Project_Gutenberg" title="Project Gutenberg">Project Gutenberg</a>&#160;– the largest freely accessible collection of documents (including books and sheet music)</li>
+<li><a href="/wiki/Reporting_of_child_pornography_images_on_Wikimedia_Commons" title="Reporting of child pornography images on Wikimedia Commons">Reporting of child pornography images on Wikimedia Commons</a></li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia_Commons&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Endres-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Endres_1-0">^</a></b></span> <span class="reference-text">Endres, Joe, "Wiki websites wealth of information". International News on Fats, Oils and Related Materials&#160;: INFORM. <a href="/wiki/Champaign,_Illinois" title="Champaign, Illinois">Champaign, Illinois</a>: May 2006. Vol. 17, Iss. 5; pg. 312, 1 pgs. Source type: Periodical <a href="/wiki/International_Standard_Serial_Number_(identifier)" class="mw-redirect" title="International Standard Serial Number (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0897-8026">0897-8026</a> ProQuest document ID: 1044826021 Text Word Count 746 Document URL: <a rel="nofollow" class="external text" href="http://proquest.umi.com/pqdweb?did=1044826021&amp;sid=1&amp;Fmt=4&amp;clientId=76566&amp;RQT=309&amp;VName=PQD">Proquest URL</a> ProQuest (subscription) retrieved August 6, 2007</span></li>
+<li id="cite_note-Embedding-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Embedding_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://commons.wikimedia.org/wiki/Commons:First_steps/Reuse#Embedding_Commons'_media_in_Wikimedia_projects">"Embedding Commons’ media in Wikimedia projects"</a>. Wikimedia Commons<span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikimedia+Commons&amp;rft.btitle=Embedding+Commons%E2%80%99+media+in+Wikimedia+projects&amp;rft.genre=unknown&amp;rft.pub=Wikimedia+Commons&amp;rft_id=http%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FCommons%3AFirst_steps%2FReuse%23Embedding_Commons%27_media_in_Wikimedia_projects&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CommonsStats-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-CommonsStats_3-0">^</a></b></span> <span class="reference-text"><a href="https://commons.wikimedia.org/wiki/Special:Statistics" class="extiw" title="commons:Special:Statistics">Statistics page</a> on Wikimedia Commons</span></li>
+<li id="cite_note-100.2C000.2C000-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-100.2C000.2C000_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-100.2C000.2C000_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">ÄŒesky (July 15, 2013). <a class="external text" href="https://commons.wikimedia.org/wiki/Commons:Village_pump/Archive/2013/07#100.2C000.2C000th_edit">"100,000,000th edit"</a>. Commons.wikimedia.org<span class="reference-accessdate">. Retrieved <span class="nowrap">August 22,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikimedia+Commons&amp;rft.au=%C3%84%C5%92esky&amp;rft.btitle=100%2C000%2C000th+edit&amp;rft.date=2013-07-15&amp;rft.genre=unknown&amp;rft.pub=Commons.wikimedia.org&amp;rft_id=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FCommons%3AVillage_pump%2FArchive%2F2013%2F07%23100.2C000.2C000th_edit&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Moller-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Moller_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Möller, Erik (March 19, 2004). <a class="external text" href="http://lists.wikimedia.org/pipermail/wikipedia-l/2004-March/014885.html">"[Wikipedia-l] Proposal: commons.wikimedia.org"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikimedia+Commons&amp;rft.aufirst=Erik&amp;rft.aulast=M%C3%B6ller&amp;rft.btitle=%5BWikipedia-l%5D+Proposal%3A+commons.wikimedia.org&amp;rft.date=2004-03-19&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flists.wikimedia.org%2Fpipermail%2Fwikipedia-l%2F2004-March%2F014885.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-LaunchMain-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-LaunchMain_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://commons.wikimedia.org/w/index.php?title=Main_Page&amp;oldid=50">"Main Page"</a>. Wikimedia Commons. September 7, 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikimedia+Commons&amp;rft.btitle=Main+Page&amp;rft.date=2004-09-07&amp;rft.genre=unknown&amp;rft.pub=Wikimedia+Commons&amp;rft_id=http%3A%2F%2Fcommons.wikimedia.org%2Fw%2Findex.php%3Ftitle%3DMain_Page%26oldid%3D50&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-LaunchGolem-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-LaunchGolem_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.golem.de/0505/38234.html">"Wikimedia Commons: Über 100.000 freie Bilder, Töne und Filme"</a> (in German). <a href="https://de.wikipedia.org/wiki/Golem.de" class="extiw" title="de:Golem.de">Golem.de</a>. May 25, 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikimedia+Commons&amp;rft.btitle=Wikimedia+Commons%3A+%C3%9Cber+100.000+freie+Bilder%2C+T%C3%B6ne+und+Filme&amp;rft.date=2005-05-25&amp;rft.genre=unknown&amp;rft.pub=Golem.de&amp;rft_id=http%3A%2F%2Fwww.golem.de%2F0505%2F38234.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://commons.wikimedia.org/wiki/Commons:Project_scope#Aim_of_Wikimedia_Commons">"Commons:Project scope"</a>. Wikimedia Commons editors<span class="reference-accessdate">. Retrieved <span class="nowrap">January 26,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikimedia+Commons&amp;rft.btitle=Commons%3AProject+scope&amp;rft.genre=unknown&amp;rft.pub=Wikimedia+Commons+editors&amp;rft_id=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FCommons%3AProject_scope%23Aim_of_Wikimedia_Commons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CCL-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-CCL_9-0">^</a></b></span> <span class="reference-text">See <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/">Creative Commons licenses</a>, of which "NonCommercial" and "NoDerivs" can not be used on Wikimedia Commons.</span></li>
+<li id="cite_note-Daily_Dot_Pricasso-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Daily_Dot_Pricasso_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dailydot.com/technology/wikimedia-commons-photos-jimmy-wales-broken/">"The Daily Dot – How Wikimedia Commons became a massive amateur porn hub"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikimedia+Commons&amp;rft.btitle=The+Daily+Dot+%E2%80%93+How+Wikimedia+Commons+became+a+massive+amateur+porn+hub&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dailydot.com%2Ftechnology%2Fwikimedia-commons-photos-jimmy-wales-broken%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BuzzFeed_dicks-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-BuzzFeed_dicks_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.buzzfeed.com/jackstuef/inside-the-seedy-world-of-wikipedia-exhibitionism">"The Epic Battle For Wikipedia's Autofellatio Page"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikimedia+Commons&amp;rft.btitle=The+Epic+Battle+For+Wikipedia%26%2339%3Bs+Autofellatio+Page&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.buzzfeed.com%2Fjackstuef%2Finside-the-seedy-world-of-wikipedia-exhibitionism&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.cnet.com/8301-1023_3-20005082-93.html">"Wikimedia's Wales gives up some top-level controls | Internet &amp; Media - CNET News"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikimedia+Commons&amp;rft.btitle=Wikimedia%27s+Wales+gives+up+some+top-level+controls+%7C+Internet+%26+Media+-+CNET+News&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.cnet.com%2F8301-1023_3-20005082-93.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Flickr-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Flickr_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=FlickrLickr&amp;dbname=commonswiki_p">"FlickrLickr image upload count"</a>. tools.wikimedia.de<span class="reference-accessdate">. Retrieved <span class="nowrap">July 30,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWikimedia+Commons&amp;rft.btitle=FlickrLickr+image+upload+count&amp;rft.genre=unknown&amp;rft.pub=tools.wikimedia.de&amp;rft_id=http%3A%2F%2Ftools.wikimedia.de%2F~interiot%2Fcgi-bin%2Fcount_edits%3Fuser%3DFlickrLickr%26dbname%3Dcommonswiki_p&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia_Commons&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-labelledby="sister-projects" class="metadata plainlinks plainlist mbox-small" style="border:1px solid #aaa; padding:0.75em; background:#f9f9f9;">
+<div style="padding-bottom: 0.75em; text-align: center;">Find more about<b style="display:block;">Wikimedia Commons</b>at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a></div>
+<ul style="border-top:1px solid #aaa; padding-top: 0.75em;">
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://commons.wikimedia.org/wiki/Special:Search/Wikimedia_Commons" class="extiw" title="c:Special:Search/Wikimedia Commons">Media</a> from Commons</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/27px-Wikibooks-logo.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/41px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/54px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikibooks.org/wiki/Wikimedia" class="extiw" title="b:Wikimedia">Textbooks</a> from Wikibooks</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/27px-Wikiversity-logo-en.svg.png" width="27" height="24" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/41px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/54px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiversity.org/wiki/Commons" class="extiw" title="v:Commons">Learning resources</a> from Wikiversity</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/27px-Wikidata-logo.svg.png" width="27" height="15" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/41px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/54px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://www.wikidata.org/wiki/Q565" class="extiw" title="d:Q565">Data</a> from Wikidata</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/27px-Wikimedia_Community_Logo.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/41px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/54px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://meta.wikimedia.org/wiki/Wikimedia_Commons" class="extiw" title="m:Wikimedia Commons">Discussion</a> from Meta-Wiki</span></li>
+</ul>
+</div>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="https://commons.wikimedia.org/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://archive.org/details/wikimediacommons">Mirror of Wikimedia Commons</a> by <a href="/wiki/WikiTeam" class="mw-redirect" title="WikiTeam">WikiTeam</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Wikimedia_Foundation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wikimedia_Foundation" title="Template:Wikimedia Foundation"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wikimedia_Foundation" title="Template talk:Wikimedia Foundation"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikimedia_Foundation&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Wikimedia_Foundation" style="font-size:114%;margin:0 4em"><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Current</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aaron_Halfaker" title="Aaron Halfaker">Aaron Halfaker</a></li>
+<li><a href="/wiki/James_Heilman" title="James Heilman">James Heilman</a></li>
+<li><a href="/wiki/Dariusz_Jemielniak" title="Dariusz Jemielniak">Dariusz Jemielniak</a></li>
+<li><a href="/wiki/Katherine_Maher" title="Katherine Maher">Katherine Maher</a></li>
+<li><a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Past</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hampton_Catlin" title="Hampton Catlin">Hampton Catlin</a></li>
+<li><a href="/wiki/Danese_Cooper" title="Danese Cooper">Danese Cooper</a></li>
+<li><a href="/wiki/Bishakha_Datta" title="Bishakha Datta">Bishakha Datta</a></li>
+<li><a href="/wiki/Florence_Devouard" title="Florence Devouard">Florence Devouard</a></li>
+<li><a href="/wiki/Oscar_van_Dillen" title="Oscar van Dillen">Oscar van Dillen</a></li>
+<li><a href="/wiki/Sue_Gardner" title="Sue Gardner">Sue Gardner</a></li>
+<li><a href="/wiki/Arnnon_Geshuri" title="Arnnon Geshuri">Arnnon Geshuri</a></li>
+<li><a href="/wiki/Mike_Godwin" title="Mike Godwin">Mike Godwin</a></li>
+<li><a href="/wiki/Guy_Kawasaki" title="Guy Kawasaki">Guy Kawasaki</a></li>
+<li><a href="/wiki/Erik_M%C3%B6ller" title="Erik Möller">Erik Möller</a></li>
+<li><a href="/wiki/Lila_Tretikov" title="Lila Tretikov">Lila Tretikov</a></li>
+<li><a href="/wiki/Luis_Villa" title="Luis Villa">Luis Villa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wikimedia_project" class="mw-redirect" title="Wikimedia project">Content projects</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>
+<ul>
+<li><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>
+<ul>
+<li><a href="/wiki/List_of_Wiktionaries" title="List of Wiktionaries">List of Wiktionaries</a></li>
+</ul>
+</li>
+<li><a class="mw-selflink selflink">Wikimedia Commons</a></li>
+<li><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a></li>
+<li><a href="/wiki/Wikiquote" title="Wikiquote">Wikiquote</a></li>
+<li><a href="/wiki/Wikibooks" title="Wikibooks">Wikibooks</a></li>
+<li><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a></li>
+<li><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a></li>
+<li><a href="/wiki/Wikinews" title="Wikinews">Wikinews</a></li>
+<li><a href="/wiki/Wikiversity" title="Wikiversity">Wikiversity</a></li>
+<li><a href="/wiki/Wikivoyage" title="Wikivoyage">Wikivoyage</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikimedia_movement" title="Wikimedia movement">Wikimedia movement</a>
+<ul>
+<li><a href="/wiki/List_of_Wikimedia_chapters" title="List of Wikimedia chapters">List of Wikimedia chapters</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikimania" title="Wikimania">Wikimania</a></li>
+<li><a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a></li>
+<li><a href="/wiki/Litigation_involving_the_Wikimedia_Foundation" title="Litigation involving the Wikimedia Foundation">Litigation</a>
+<ul>
+<li><i><a href="/wiki/Wikimedia_Foundation_v._NSA" title="Wikimedia Foundation v. NSA">Wikimedia v. NSA</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Knowledge_Engine_(Wikimedia_Foundation)" title="Knowledge Engine (Wikimedia Foundation)">Knowledge Engine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Signpost" title="The Signpost">The Signpost</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1276
+Cached time: 20170918143954
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.296 seconds
+Real time usage: 0.447 seconds
+Preprocessor visited node count: 2165/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66665/2097152 bytes
+Template argument size: 2950/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 4/500
+Lua time usage: 0.114/10.000 seconds
+Lua memory usage: 4.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  343.689      1 -total
+ 34.40%  118.245      1 Template:Reflist
+ 18.74%   64.418      1 Template:Infobox_website
+ 16.97%   58.337     10 Template:Cite_web
+ 16.89%   58.066      1 Template:Infobox
+ 11.36%   39.048      1 Template:ISSN
+ 10.19%   35.015      2 Template:Fix
+  9.93%   34.137      1 Template:Official_website
+  9.37%   32.209      1 Template:Failed_verification
+  6.87%   23.603      1 Template:Catalog_lookup_link
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18935434-0!canonical and timestamp 20170918143954 and revision id 801237602
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikimedia_Commons&amp;oldid=801237602">https://en.wikipedia.org/w/index.php?title=Wikimedia_Commons&amp;oldid=801237602</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_websites" title="Category:American websites">American websites</a></li><li><a href="/wiki/Category:Free_content" title="Category:Free content">Free content</a></li><li><a href="/wiki/Category:Image_hosting" title="Category:Image hosting">Image hosting</a></li><li><a href="/wiki/Category:Internet_properties_established_in_2004" title="Category:Internet properties established in 2004">Internet properties established in 2004</a></li><li><a href="/wiki/Category:MediaWiki_websites" title="Category:MediaWiki websites">MediaWiki websites</a></li><li><a href="/wiki/Category:Multilingual_websites" title="Category:Multilingual websites">Multilingual websites</a></li><li><a href="/wiki/Category:Open_content_projects" title="Category:Open content projects">Open content projects</a></li><li><a href="/wiki/Category:Photo_archives" title="Category:Photo archives">Photo archives</a></li><li><a href="/wiki/Category:Stock_photography" title="Category:Stock photography">Stock photography</a></li><li><a href="/wiki/Category:Video_hosting" title="Category:Video hosting">Video hosting</a></li><li><a href="/wiki/Category:Wikimedia_projects" title="Category:Wikimedia projects">Wikimedia projects</a></li><li><a href="/wiki/Category:Advertising-free_websites" title="Category:Advertising-free websites">Advertising-free websites</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Wikipedia indefinitely move-protected pages</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_February_2012" title="Category:Use mdy dates from February 2012">Use mdy dates from February 2012</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_June_2013" title="Category:Articles with failed verification from June 2013">Articles with failed verification from June 2013</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_April_2016" title="Category:Articles with dead external links from April 2016">Articles with dead external links from April 2016</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2010" title="Category:Articles needing additional references from June 2010">Articles needing additional references from June 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikimedia+Commons" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikimedia+Commons" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Wikimedia_Commons" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Wikimedia_Commons" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Wikimedia_Commons">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Wikimedia_Commons&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wikimedia_Commons&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikimedia_Commons" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikimedia_Commons" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikimedia_Commons&amp;oldid=801237602" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikimedia_Commons&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q565" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wikimedia_Commons&amp;id=801237602" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikimedia+Commons">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikimedia+Commons&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DWikimedia%2BCommons%26returnto%3DWikimedia%2BCommons%26oldid%3D801237602%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikimedia_Commons&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wikimedia_Commons" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Wikimedia_Commons" hreflang="en">Meta-Wiki</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D1%81%D1%83%D1%80%D1%8D%D1%82%D1%8B%D0%BB%D1%8A%D1%8D" title="Уикисурэтылъэ – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D9%85%D9%8A%D8%AF%D9%8A%D8%A7_%D9%83%D9%88%D9%85%D9%86%D8%B2" title="ويكيميديا كومنز – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%98%DC%9D%DC%A9%DC%9D%DC%A1%DC%9D%DC%95%DC%9D%DC%90_%DC%A9%DC%98%DC%A1%DC%A1%DC%98%DC%A2%DC%A3" title="ܘܝܩܝܡܝܕܝܐ ܩܘܡܡܘܢܣ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%B8" title="ৱিকিমিডিয়া কমন্স – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%B3%D1%8A%D0%B0%D0%BC%D0%B0%D1%81" title="Викигъамас – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%B8" title="উইকিমিডিয়া কমন্স – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Bahasa Banjar</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BC%D0%B8%D0%BB%D0%B5%D0%BA" title="Викимилек – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%81%D1%85%D0%BE%D0%B2%D1%96%D1%88%D1%87%D0%B0" title="Вікісховішча – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%81%D1%85%D0%BE%D0%B2%D1%96%D1%88%D1%87%D0%B0" title="Вікісховішча – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Wikimidia_Commons" title="Wikimidia Commons – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F" title="Общомедия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%B0%D0%BC%D0%BF%D0%B0%D1%80" title="Викиампар – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Comin_Wicimedia" title="Comin Wicimedia – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Vikimedia_Komunejo" title="Vikimedia Komunejo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Commons" title="Commons – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%85%D8%AF%DB%8C%D8%A7" title="انبار ویکی‌مدیا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/C%C3%B3mhaoin_Wikimedia" title="Cómhaoin Wikimedia – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AA%BF%E0%AA%95%E0%AA%BF%E0%AA%AE%E0%AB%80%E0%AA%A1%E0%AA%BF%E0%AA%AF%E0%AA%BE_%E0%AA%95%E0%AB%89%E0%AA%AE%E0%AA%A8%E0%AB%8D%E0%AA%B8" title="વિકિમીડિયા કૉમન્સ – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%AF%B8%EB%94%94%EC%96%B4_%EA%B3%B5%EC%9A%A9" title="위키미디어 공용 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D5%AB%D6%84%D5%AB%D5%BA%D5%A1%D5%B0%D5%A5%D5%BD%D5%BF" title="Վիքիպահեստ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AE%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%95%E0%A5%89%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%B8" title="विकिमीडिया कॉमन्स – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Zajedni%C4%8Dki_poslu%C5%BEitelj" title="Zajednički poslužitelj – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%B8" title="উইকিমিডিয়া কমন্স – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%9A%D1%8A%C3%A6%D0%B1%D0%B8%D1%86" title="ВикиКъæбиц – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A9%D7%99%D7%AA%D7%95%D7%A3" title="ויקישיתוף – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li><li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%A1%E1%83%90%E1%83%AC%E1%83%A7%E1%83%9D%E1%83%91%E1%83%98" title="ვიკისაწყობი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9E%D1%80%D1%82%D0%B0%D2%9B%D2%9B%D0%BE%D1%80" title="Ортаққор – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BA%D0%B0%D0%B7%D1%8B%D0%BD%D0%B0" title="Уикиказына – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Vikiteka" title="Vikiteka – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Vicimedia_Communia" title="Vicimedia Communia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Vikikr%C4%81tuve" title="Vikikrātuve – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Vikiteka" title="Vikiteka – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Wikim%C3%A9dia_Commons" title="Wikimédia Commons – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%95%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%B8" title="विकिमिडिया कमन्स – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B7%D0%BD%D0%B8%D1%86%D0%B0_(%D0%92%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D1%98%D0%B0)" title="Ризница (Викимедија) – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AE%E0%B5%80%E0%B4%A1%E0%B4%BF%E0%B4%AF_%E0%B4%95%E0%B5%8B%E0%B4%AE%E0%B5%BA%E0%B4%B8%E0%B5%8D" title="വിക്കിമീഡിയ കോമൺസ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li><li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li><li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9D%E1%83%AC%E1%83%99%E1%83%90%E1%83%A0%E1%83%A3%E1%83%94" title="ვიკიოწკარუე – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D9%85%D9%8A%D8%AF%D9%8A%D8%A7_%D9%83%D9%88%D9%85%D9%88%D9%86%D8%B2" title="ويكيميديا كومونز – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0_%D0%9A%D0%BE%D0%BC%D0%BC%D0%BE%D0%BD%D1%81" title="Викимедиа Коммонс – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%95%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%B8" title="विकिमिडिया कमन्स – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%A2%E3%83%B3%E3%82%BA" title="ウィキメディア・コモンズ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%B3%D1%83%D0%BB%D0%B0%D0%BC" title="Викигулам – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BA%D0%BB%D0%B0%D1%82" title="Викиклат – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%89%E0%AC%87%E0%AC%95%E0%AC%BF%E0%AC%95%E0%AC%AE%E0%AC%A8%E0%AD%8D%E0%AC%B8" title="ଉଇକିକମନ୍ସ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Vikiombor" title="Vikiombor – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A8%BF%E0%A8%95%E0%A9%80%E0%A8%AE%E0%A9%80%E0%A8%A1%E0%A9%80%E0%A8%86_%E0%A8%95%E0%A8%BE%E0%A8%AE%E0%A8%A8%E0%A8%9C%E0%A8%BC" title="ਵਿਕੀਮੀਡੀਆ ਕਾਮਨਜ਼ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Вікісклад – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Викисклад – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%88%DA%AA%D9%8A%D9%85%D9%8A%DA%8A%D9%8A%D8%A7_%D8%A7%D9%84%D8%B9%D8%A7%D9%85" title="وڪيميڊيا العام – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Wikimedijina_Zbirka" title="Wikimedijina Zbirka – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%85%DB%8C%D8%AF%DB%8C%D8%A7_%DA%A9%DB%86%D9%85%D9%86%D8%B2" title="ویکیمیدیا کۆمنز – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D1%98%D0%B8%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B0" title="Викимедијина остава – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AE%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE_%E0%AE%AA%E0%AF%8A%E0%AE%A4%E0%AF%81" title="விக்கிமீடியா பொது – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D2%97%D1%8B%D0%B5%D0%BD%D1%82%D1%8B%D0%BA" title="Викиҗыентык – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%80%E0%B0%AA%E0%B1%80%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE:%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%80%E0%B0%AE%E0%B1%80%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE_%E0%B0%95%E0%B0%BE%E0%B0%AE%E0%B0%A8%E0%B1%8D%E0%B0%B8%E0%B1%8D" title="వికీపీడియా:వికీమీడియా కామన్స్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B9%8C" title="วิกิมีเดียคอมมอนส์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%B0%D0%BD%D0%B1%D0%BE%D1%80" title="Викианбор – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%81%D1%85%D0%BE%D0%B2%D0%B8%D1%89%D0%B5" title="Вікісховище – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%85%DB%8C%DA%88%DB%8C%D8%A7_%D8%A7%D9%84%D8%B9%D8%A7%D9%85" title="ویکیمیڈیا العام – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Veizgiek_Gunghyungh" title="Veizgiek Gunghyungh – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%85%B1%E4%BA%AB" title="維基共享 – Classical Chinese" lang="zh-classical" hreflang="zh-classical" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%95%D7%95%D7%99%D7%A7%D7%99%D7%A7%D7%90%D7%9E%D7%90%D7%A0%D7%A1" title="וויקיקאמאנס – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%90%8C%E4%BA%AB" title="維基同享 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Vikit%C4%97ka" title="Vikitėka – Samogitian" lang="bat-smg" hreflang="bat-smg" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%95%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%B8" title="विकिमिडिया कमन्स – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q565#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 18 September 2017, at 14:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikimedia_Commons&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.447","ppvisitednodes":{"value":2165,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66665,"limit":2097152},"templateargumentsize":{"value":2950,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  343.689      1 -total"," 34.40%  118.245      1 Template:Reflist"," 18.74%   64.418      1 Template:Infobox_website"," 16.97%   58.337     10 Template:Cite_web"," 16.89%   58.066      1 Template:Infobox"," 11.36%   39.048      1 Template:ISSN"," 10.19%   35.015      2 Template:Fix","  9.93%   34.137      1 Template:Official_website","  9.37%   32.209      1 Template:Failed_verification","  6.87%   23.603      1 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.114","limit":"10.000"},"limitreport-memusage":{"value":4742101,"limit":52428800}},"cachereport":{"origin":"mw1276","timestamp":"20170918143954","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1240"});});</script>
+	</body>
+</html>

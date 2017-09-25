@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Interwiki links - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Interwiki_links","wgTitle":"Interwiki links","wgCurRevisionId":799710083,"wgRevisionId":799710083,"wgArticleId":14906,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wiki concepts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Interwiki_links","wgRelevantArticleId":14906,"wgRequestId":"WcYQTgpAADsAACSXW-sAAABJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q677652","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/42/Screenshot_showing_interwikilink_removal.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Interwiki_links"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Interwiki_links&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Interwiki_links&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Interwiki_links"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Interwiki_links rootpage-Interwiki_links skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Interwiki links</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable"><span class="plainlinks selfreference noprint">For interwiki related to the Wikimedia projects, see <a href="/wiki/Help:Interwikimedia_links" title="Help:Interwikimedia links">Help:Interwikimedia links</a> and <a href="/wiki/Help:Interlanguage_links" title="Help:Interlanguage links">Help:Interlanguage links</a>.</span></div>
+<div role="note" class="hatnote navigation-not-searchable"><span class="plainlinks selfreference noprint">For a huge interwiki map by the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>, see <a href="https://meta.wikimedia.org/wiki/Interwiki_map" class="extiw" title="m:Interwiki map">m:Interwiki map</a>.</span></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Screenshot_showing_interwikilink_removal.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Screenshot_showing_interwikilink_removal.JPG/220px-Screenshot_showing_interwikilink_removal.JPG" width="220" height="175" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Screenshot_showing_interwikilink_removal.JPG/330px-Screenshot_showing_interwikilink_removal.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Screenshot_showing_interwikilink_removal.JPG/440px-Screenshot_showing_interwikilink_removal.JPG 2x" data-file-width="815" data-file-height="650" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Screenshot_showing_interwikilink_removal.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Screenshot" title="Screenshot">Screenshot</a> showing interwiki link removal</div>
+</div>
+</div>
+<p><b>Interwiki linking</b> (<i>W-link</i>) is a facility for creating <a href="/wiki/Hyperlink" title="Hyperlink">links</a> to the many <a href="/wiki/Wiki" title="Wiki">wikis</a> on the <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a>. Users avoid pasting in entire <a href="/wiki/Uniform_Resource_Locator" class="mw-redirect" title="Uniform Resource Locator">URLs</a> (as they would for regular web pages) and instead use a <a href="/wiki/Shorthand" title="Shorthand">shorthand</a> similar to links within the same wiki (intrawiki links).</p>
+<p>Unlike <a href="/wiki/Domain_name" title="Domain name">domain names</a> on the Internet, there is no globally defined list of interwiki prefixes, so owners of a wiki must define an <b>interwiki map</b> (InterMap) appropriate to their needs. Users generally have to create separate accounts for each wiki they intend to use (unless they intend to edit anonymously). Variations in text formatting and layout can also hinder a seamless transition from one wiki to the next.</p>
+<p>By making wiki links simpler to type for the members of a particular community, these features help bring the different wikis closer together. Furthering that goal, interwiki "bus tours" (similar to <a href="/wiki/Webring" title="Webring">webrings</a>) have been created to explain the purposes and highlights of different wikis. Such examples on <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> include <a href="/wiki/Wikipedia:TourBusStop" title="Wikipedia:TourBusStop">Wikipedia:TourBusStop</a> and <a href="/wiki/Wikipedia:WikiNode" title="Wikipedia:WikiNode">Wikipedia:WikiNode</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Syntax"><span class="tocnumber">1</span> <span class="toctext">Syntax</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Implementation"><span class="tocnumber">2</span> <span class="toctext">Implementation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Syntax">Syntax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interwiki_links&amp;action=edit&amp;section=1" title="Edit section: Syntax">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Interwiki link notation varies, depending largely on the syntax a wiki uses for markup. The two most common link patterns in wikis are <a href="/wiki/CamelCase" class="mw-redirect" title="CamelCase">CamelCase</a> and free links (arbitrary phrases surrounded by some set <a href="/wiki/Delimiter" title="Delimiter">delimiter</a>, such as [[double square brackets]]). <a href="/wiki/CURIE" title="CURIE">CURIE</a> syntax -an emerging W3C standard- uses a single set of square brackets.</p>
+<p>Interwiki links on a CamelCase-based wiki frequently take the form of "Code:PageName", where <i>Code</i> is the defined InterMap prefix for another wiki. Thus, a link "WikiPedia:InterWiki" could be rendered in <a href="/wiki/HTML" title="HTML">HTML</a> as a link to an article on Wikipedia: for example, <a href="/wiki/Wikipedia:Interlanguage_links" class="mw-redirect" title="Wikipedia:Interlanguage links">Wikipedia:Interlanguage links</a>. Linking from a CamelCase-wiki to a page that contains spaces in its title typically requires replacing the spaces with underscores (e.g. WikiPedia:Main_Page).</p>
+<p>Interwiki links on wikis based on free links, such as Wikipedia, typically follow the same principle, but using the delimiters that would be used for internal links. These links can then be parsed and escaped as they would be if they were internal, allowing easier typing of spaces but potentially causing problems with other special characters. For example, on Wikipedia, <code>[[MeatBall:AssumeGoodFaith]]</code> appears as <a href="http://meatballwiki.org/wiki/AssumeGoodFaith" class="extiw" title="meatball:AssumeGoodFaith">MeatBall:AssumeGoodFaith</a>, and <code>[[:de:InterWiki]]</code> (former syntax: <code>[[DeWikipedia:InterWiki]]</code>) appears as <a href="https://de.wikipedia.org/wiki/InterWiki" class="extiw" title="de:InterWiki">de:InterWiki</a>.</p>
+<p>The <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> software has an additional feature which uses similar notation to create automatic interlanguage links — for instance, the link <code>[[de:InterWiki]]</code> (with no leading colon) automatically creates a reference labeled "Other languages: <a href="https://de.wikipedia.org/wiki/InterWiki" class="extiw" title="de:InterWiki">Deutsch</a> | ..." at the top and bottom of, or in a sidebar next to, the article display. Various other <a href="/wiki/Wiki_software" title="Wiki software">wiki software</a> systems have features for "semi-internal" links of this kind, such as support for <a href="/wiki/Namespace" title="Namespace">namespaces</a> or multiple sub-communities.</p>
+<p>Most InterMap implementations simply substitute the interwiki prefix with a full URL prefix, so many non-wiki websites can also be referred to using the system. A reference to a definition on the <a href="/wiki/Free_On-line_Dictionary_of_Computing" title="Free On-line Dictionary of Computing">Free On-line Dictionary of Computing</a>, for instance, could take the form <code>[[Foldoc:foo]]</code> which would tell the system to append and display the link as <a rel="nofollow" class="external text" href="http://foldoc.org/foldoc.cgi?foo">Foldoc:foo</a>. This makes it very easy to link to commonly referenced resources from within a wiki page, without the need to even know the form of the URL in question.</p>
+<p>The interwiki concept can equally be applied to links <i>from</i> non-wiki websites. <a href="/wiki/Advogato" title="Advogato">Advogato</a>, for instance, offers a syntax for creating shorthand links based on a MeatBall-derived InterMap.</p>
+<h2><span class="mw-headline" id="Implementation">Implementation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interwiki_links&amp;action=edit&amp;section=2" title="Edit section: Implementation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Internally, a wiki that uses interwiki links needs to have a mapping from wiki-code links to full URLs. For example, <code>[[MeatBall:InterWiki]]</code> might appear as <a href="http://meatballwiki.org/wiki/InterWiki" class="extiw" title="meatball:InterWiki">MeatBall:InterWiki</a>, but link to <code><a rel="nofollow" class="external free" href="http://usemod.com/cgi-bin/mb.pl?InterWiki">http://usemod.com/cgi-bin/mb.pl?InterWiki</a></code>.</p>
+<p>Since most wiki systems use URLs for individual pages where the page's title appears at the end of an otherwise unchanging address, the simplest way of defining such mappings is by substituting the interwiki prefix for the unchanging part of the URL. So in the example above, the <code>MeatBall:</code> has simply been replaced by <code>http://usemod.com/cgi-bin/mb.pl?</code> in creating the target of the <a href="/wiki/HTML" title="HTML">HTML</a> rendered link.</p>
+<p>Rather than creating a new list from scratch for every wiki, it is often useful to obtain a copy of that from another site. Sites such as <a href="/wiki/MeatballWiki" title="MeatballWiki">MeatballWiki</a> <a rel="nofollow" class="external autonumber" href="http://www.usemod.com/cgi-bin/mb.pl?InterMap">[1]</a> and the <a href="/wiki/UseModWiki" title="UseModWiki">UseModWiki</a> site contain comprehensive lists which are often used for this purpose - the former being publicly editable in the same way as any other wiki page, and the latter being verified as usable but potentially out of date. MediaWiki's default list of interwiki links is derived from an old version of MeatballWiki's list.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interwiki_links&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Wikipedia:InterWikimedia_links" class="mw-redirect" title="Wikipedia:InterWikimedia links">Wikipedia:InterWikimedia links</a></li>
+<li><a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects">Wikipedia:Wikimedia sister projects</a></li>
+<li><a href="/wiki/Help:Interlanguage_links" title="Help:Interlanguage links">Help:Interlanguage links</a></li>
+<li><a href="/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>
+<ul>
+<li><a href="https://en.wiktionary.org/wiki/interwiki" class="extiw" title="wiktionary:interwiki">wiktionary:interwiki</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikimedia_Meta-Wiki" class="mw-redirect" title="Wikimedia Meta-Wiki">Wikimedia Meta-Wiki</a>
+<ul>
+<li><a href="https://meta.wikimedia.org/wiki/Help:Interwiki_linking" class="extiw" title="meta:Help:Interwiki linking">meta:Help:Interwiki linking</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a>
+<ul>
+<li><a href="https://commons.wikimedia.org/wiki/Category:CommonsRoot" class="extiw" title="commons:Category:CommonsRoot">commons:Category:CommonsRoot</a></li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interwiki_links&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://svn.wikimedia.org/viewvc/mediawiki/trunk/phase3/maintenance/interwiki.list?view=markup">"[mediawiki] Contents of /trunk/phase3/maintenance/interwiki.list"</a>. Svn.wikimedia.org. 2008-02-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-02-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInterwiki+links&amp;rft.btitle=%5Bmediawiki%26%2393%3B+Contents+of+%2Ftrunk%2Fphase3%2Fmaintenance%2Finterwiki.list&amp;rft.date=2008-02-27&amp;rft.genre=unknown&amp;rft.pub=Svn.wikimedia.org&amp;rft_id=http%3A%2F%2Fsvn.wikimedia.org%2Fviewvc%2Fmediawiki%2Ftrunk%2Fphase3%2Fmaintenance%2Finterwiki.list%3Fview%3Dmarkup&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://svn.wikimedia.org/viewvc/mediawiki/trunk/phase3/maintenance/interwiki.sql?view=markup">"[mediawiki] Contents of /trunk/phase3/maintenance/interwiki.sql"</a>. Svn.wikimedia.org. 2008-02-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-02-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInterwiki+links&amp;rft.btitle=%5Bmediawiki%26%2393%3B+Contents+of+%2Ftrunk%2Fphase3%2Fmaintenance%2Finterwiki.sql&amp;rft.date=2008-02-27&amp;rft.genre=unknown&amp;rft.pub=Svn.wikimedia.org&amp;rft_id=http%3A%2F%2Fsvn.wikimedia.org%2Fviewvc%2Fmediawiki%2Ftrunk%2Fphase3%2Fmaintenance%2Finterwiki.sql%3Fview%3Dmarkup&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<ul>
+<li>Dan Woods, Peter Thoeny, <i>Wikis for Dummies</i>, <a href="/wiki/For_Dummies" title="For Dummies">For Dummies</a>, 2007, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-470-04399-7" title="Special:BookSources/0-470-04399-7">0-470-04399-7</a>, p.&#160;140</li>
+<li>Daniel J. Barrett, <i>MediaWiki</i>, <a href="/wiki/O%27Reilly_Media" title="O'Reilly Media">O'Reilly Media</a>, 2008, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-596-51979-6" title="Special:BookSources/0-596-51979-6">0-596-51979-6</a>, p.&#160;84</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Interwiki_links&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/interwiki_links" class="extiw" title="wiktionary:Special:Search/interwiki links">interwiki links</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a href="https://meta.wikimedia.org/wiki/Interwiki_map" class="extiw" title="m:Interwiki map">m:Interwiki map</a>, a huge Interwiki map by the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.usemod.com/cgi-bin/mb.pl?FileReplacement">Discussion of the FileReplacement concept</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.usemod.com/cgi-bin/mb.pl?InterMap">Discussion of the InterWiki concept</a> at <a href="/wiki/MeatballWiki" title="MeatballWiki">MeatballWiki</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Wikis" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wiki_topics" title="Template:Wiki topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wiki_topics" title="Template talk:Wiki topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wiki_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Wikis" style="font-size:114%;margin:0 4em"><a href="/wiki/Wiki" title="Wiki">Wikis</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Types</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Personal_wiki" title="Personal wiki">Personal</a></li>
+<li><a href="/wiki/List_of_medical_wikis" title="List of medical wikis">Medical</a></li>
+<li><a href="/wiki/Semantic_wiki" title="Semantic wiki">Semantic</a></li>
+<li><a href="/wiki/Wiki_hosting_service" title="Wiki hosting service">Wiki farm</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Components</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wiki_software" title="Wiki software">Software</a></li>
+<li><a class="mw-selflink selflink">Interwiki links</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Lists</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_wikis" title="List of wikis">Wikis</a></li>
+<li><a href="/wiki/List_of_wiki_software" title="List of wiki software">Software</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Comparisons</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_wiki_software" title="Comparison of wiki software">Software</a></li>
+<li><a href="/wiki/Comparison_of_wiki_hosting_services" title="Comparison of wiki hosting services">Wiki farms</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">See also</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_wikis" title="History of wikis">History</a></li>
+<li><a href="/wiki/Creole_(markup)" title="Creole (markup)">Creole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1256
+Cached time: 20170923062450
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.092 seconds
+Real time usage: 0.131 seconds
+Preprocessor visited node count: 887/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17730/2097152 bytes
+Template argument size: 1342/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 2.08 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  106.579      1 -total
+ 36.83%   39.251      1 Template:Reflist
+ 29.09%   31.004      2 Template:Cite_web
+ 23.47%   25.014      2 Template:ISBN
+ 17.35%   18.497      2 Template:Selfref
+ 15.86%   16.906      2 Template:Hatnote
+ 10.75%   11.460      2 Template:Catalog_lookup_link
+  9.36%    9.980      1 Template:Wiki_topics
+  8.25%    8.792      1 Template:Navbox
+  8.10%    8.636      1 Template:Wiktionary
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14906-0!canonical and timestamp 20170923062449 and revision id 799710083
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Interwiki_links&amp;oldid=799710083">https://en.wikipedia.org/w/index.php?title=Interwiki_links&amp;oldid=799710083</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wiki_concepts" title="Category:Wiki concepts">Wiki concepts</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Interwiki+links" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Interwiki+links" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Interwiki_links" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Interwiki_links" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Interwiki_links">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Interwiki_links&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Interwiki_links&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Interwiki_links" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Interwiki_links" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Interwiki_links&amp;oldid=799710083" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Interwiki_links&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q677652" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Interwiki_links&amp;id=799710083" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Interwiki+links">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Interwiki+links&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DInterwiki%2Blinks%26returnto%3DInterwiki%2Blinks%26oldid%3D799710083%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Interwiki_links&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D8%B5%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%88%D9%8A%D9%83%D9%8A" title="وصلات الإنترويكي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B8%D0%BA%D0%B8" title="Интервики – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/InterWiki" title="InterWiki – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Interwiki" title="Interwiki – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/InterWiki" title="InterWiki – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Interwiki" title="Interwiki – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ligaz%C3%B3ns_interwiki" title="Ligazóns interwiki – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EC%9C%84%ED%82%A4" title="인터위키 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Pranala_interwiki" title="Pranala interwiki – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Pranala_interwiki" title="Pranala interwiki – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Interwiki" title="Interwiki – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%B1%D9%88%D9%8A%D9%83%D9%89" title="انترويكى – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE%E0%A4%A5%E0%A4%A8/%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B0%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF_%E0%A4%A8%E0%A4%AD%E0%A4%8F%E0%A4%95%E0%A5%8B_-%E0%A5%A7" title="विकिपीडिया:डेटाथन/इन्टरविकि नभएको -१ – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A6%E3%82%A3%E3%82%AD" title="インターウィキ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Liga%C3%A7%C3%B5es_interwiki" title="Ligações interwiki – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B8%D0%BA%D0%B8" title="Интервики – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%B7%A8Wiki%E9%93%BE%E6%8E%A5" title="跨Wiki链接 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q677652#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 9 September 2017, at 11:05.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Interwiki_links&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.092","walltime":"0.131","ppvisitednodes":{"value":887,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17730,"limit":2097152},"templateargumentsize":{"value":1342,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  106.579      1 -total"," 36.83%   39.251      1 Template:Reflist"," 29.09%   31.004      2 Template:Cite_web"," 23.47%   25.014      2 Template:ISBN"," 17.35%   18.497      2 Template:Selfref"," 15.86%   16.906      2 Template:Hatnote"," 10.75%   11.460      2 Template:Catalog_lookup_link","  9.36%    9.980      1 Template:Wiki_topics","  8.25%    8.792      1 Template:Navbox","  8.10%    8.636      1 Template:Wiktionary"]},"scribunto":{"limitreport-timeusage":{"value":"0.028","limit":"10.000"},"limitreport-memusage":{"value":2177253,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20170923062450","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1264"});});</script>
+	</body>
+</html>

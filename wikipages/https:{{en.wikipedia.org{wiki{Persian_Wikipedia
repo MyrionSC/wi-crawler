@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Persian Wikipedia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Persian_Wikipedia","wgTitle":"Persian Wikipedia","wgCurRevisionId":799502851,"wgRevisionId":799502851,"wgArticleId":2245256,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be expanded from August 2011","All articles to be expanded","Articles needing translation from Persian Wikipedia","Pages using deprecated image syntax","Articles containing Persian-language text","Articles with Persian-language external links","Wikipedias by language","Persian encyclopedias","Persian-language websites","21st-century encyclopedias"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Persian_Wikipedia","wgRelevantArticleId":2245256,"wgRequestId":"WcBLSQpAAEMAAHxLdKwAAAAN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q48952","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikipedia-logo-v2-fa.svg/1200px-Wikipedia-logo-v2-fa.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Persian_Wikipedia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Persian_Wikipedia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Persian_Wikipedia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Persian_Wikipedia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Persian_Wikipedia rootpage-Persian_Wikipedia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Persian Wikipedia</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-notice" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/75px-Translation_to_english_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/100px-Translation_to_english_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></div>
+</td>
+<td class="mbox-text">
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="background:transparent;text-align:center;padding-right: 3em; font-weight: normal; text-align: left"><span class="mbox-text-span">This article <b>may be expanded with text translated from the <a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7%DB%8C_%D9%81%D8%A7%D8%B1%D8%B3%DB%8C" class="extiw" title="fa:ویکی‌پدیای فارسی">corresponding article</a> in Persian</b>.  <i><small>(August 2011)</small></i> <small>Click [show] for important translation instructions.</small>&#160;</span></div>
+<div class="NavContent" style="background:transparent;text-align:left;">
+<ul>
+<li><span class="mbox-text-span"><a rel="nofollow" class="external text" href="https://translate.google.com/translate?&amp;u=https%3A%2F%2Ffa.wikipedia.org%2Fwiki%2F%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7%DB%8C+%D9%81%D8%A7%D8%B1%D8%B3%DB%8C&amp;sl=fa&amp;tl=en&amp;prev=_t&amp;hl=en">View</a> a machine-translated version of the Persian article.</span></li>
+<li><span class="mbox-text-span">Google's machine translation is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.</span></li>
+<li><span class="mbox-text-span">Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.</span></li>
+<li><span class="mbox-text-span">Upon the translation you <b>must</b> provide <a href="/wiki/Wikipedia:Copying_within_Wikipedia" title="Wikipedia:Copying within Wikipedia">copyright attribution</a> in the <a href="/wiki/Help:Edit_summary" title="Help:Edit summary">edit summary</a> by noting your translation and providing an <a href="/wiki/Help:Interlanguage_links" title="Help:Interlanguage links">interlanguage link</a> to the source of your translation. You should also add to the <a href="/wiki/Talk:Persian_Wikipedia" title="Talk:Persian Wikipedia">talk page</a> the template <code>{{Translated|fa|ویکی‌پدیای فارسی}}</code>. A model attribution edit summary (using German): <code>Content in this edit is translated from the existing German Wikipedia article at [[:de:Exact name of German article]]; see its history for attribution.</code></span></li>
+<li><span class="mbox-text-span">For more guidance, see <a href="/wiki/Wikipedia:Translation" title="Wikipedia:Translation">Wikipedia:Translation</a>.</span></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org"><a href="/wiki/File:Wikipedia%27s_W.svg" class="image" title="Favicon of Wikipedia"><img alt="Favicon of Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/17px-Wikipedia%27s_W.svg.png" width="17" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/26px-Wikipedia%27s_W.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/34px-Wikipedia%27s_W.svg.png 2x" data-file-width="128" data-file-height="128" /></a> Persian Wikipedia</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Wikipedia-logo-v2-fa.svg" class="image"><img alt="Wikipedia-logo-v2-fa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikipedia-logo-v2-fa.svg/127px-Wikipedia-logo-v2-fa.svg.png" width="127" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikipedia-logo-v2-fa.svg/191px-Wikipedia-logo-v2-fa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikipedia-logo-v2-fa.svg/254px-Wikipedia-logo-v2-fa.svg.png 2x" data-file-width="135" data-file-height="155" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="background:transparent;text-align:left;background:gainsboro;text-align:center">Screenshot&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;text-align:center"><a href="/wiki/File:Persian_Wikipedia%27s_Main_Page_screenshotV2.png" class="image"><img alt="The main page of the Persian Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Persian_Wikipedia%27s_Main_Page_screenshotV2.png/300px-Persian_Wikipedia%27s_Main_Page_screenshotV2.png" width="300" height="556" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Persian_Wikipedia%27s_Main_Page_screenshotV2.png/450px-Persian_Wikipedia%27s_Main_Page_screenshotV2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Persian_Wikipedia%27s_Main_Page_screenshotV2.png/600px-Persian_Wikipedia%27s_Main_Page_screenshotV2.png 2x" data-file-width="1423" data-file-height="2636" /></a>
+<div>The main page of the Persian Wikipedia</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Type of site</div>
+</th>
+<td><a href="/wiki/Internet_encyclopedia" class="mw-redirect" title="Internet encyclopedia">Internet encyclopedia</a></td>
+</tr>
+<tr>
+<th scope="row">Available&#160;in</th>
+<td><a href="/wiki/Persian_language" title="Persian language">Persian</a></td>
+</tr>
+<tr>
+<th scope="row">Owner</th>
+<td><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a> (non-profit)</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td class="url"><a class="external text" href="http://fa.wikipedia.org/">fa.wikipedia.org</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th>
+<td>
+<p><a href="/wiki/Iran" title="Iran">Iran</a>: <img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> <b>3</b> (April 2017)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><br /></p>
+<a href="/wiki/Persian_language" title="Persian language">Persian</a>: <b>1</b> (April 2017)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Commercial</th>
+<td>No</td>
+</tr>
+<tr>
+<th scope="row">Registration</th>
+<td>Optional (required only for certain tasks such as editing protected pages, creating pages or uploading files)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Registered_user" title="Registered user">Users</a></th>
+<td>669,086 (total registered, as of 21 August 2017)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Launched</th>
+<td>December&#160;19, 2003<span class="noprint">; 13 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2003-12-19</span>)</span></td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Content license</div>
+</th>
+<td><span class="nowrap"><a href="/wiki/Creative_Commons_licenses" class="mw-redirect" title="Creative Commons licenses">Creative Commons Attribution/<br />
+Share-Alike</a> 3.0</span> (most text also dual-licensed under <a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>)<br />
+Media licensing varies</td>
+</tr>
+</table>
+<p>The <b>Persian Wikipedia</b> (<a href="/wiki/Persian_language" title="Persian language">Persian</a>: <span lang="fa" dir="rtl" xml:lang="fa">ویکی‌پدیا، دانشنامهٔ آزاد</span>‎‎, <a href="/wiki/Romanize" class="mw-redirect" title="Romanize">Romanized</a> as <i>Wikipediā, Dānešnāme-ye Āzād / "Wikipedia, The Free Encyclopedia"</i>) is the <a href="/wiki/Persian_language" title="Persian language">Persian language</a> version of <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, pronounced "Wikipedia (Wikipediā)". The Persian version of Wikipedia was started in December 2003. It passed 1,000 articles on December 16, 2004 and 200,000 articles on July 10, 2012. <a href="/wiki/Roozbeh_Pournader" title="Roozbeh Pournader">Roozbeh Pournader</a> is the project's first <a href="/wiki/System_operator" class="mw-redirect" title="System operator">system operator</a>, developer and bureaucrat.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Number_of_articles"><span class="tocnumber">1</span> <span class="toctext">Number of articles</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Article_depth"><span class="tocnumber">2</span> <span class="toctext">Article depth</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Censorship"><span class="tocnumber">3</span> <span class="toctext">Censorship</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Number_of_articles">Number of articles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Persian_Wikipedia&amp;action=edit&amp;section=1" title="Edit section: Number of articles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In January 2013, close to 50,000 new articles were added within a month. A few days later, on 19 February 2013, the Persian Wikipedia reached 300,000 articles, ranking it 18th among all Wikipedias based on number of articles.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>This edition of Wikipedia now contains 572,517 articles.</p>
+<p>History of articles number:</p>
+<ul>
+<li>19 December 2003, started</li>
+<li>30 October 2008, reached 50,000 articles</li>
+<li>25 August 2010, reached 100,000 articles</li>
+<li>9 July 2012, reached 200,000 articles</li>
+<li>19 February 2013, reached 300,000 articles</li>
+<li>18 July 2014, reached 400,000 articles</li>
+<li>27 July 2016, reached 500,000 articles</li>
+<li>28 July 2017, reached 570,000 articles<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Article_depth">Article depth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Persian_Wikipedia&amp;action=edit&amp;section=2" title="Edit section: Article depth">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>With <a href="https://meta.wikimedia.org/wiki/Wikipedia_article_depth" class="extiw" title="meta:Wikipedia article depth">article depth</a> of 213, the Persian Wikipedia is currently ranked 7th among all Wikipedias based on article depth.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Censorship">Censorship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Persian_Wikipedia&amp;action=edit&amp;section=3" title="Edit section: Censorship">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In a November 2013 report published by the <a href="/wiki/Center_for_Global_Communication_Studies" title="Center for Global Communication Studies">Center for Global Communication Studies</a> of the <a href="/wiki/University_of_Pennsylvania" title="University of Pennsylvania">University of Pennsylvania</a>, researchers Collin Anderson and Nima Nazeri scanned 800,000 Persian language Wikipedia articles and found that the Iranian government blocks 963 of these pages. According to the authors, "Censors repeatedly targeted Wikipedia pages about government rivals, minority religious beliefs, and criticisms of the state, officials, and the police. Just under half of the blocked Wiki-pages are biographies, including pages about individuals the authorities have allegedly detained or killed."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Anderson said that Persian Wikipedia, as a microcosm of the Iranian internet, is a "useful place to uncover the types of online content forbidden and an excellent template to identify keyword blocking themes and filtering rules that apply across the greater internet."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Persian_Wikipedia&amp;action=edit&amp;section=4" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Persian_Wikipedia%27s_Featured_Nowruz_Logo_(2015).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282015%29.svg/104px-Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282015%29.svg.png" width="104" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282015%29.svg/157px-Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282015%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282015%29.svg/209px-Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282015%29.svg.png 2x" data-file-width="135" data-file-height="155" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Persian Wikipedia's <a href="/wiki/Nowruz" title="Nowruz">Nowruz</a> logo (21 March 2015)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Persian_Wikipedia%27s_Featured_Nowruz_Logo_(2016).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282016%29.svg/104px-Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282016%29.svg.png" width="104" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282016%29.svg/157px-Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282016%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282016%29.svg/209px-Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282016%29.svg.png 2x" data-file-width="135" data-file-height="155" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Persian Wikipedia's <a href="/wiki/Nowruz" title="Nowruz">Nowruz</a> logo (21 March 2016)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Persian_Wikipedia%27s_500,000_article_featured_logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Persian_Wikipedia%27s_500%2C000_article_featured_logo.svg/104px-Persian_Wikipedia%27s_500%2C000_article_featured_logo.svg.png" width="104" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Persian_Wikipedia%27s_500%2C000_article_featured_logo.svg/157px-Persian_Wikipedia%27s_500%2C000_article_featured_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Persian_Wikipedia%27s_500%2C000_article_featured_logo.svg/209px-Persian_Wikipedia%27s_500%2C000_article_featured_logo.svg.png 2x" data-file-width="135" data-file-height="155" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Persian Wikipedia's 500,000 article logo (27 July 2016)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Persian_Wikipedia%27s_Featured_Nowruz_Logo_(2017).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282017%29.svg/104px-Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282017%29.svg.png" width="104" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282017%29.svg/157px-Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282017%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282017%29.svg/209px-Persian_Wikipedia%27s_Featured_Nowruz_Logo_%282017%29.svg.png 2x" data-file-width="135" data-file-height="155" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Persian Wikipedia's <a href="/wiki/Nowruz" title="Nowruz">Nowruz</a> logo (21 March 2017)</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Persian_Wikipedia&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Persian_Wikipedia&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/topsites/category/Top/World/Persian">"Alexa - Top Sites in Iran"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersian+Wikipedia&amp;rft.btitle=Alexa+-+Top+Sites+in+Iran&amp;rft.genre=unknown&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Ftopsites%2Fcategory%2FTop%2FWorld%2FPersian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/topsites/category/Top/World/Persian/%D9%85%D8%B1%D8%AC%D8%B9">"Alexa - Top Sites in: All Categories &gt; World &gt; Persian"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersian+Wikipedia&amp;rft.btitle=Alexa+-+Top+Sites+in%3A+All+Categories+%3E+World+%3E+Persian&amp;rft.genre=unknown&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Ftopsites%2Fcategory%2FTop%2FWorld%2FPersian%2F%25D9%2585%25D8%25B1%25D8%25AC%25D8%25B9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://meta.wikimedia.org/wiki/List_of_Wikipedias#100_000.2B_articles">List of Wikipedias</a>. Wikimedia.org. 13 January 2014. Retrieved 13 January 2014.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://meta.wikimedia.org/wiki/List_of_Wikipedias#100_000.2B_articles">List of Wikipedias</a>. Wikimedia.org. 19 February 2013. Retrieved 19 February 2013.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/Table&amp;oldid=9236136">List of Wikipedias/Table</a> meta.wikimedia.org, Statistics at 12:00, 18 July 2014 (UTC)</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="http://meta.wikimedia.org/wiki/List_of_Wikipedias#100_000.2B_articles">List of Wikipedias</a>. Wikimedia.org. 24 October 2015. Retrieved 24 October 2015.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Anderson, Colin; Nazeri, Nima (7 November 2013). <a rel="nofollow" class="external text" href="http://www.global.asc.upenn.edu/fileLibrary/PDFs/CItation_Filtered_Wikipedia_Report_11_5_2013-2.pdf">"Citation Filtered: Iran's Censorship of Wikipedia"</a> <span style="font-size:85%;">(PDF)</span>. Center for Global Communication Studies (University of Pennsylvania).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersian+Wikipedia&amp;rft.au=Nazeri%2C+Nima&amp;rft.aufirst=Colin&amp;rft.aulast=Anderson&amp;rft.btitle=Citation+Filtered%3A+Iran%27s+Censorship+of+Wikipedia&amp;rft.date=2013-11-07&amp;rft.genre=unknown&amp;rft.pub=Center+for+Global+Communication+Studies+%28University+of+Pennsylvania%29&amp;rft_id=http%3A%2F%2Fwww.global.asc.upenn.edu%2FfileLibrary%2FPDFs%2FCItation_Filtered_Wikipedia_Report_11_5_2013-2.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.buzzfeed.com/charliewarzel/how-iran-uses-wikipedia-to-censor-the-internet">"How Iran Uses Wikipedia To Censor The Internet"</a>. BuzzFeed. 12 November 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APersian+Wikipedia&amp;rft.atitle=How+Iran+Uses+Wikipedia+To+Censor+The+Internet&amp;rft.date=2013-11-12&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.buzzfeed.com%2Fcharliewarzel%2Fhow-iran-uses-wikipedia-to-censor-the-internet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Persian_Wikipedia&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png" width="40" height="37" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/80px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></td>
+<td class="mbox-text plainlist"><i><b><a href="https://fa.wikipedia.org/wiki/" class="extiw" title="fa:">Persian edition</a></b></i> of <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, the free encyclopedia</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://fa.wikipedia.org/">Persian Wikipedia</a> <span class="languageicon">(in Persian)</span></li>
+<li><a class="external text" href="http://fa.m.wikipedia.org/">Persian Wikipedia mobile version</a> <span class="languageicon">(in Persian)</span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="List_of_Wikipedias_by_article_count" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wikipedias" title="Template:Wikipedias"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wikipedias" title="Template talk:Wikipedias"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikipedias&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="List_of_Wikipedias_by_article_count" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a> by article count</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">5,000,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/English_Wikipedia" title="English Wikipedia">English</a></li>
+<li><a href="/wiki/Cebuano_Wikipedia" class="mw-redirect" title="Cebuano Wikipedia">Cebuano</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2,000,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Swedish_Wikipedia" title="Swedish Wikipedia">Swedish</a></li>
+<li><a href="/wiki/German_Wikipedia" title="German Wikipedia">German</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dutch_Wikipedia" title="Dutch Wikipedia">Dutch</a></li>
+<li><a href="/wiki/French_Wikipedia" title="French Wikipedia">French</a></li>
+<li><a href="/wiki/Russian_Wikipedia" title="Russian Wikipedia">Russian</a></li>
+<li><a href="/wiki/Italian_Wikipedia" title="Italian Wikipedia">Italian</a></li>
+<li><a href="/wiki/Spanish_Wikipedia" title="Spanish Wikipedia">Spanish</a></li>
+<li><a href="/wiki/Waray_Wikipedia" title="Waray Wikipedia">Waray</a></li>
+<li><a href="/wiki/Polish_Wikipedia" title="Polish Wikipedia">Polish</a></li>
+<li><a href="/wiki/Vietnamese_Wikipedia" title="Vietnamese Wikipedia">Vietnamese</a></li>
+<li><a href="/wiki/Japanese_Wikipedia" title="Japanese Wikipedia">Japanese</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Portuguese_Wikipedia" title="Portuguese Wikipedia">Portuguese</a></li>
+<li><a href="/wiki/Chinese_Wikipedia" title="Chinese Wikipedia">Chinese</a></li>
+<li><a href="/wiki/Ukrainian_Wikipedia" title="Ukrainian Wikipedia">Ukrainian</a></li>
+<li><a class="mw-selflink selflink">Persian</a></li>
+<li><a href="/wiki/Catalan_Wikipedia" title="Catalan Wikipedia">Catalan</a></li>
+<li><a href="/wiki/Arabic_Wikipedia" title="Arabic Wikipedia">Arabic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Norwegian_Wikipedia" title="Norwegian Wikipedia">Norwegian (bokmål/riksmål)</a></li>
+<li><a href="/wiki/Serbo-Croatian_Wikipedia" title="Serbo-Croatian Wikipedia">Serbo-Croatian</a></li>
+<li><a href="/wiki/Finnish_Wikipedia" title="Finnish Wikipedia">Finnish</a></li>
+<li><a href="/wiki/Hungarian_Wikipedia" title="Hungarian Wikipedia">Hungarian</a></li>
+<li><a href="/wiki/Indonesian_Wikipedia" title="Indonesian Wikipedia">Indonesian</a></li>
+<li><a href="/wiki/Korean_Wikipedia" title="Korean Wikipedia">Korean</a></li>
+<li><a href="/wiki/Czech_Wikipedia" title="Czech Wikipedia">Czech</a></li>
+<li><a href="/wiki/Romanian_Wikipedia" title="Romanian Wikipedia">Romanian</a></li>
+<li><a href="/wiki/Serbian_Wikipedia" title="Serbian Wikipedia">Serbian</a></li>
+<li><a href="/wiki/Malay_Wikipedia" title="Malay Wikipedia">Malay</a></li>
+<li><a href="/wiki/Turkish_Wikipedia" title="Turkish Wikipedia">Turkish</a></li>
+<li><a href="/wiki/Basque_Wikipedia" title="Basque Wikipedia">Basque</a></li>
+<li><a href="/wiki/Esperanto_Wikipedia" title="Esperanto Wikipedia">Esperanto</a></li>
+<li><a href="/wiki/Bulgarian_Wikipedia" title="Bulgarian Wikipedia">Bulgarian</a></li>
+<li><a href="/wiki/Danish_Wikipedia" title="Danish Wikipedia">Danish</a></li>
+<li><a href="/wiki/Armenian_Wikipedia" title="Armenian Wikipedia">Armenian</a></li>
+<li><a href="/wiki/Slovak_Wikipedia" title="Slovak Wikipedia">Slovak</a></li>
+<li><a href="/wiki/Minangkabau_Wikipedia" class="mw-redirect" title="Minangkabau Wikipedia">Minangkabau</a></li>
+<li><a href="/wiki/Min_Nan_Wikipedia" class="mw-redirect" title="Min Nan Wikipedia">Min Nan</a></li>
+<li><a href="/wiki/Kazakh_Wikipedia" title="Kazakh Wikipedia">Kazakh</a></li>
+<li><a href="/wiki/Hebrew_Wikipedia" title="Hebrew Wikipedia">Hebrew</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lithuanian_Wikipedia" title="Lithuanian Wikipedia">Lithuanian</a></li>
+<li><a href="/wiki/Croatian_Wikipedia" title="Croatian Wikipedia">Croatian</a></li>
+<li><a href="/wiki/Chechen_Wikipedia" class="mw-redirect" title="Chechen Wikipedia">Chechen</a></li>
+<li><a href="/wiki/Estonian_Wikipedia" title="Estonian Wikipedia">Estonian</a></li>
+<li><a href="/wiki/Slovene_Wikipedia" title="Slovene Wikipedia">Slovene</a></li>
+<li><a href="/wiki/Belarusian_Wikipedia" title="Belarusian Wikipedia">Belarusian</a></li>
+<li><a href="/wiki/Galician_Wikipedia" title="Galician Wikipedia">Galician</a></li>
+<li><a href="/wiki/Greek_Wikipedia" title="Greek Wikipedia">Greek</a></li>
+<li><a href="/wiki/Norwegian_Wikipedia" title="Norwegian Wikipedia">Norwegian (nynorsk)</a></li>
+<li><a href="/wiki/Uzbek_Wikipedia" title="Uzbek Wikipedia">Uzbek</a></li>
+<li><a href="/wiki/Simple_English_Wikipedia" title="Simple English Wikipedia">Simple English</a></li>
+<li><a href="/wiki/Latin_Wikipedia" title="Latin Wikipedia">Latin</a></li>
+<li><a href="/wiki/Azerbaijani_Wikipedia" title="Azerbaijani Wikipedia">Azerbaijani</a></li>
+<li><a href="/wiki/Urdu_Wikipedia" title="Urdu Wikipedia">Urdu</a></li>
+<li><a href="/wiki/Hindi_Wikipedia" title="Hindi Wikipedia">Hindi</a></li>
+<li><a href="/wiki/Volap%C3%BCk_Wikipedia" class="mw-redirect" title="Volapük Wikipedia">Volapük</a></li>
+<li><a href="/wiki/Thai_Wikipedia" title="Thai Wikipedia">Thai</a></li>
+<li><a href="/wiki/Georgian_Wikipedia" title="Georgian Wikipedia">Georgian</a></li>
+<li><a href="/wiki/Tamil_Wikipedia" title="Tamil Wikipedia">Tamil</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">50,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Welsh_Wikipedia" title="Welsh Wikipedia">Welsh</a></li>
+<li><a href="/wiki/Macedonian_Wikipedia" title="Macedonian Wikipedia">Macedonian</a></li>
+<li><a href="/wiki/Occitan_Wikipedia" title="Occitan Wikipedia">Occitan</a></li>
+<li><a href="/wiki/Malagasy_Wikipedia" title="Malagasy Wikipedia">Malagasy</a></li>
+<li><a href="/wiki/Latvian_Wikipedia" title="Latvian Wikipedia">Latvian</a></li>
+<li><a href="/wiki/Bosnian_Wikipedia" title="Bosnian Wikipedia">Bosnian</a></li>
+<li><a href="/wiki/Tagalog_Wikipedia" title="Tagalog Wikipedia">Tagalog</a></li>
+<li><a href="/wiki/Kyrgyz_Wikipedia" title="Kyrgyz Wikipedia">Kirghiz</a></li>
+<li><a href="/wiki/Nepal_Bhasa_Wikipedia" title="Nepal Bhasa Wikipedia">Newar</a></li>
+<li><a href="/wiki/Tatar_Wikipedia" title="Tatar Wikipedia">Tatar</a></li>
+<li><a href="/wiki/Tajik_Wikipedia" class="mw-redirect" title="Tajik Wikipedia">Tajik</a></li>
+<li><a href="/wiki/Telugu_Wikipedia" title="Telugu Wikipedia">Telugu</a></li>
+<li><a href="/wiki/Albanian_Wikipedia" title="Albanian Wikipedia">Albanian</a></li>
+<li><a href="/wiki/Piedmontese_Wikipedia" class="mw-redirect" title="Piedmontese Wikipedia">Piedmontese</a></li>
+<li><a href="/wiki/Breton_Wikipedia" title="Breton Wikipedia">Breton</a></li>
+<li><a href="/wiki/Belarusian_(Tara%C5%A1kievica)_Wikipedia" class="mw-redirect" title="Belarusian (Taraškievica) Wikipedia">Belarusian (Taraškievica)</a></li>
+<li><a href="/wiki/Cantonese_Wikipedia" title="Cantonese Wikipedia">Cantonese</a></li>
+<li><a href="/wiki/Malayalam_Wikipedia" title="Malayalam Wikipedia">Malayalam</a></li>
+<li><a href="/wiki/Bengali_Wikipedia" title="Bengali Wikipedia">Bengali</a></li>
+<li><a href="/wiki/Haitian_Creole_Wikipedia" class="mw-redirect" title="Haitian Creole Wikipedia">Haitian</a></li>
+<li><a href="/wiki/Javanese_Wikipedia" title="Javanese Wikipedia">Javanese</a></li>
+<li><a href="/wiki/Asturian_Wikipedia" title="Asturian Wikipedia">Asturian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">20,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Luxembourgish_Wikipedia" title="Luxembourgish Wikipedia">Luxembourgish</a></li>
+<li><a href="/wiki/Marathi_Wikipedia" title="Marathi Wikipedia">Marathi</a></li>
+<li><a href="/wiki/Afrikaans_Wikipedia" title="Afrikaans Wikipedia">Afrikaans</a></li>
+<li><a href="/wiki/Scots_Wikipedia" title="Scots Wikipedia">Scots</a></li>
+<li><a href="/wiki/Western_Punjabi_Wikipedia" class="mw-redirect" title="Western Punjabi Wikipedia">Western Punjabi</a></li>
+<li><a href="/wiki/Icelandic_Wikipedia" class="mw-redirect" title="Icelandic Wikipedia">Icelandic</a></li>
+<li><a href="/wiki/Irish_Wikipedia" title="Irish Wikipedia">Irish</a></li>
+<li><a href="/wiki/Chuvash_Wikipedia" title="Chuvash Wikipedia">Chuvash</a></li>
+<li><a href="/wiki/West_Frisian_Wikipedia" title="West Frisian Wikipedia">West Frisian</a></li>
+<li><a href="/wiki/Sundanese_Wikipedia" class="mw-redirect" title="Sundanese Wikipedia">Sundanese</a></li>
+<li><a href="/wiki/Swahili_Wikipedia" title="Swahili Wikipedia">Swahili</a></li>
+<li><a href="/wiki/Burmese_Wikipedia" title="Burmese Wikipedia">Burmese</a></li>
+<li><a href="/wiki/Aragonese_Wikipedia" title="Aragonese Wikipedia">Aragonese</a></li>
+<li><a href="/wiki/Yoruba_Wikipedia" title="Yoruba Wikipedia">Yoruba</a></li>
+<li><a href="/wiki/Ido_Wikipedia" class="mw-redirect" title="Ido Wikipedia">Ido</a></li>
+<li><a href="/wiki/Punjabi_Wikipedia" title="Punjabi Wikipedia">Punjabi</a></li>
+<li><a href="/wiki/Sicilian_Wikipedia" title="Sicilian Wikipedia">Sicilian</a></li>
+<li><a href="/wiki/Bishnupriya_Manipuri_Wikipedia" class="mw-redirect" title="Bishnupriya Manipuri Wikipedia">Bishnupriya Manipuri</a></li>
+<li><a href="/wiki/Alemannic_Wikipedia" title="Alemannic Wikipedia">Alemannic</a></li>
+<li><a href="/wiki/Kannada_Wikipedia" title="Kannada Wikipedia">Kannada</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">10,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mongolian_Wikipedia" title="Mongolian Wikipedia">Mongolian</a></li>
+<li><a href="/wiki/Egyptian_Arabic_Wikipedia" title="Egyptian Arabic Wikipedia">Egyptian Arabic</a></li>
+<li><a href="/wiki/Samogitian_Wikipedia" title="Samogitian Wikipedia">Samogitian</a></li>
+<li><a href="/wiki/Yiddish_Wikipedia" title="Yiddish Wikipedia">Yiddish</a></li>
+<li><a href="/wiki/Odia_Wikipedia" title="Odia Wikipedia">Odia</a></li>
+<li><a href="/wiki/Sanskrit_Wikipedia" title="Sanskrit Wikipedia">Sanskrit</a></li>
+<li><a href="/wiki/Mengrelian_Wikipedia" class="mw-redirect" title="Mengrelian Wikipedia">Mengrelian</a></li>
+<li><a href="/wiki/Ossetian_Wikipedia" title="Ossetian Wikipedia">Ossetian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pashto_Wikipedia" title="Pashto Wikipedia">Pashto</a></li>
+<li><a href="/wiki/Sindhi_Wikipedia" title="Sindhi Wikipedia">Sindhi</a></li>
+<li><a href="/wiki/Northern_Sami_Wikipedia" title="Northern Sami Wikipedia">Northern Sami</a></li>
+<li><a href="/wiki/Dutch_Low_Saxon_Wikipedia" title="Dutch Low Saxon Wikipedia">Dutch Low Saxon</a></li>
+<li><a href="/wiki/Classical_Chinese_Wikipedia" class="mw-redirect" title="Classical Chinese Wikipedia">Classical Chinese</a></li>
+<li><a href="/wiki/Silesian_Wikipedia" title="Silesian Wikipedia">Silesian</a></li>
+<li><a href="/wiki/Crimean_Tatar_Wikipedia" title="Crimean Tatar Wikipedia">Crimean Tatar</a></li>
+<li><a href="/wiki/Assamese_Wikipedia" title="Assamese Wikipedia">Assamese</a></li>
+<li><a href="/wiki/Konkani_Wikipedia" title="Konkani Wikipedia">Konkani</a></li>
+<li><a href="/wiki/Uyghur_Wikipedia" title="Uyghur Wikipedia">Uyghur</a></li>
+<li><a href="/wiki/Ripuarian_Wikipedia" title="Ripuarian Wikipedia">Ripuarian</a></li>
+<li><a href="/wiki/Aramaic_Wikipedia" class="mw-redirect" title="Aramaic Wikipedia">Aramaic</a></li>
+<li><a href="/wiki/Wolof_Wikipedia" title="Wolof Wikipedia">Wolof</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zulu_Wikipedia" title="Zulu Wikipedia">Zulu</a></li>
+<li><a href="/wiki/Tulu_Wikipedia" title="Tulu Wikipedia">Tulu</a></li>
+<li><a href="/wiki/Xhosa_Wikipedia" title="Xhosa Wikipedia">Xhosa</a></li>
+<li><a href="/wiki/Bambara_Wikipedia" title="Bambara Wikipedia">Bambara</a></li>
+<li><a href="/wiki/Venda_Wikipedia" class="mw-redirect" title="Venda Wikipedia">Venda</a></li>
+<li><a href="/wiki/Cree_Wikipedia" class="mw-redirect" title="Cree Wikipedia">Cree</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1187
+Cached time: 20170918104313
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.304 seconds
+Real time usage: 0.384 seconds
+Preprocessor visited node count: 1940/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 62404/2097152 bytes
+Template argument size: 4496/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 4/500
+Lua time usage: 0.077/10.000 seconds
+Lua memory usage: 3.12 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  327.748      1 -total
+ 26.38%   86.456      1 Template:Depth
+ 25.68%   84.180      6 Template:NUMBEROF
+ 24.81%   81.322      6 Template:NUMBEROF/data
+ 19.93%   65.309      1 Template:Reflist
+ 18.61%   60.982      1 Template:Infobox_website
+ 18.07%   59.239      1 Template:Expand_Persian
+ 16.88%   55.326      1 Template:Infobox
+ 13.80%   45.225      1 Template:Expand_language
+ 13.22%   43.330      3 Template:Cite_web
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2245256-0!canonical and timestamp 20170918104313 and revision id 799502851
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Persian_Wikipedia&amp;oldid=799502851">https://en.wikipedia.org/w/index.php?title=Persian_Wikipedia&amp;oldid=799502851</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedias_by_language" title="Category:Wikipedias by language">Wikipedias by language</a></li><li><a href="/wiki/Category:Persian_encyclopedias" title="Category:Persian encyclopedias">Persian encyclopedias</a></li><li><a href="/wiki/Category:Persian-language_websites" title="Category:Persian-language websites">Persian-language websites</a></li><li><a href="/wiki/Category:21st-century_encyclopedias" title="Category:21st-century encyclopedias">21st-century encyclopedias</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_expanded_from_August_2011" title="Category:Articles to be expanded from August 2011">Articles to be expanded from August 2011</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_needing_translation_from_Persian_Wikipedia" title="Category:Articles needing translation from Persian Wikipedia">Articles needing translation from Persian Wikipedia</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_Persian-language_text" title="Category:Articles containing Persian-language text">Articles containing Persian-language text</a></li><li><a href="/wiki/Category:Articles_with_Persian-language_external_links" title="Category:Articles with Persian-language external links">Articles with Persian-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Persian+Wikipedia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Persian+Wikipedia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Persian_Wikipedia" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Persian_Wikipedia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Persian_Wikipedia">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Persian_Wikipedia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Persian_Wikipedia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Persian_Wikipedia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Persian_Wikipedia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Persian_Wikipedia&amp;oldid=799502851" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Persian_Wikipedia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q48952" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Persian_Wikipedia&amp;id=799502851" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Persian+Wikipedia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Persian+Wikipedia&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DPersian%2BWikipedia%26returnto%3DPersian%2BWikipedia%26oldid%3D799502851%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Persian_Wikipedia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Persian_Wikipedia" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Persiese_Wikipedia" title="Persiese Wikipedia – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D8%B3%D9%8A%D8%A9" title="ويكيبيديا الفارسية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%AB%E0%A6%BE%E0%A7%B0%E0%A7%8D%E0%A6%9A%E0%A7%80_%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="ফাৰ্চী ৱিকিপিডিয়া – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Farsca_Vikipediya" title="Farsca Vikipediya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%BF_%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="ফার্সি উইকিপিডিয়া – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Pho-su-b%C3%BBn_Wikipedia" title="Pho-su-bûn Wikipedia – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%81%D1%96%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%8B%D1%8F" title="Персідская Вікіпедыя – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9F%D1%8D%D1%80%D1%81%D1%8B%D0%B4%D0%B7%D0%BA%D0%B0%D1%8F_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F" title="Пэрсыдзкая Вікіпэдыя – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8_%D0%B5%D0%B7%D0%B8%D0%BA" title="Уикипедия на персийски език – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Viquip%C3%A8dia_en_persa" title="Viquipèdia en persa – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%81_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9%C4%95" title="Перс Википедийĕ – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Persk%C3%A1_Wikipedie" title="Perská Wikipedie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Persisk_Wikipedia" title="Persisk Wikipedia – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Persischsprachige_Wikipedia" title="Persischsprachige Wikipedia – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CF%81%CF%83%CE%B9%CE%BA%CE%AE_%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1" title="Περσική Βικιπαίδεια – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikipedia_en_persa" title="Wikipedia en persa – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Perslingva_Vikipedio" title="Perslingva Vikipedio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Persierazko_Wikipedia" title="Persierazko Wikipedia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7%DB%8C_%D9%81%D8%A7%D8%B1%D8%B3%DB%8C" title="ویکی‌پدیای فارسی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia_en_persan" title="Wikipédia en persan – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8E%98%EB%A5%B4%EC%8B%9C%EC%95%84%EC%96%B4_%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC" title="페르시아어 위키백과 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D6%80%D5%BD%D5%AF%D5%A5%D6%80%D5%A5%D5%B6_%D5%8E%D5%AB%D6%84%D5%AB%D5%BA%D5%A5%D5%A4%D5%AB%D5%A1" title="Պարսկերեն Վիքիպեդիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BC%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%80_%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="फ़ारसी विकिपीडिया – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Wikipedija_na_perzijskom_jeziku" title="Wikipedija na perzijskom jeziku – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikipedia_bahasa_Persia" title="Wikipedia bahasa Persia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Wikipedia_in_persiano" title="Wikipedia in persiano – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%94%D7%A4%D7%A8%D7%A1%D7%99%D7%AA" title="ויקיפדיה הפרסית – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%9E%E1%83%90%E1%83%A0%E1%83%A1%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90" title="სპარსული ვიკიპედია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%81%D1%8B%D1%88%D0%B0_%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Парсыша Уикипедия – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Wikipedia_ya_Kiajemi" title="Wikipedia ya Kiajemi – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Vikip%C4%93dija_persie%C5%A1u_valod%C4%81" title="Vikipēdija persiešu valodā – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D1%81%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA" title="Википедија на персиски јазик – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D9%81%D8%A7%D8%B1%D8%B3%D9%89" title="ويكيبيديا فارسى – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C_%D9%88%DB%8C%DA%A9%DB%8C_%D9%BE%D8%AF%DB%8C%D8%A7" title="فارسی ویکی پدیا – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wikipedia_Bahasa_Parsi" title="Wikipedia Bahasa Parsi – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Perzische_Wikipedia" title="Perzische Wikipedia – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%B7%E3%82%A2%E8%AA%9E%E7%89%88%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2" title="ペルシア語版ウィキペディア – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%93%D3%80%D0%B0%D0%B6%D0%B0%D1%80%D0%B8%D0%B9%D0%BD_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8" title="ГӀажарийн Википеди – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Forscha_Vikipediya" title="Forscha Vikipediya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Perska_Wikipedia" title="Perska Wikipedia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia_em_persa" title="Wikipédia em persa – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Wikipedia_%C3%AEn_persan%C4%83" title="Wikipedia în persană – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Персидская Википедия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Persian_Wikipedia" title="Persian Wikipedia – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%D8%AF%DB%8C%D8%A7%DB%8C_%D9%81%D8%A7%D8%B1%D8%B3%DB%8C" title="ویکیپیدیای فارسی – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D1%98%D1%81%D0%BA%D0%BE%D0%BC_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA%D1%83" title="Википедија на персијском језику – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Perzijska_Wikipedija" title="Perzijska Wikipedija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Persiankielinen_Wikipedia" title="Persiankielinen Wikipedia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wikipediang_Persa" title="Wikipediang Persa – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AE%9A%E0%AF%80%E0%AE%95_%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE" title="பாரசீக விக்கிப்பீடியா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D1%81%D1%8B_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D0%B5" title="Фарсы Википедиясе – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2" title="วิกิพีเดียภาษาเปอร์เซีย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B0%D0%B8_%D0%A4%D0%BE%D1%80%D1%81%D3%A3" title="Википедиаи Форсӣ – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Fars%C3%A7a_Vikipedi" title="Farsça Vikipedi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F" title="Перська Вікіпедія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Wikipedia_ti%E1%BA%BFng_Ba_T%C6%B0" title="Wikipedia tiếng Ba Tư – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E6%B3%A2%E6%96%AF%E6%96%87%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8" title="波斯文維基大典 – Classical Chinese" lang="zh-classical" hreflang="zh-classical" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%B3%A2%E6%96%AF%E6%96%87%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" title="波斯文維基百科 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Wikipediya_Farski" title="Wikipediya Farski – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%96%AF%E8%AA%9E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" title="波斯語維基百科 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q48952#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 8 September 2017, at 03:06.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Persian_Wikipedia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.384","ppvisitednodes":{"value":1940,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":62404,"limit":2097152},"templateargumentsize":{"value":4496,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  327.748      1 -total"," 26.38%   86.456      1 Template:Depth"," 25.68%   84.180      6 Template:NUMBEROF"," 24.81%   81.322      6 Template:NUMBEROF/data"," 19.93%   65.309      1 Template:Reflist"," 18.61%   60.982      1 Template:Infobox_website"," 18.07%   59.239      1 Template:Expand_Persian"," 16.88%   55.326      1 Template:Infobox"," 13.80%   45.225      1 Template:Expand_language"," 13.22%   43.330      3 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.077","limit":"10.000"},"limitreport-memusage":{"value":3271606,"limit":52428800}},"cachereport":{"origin":"mw1187","timestamp":"20170918104313","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>

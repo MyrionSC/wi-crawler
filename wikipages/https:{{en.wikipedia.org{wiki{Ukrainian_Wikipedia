@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ukrainian Wikipedia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ukrainian_Wikipedia","wgTitle":"Ukrainian Wikipedia","wgCurRevisionId":796085305,"wgRevisionId":796085305,"wgArticleId":1481810,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","CS1 Ukrainian-language sources (uk)","All articles lacking reliable references","Articles lacking reliable references from October 2015","Articles with Russian-language external links","Articles to be expanded from August 2011","All articles to be expanded","Articles needing translation from Ukrainian Wikipedia","Pages using deprecated image syntax","Articles containing Ukrainian-language text","Articles with Ukrainian-language external links","Wikipedias by language","Ukrainian-language websites","Education in Ukraine","Internet properties established in 2004","Ukrainian-language encyclopedias","21st-century encyclopedias"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ukrainian_Wikipedia","wgRelevantArticleId":1481810,"wgRequestId":"WcGNZApAEK0AABuLUcAAAACL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q199698","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wikipedia-logo-v2-uk.svg/1200px-Wikipedia-logo-v2-uk.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ukrainian_Wikipedia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ukrainian_Wikipedia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ukrainian_Wikipedia rootpage-Ukrainian_Wikipedia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ukrainian Wikipedia</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-notice" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/75px-Translation_to_english_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/100px-Translation_to_english_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></div>
+</td>
+<td class="mbox-text">
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="background:transparent;text-align:center;padding-right: 3em; font-weight: normal; text-align: left"><span class="mbox-text-span">This article <b>may be expanded with text translated from the <a href="https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F" class="extiw" title="uk:Українська Вікіпедія">corresponding article</a> in Ukrainian</b>.  <i><small>(August 2011)</small></i> <small>Click [show] for important translation instructions.</small>&#160;</span></div>
+<div class="NavContent" style="background:transparent;text-align:left;">
+<ul>
+<li><span class="mbox-text-span"><a rel="nofollow" class="external text" href="https://translate.google.com/translate?&amp;u=https%3A%2F%2Fuk.wikipedia.org%2Fwiki%2F%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0+%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F&amp;sl=uk&amp;tl=en&amp;prev=_t&amp;hl=en">View</a> a machine-translated version of the Ukrainian article.</span></li>
+<li><span class="mbox-text-span">Google's machine translation is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.</span></li>
+<li><span class="mbox-text-span">Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.</span></li>
+<li><span class="mbox-text-span">Upon the translation you <b>must</b> provide <a href="/wiki/Wikipedia:Copying_within_Wikipedia" title="Wikipedia:Copying within Wikipedia">copyright attribution</a> in the <a href="/wiki/Help:Edit_summary" title="Help:Edit summary">edit summary</a> by noting your translation and providing an <a href="/wiki/Help:Interlanguage_links" title="Help:Interlanguage links">interlanguage link</a> to the source of your translation. You should also add to the <a href="/wiki/Talk:Ukrainian_Wikipedia" title="Talk:Ukrainian Wikipedia">talk page</a> the template <code>{{Translated|uk|Українська Вікіпедія}}</code>. A model attribution edit summary (using German): <code>Content in this edit is translated from the existing German Wikipedia article at [[:de:Exact name of German article]]; see its history for attribution.</code></span></li>
+<li><span class="mbox-text-span">For more guidance, see <a href="/wiki/Wikipedia:Translation" title="Wikipedia:Translation">Wikipedia:Translation</a>.</span></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org"><a href="/wiki/File:Wikipedia%27s_W.svg" class="image" title="Favicon of Wikipedia"><img alt="Favicon of Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/17px-Wikipedia%27s_W.svg.png" width="17" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/26px-Wikipedia%27s_W.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/34px-Wikipedia%27s_W.svg.png 2x" data-file-width="128" data-file-height="128" /></a> Ukrainian Wikipedia</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Wikipedia-logo-v2-uk.svg" class="image"><img alt="Logo of the Ukrainian Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wikipedia-logo-v2-uk.svg/135px-Wikipedia-logo-v2-uk.svg.png" width="135" height="155" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wikipedia-logo-v2-uk.svg/203px-Wikipedia-logo-v2-uk.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wikipedia-logo-v2-uk.svg/270px-Wikipedia-logo-v2-uk.svg.png 2x" data-file-width="135" data-file-height="155" /></a>
+<div>The <a href="/wiki/Logo_of_Wikipedia" class="mw-redirect" title="Logo of Wikipedia">logo</a> of Ukrainian Wikipedia, a globe featuring <a href="/wiki/Glyph" title="Glyph">glyphs</a> from several writing systems</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="background:transparent;text-align:left;background:gainsboro;text-align:center">Screenshot&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;text-align:center"><a href="/wiki/File:UkrainianWikipediaMainpageScreenshot.png" class="image" title="The Main Page of the Ukrainian Wikipedia on November 16th, 2015."><img alt="The Main Page of the Ukrainian Wikipedia on November 16th, 2015." src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/UkrainianWikipediaMainpageScreenshot.png/280px-UkrainianWikipediaMainpageScreenshot.png" width="280" height="495" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/UkrainianWikipediaMainpageScreenshot.png/420px-UkrainianWikipediaMainpageScreenshot.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/UkrainianWikipediaMainpageScreenshot.png/560px-UkrainianWikipediaMainpageScreenshot.png 2x" data-file-width="1583" data-file-height="2798" /></a>
+<div>The homepage of the Ukrainian Wikipedia.</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Type of site</div>
+</th>
+<td><a href="/wiki/Internet_encyclopedia_project" class="mw-redirect" title="Internet encyclopedia project">Internet encyclopedia project</a></td>
+</tr>
+<tr>
+<th scope="row">Available&#160;in</th>
+<td><a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a></td>
+</tr>
+<tr>
+<th scope="row">Headquarters</th>
+<td class="adr"><span class="locality"><a href="/wiki/Miami,_Florida" class="mw-redirect" title="Miami, Florida">Miami, Florida</a></span></td>
+</tr>
+<tr>
+<th scope="row">Owner</th>
+<td><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Slogan" title="Slogan">Slogan(s)</a></th>
+<td><a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a>: <span lang="uk">Вільна енциклопедія</span> (The Free Encyclopedia)</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td class="url"><span class="url"><a class="external text" href="https://uk.wikipedia.org">uk<wbr />.wikipedia<wbr />.org</a></span></td>
+</tr>
+<tr>
+<th scope="row">Commercial</th>
+<td>No</td>
+</tr>
+<tr>
+<th scope="row">Registration</th>
+<td>Optional (but required to create articles)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Registered_user" title="Registered user">Users</a></th>
+<td>371900</td>
+</tr>
+<tr>
+<th scope="row">Launched</th>
+<td>January&#160;30, 2004<span class="noprint">; 13 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2004-01-30</span>)</span></td>
+</tr>
+</table>
+<p>The <b>Ukrainian Wikipedia</b> (<a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a>: <span lang="uk">Українська Вікіпедія</span>, <i>Ukrayins'ka Vikipediya</i>) is the <a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian language</a> edition of the free online encyclopedia <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>. The first article was written on January 30, 2004. Currently (September 2017), Ukrainian Wikipedia has 732,632 articles and is the 16th largest Wikipedia edition.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Quality_of_articles_and_popularity"><span class="tocnumber">1</span> <span class="toctext">Quality of articles and popularity</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Articles_about_the_history_of_Ukrainian_language"><span class="tocnumber">2</span> <span class="toctext">Articles about the history of Ukrainian language</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Articles_about_history_and_science"><span class="tocnumber">3</span> <span class="toctext">Articles about history and science</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Blackout"><span class="tocnumber">4</span> <span class="toctext">Blackout</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Statistics"><span class="tocnumber">5</span> <span class="toctext">Statistics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Milestones"><span class="tocnumber">5.1</span> <span class="toctext">Milestones</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Quality_of_articles_and_popularity">Quality of articles and popularity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit&amp;section=1" title="Edit section: Quality of articles and popularity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the Ukrainian Wikipedia one area of knowledge has been covered to an extent greater than all other Wikipedias — the subject of mining, due to the considerable contribution by one person, <a href="/wiki/Volodymyr_Biletskyy" title="Volodymyr Biletskyy">Volodymyr Biletsky</a>, a professor at <a href="/wiki/Donetsk_National_Technical_University" title="Donetsk National Technical University">Donetsk National Technical University</a>. Using as a basis his published <i><a href="/wiki/Mining_Encyclopedia" title="Mining Encyclopedia">Encyclopedia of Mining</a></i>, Biletsky has contributed over 10,000 articles on the subject to Ukrainian Wikipedia.<sup id="cite_ref-Bondarenko_2-0" class="reference"><a href="#cite_note-Bondarenko-2">[2]</a></sup> Also, in 2013 the Institute of History of Ukraine at the <a href="/wiki/National_Academy_of_Science_of_Ukraine" class="mw-redirect" title="National Academy of Science of Ukraine">National Academy of Science</a> gave permission to the Ukrainian Wikipedia to use the digital version of the Encyclopedia of Ukraine's History that was published online. The Higher School Academy of Science and Forest Engineering also allowed Wikipedia to freely use their information resources.<sup id="cite_ref-Day_3-0" class="reference"><a href="#cite_note-Day-3">[3]</a></sup></p>
+<p>One of the areas where activity is notable is in <a href="/wiki/Wiki_Loves_Monuments" title="Wiki Loves Monuments">Wiki Loves Monuments</a> project, an annual international photo contest focused on cultural and historical monuments. Ukrainian Wikipedians were ranked 4th among 36 participating countries for the number of uploads of images as part of this project in 2012.<sup id="cite_ref-Day_3-1" class="reference"><a href="#cite_note-Day-3">[3]</a></sup><sup id="cite_ref-WLM_4-0" class="reference"><a href="#cite_note-WLM-4">[4]</a></sup> In 2014 Ukrainian Wikipedians were winners.</p>
+<h2><span class="mw-headline" id="Articles_about_the_history_of_Ukrainian_language">Articles about the history of Ukrainian language</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit&amp;section=2" title="Edit section: Articles about the history of Ukrainian language">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A significant number of articles in Ukrainian Wikipedia relate to the history of the development of the <a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian language</a>. A study in August 2012 counted over 8,000 articles mentioning the term "Ukrainian language" and over 1,400 articles with the term "history of Ukrainian language" and concluded that collectively represented a good coverage of its history and concepts. Articles about the history of Ukrainian language included articles about early publications like bibles printed in Ukrainian, grammar books, changes in phonetics through time, Ukrainian calligraphy, history of Ukrainian language within the context of the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>, linguicide and the <a href="/wiki/Chronology_of_Ukrainian_language_bans" class="mw-redirect" title="Chronology of Ukrainian language bans">banning of Ukrainian language</a> by the Russian Government.<sup id="cite_ref-Chyrkov1_5-0" class="reference"><a href="#cite_note-Chyrkov1-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Articles_about_history_and_science">Articles about history and science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit&amp;section=3" title="Edit section: Articles about history and science">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At the end of 2012 Ukrainian Wikipedia contained over 1,500 articles relating to <a href="/wiki/Ukrainian_history" class="mw-redirect" title="Ukrainian history">Ukrainian history</a>.<sup id="cite_ref-Chyrkov2_6-0" class="reference"><a href="#cite_note-Chyrkov2-6">[6]</a></sup> As of June 2012 the Ukrainian Wikipedia contained 52 specific articles about <a href="/wiki/Category:Ukrainian_astronomers" title="Category:Ukrainian astronomers">Ukrainian astronomers</a> and <a href="/wiki/Geodesist" class="mw-redirect" title="Geodesist">astronomo-geodesists</a>, which have now been collated into a published book.<sup id="cite_ref-Litnarovych_7-0" class="reference"><a href="#cite_note-Litnarovych-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Blackout">Blackout</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit&amp;section=4" title="Edit section: Blackout">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On January 21, 2014, the Ukrainian Wikipedia community decided to block access to the portal every day between 4:00 and 4:30 PM in protest of <a href="/wiki/Anti-protest_laws_in_Ukraine" title="Anti-protest laws in Ukraine">"dictatorship laws" in Ukraine</a>, that restrict the freedom of speech and pose a threat to the portal.<sup id="cite_ref-Kyiv_Post_8-0" class="reference"><a href="#cite_note-Kyiv_Post-8">[8]</a></sup><sup id="cite_ref-zakon_9-0" class="reference"><a href="#cite_note-zakon-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="Statistics">Statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit&amp;section=5" title="Edit section: Statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable" align="right" style="text-align: center;">
+<tr>
+<th colspan="4">Ukrainian Wikipedia <span class="noprint plainlinks purgelink"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Ukrainian_Wikipedia&amp;action=purge"><span title="Purge this page"><small>(update)</small></span></a></span></th>
+</tr>
+<tr>
+<td><b><a href="/wiki/Wikipedia:What_is_an_article%3F" title="Wikipedia:What is an article?">Articles</a></b></td>
+<td>732632</td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Help:Files" title="Help:Files">Files</a></b></td>
+<td>88813</td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Help:Editing" title="Help:Editing">Edits</a></b></td>
+<td>21281977</td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Wikipedia:Wikipedians" title="Wikipedia:Wikipedians">Users</a></b></td>
+<td>371900</td>
+</tr>
+<tr>
+<td><b>Active users</b><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[a]</a></sup></td>
+<td>4951</td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Wikipedia:Administrators" title="Wikipedia:Administrators">Admins</a></b></td>
+<td>40</td>
+</tr>
+</table>
+<p>On October 1, 2005, Ukrainian Wikipedia reached the 20,000-article mark. The milestone of 250,000 articles was officially reached on 21 December 2010, and 860,000 people had viewed 30 million articles in that month alone.<sup id="cite_ref-Wikimedia_11-0" class="reference"><a href="#cite_note-Wikimedia-11">[10]</a></sup></p>
+<p>By 2012, with over 400,000 articles and 100 million words, Ukrainian Wikipedia many times over had content larger than the largest printed encyclopedia at that time — the <i><a href="/wiki/Ukrainian_Soviet_Encyclopedia" title="Ukrainian Soviet Encyclopedia">Ukrainian Soviet Encyclopedia</a></i>.<sup id="cite_ref-Bondarenko_2-1" class="reference"><a href="#cite_note-Bondarenko-2">[2]</a></sup></p>
+<p>As of September 2017, Ukrainian Wikipedia has 732632 articles and nearly 2.5 million visitors every day.<sup id="cite_ref-List_of_Wikipedias_12-0" class="reference"><a href="#cite_note-List_of_Wikipedias-12">[11]</a></sup><sup id="cite_ref-stats_13-0" class="reference"><a href="#cite_note-stats-13">[12]</a></sup> Ukrainian Wikipedia at that time was on the 16th place in the ranking of the World's Wikipedias.<sup id="cite_ref-List_of_Wikipedias_12-1" class="reference"><a href="#cite_note-List_of_Wikipedias-12">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Milestones">Milestones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit&amp;section=6" title="Edit section: Milestones">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Number_of_articles_in_Ukrainian_Wikipedia.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Number_of_articles_in_Ukrainian_Wikipedia.PNG/220px-Number_of_articles_in_Ukrainian_Wikipedia.PNG" width="220" height="190" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Number_of_articles_in_Ukrainian_Wikipedia.PNG/330px-Number_of_articles_in_Ukrainian_Wikipedia.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Number_of_articles_in_Ukrainian_Wikipedia.PNG/440px-Number_of_articles_in_Ukrainian_Wikipedia.PNG 2x" data-file-width="548" data-file-height="473" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Number_of_articles_in_Ukrainian_Wikipedia.PNG" class="internal" title="Enlarge"></a></div>
+Growth in the number of Ukrainian Wikipedia articles between 2004 and 2015.</div>
+</div>
+</div>
+<ul>
+<li>January 30, 2004 — 1st article</li>
+<li>April 4, 2004 — 1,000 articles</li>
+<li>June 18, 2004 — 5,000 articles</li>
+<li>December 16, 2004 — 10,000 articles</li>
+<li>October 1, 2005 — 20,000 articles</li>
+<li>October 15, 2006 — 30,000 articles</li>
+<li>November 12, 2006 — 40,000 articles</li>
+<li>January 16, 2007 — 50,000 articles</li>
+<li>May 17, 2007 — 60,000 articles</li>
+<li>September 9, 2007 — 70,000 articles</li>
+<li>December 13, 2007 — 80,000 articles</li>
+<li>January 24, 2008 — 90,000 articles</li>
+<li>March 28, 2008 — 100,000 articles</li>
+<li>July 13, 2008 — 120,000 articles</li>
+<li>May 30, 2009 — 150,000 articles</li>
+<li>April 7, 2010 — 200,000 articles</li>
+<li>December 20, 2010 — 250,000 articles<sup id="cite_ref-Wikimedia_11-1" class="reference"><a href="#cite_note-Wikimedia-11">[10]</a></sup></li>
+<li>July 7, 2011 — 300,000 articles</li>
+<li>December 28, 2011 - 350 000 articles</li>
+<li>September 20, 2012 — 400,000 articles</li>
+<li>May 12, 2014 — 500,000 articles</li>
+<li>November 13, 2015 — 600,000 articles</li>
+<li>June 4, 2017 — 700,000 articles<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[13]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="/wiki/Registered_user" title="Registered user">Registered users</a> who have performed an action in the last 30 days; the number of unregistered active users is not compiled</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias" class="extiw" title="meta:List of Wikipedias">List of Wikipedias</a></span></li>
+<li id="cite_note-Bondarenko-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bondarenko_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bondarenko_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation conference">Бондаренко, А. І. ("Bondarernko, A. I.) (15–16 November 2012). <a rel="nofollow" class="external text" href="http://essuir.sumdu.edu.ua/handle/123456789/29426">"Вікіпедія як освітній ресурс: досягнення і перспективи"</a>. In Божкова, В. В. <i>Електронні засоби та дистанційні технології для навчання протягом життя&#160;: тези доповідей</i>. VIII Міжнародної науково-методичної конференції. <a href="/wiki/Sumy" title="Sumy">Sumy</a>, <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a>: Сумський державний університет ("Sumy National University"). pp.&#160;25–28<span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUkrainian+Wikipedia&amp;rft.atitle=%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F+%D1%8F%D0%BA+%D0%BE%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9+%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%3A+%D0%B4%D0%BE%D1%81%D1%8F%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8F+%D1%96+%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B8&amp;rft.au=%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%2C+%D0%90.+%D0%86.+%28%22Bondarernko%2C+A.+I.%29&amp;rft.btitle=%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%96+%D0%B7%D0%B0%D1%81%D0%BE%D0%B1%D0%B8+%D1%82%D0%B0+%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D0%B9%D0%BD%D1%96+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97+%D0%B4%D0%BB%D1%8F+%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F+%D0%BF%D1%80%D0%BE%D1%82%D1%8F%D0%B3%D0%BE%D0%BC+%D0%B6%D0%B8%D1%82%D1%82%D1%8F+%3A+%D1%82%D0%B5%D0%B7%D0%B8+%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B5%D0%B9&amp;rft.date=2012-11-15%2F2012-11-16&amp;rft.genre=conference&amp;rft.pages=25-28&amp;rft.place=Sumy%2C+Ukraine&amp;rft.pub=%D0%A1%D1%83%D0%BC%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9+%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82+%28%22Sumy+National+University%22%29&amp;rft_id=http%3A%2F%2Fessuir.sumdu.edu.ua%2Fhandle%2F123456789%2F29426&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-Day-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Day_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Day_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Lykhohliad, Kateryna (2013-02-05). <a rel="nofollow" class="external text" href="http://www.day.kiev.ua/en/article/day-after-day/ukrainian-wikipedia-turns-nine">"Ukrainian Wikipedia turns nine"</a>. <i><a href="/wiki/Den_(newspaper)" class="mw-redirect" title="Den (newspaper)">День ("The Day") newspaper</a> newspaper</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUkrainian+Wikipedia&amp;rft.atitle=Ukrainian+Wikipedia+turns+nine&amp;rft.au=Lykhohliad%2C+Kateryna&amp;rft.date=2013-02-05&amp;rft.genre=article&amp;rft.jtitle=%D0%94%D0%B5%D0%BD%D1%8C+%28%22The+Day%22%29+newspaper+newspaper&amp;rft_id=http%3A%2F%2Fwww.day.kiev.ua%2Fen%2Farticle%2Fday-after-day%2Fukrainian-wikipedia-turns-nine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WLM-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-WLM_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://toolserver.org/~emijrp/wlm/stats.php#countries">"Wiki Loves Monuments"</a>. Wikimedia Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUkrainian+Wikipedia&amp;rft.btitle=Wiki+Loves+Monuments&amp;rft.genre=unknown&amp;rft.pub=Wikimedia+Foundation&amp;rft_id=http%3A%2F%2Ftoolserver.org%2F~emijrp%2Fwlm%2Fstats.php%23countries&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Chyrkov1-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Chyrkov1_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Чирков, Олег (Oleh Chyrkov) (2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130927092107/http://archive.nbuv.gov.ua/portal/SOC_Gum/ukr/2012_3/91.pdf">"Історія української мови у вільній енциклопедії — Вікіпедії українською, російською, білоруською мовами ("History of Ukrainian language in the free encyclopedia Wikipedia in Ukrainian, Russian and Belarusian languages)"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D0%BE_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" class="extiw" title="uk:Українознавство (журнал)">Українознавство</a> ("Ukrainian Studies")</i> (in Ukrainian). <b>3</b>: 91–95. Archived from <a rel="nofollow" class="external text" href="http://archive.nbuv.gov.ua/portal/SOC_Gum/ukr/2012_3/91.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on September 27, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUkrainian+Wikipedia&amp;rft.atitle=%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F+%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%97+%D0%BC%D0%BE%D0%B2%D0%B8+%D1%83+%D0%B2%D1%96%D0%BB%D1%8C%D0%BD%D1%96%D0%B9+%D0%B5%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D1%96%D1%97+%E2%80%94+%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%97+%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E%2C+%D1%80%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D1%8E%2C+%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C%D0%BA%D0%BE%D1%8E+%D0%BC%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8+%28%22History+of+Ukrainian+language+in+the+free+encyclopedia+Wikipedia+in+Ukrainian%2C+Russian+and+Belarusian+languages%29&amp;rft.au=%D0%A7%D0%B8%D1%80%D0%BA%D0%BE%D0%B2%2C+%D0%9E%D0%BB%D0%B5%D0%B3+%28Oleh+Chyrkov%29&amp;rft.date=2012&amp;rft.genre=article&amp;rft.jtitle=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D0%BE+%28%22Ukrainian+Studies%22%29&amp;rft.pages=91-95&amp;rft.volume=3&amp;rft_id=http%3A%2F%2Farchive.nbuv.gov.ua%2Fportal%2FSOC_Gum%2Fukr%2F2012_3%2F91.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="WP:PRIMARY (October 2015)">better&#160;source&#160;needed</span></a></i>]</sup></span></li>
+<li id="cite_note-Chyrkov2-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Chyrkov2_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Чирков, Олег (Oleh Chyrkov) (2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130927092114/http://archive.nbuv.gov.ua/portal/soc_gum./Ukr/2012_4/48.pdf">"Історія України XV–XVII століть в вільній енциклопедії — Вікіпедії українською мовою ("History of Ukraine 15th-17th Centuries in the Wikipedia, the free encyclopedia in Ukrainian)"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D0%BE_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" class="extiw" title="uk:Українознавство (журнал)">Українознавство</a> ("Ukrainian Studies")</i> (in Ukrainian). <b>4</b>: 48–54. Archived from <a rel="nofollow" class="external text" href="http://archive.nbuv.gov.ua/portal/soc_gum./Ukr/2012_4/48.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on September 27, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUkrainian+Wikipedia&amp;rft.atitle=%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8+XV%E2%80%93XVII+%D1%81%D1%82%D0%BE%D0%BB%D1%96%D1%82%D1%8C+%D0%B2+%D0%B2%D1%96%D0%BB%D1%8C%D0%BD%D1%96%D0%B9+%D0%B5%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D1%96%D1%97+%E2%80%94+%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%97+%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E+%D0%BC%D0%BE%D0%B2%D0%BE%D1%8E+%28%22History+of+Ukraine+15th-17th+Centuries+in+the+Wikipedia%2C+the+free+encyclopedia+in+Ukrainian%29&amp;rft.au=%D0%A7%D0%B8%D1%80%D0%BA%D0%BE%D0%B2%2C+%D0%9E%D0%BB%D0%B5%D0%B3+%28Oleh+Chyrkov%29&amp;rft.date=2012&amp;rft.genre=article&amp;rft.jtitle=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D0%BE+%28%22Ukrainian+Studies%22%29&amp;rft.pages=48-54&amp;rft.volume=4&amp;rft_id=http%3A%2F%2Farchive.nbuv.gov.ua%2Fportal%2Fsoc_gum.%2FUkr%2F2012_4%2F48.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="WP:PRIMARY (October 2015)">better&#160;source&#160;needed</span></a></i>]</sup></span></li>
+<li id="cite_note-Litnarovych-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Litnarovych_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Litnarovych, Ruslan Mykolaiovych. <a rel="nofollow" class="external text" href="http://essuir.sumdu.edu.ua/handle/123456789/26925"><i>Українські астрономи. За матеріалами Вікіпедії станом на 10.06.2012 р. ("Ukrainian astronomers. Using material from Wikipedia as of 10.06.2012")</i></a>. Rivne, Ukraine.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUkrainian+Wikipedia&amp;rft.au=Litnarovych%2C+Ruslan+Mykolaiovych&amp;rft.btitle=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96+%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8.+%D0%97%D0%B0+%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D0%B0%D0%BC%D0%B8+%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%97+%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%BC+%D0%BD%D0%B0+10.06.2012+%D1%80.+%28%22Ukrainian+astronomers.+Using+material+from+Wikipedia+as+of+10.06.2012%22%29&amp;rft.genre=book&amp;rft.place=Rivne%2C+Ukraine&amp;rft_id=http%3A%2F%2Fessuir.sumdu.edu.ua%2Fhandle%2F123456789%2F26925&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kyiv_Post-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kyiv_Post_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Iryna Yeroshko (2014-01-21). <a rel="nofollow" class="external text" href="http://www.kyivpost.com/content/ukraine/ukrainian-wikipedia-protests-law-curbing-free-speech-335353.html">"Ukrainian Wikipedia protests law curbing free speech"</a>. Kyivpost.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUkrainian+Wikipedia&amp;rft.au=Iryna+Yeroshko&amp;rft.btitle=Ukrainian+Wikipedia+protests+law+curbing+free+speech&amp;rft.date=2014-01-21&amp;rft.genre=unknown&amp;rft.pub=Kyivpost.com&amp;rft_id=http%3A%2F%2Fwww.kyivpost.com%2Fcontent%2Fukraine%2Fukrainian-wikipedia-protests-law-curbing-free-speech-335353.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-zakon-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-zakon_9-0">^</a></b></span> <span class="reference-text">Вести.Ru: Wikipedia присоединилась к украинской оппозиции: <a rel="nofollow" class="external text" href="http://www.vesti.ru/doc.html?id=1204455">Вести.Ru: Wikipedia присоединилась к украинской оппозиции</a> <span class="languageicon">(in Russian)</span>, accessdate: November 15, 2016</span></li>
+<li id="cite_note-Wikimedia-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wikimedia_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wikimedia_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Pantages, Moka (2010-12-23). <a class="external text" href="https://blog.wikimedia.org/2010/12/23/ukranian-wikipedia-reaches-250000-article-milestone/">"Ukrainian Wikipedia Reaches 250,000 Article Milestone"</a>. Wikimedia Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUkrainian+Wikipedia&amp;rft.au=Pantages%2C+Moka&amp;rft.btitle=Ukrainian+Wikipedia+Reaches+250%2C000+Article+Milestone&amp;rft.date=2010-12-23&amp;rft.genre=unknown&amp;rft.pub=Wikimedia+Foundation&amp;rft_id=https%3A%2F%2Fblog.wikimedia.org%2F2010%2F12%2F23%2Fukranian-wikipedia-reaches-250000-article-milestone%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-List_of_Wikipedias-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-List_of_Wikipedias_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-List_of_Wikipedias_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias" class="extiw" title="meta:List of Wikipedias">List of Wikipedias</a><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="WP:PRIMARY (October 2015)">better&#160;source&#160;needed</span></a></i>]</sup></span></li>
+<li id="cite_note-stats-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-stats_13-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://stats.wikimedia.org/EN/TablesPageViewsMonthlyCombined.htm">Page Views for Wikipedia, All Platforms, Normalized</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://wikimediaukraine.wordpress.com/2017/06/06/700000-articles/">https://wikimediaukraine.wordpress.com/2017/06/06/700000-articles/</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png" width="40" height="37" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/80px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></td>
+<td class="mbox-text plainlist"><i><b><a href="https://uk.wikipedia.org/wiki/" class="extiw" title="uk:">Ukrainian edition</a></b></i> of <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, the free encyclopedia</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Ukrainian_Wikipedia" class="extiw" title="commons:Category:Ukrainian Wikipedia">Ukrainian Wikipedia</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Ukrainian_phrasebook#Q199698" class="extiw" title="wikivoyage:Ukrainian phrasebook">Ukrainian phrasebook</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/32px-Incubator-logo.svg.png" width="32" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/48px-Incubator-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/64px-Incubator-logo.svg.png 2x" data-file-width="800" data-file-height="1000" /></td>
+<td class="mbox-text plainlist"><i><b><a href="https://incubator.wikimedia.org/wiki/Wt/uk" class="extiw" title="incubator:Wt/uk">Ukrainian test</a></b></i> of <a href="/wiki/Wiktionary" title="Wiktionary">Wiktionary</a> at <a href="https://meta.wikimedia.org/wiki/Wikimedia_Incubator" class="extiw" title="meta:Wikimedia Incubator">Wikimedia Incubator</a></td>
+</tr>
+</table>
+<ul>
+<li><a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias#100_000.2B_articles" class="extiw" title="m:List of Wikipedias">List of Wikipedias and their ranking by number of articles</a></li>
+<li><a class="external text" href="http://stats.wikimedia.org/EN/TablesWikipediaUK.htm">Wikipedia Statistics Ukrainian</a></li>
+<li><a class="external text" href="http://stats.wikimedia.org/wikimedia/squids/SquidReportPageViewsPerCountryTrends.htm">Wikimedia Traffic Analysis Report - Wikipedia Page Views Per Country</a></li>
+<li><a class="external text" href="http://uk.wikipedia.org">Ukrainian Wikipedia</a> <span class="languageicon">(in Ukrainian)</span></li>
+<li><a class="external text" href="http://uk.m.wikipedia.org/">Ukrainian Wikipedia mobile version</a> <span class="languageicon">(in Ukrainian)</span></li>
+<li><a rel="nofollow" class="external text" href="http://wikimediaukraine.wordpress.com/category/вікіпедія/">Wikipedia at Wikimedia Ukraine Weblog</a> <span class="languageicon">(in Ukrainian)</span></li>
+<li>Bozhena Sheremeta, <a rel="nofollow" class="external text" href="https://www.kyivpost.com/content/business/ukrainian-wikipedia-on-peak-of-growth-with-89-million-page-views-in-october-372919.html">Ukrainian Wikipedia hits growth peak with over 500,000 articles</a>, <a href="/wiki/Kyiv_Post" title="Kyiv Post">Kyiv Post</a>, November 24, 2014</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="List_of_Wikipedias_by_article_count" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wikipedias" title="Template:Wikipedias"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wikipedias" title="Template talk:Wikipedias"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikipedias&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="List_of_Wikipedias_by_article_count" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a> by article count</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">5,000,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/English_Wikipedia" title="English Wikipedia">English</a></li>
+<li><a href="/wiki/Cebuano_Wikipedia" class="mw-redirect" title="Cebuano Wikipedia">Cebuano</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">2,000,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Swedish_Wikipedia" title="Swedish Wikipedia">Swedish</a></li>
+<li><a href="/wiki/German_Wikipedia" title="German Wikipedia">German</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dutch_Wikipedia" title="Dutch Wikipedia">Dutch</a></li>
+<li><a href="/wiki/French_Wikipedia" title="French Wikipedia">French</a></li>
+<li><a href="/wiki/Russian_Wikipedia" title="Russian Wikipedia">Russian</a></li>
+<li><a href="/wiki/Italian_Wikipedia" title="Italian Wikipedia">Italian</a></li>
+<li><a href="/wiki/Spanish_Wikipedia" title="Spanish Wikipedia">Spanish</a></li>
+<li><a href="/wiki/Waray_Wikipedia" title="Waray Wikipedia">Waray</a></li>
+<li><a href="/wiki/Polish_Wikipedia" title="Polish Wikipedia">Polish</a></li>
+<li><a href="/wiki/Vietnamese_Wikipedia" title="Vietnamese Wikipedia">Vietnamese</a></li>
+<li><a href="/wiki/Japanese_Wikipedia" title="Japanese Wikipedia">Japanese</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Portuguese_Wikipedia" title="Portuguese Wikipedia">Portuguese</a></li>
+<li><a href="/wiki/Chinese_Wikipedia" title="Chinese Wikipedia">Chinese</a></li>
+<li><a class="mw-selflink selflink">Ukrainian</a></li>
+<li><a href="/wiki/Persian_Wikipedia" title="Persian Wikipedia">Persian</a></li>
+<li><a href="/wiki/Catalan_Wikipedia" title="Catalan Wikipedia">Catalan</a></li>
+<li><a href="/wiki/Arabic_Wikipedia" title="Arabic Wikipedia">Arabic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Norwegian_Wikipedia" title="Norwegian Wikipedia">Norwegian (bokmål/riksmål)</a></li>
+<li><a href="/wiki/Serbo-Croatian_Wikipedia" title="Serbo-Croatian Wikipedia">Serbo-Croatian</a></li>
+<li><a href="/wiki/Finnish_Wikipedia" title="Finnish Wikipedia">Finnish</a></li>
+<li><a href="/wiki/Hungarian_Wikipedia" title="Hungarian Wikipedia">Hungarian</a></li>
+<li><a href="/wiki/Indonesian_Wikipedia" title="Indonesian Wikipedia">Indonesian</a></li>
+<li><a href="/wiki/Korean_Wikipedia" title="Korean Wikipedia">Korean</a></li>
+<li><a href="/wiki/Czech_Wikipedia" title="Czech Wikipedia">Czech</a></li>
+<li><a href="/wiki/Romanian_Wikipedia" title="Romanian Wikipedia">Romanian</a></li>
+<li><a href="/wiki/Serbian_Wikipedia" title="Serbian Wikipedia">Serbian</a></li>
+<li><a href="/wiki/Malay_Wikipedia" title="Malay Wikipedia">Malay</a></li>
+<li><a href="/wiki/Turkish_Wikipedia" title="Turkish Wikipedia">Turkish</a></li>
+<li><a href="/wiki/Basque_Wikipedia" title="Basque Wikipedia">Basque</a></li>
+<li><a href="/wiki/Esperanto_Wikipedia" title="Esperanto Wikipedia">Esperanto</a></li>
+<li><a href="/wiki/Bulgarian_Wikipedia" title="Bulgarian Wikipedia">Bulgarian</a></li>
+<li><a href="/wiki/Danish_Wikipedia" title="Danish Wikipedia">Danish</a></li>
+<li><a href="/wiki/Armenian_Wikipedia" title="Armenian Wikipedia">Armenian</a></li>
+<li><a href="/wiki/Slovak_Wikipedia" title="Slovak Wikipedia">Slovak</a></li>
+<li><a href="/wiki/Minangkabau_Wikipedia" class="mw-redirect" title="Minangkabau Wikipedia">Minangkabau</a></li>
+<li><a href="/wiki/Min_Nan_Wikipedia" class="mw-redirect" title="Min Nan Wikipedia">Min Nan</a></li>
+<li><a href="/wiki/Kazakh_Wikipedia" title="Kazakh Wikipedia">Kazakh</a></li>
+<li><a href="/wiki/Hebrew_Wikipedia" title="Hebrew Wikipedia">Hebrew</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lithuanian_Wikipedia" title="Lithuanian Wikipedia">Lithuanian</a></li>
+<li><a href="/wiki/Croatian_Wikipedia" title="Croatian Wikipedia">Croatian</a></li>
+<li><a href="/wiki/Chechen_Wikipedia" class="mw-redirect" title="Chechen Wikipedia">Chechen</a></li>
+<li><a href="/wiki/Estonian_Wikipedia" title="Estonian Wikipedia">Estonian</a></li>
+<li><a href="/wiki/Slovene_Wikipedia" title="Slovene Wikipedia">Slovene</a></li>
+<li><a href="/wiki/Belarusian_Wikipedia" title="Belarusian Wikipedia">Belarusian</a></li>
+<li><a href="/wiki/Galician_Wikipedia" title="Galician Wikipedia">Galician</a></li>
+<li><a href="/wiki/Greek_Wikipedia" title="Greek Wikipedia">Greek</a></li>
+<li><a href="/wiki/Norwegian_Wikipedia" title="Norwegian Wikipedia">Norwegian (nynorsk)</a></li>
+<li><a href="/wiki/Uzbek_Wikipedia" title="Uzbek Wikipedia">Uzbek</a></li>
+<li><a href="/wiki/Simple_English_Wikipedia" title="Simple English Wikipedia">Simple English</a></li>
+<li><a href="/wiki/Latin_Wikipedia" title="Latin Wikipedia">Latin</a></li>
+<li><a href="/wiki/Azerbaijani_Wikipedia" title="Azerbaijani Wikipedia">Azerbaijani</a></li>
+<li><a href="/wiki/Urdu_Wikipedia" title="Urdu Wikipedia">Urdu</a></li>
+<li><a href="/wiki/Hindi_Wikipedia" title="Hindi Wikipedia">Hindi</a></li>
+<li><a href="/wiki/Volap%C3%BCk_Wikipedia" class="mw-redirect" title="Volapük Wikipedia">Volapük</a></li>
+<li><a href="/wiki/Thai_Wikipedia" title="Thai Wikipedia">Thai</a></li>
+<li><a href="/wiki/Georgian_Wikipedia" title="Georgian Wikipedia">Georgian</a></li>
+<li><a href="/wiki/Tamil_Wikipedia" title="Tamil Wikipedia">Tamil</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">50,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Welsh_Wikipedia" title="Welsh Wikipedia">Welsh</a></li>
+<li><a href="/wiki/Macedonian_Wikipedia" title="Macedonian Wikipedia">Macedonian</a></li>
+<li><a href="/wiki/Occitan_Wikipedia" title="Occitan Wikipedia">Occitan</a></li>
+<li><a href="/wiki/Malagasy_Wikipedia" title="Malagasy Wikipedia">Malagasy</a></li>
+<li><a href="/wiki/Latvian_Wikipedia" title="Latvian Wikipedia">Latvian</a></li>
+<li><a href="/wiki/Bosnian_Wikipedia" title="Bosnian Wikipedia">Bosnian</a></li>
+<li><a href="/wiki/Tagalog_Wikipedia" title="Tagalog Wikipedia">Tagalog</a></li>
+<li><a href="/wiki/Kyrgyz_Wikipedia" title="Kyrgyz Wikipedia">Kirghiz</a></li>
+<li><a href="/wiki/Nepal_Bhasa_Wikipedia" title="Nepal Bhasa Wikipedia">Newar</a></li>
+<li><a href="/wiki/Tatar_Wikipedia" title="Tatar Wikipedia">Tatar</a></li>
+<li><a href="/wiki/Tajik_Wikipedia" class="mw-redirect" title="Tajik Wikipedia">Tajik</a></li>
+<li><a href="/wiki/Telugu_Wikipedia" title="Telugu Wikipedia">Telugu</a></li>
+<li><a href="/wiki/Albanian_Wikipedia" title="Albanian Wikipedia">Albanian</a></li>
+<li><a href="/wiki/Piedmontese_Wikipedia" class="mw-redirect" title="Piedmontese Wikipedia">Piedmontese</a></li>
+<li><a href="/wiki/Breton_Wikipedia" title="Breton Wikipedia">Breton</a></li>
+<li><a href="/wiki/Belarusian_(Tara%C5%A1kievica)_Wikipedia" class="mw-redirect" title="Belarusian (Taraškievica) Wikipedia">Belarusian (Taraškievica)</a></li>
+<li><a href="/wiki/Cantonese_Wikipedia" title="Cantonese Wikipedia">Cantonese</a></li>
+<li><a href="/wiki/Malayalam_Wikipedia" title="Malayalam Wikipedia">Malayalam</a></li>
+<li><a href="/wiki/Bengali_Wikipedia" title="Bengali Wikipedia">Bengali</a></li>
+<li><a href="/wiki/Haitian_Creole_Wikipedia" class="mw-redirect" title="Haitian Creole Wikipedia">Haitian</a></li>
+<li><a href="/wiki/Javanese_Wikipedia" title="Javanese Wikipedia">Javanese</a></li>
+<li><a href="/wiki/Asturian_Wikipedia" title="Asturian Wikipedia">Asturian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">20,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Luxembourgish_Wikipedia" title="Luxembourgish Wikipedia">Luxembourgish</a></li>
+<li><a href="/wiki/Marathi_Wikipedia" title="Marathi Wikipedia">Marathi</a></li>
+<li><a href="/wiki/Afrikaans_Wikipedia" title="Afrikaans Wikipedia">Afrikaans</a></li>
+<li><a href="/wiki/Scots_Wikipedia" title="Scots Wikipedia">Scots</a></li>
+<li><a href="/wiki/Western_Punjabi_Wikipedia" class="mw-redirect" title="Western Punjabi Wikipedia">Western Punjabi</a></li>
+<li><a href="/wiki/Icelandic_Wikipedia" class="mw-redirect" title="Icelandic Wikipedia">Icelandic</a></li>
+<li><a href="/wiki/Irish_Wikipedia" title="Irish Wikipedia">Irish</a></li>
+<li><a href="/wiki/Chuvash_Wikipedia" title="Chuvash Wikipedia">Chuvash</a></li>
+<li><a href="/wiki/West_Frisian_Wikipedia" title="West Frisian Wikipedia">West Frisian</a></li>
+<li><a href="/wiki/Sundanese_Wikipedia" class="mw-redirect" title="Sundanese Wikipedia">Sundanese</a></li>
+<li><a href="/wiki/Swahili_Wikipedia" title="Swahili Wikipedia">Swahili</a></li>
+<li><a href="/wiki/Burmese_Wikipedia" title="Burmese Wikipedia">Burmese</a></li>
+<li><a href="/wiki/Aragonese_Wikipedia" title="Aragonese Wikipedia">Aragonese</a></li>
+<li><a href="/wiki/Yoruba_Wikipedia" title="Yoruba Wikipedia">Yoruba</a></li>
+<li><a href="/wiki/Ido_Wikipedia" class="mw-redirect" title="Ido Wikipedia">Ido</a></li>
+<li><a href="/wiki/Punjabi_Wikipedia" title="Punjabi Wikipedia">Punjabi</a></li>
+<li><a href="/wiki/Sicilian_Wikipedia" title="Sicilian Wikipedia">Sicilian</a></li>
+<li><a href="/wiki/Bishnupriya_Manipuri_Wikipedia" class="mw-redirect" title="Bishnupriya Manipuri Wikipedia">Bishnupriya Manipuri</a></li>
+<li><a href="/wiki/Alemannic_Wikipedia" title="Alemannic Wikipedia">Alemannic</a></li>
+<li><a href="/wiki/Kannada_Wikipedia" title="Kannada Wikipedia">Kannada</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">10,000+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mongolian_Wikipedia" title="Mongolian Wikipedia">Mongolian</a></li>
+<li><a href="/wiki/Egyptian_Arabic_Wikipedia" title="Egyptian Arabic Wikipedia">Egyptian Arabic</a></li>
+<li><a href="/wiki/Samogitian_Wikipedia" title="Samogitian Wikipedia">Samogitian</a></li>
+<li><a href="/wiki/Yiddish_Wikipedia" title="Yiddish Wikipedia">Yiddish</a></li>
+<li><a href="/wiki/Odia_Wikipedia" title="Odia Wikipedia">Odia</a></li>
+<li><a href="/wiki/Sanskrit_Wikipedia" title="Sanskrit Wikipedia">Sanskrit</a></li>
+<li><a href="/wiki/Mengrelian_Wikipedia" class="mw-redirect" title="Mengrelian Wikipedia">Mengrelian</a></li>
+<li><a href="/wiki/Ossetian_Wikipedia" title="Ossetian Wikipedia">Ossetian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pashto_Wikipedia" title="Pashto Wikipedia">Pashto</a></li>
+<li><a href="/wiki/Sindhi_Wikipedia" title="Sindhi Wikipedia">Sindhi</a></li>
+<li><a href="/wiki/Northern_Sami_Wikipedia" title="Northern Sami Wikipedia">Northern Sami</a></li>
+<li><a href="/wiki/Dutch_Low_Saxon_Wikipedia" title="Dutch Low Saxon Wikipedia">Dutch Low Saxon</a></li>
+<li><a href="/wiki/Classical_Chinese_Wikipedia" class="mw-redirect" title="Classical Chinese Wikipedia">Classical Chinese</a></li>
+<li><a href="/wiki/Silesian_Wikipedia" title="Silesian Wikipedia">Silesian</a></li>
+<li><a href="/wiki/Crimean_Tatar_Wikipedia" title="Crimean Tatar Wikipedia">Crimean Tatar</a></li>
+<li><a href="/wiki/Assamese_Wikipedia" title="Assamese Wikipedia">Assamese</a></li>
+<li><a href="/wiki/Konkani_Wikipedia" title="Konkani Wikipedia">Konkani</a></li>
+<li><a href="/wiki/Uyghur_Wikipedia" title="Uyghur Wikipedia">Uyghur</a></li>
+<li><a href="/wiki/Ripuarian_Wikipedia" title="Ripuarian Wikipedia">Ripuarian</a></li>
+<li><a href="/wiki/Aramaic_Wikipedia" class="mw-redirect" title="Aramaic Wikipedia">Aramaic</a></li>
+<li><a href="/wiki/Wolof_Wikipedia" title="Wolof Wikipedia">Wolof</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zulu_Wikipedia" title="Zulu Wikipedia">Zulu</a></li>
+<li><a href="/wiki/Tulu_Wikipedia" title="Tulu Wikipedia">Tulu</a></li>
+<li><a href="/wiki/Xhosa_Wikipedia" title="Xhosa Wikipedia">Xhosa</a></li>
+<li><a href="/wiki/Bambara_Wikipedia" title="Bambara Wikipedia">Bambara</a></li>
+<li><a href="/wiki/Venda_Wikipedia" class="mw-redirect" title="Venda Wikipedia">Venda</a></li>
+<li><a href="/wiki/Cree_Wikipedia" class="mw-redirect" title="Cree Wikipedia">Cree</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1182
+Cached time: 20170919105635
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.500 seconds
+Real time usage: 0.611 seconds
+Preprocessor visited node count: 3227/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 92483/2097152 bytes
+Template argument size: 7291/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 6/500
+Lua time usage: 0.167/10.000 seconds
+Lua memory usage: 5.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  543.214      1 -total
+ 33.14%  179.996      1 Template:Infobox_website
+ 31.55%  171.387      1 Template:Infobox
+ 29.70%  161.334      2 Template:Reflist
+ 17.96%   97.544      1 Template:Expand_Ukrainian
+ 14.28%   77.558      9 Template:NUMBEROF
+ 13.63%   74.038      9 Template:NUMBEROF/data
+ 12.92%   70.208      1 Template:Expand_language
+  8.87%   48.158      1 Template:Ambox
+  6.99%   37.944      1 Template:Cite_conference
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1481810-0!canonical and timestamp 20170919105635 and revision id 796085305
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ukrainian_Wikipedia&amp;oldid=796085305">https://en.wikipedia.org/w/index.php?title=Ukrainian_Wikipedia&amp;oldid=796085305</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedias_by_language" title="Category:Wikipedias by language">Wikipedias by language</a></li><li><a href="/wiki/Category:Ukrainian-language_websites" title="Category:Ukrainian-language websites">Ukrainian-language websites</a></li><li><a href="/wiki/Category:Education_in_Ukraine" title="Category:Education in Ukraine">Education in Ukraine</a></li><li><a href="/wiki/Category:Internet_properties_established_in_2004" title="Category:Internet properties established in 2004">Internet properties established in 2004</a></li><li><a href="/wiki/Category:Ukrainian-language_encyclopedias" title="Category:Ukrainian-language encyclopedias">Ukrainian-language encyclopedias</a></li><li><a href="/wiki/Category:21st-century_encyclopedias" title="Category:21st-century encyclopedias">21st-century encyclopedias</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:CS1_Ukrainian-language_sources_(uk)" title="Category:CS1 Ukrainian-language sources (uk)">CS1 Ukrainian-language sources (uk)</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_October_2015" title="Category:Articles lacking reliable references from October 2015">Articles lacking reliable references from October 2015</a></li><li><a href="/wiki/Category:Articles_with_Russian-language_external_links" title="Category:Articles with Russian-language external links">Articles with Russian-language external links</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_August_2011" title="Category:Articles to be expanded from August 2011">Articles to be expanded from August 2011</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_needing_translation_from_Ukrainian_Wikipedia" title="Category:Articles needing translation from Ukrainian Wikipedia">Articles needing translation from Ukrainian Wikipedia</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_Ukrainian-language_text" title="Category:Articles containing Ukrainian-language text">Articles containing Ukrainian-language text</a></li><li><a href="/wiki/Category:Articles_with_Ukrainian-language_external_links" title="Category:Articles with Ukrainian-language external links">Articles with Ukrainian-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ukrainian+Wikipedia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ukrainian+Wikipedia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ukrainian_Wikipedia" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Ukrainian_Wikipedia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Ukrainian_Wikipedia">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ukrainian_Wikipedia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ukrainian_Wikipedia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;oldid=796085305" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q199698" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ukrainian_Wikipedia&amp;id=796085305" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ukrainian+Wikipedia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ukrainian+Wikipedia&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DUkrainian%2BWikipedia%26returnto%3DUkrainian%2BWikipedia%26oldid%3D796085305%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ukrainian_Wikipedia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ukrainian_Wikipedia" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Oekra%C3%AFense_Wikipedia" title="Oekraïense Wikipedia – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9" title="ويكيبيديا الأوكرانية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A7%B0%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="ইউক্ৰেনীয় ৱিকিপিডিয়া – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Ukraynaca_Vikipediya" title="Ukraynaca Vikipediya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="ইউক্রেনীয় উইকিপিডিয়া – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Ukrayina-b%C3%BBn_Wikipedia" title="Ukrayina-bûn Wikipedia – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%96%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%8B%D1%8F" title="Украінская Вікіпедыя – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%96%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F" title="Украінская Вікіпэдыя – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D0%B5%D0%B7%D0%B8%D0%BA" title="Уикипедия на украински език – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Viquip%C3%A8dia_en_ucra%C3%AFn%C3%A8s" title="Viquipèdia en ucraïnès – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9%C4%95" title="Украин Википедийĕ – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ukrajinsk%C3%A1_Wikipedie" title="Ukrajinská Wikipedie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Ukrainsk_Wikipedia" title="Ukrainsk Wikipedia – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ukrainischsprachige_Wikipedia" title="Ukrainischsprachige Wikipedia – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9F%CF%85%CE%BA%CF%81%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1" title="Ουκρανική Βικιπαίδεια – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikipedia_en_ucraniano" title="Wikipedia en ucraniano – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ukrainlingva_Vikipedio" title="Ukrainlingva Vikipedio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ukranierazko_Wikipedia" title="Ukranierazko Wikipedia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7%DB%8C_%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86%DB%8C" title="ویکی‌پدیای اوکراینی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia_en_ukrainien" title="Wikipédia en ukrainien – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98%EC%96%B4_%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC" title="우크라이나어 위키백과 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%88%D6%82%D5%AF%D6%80%D5%A1%D5%AB%D5%B6%D5%A5%D6%80%D5%A5%D5%B6_%D5%8E%D5%AB%D6%84%D5%AB%D5%BA%D5%A5%D5%A4%D5%AB%D5%A1" title="Ուկրաիներեն Վիքիպեդիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AF%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A5%80_%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="यूक्रेनी विकिपीडिया – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Wikipedija_na_ukrajinskom_jeziku" title="Wikipedija na ukrajinskom jeziku – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikipedia_bahasa_Ukraina" title="Wikipedia bahasa Ukraina – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0%D0%B3_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8" title="Украинаг Википеди – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Wikipedia_in_ucraino" title="Wikipedia in ucraino – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%94%D7%90%D7%95%D7%A7%D7%A8%D7%90%D7%99%D7%A0%D7%99%D7%AA" title="ויקיפדיה האוקראינית – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A3%E1%83%99%E1%83%A0%E1%83%90%E1%83%98%E1%83%9C%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90" title="უკრაინული ვიკიპედია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%88%D0%B0_%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Украинша Уикипедия – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Wikipedia_ya_Kiukraini" title="Wikipedia ya Kiukraini – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C_%D9%BE%D8%AF%DB%8C%D8%A7_%D8%A7%DA%A9%D8%B1%D8%A7%DB%8C%D9%86%DB%8C" title="ویکی پدیا اکراینی – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Vikip%C4%93dija_ukrai%C5%86u_valod%C4%81" title="Vikipēdija ukraiņu valodā – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Ukrainieti%C5%A1koji_Vikipedija" title="Ukrainietiškoji Vikipedija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Ukr%C3%A1n_Wikip%C3%A9dia" title="Ukrán Wikipédia – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA" title="Википедија на украински јазик – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A3%E1%83%99%E1%83%A0%E1%83%90%E1%83%98%E1%83%9C%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90" title="უკრაინული ვიკიპედია – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wikipedia_Bahasa_Ukraine" title="Wikipedia Bahasa Ukraine – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Oekra%C3%AFense_Wikipedia" title="Oekraïense Wikipedia – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E8%AA%9E%E7%89%88%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2" title="ウクライナ語版ウィキペディア – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B8%D0%B9%D0%BD_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8" title="Украинийн Википеди – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Ukraincha_Vikipediya" title="Ukraincha Vikipediya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Ukrai%C5%84ska_Wikipedia" title="Ukraińska Wikipedia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia_em_ucraniano" title="Wikipédia em ucraniano – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Wikipedia_%C3%AEn_ucrainean%C4%83" title="Wikipedia în ucraineană – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Украинская Википедия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Ukrainian_Wikipedia" title="Ukrainian Wikipedia – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D1%83%D0%BA%D1%80%D0%B0%D1%98%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA%D1%83" title="Википедија на украјинском језику – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Ukrajinska_Wikipedija" title="Ukrajinska Wikipedija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ukrainankielinen_Wikipedia" title="Ukrainankielinen Wikipedia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ukrainskspr%C3%A5kiga_Wikipedia" title="Ukrainskspråkiga Wikipedia – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wikipediang_Ukranyo" title="Wikipediang Ukranyo – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%95%E0%AF%8D%E0%AE%B0%E0%AF%88%E0%AE%A9%E0%AE%BF%E0%AE%AF_%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE" title="உக்ரைனிய விக்கிப்பீடியா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D0%B5" title="Украин Википедиясе – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%A2%E0%B8%B9%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%99" title="วิกิพีเดียภาษายูเครน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ukraynaca_Vikipedi" title="Ukraynaca Vikipedi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F" title="Українська Вікіпедія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Ukrainan_Vikipedii" title="Ukrainan Vikipedii – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Wikipedia_ti%E1%BA%BFng_Ukraina" title="Wikipedia tiếng Ukraina – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E7%83%8F%E5%85%8B%E8%98%AD%E8%AA%9E%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8" title="烏克蘭語維基大典 – Classical Chinese" lang="zh-classical" hreflang="zh-classical" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%83%8F%E5%85%8B%E8%98%AD%E6%96%87%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" title="烏克蘭文維基百科 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%83%8F%E5%85%8B%E8%98%AD%E8%AA%9E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" title="烏克蘭語維基百科 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q199698#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 18 August 2017, at 11:29.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ukrainian_Wikipedia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.500","walltime":"0.611","ppvisitednodes":{"value":3227,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":92483,"limit":2097152},"templateargumentsize":{"value":7291,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  543.214      1 -total"," 33.14%  179.996      1 Template:Infobox_website"," 31.55%  171.387      1 Template:Infobox"," 29.70%  161.334      2 Template:Reflist"," 17.96%   97.544      1 Template:Expand_Ukrainian"," 14.28%   77.558      9 Template:NUMBEROF"," 13.63%   74.038      9 Template:NUMBEROF/data"," 12.92%   70.208      1 Template:Expand_language","  8.87%   48.158      1 Template:Ambox","  6.99%   37.944      1 Template:Cite_conference"]},"scribunto":{"limitreport-timeusage":{"value":"0.167","limit":"10.000"},"limitreport-memusage":{"value":5676054,"limit":52428800}},"cachereport":{"origin":"mw1182","timestamp":"20170919105635","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1218"});});</script>
+	</body>
+</html>
