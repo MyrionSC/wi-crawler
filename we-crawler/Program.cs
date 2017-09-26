@@ -10,17 +10,17 @@ namespace we_crawler
     {
         public static void Main(string[] args)
         {
-            string seed = "http://www.teamliquid.net/";
+            string seed = "http://www.bbc.com/";
             DateTime start = DateTime.Now;
 
-//            var crawler = new Crawler();
-//            crawler.StartCrawl(seed);
-//            
-//            Console.WriteLine();
-//            Console.WriteLine("Crawling time:");
-//            Console.WriteLine(DateTime.Now - start);
+            var crawler = new Crawler();
+            crawler.StartCrawl(seed);
             
-            StartIndexing(start);
+            Console.WriteLine();
+            Console.WriteLine("Crawling time:");
+            Console.WriteLine(DateTime.Now - start);
+            
+//            StartIndexing(start);
         }
 
         public static void StartIndexing(DateTime start)

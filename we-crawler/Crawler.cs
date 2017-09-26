@@ -97,7 +97,7 @@ namespace we_crawler
         public void AddNewHost(string url)
         {
             // lets keep it at 100 threads, shall we?
-            if (Threads.Count < 100)
+            if (Threads.Count < 300)
             {
                 Webpage newWebPage = Fetcher.FetchWebpage(url);
                 if (newWebPage != null)
@@ -138,7 +138,7 @@ namespace we_crawler
             while (true)
             {
                 criticalLock = true;
-                if (backCount > 2000)
+                if (backCount > 10000)
                 {
                     // kill all the threads and return
                     while (Threads.Count > 0)

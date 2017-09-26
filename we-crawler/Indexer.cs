@@ -11,7 +11,7 @@ namespace we_crawler
     public class Indexer
     {
         private List<Webpage> _webpages;
-//        private HashSet<SearchWord> _searchWords = new HashSet<SearchWord>();
+        private Dictionary<int, Document> _documents;
         private Dictionary<string, List<int>> wordDict = new Dictionary<string, List<int>>();
 
         public Indexer(List<Webpage> webpages)
@@ -50,6 +50,8 @@ namespace we_crawler
                 string[] tokens = tokensWithTrash.Where(item => item != "" && item != " " && !stopwords.Contains(item)).ToArray();
                 
                 Console.WriteLine(wp.Url + ": pages processed: " + i++ + ", tokens in page: " + tokens.Length);
+                
+                _documents.Add(wp.id, new Document(wp.id, wp.Url, tokens, _webpages.Count));
 
                 // Add each token to the dictionary
                 foreach (string token in tokens)
@@ -137,6 +139,40 @@ namespace we_crawler
                 }
             }
             return sb.ToString();
+        }
+        
+        private class Document
+        {
+            public int id;
+            public string url;
+            public string[] tokens;
+            private int docCount;
+
+            public Document(int _id, string _url, string[] _tokens, int _docCount)
+            {
+                id = _id;
+                url = _url;
+                tokens = _tokens;
+                docCount = _docCount;
+            }
+
+            public double GetTermFrequency(string[] terms)
+            {
+                int[] res = new int[terms.Length];
+                for (int i = 0; i < terms.Length; i++)
+                {
+                    res[i] = tokens.Select(t => t == terms[i]).Count();
+
+                }
+                return res.Sum();
+            }
+            public double GetLogFrequency(string term)
+            {
+//                int count = tokens.Select(t => t == term).Count();
+//                if (count == 0) return 0;
+//                return 1 + Math.Log10(count);
+                return 0;
+            }
         }
     }
 }
