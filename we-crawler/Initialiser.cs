@@ -25,8 +25,15 @@ namespace we_crawler
             {
                 // init the webhost with url from first webpage in it
                 string[] files = Directory.GetFiles(dir);
-                string firstPage = Utils.DecodeUrl(files[0].Substring(dir.Length + 1, files[0].Length - dir.Length - 1)); // get url
-                Webhost wh = new Webhost(firstPage);
+                if (files.Length == 0) continue;
+                string test = files[0];
+                string filename = Utils.DecodeUrl(files[0].Substring(dir.Length + 1, files[0].Length - dir.Length - 1));
+                if (filename == "robots.txt")
+                {
+                    if (files.Length == 1 || files[1] == null) continue;
+                    filename = Utils.DecodeUrl(files[1].Substring(dir.Length + 1, files[0].Length - dir.Length - 1));
+                }
+                Webhost wh = new Webhost(filename);
                 webhosts.Add(wh);
 
                 // add remaining webpages to it

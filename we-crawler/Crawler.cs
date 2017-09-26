@@ -52,9 +52,9 @@ namespace we_crawler
                             // check if duplicate
                             bool valid = !webhost.ExistsInFrontier(l) & !webhost.BackQueue.Any(w => w.Url == l); // to get some shortcircutting
                             string host = Utils.GetHost(l);
-                            if (host == null) return;
+                            if (host == null) return; // return equals continue in Linq foreach
 //                            valid = valid & host == "en.wikipedia.org";
-                            valid = valid & Utils.NotMediaFile(l);
+//                            valid = valid & host.StartsWith("wiki.");
                             if (valid)
                             {
                                 // if not of this host, see if we can find its host
@@ -138,7 +138,7 @@ namespace we_crawler
             while (true)
             {
                 criticalLock = true;
-                if (backCount > 10000)
+                if (backCount > 2000)
                 {
                     // kill all the threads and return
                     while (Threads.Count > 0)

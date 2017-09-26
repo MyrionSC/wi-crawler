@@ -20,7 +20,7 @@ namespace we_crawler
             List<string> refinedLinkedPages = new List<string>();
             foreach (string linkedPage in linkedPages)
             {
-                if (!linkedPage.StartsWith("#"))
+                if (!linkedPage.Contains("#") && Utils.NotMediaFile(linkedPage))
                 {
                     string lp = linkedPage;
                     if (lp.StartsWith("//"))

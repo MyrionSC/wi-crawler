@@ -29,7 +29,7 @@ namespace we_crawler
         {
             url = url.ToLower();
             return !url.EndsWith(".png") & !url.EndsWith(".jpg") & !url.EndsWith(".ogv") & !url.EndsWith(".ogg") &
-                   !url.EndsWith("webm") & !url.EndsWith(".svg");
+                   !url.EndsWith("webm") & !url.EndsWith(".svg") & !url.EndsWith(".pdf");
         }
         
         public static string EncodeUrl(string url)
