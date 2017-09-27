@@ -25,7 +25,7 @@ namespace we_crawler
             int i = 0;
             foreach (Webpage wp in webpages)
             {
-                if (i > 200) break;
+                if (i > 100) break;
                 
                 // get the body of the html and title (we don't want all these script tags and shit)
                 HtmlDocument doc = new HtmlDocument();
@@ -79,11 +79,11 @@ namespace we_crawler
                 }
             }
 
-            // perform union on ids and map to documents
+            // perform union on ids
             HashSet<int> resultIdSet = new HashSet<int>();
             if (searchResultIds.Count == 0)
             {
-                return new List<KeyValuePair<double, string>>() {new KeyValuePair<double, string>(1, "No results found")};
+                return new List<KeyValuePair<double, string>>();
             }
             resultIdSet = searchResultIds[0];
             for (int i = 1; i < searchResultIds.Count; i++)
@@ -109,7 +109,7 @@ namespace we_crawler
             List<KeyValuePair<double, string>> results = rankedDocuments.OrderByDescending(d => d.Key).ToList();
 
             // return urls that match searchterm
-            return results.GetRange(0, cutoffAmount);
+            return results.GetRange(0, cutoffAmount > results.Count ? results.Count : cutoffAmount);
         }
         
         private string ScrubHtml(string value) {
@@ -160,24 +160,19 @@ namespace we_crawler
                 int[] res = new int[terms.Length];
                 for (int i = 0; i < terms.Length; i++)
                 {
-                    int c = 0;
-                    foreach (string token in tokens)
-                    {
-                        if (token == terms[i]) c++;
-                    }
-                    
-//                    int c = tokens.Select(t => t == terms[i]).Count();
-                    res[i] = c;
+                    res[i] = tokens.Count(t => t == terms[i]);
                 }
                 return res.Sum();
             }
             
             private double GetLogFrequency(string[] terms)
             {
-//                int count = tokens.Select(t => t == term).Count();
-//                if (count == 0) return 0;
-//                return 1 + Math.Log10(count);
-                return 0;
+                int[] res = new int[terms.Length];
+                for (int i = 0; i < terms.Length; i++)
+                {
+                    res[i] = tokens.Count(t => t == terms[i]);
+                }
+                return res.Sum();
             }
         }
     }

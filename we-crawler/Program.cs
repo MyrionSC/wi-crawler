@@ -50,10 +50,18 @@ namespace we_crawler
                 var results = indexer.Search(input, 10);
 
                 Console.WriteLine();
-                Console.WriteLine("results for search:");
-                foreach (var r in results)
+                Console.WriteLine("results for search: " + input);
+
+                if (results.Count == 0)
                 {
-                    Console.WriteLine(r.Value + ": Rank: " + r.Key);
+                    Console.WriteLine("no results found");
+                }
+                else
+                {
+                    foreach (var r in results)
+                    {
+                        Console.WriteLine(r.Value + ": Rank: " + r.Key);
+                    }
                 }
             }
         }
