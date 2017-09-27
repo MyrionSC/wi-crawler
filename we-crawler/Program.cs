@@ -13,14 +13,14 @@ namespace we_crawler
             string seed = "http://www.bbc.com/";
             DateTime start = DateTime.Now;
 
-            var crawler = new Crawler();
-            crawler.StartCrawl(seed);
+//            var crawler = new Crawler();
+//            crawler.StartCrawl(seed);
+//            
+//            Console.WriteLine();
+//            Console.WriteLine("Crawling time:");
+//            Console.WriteLine(DateTime.Now - start);
             
-            Console.WriteLine();
-            Console.WriteLine("Crawling time:");
-            Console.WriteLine(DateTime.Now - start);
-            
-//            StartIndexing(start);
+            StartIndexing(start);
         }
 
         public static void StartIndexing(DateTime start)
@@ -47,14 +47,14 @@ namespace we_crawler
                 Console.WriteLine();
                 
                 string input = Console.ReadLine();
-                var results = indexer.Search(input);
+                var results = indexer.Search(input, 10);
 
                 Console.WriteLine();
                 Console.WriteLine("results for search:");
-                results.ForEach(r =>
+                foreach (var r in results)
                 {
-                    Console.WriteLine(r);
-                });
+                    Console.WriteLine(r.Value + ": Rank: " + r.Key);
+                }
             }
         }
     }
