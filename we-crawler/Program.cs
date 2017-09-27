@@ -61,7 +61,7 @@ namespace we_crawler
                     for (int i = 0; i < results.Count; i++)
                     {
                         var r = results[i];
-                        Console.WriteLine(i + " - " + r.Value + ": Rank: " + r.Key);
+                        Console.WriteLine(1 + i + " - " + r.Value + ": Rank: " + r.Key);
                     }
                 }
             }

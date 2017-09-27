@@ -13,7 +13,6 @@ namespace we_crawler
         private List<Webpage> _webpages;
         private Dictionary<int, Document> _documents = new Dictionary<int, Document>();
         private Dictionary<string, List<int>> wordDict = new Dictionary<string, List<int>>();
-        private Dictionary<string, UInt32> wordFrequency = new Dictionary<string, UInt32>();
 
         public Indexer(List<Webpage> webpages)
         {
@@ -46,7 +45,7 @@ namespace we_crawler
                 
                 Console.WriteLine(wp.Url + ": pages processed: " + i++ + ", tokens in page: " + tokens.Length);
 
-                _documents.Add(wp.id, new Document(wp.id, wp.Url, tokens, _webpages.Count));
+                _documents.Add(wp.id, new Document(wp.id, wp.Url, tokens, wordDict));
 
                 // Add each token to the dictionary
                 foreach (string token in tokens)
@@ -54,12 +53,10 @@ namespace we_crawler
                     if (wordDict.ContainsKey(token))
                     {
                         wordDict[token].Add(wp.id);
-                        wordFrequency[token]++;
                     }
                     else
                     {
                         wordDict.Add(token, new List<int>() {wp.id});
-                        wordFrequency.Add(token, 1);
                     }
                 }
             }
@@ -70,16 +67,6 @@ namespace we_crawler
         {            
             // split list into list of search terms by whitespace
             string[] searchTerms = searchstring.ToLower().Trim().Split(' ');
-            
-            foreach (var searchTerm in searchTerms)
-            {
-                Console.WriteLine("collection frequency of words");
-                if (wordFrequency.ContainsKey(searchTerm))
-                {
-                    Console.WriteLine(searchTerm + ": " + wordFrequency[searchTerm]);
-                }
-            }
-            Console.WriteLine();
             
             // for each term, find results
             List<HashSet<int>> searchResultIds = new List<HashSet<int>>();
@@ -147,19 +134,19 @@ namespace we_crawler
             public int id;
             public string url;
             public string[] tokens;
-            private int docCount;
+            private Dictionary<string, List<int>> _wordRefs;
 
-            public Document(int _id, string _url, string[] _tokens, int _docCount)
+            public Document(int _id, string _url, string[] _tokens, Dictionary<string, List<int>> wordRefs)
             {
                 id = _id;
                 url = _url;
                 tokens = _tokens;
-                docCount = _docCount;
+                _wordRefs = wordRefs;
             }
 
             public double GetRanking(string[] terms)
             {
-                return GetLogFrequency(terms);
+                return Get_tdStar_IDF_Ranking(terms);
             }
             
             private double GetTermFrequency(string[] terms)
@@ -177,15 +164,34 @@ namespace we_crawler
                 double[] res = new double[terms.Length];
                 for (int i = 0; i < terms.Length; i++)
                 {
-                    int count = tokens.Count(t => t == terms[i]);
-                    // docfreq
+                    string term = terms[i];
+                    int count = tokens.Count(t => t == term);
+
+                    if (count == 0)
+                        res[i] = 0;
+                    else
+                        res[i] = 1 + Math.Log10(count);
+                }
+                return res.Sum();
+            }    
+            
+            private double Get_tdStar_IDF_Ranking(string[] terms)
+            {
+                double[] res = new double[terms.Length];
+                for (int i = 0; i < terms.Length; i++)
+                {
+                    string term = terms[i];
+                    int count = tokens.Count(t => t == term);
+
                     if (count == 0)
                     {
                         res[i] = 0;
                     }
                     else
                     {
-                        res[i] = 1 + Math.Log10(count);
+                        double inverseDocFrequency = Math.Log10((double)_wordRefs.Count / _wordRefs[term].Count);
+                        double logFrequency = 1 + Math.Log10(count);
+                        res[i] = logFrequency * inverseDocFrequency;
                     }
                 }
                 return res.Sum();
