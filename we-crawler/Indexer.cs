@@ -69,7 +69,6 @@ namespace we_crawler
             string[] searchTerms = searchstring.ToLower().Trim().Split(' ');
             
             // for each term, find results
-            // todo: match part of word as well
             List<HashSet<int>> searchResultIds = new List<HashSet<int>>();
             foreach (string searchTerm in searchTerms)
             {
@@ -88,9 +87,8 @@ namespace we_crawler
             resultIdSet = searchResultIds[0];
             for (int i = 1; i < searchResultIds.Count; i++)
             {
-                resultIdSet.IntersectWith(searchResultIds[i]);
+                resultIdSet.UnionWith(searchResultIds[i]);
             }
-            
             
             // map ids to documents
             List<Document> resultDocuments = new List<Document>();
@@ -124,13 +122,9 @@ namespace we_crawler
             foreach (char c in input)
             {
                 if (char.IsLetterOrDigit(c))
-                {
                     sb.Append(c);
-                }
                 else
-                {
                     sb.Append(' ');
-                }
             }
             return sb.ToString();
         }
@@ -152,7 +146,7 @@ namespace we_crawler
 
             public double GetRanking(string[] terms)
             {
-                return GetTermFrequency(terms);
+                return GetLogFrequency(terms);
             }
             
             private double GetTermFrequency(string[] terms)
@@ -167,10 +161,18 @@ namespace we_crawler
             
             private double GetLogFrequency(string[] terms)
             {
-                int[] res = new int[terms.Length];
+                double[] res = new double[terms.Length];
                 for (int i = 0; i < terms.Length; i++)
                 {
-                    res[i] = tokens.Count(t => t == terms[i]);
+                    int count = tokens.Count(t => t == terms[i]);
+                    if (count == 0)
+                    {
+                        res[i] = 0;
+                    }
+                    else
+                    {
+                        res[i] = 1 + Math.Log10(count);
+                    }
                 }
                 return res.Sum();
             }
