@@ -13,6 +13,7 @@ namespace we_crawler
         private List<Webpage> _webpages;
         private Dictionary<int, Document> _documents = new Dictionary<int, Document>();
         private Dictionary<string, List<int>> wordDict = new Dictionary<string, List<int>>();
+        private Dictionary<string, UInt32> wordFrequency = new Dictionary<string, UInt32>();
 
         public Indexer(List<Webpage> webpages)
         {
@@ -53,10 +54,12 @@ namespace we_crawler
                     if (wordDict.ContainsKey(token))
                     {
                         wordDict[token].Add(wp.id);
+                        wordFrequency[token]++;
                     }
                     else
                     {
                         wordDict.Add(token, new List<int>() {wp.id});
+                        wordFrequency.Add(token, 1);
                     }
                 }
             }
@@ -67,6 +70,16 @@ namespace we_crawler
         {            
             // split list into list of search terms by whitespace
             string[] searchTerms = searchstring.ToLower().Trim().Split(' ');
+            
+            foreach (var searchTerm in searchTerms)
+            {
+                Console.WriteLine("collection frequency of words");
+                if (wordFrequency.ContainsKey(searchTerm))
+                {
+                    Console.WriteLine(searchTerm + ": " + wordFrequency[searchTerm]);
+                }
+            }
+            Console.WriteLine();
             
             // for each term, find results
             List<HashSet<int>> searchResultIds = new List<HashSet<int>>();
@@ -165,6 +178,7 @@ namespace we_crawler
                 for (int i = 0; i < terms.Length; i++)
                 {
                     int count = tokens.Count(t => t == terms[i]);
+                    // docfreq
                     if (count == 0)
                     {
                         res[i] = 0;

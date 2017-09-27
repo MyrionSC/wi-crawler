@@ -58,9 +58,10 @@ namespace we_crawler
                 }
                 else
                 {
-                    foreach (var r in results)
+                    for (int i = 0; i < results.Count; i++)
                     {
-                        Console.WriteLine(r.Value + ": Rank: " + r.Key);
+                        var r = results[i];
+                        Console.WriteLine(i + " - " + r.Value + ": Rank: " + r.Key);
                     }
                 }
             }
