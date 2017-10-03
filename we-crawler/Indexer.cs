@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Threading;
 using HtmlAgilityPack;
 using we_crawler.model;
 
@@ -10,55 +12,95 @@ namespace we_crawler
 {
     public class Indexer
     {
-        private List<Webpage> _webpages;
         private Dictionary<int, Document> _documents = new Dictionary<int, Document>();
         private Dictionary<string, List<int>> wordDict = new Dictionary<string, List<int>>();
+        private int _pagesProcessed; // expected to get some race conditions here but whatever
 
         public Indexer(List<Webpage> webpages)
         {
-            _webpages = webpages;
-
             // add stopwords from http://www.ranks.nl/stopwords
             string stopwordsstr = "a about above after again against all am an and any are aren't as at be because been before being below between both but by can't cannot could couldn't did didn't do does doesn't doing don't down during each few for from further had hadn't has hasn't have haven't having he he'd he'll he's her here here's hers herself him himself his how how's i i'd i'll i'm i've if in into is isn't it it's its itself let's me more most mustn't my myself no nor not of off on once only or other ought our ours ourselves out over own same shan't she she'd she'll she's should shouldn't so some such than that that's the their theirs them themselves then there there's these they they'd they'll they're they've this those through to too under until up very was wasn't we we'd we'll we're we've were weren't what what's when when's where where's which while who who's whom why why's with won't would wouldn't you you'd you'll you're you've your yours yourself yourselves";
             var stopwords = new HashSet<string>(stopwordsstr.Split(' '));
 
-            int i = 0;
-            foreach (Webpage wp in webpages)
+            int numberOfThreads = 4;
+            int threadCounter = 0;
+            int webPageListLength = webpages.Count / numberOfThreads;
+
+            for (int i = 0; i < numberOfThreads; i++)
             {
-                if (i > 100) break;
+                // split pages into equal parts
+                List<Webpage> wps = webpages.GetRange(webPageListLength * threadCounter++, webPageListLength - 1);
                 
-                // get the body of the html and title (we don't want all these script tags and shit)
-                HtmlDocument doc = new HtmlDocument();
-                doc.LoadHtml(wp.Html);
-                if (doc.DocumentNode.SelectSingleNode("//title") == null || doc.DocumentNode.SelectSingleNode("//body") == null)
-                    continue;
-                string title = doc.DocumentNode.SelectSingleNode("//title").InnerHtml;
-                string body = doc.DocumentNode.SelectSingleNode("//body").InnerHtml;
-                
-                // remove html tags and symbols
-                title = ScrubHtml(title);
-                body = ScrubHtml(body);
-                title = removeSymbols(title);
-                body = removeSymbols(body);
-                string[] tokensWithTrash = (title + " " + body).Split(' ');
-                string[] tokens = tokensWithTrash.Where(item => item != "" && item != " " && !stopwords.Contains(item)).ToArray();
-                
-                Console.WriteLine(wp.Url + ": pages processed: " + i++ + ", tokens in page: " + tokens.Length);
+                // start the computation
+                StartParalelisedIndexing(wps, stopwords, webpages.Count);
+            }
+        }
 
-                _documents.Add(wp.id, new Document(wp.id, wp.Url, tokens, wordDict));
-
-                // Add each token to the dictionary
-                foreach (string token in tokens)
+        private void StartParalelisedIndexing(List<Webpage> wps, HashSet<string> stopwords, int totalCount)
+        {
+            new Thread(new ThreadStart(() =>
+            {
+                int i = 0;
+                foreach (Webpage wp in wps)
                 {
-                    if (wordDict.ContainsKey(token))
+                    // get the body of the html and title (we don't want all these script tags and shit)
+                    HtmlDocument doc = new HtmlDocument();
+                    doc.LoadHtml(wp.Html);
+                    if (doc.DocumentNode.SelectSingleNode("//title") == null || doc.DocumentNode.SelectSingleNode("//body") == null)
+                        continue;
+                    string title = doc.DocumentNode.SelectSingleNode("//title").InnerHtml;
+                    string body = doc.DocumentNode.SelectSingleNode("//body").InnerHtml;
+                
+                    // remove html tags and symbols
+                    title = ScrubHtml(title);
+                    body = ScrubHtml(body);
+                    title = removeSymbols(title);
+                    body = removeSymbols(body);
+                    string[] tokensWithTrash = (title + " " + body).Split(' ');
+                    string[] tokens = tokensWithTrash.Where(item => item != "" && item != " " && !stopwords.Contains(item)).ToArray();
+
+                    int left = Console.CursorLeft, top = Console.CursorTop;
+                    Console.SetCursorPosition(0, 1);                    
+                    Console.WriteLine(_pagesProcessed++ + " of " + totalCount + " processed");
+                    Console.SetCursorPosition(left, top);
+
+                    _documents.Add(wp.id, new Document(wp.id, wp.Url, tokens, wordDict));
+
+                    // Add each token to the dictionary
+                    foreach (string token in tokens)
                     {
-                        wordDict[token].Add(wp.id);
-                    }
-                    else
-                    {
-                        wordDict.Add(token, new List<int>() {wp.id});
+                        try
+                        {
+                            AddTokenToDict(wp, token);
+                        }
+                        catch (Exception e)
+                        {
+//                            Console.WriteLine(e);
+                            Thread.Sleep(10);
+                            try
+                            {
+                                AddTokenToDict(wp, token);
+                            }
+                            catch (Exception exception)
+                            {
+//                                Console.WriteLine(exception);
+                            }
+                        }
                     }
                 }
+                Thread.CurrentThread.Abort();
+            })).Start();
+        }
+
+        private void AddTokenToDict(Webpage wp, string token)
+        {
+            if (wordDict.ContainsKey(token))
+            {
+                wordDict[token].Add(wp.id);
+            }
+            else
+            {
+                wordDict.Add(token, new List<int> {wp.id});
             }
         }
         
