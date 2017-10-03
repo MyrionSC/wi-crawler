@@ -46,7 +46,7 @@ namespace we_crawler
                         
                         webhost.SaveWebPage(wp);
                         Console.WriteLine("Page saved: " + wp.Url + ", total: " + ++backCount);
-                        List<string> links = WebParser.parse(wp);
+                        List<string> links = WebParser.Parse(wp);
                         links.ForEach(l =>
                         {
                             // check if duplicate

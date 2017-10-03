@@ -9,7 +9,7 @@ namespace we_crawler
 {
     public class WebParser
     {
-        public static List<string> parse(Webpage wp)
+        public static List<string> Parse(Webpage wp)
         {
             HtmlDocument doc = new HtmlDocument();
             doc.LoadHtml(wp.Html);

@@ -11,7 +11,8 @@ namespace we_crawler
     public class Indexer
     {
         private List<Webpage> _webpages;
-        private Dictionary<int, Document> _documents = new Dictionary<int, Document>();
+        private Dictionary<int, Document> _documentsById = new Dictionary<int, Document>();
+        private Dictionary<string, Document> _documentsByUrl = new Dictionary<string, Document>();
         private Dictionary<string, List<int>> wordDict = new Dictionary<string, List<int>>();
 
         public Indexer(List<Webpage> webpages)
@@ -25,7 +26,7 @@ namespace we_crawler
             int i = 0;
             foreach (Webpage wp in webpages)
             {
-                if (i > 100) break;
+                if (i > 300) break;
                 
                 // get the body of the html and title (we don't want all these script tags and shit)
                 HtmlDocument doc = new HtmlDocument();
@@ -35,6 +36,9 @@ namespace we_crawler
                 string title = doc.DocumentNode.SelectSingleNode("//title").InnerHtml;
                 string body = doc.DocumentNode.SelectSingleNode("//body").InnerHtml;
                 
+                // find all outgoing links for page
+                List<string> OutgoingLinks = WebParser.Parse(wp);
+                
                 // remove html tags and symbols
                 title = ScrubHtml(title);
                 body = ScrubHtml(body);
@@ -43,9 +47,13 @@ namespace we_crawler
                 string[] tokensWithTrash = (title + " " + body).Split(' ');
                 string[] tokens = tokensWithTrash.Where(item => item != "" && item != " " && !stopwords.Contains(item)).ToArray();
                 
-                Console.WriteLine(wp.Url + ": pages processed: " + i++ + ", tokens in page: " + tokens.Length);
+//                Console.WriteLine(wp.Url + ": pages processed: " + i++ + ", tokens in page: " + tokens.Length);
+                Console.SetCursorPosition(0, 2);
+                Console.WriteLine(i++ + " of " + webpages.Count + " pages processed");
 
-                _documents.Add(wp.id, new Document(wp.id, wp.Url, tokens, wordDict));
+                var document = new Document(wp.id, wp.Url, tokens, wordDict, OutgoingLinks);
+                _documentsById.Add(wp.id, document);
+                _documentsByUrl.Add(wp.Url, document);
 
                 // Add each token to the dictionary
                 foreach (string token in tokens)
@@ -60,6 +68,8 @@ namespace we_crawler
                     }
                 }
             }
+            
+            // 
         }
         
         // search in indexed pages
@@ -94,14 +104,14 @@ namespace we_crawler
             List<Document> resultDocuments = new List<Document>();
             foreach (int id in resultIdSet)
             {
-                resultDocuments.Add(_documents[id]);
+                resultDocuments.Add(_documentsById[id]);
             }
             
             // rank and sort documents
             List<KeyValuePair<double, string>> rankedDocuments = new List<KeyValuePair<double, string>>();
             resultDocuments.ForEach(d =>
             {
-                rankedDocuments.Add(new KeyValuePair<double, string>(d.GetRanking(searchTerms), d.url));
+                rankedDocuments.Add(new KeyValuePair<double, string>(d.GetRanking(searchTerms), d.Url));
             });
 
             List<KeyValuePair<double, string>> results = rankedDocuments.OrderByDescending(d => d.Key).ToList();
@@ -131,17 +141,20 @@ namespace we_crawler
         
         private class Document
         {
-            public int id;
-            public string url;
-            public string[] tokens;
+            public int Id;
+            public string Url;
+            public string[] Tokens;
             private Dictionary<string, List<int>> _wordRefs;
+            private HashSet<String> _outgoingLinks;
+            private HashSet<String> _ingoingLinks = new HashSet<string>();
 
-            public Document(int _id, string _url, string[] _tokens, Dictionary<string, List<int>> wordRefs)
+            public Document(int id, string url, string[] tokens, Dictionary<string, List<int>> wordRefs, List<string> outgoingLinks)
             {
-                id = _id;
-                url = _url;
-                tokens = _tokens;
+                Id = id;
+                Url = url;
+                Tokens = tokens;
                 _wordRefs = wordRefs;
+                _outgoingLinks = new HashSet<string>(outgoingLinks);
             }
 
             public double GetRanking(string[] terms)
@@ -154,7 +167,7 @@ namespace we_crawler
                 int[] res = new int[terms.Length];
                 for (int i = 0; i < terms.Length; i++)
                 {
-                    res[i] = tokens.Count(t => t == terms[i]);
+                    res[i] = Tokens.Count(t => t == terms[i]);
                 }
                 return res.Sum();
             }
@@ -165,7 +178,7 @@ namespace we_crawler
                 for (int i = 0; i < terms.Length; i++)
                 {
                     string term = terms[i];
-                    int count = tokens.Count(t => t == term);
+                    int count = Tokens.Count(t => t == term);
 
                     if (count == 0)
                         res[i] = 0;
@@ -181,7 +194,7 @@ namespace we_crawler
                 for (int i = 0; i < terms.Length; i++)
                 {
                     string term = terms[i];
-                    int count = tokens.Count(t => t == term);
+                    int count = Tokens.Count(t => t == term);
 
                     if (count == 0)
                     {
