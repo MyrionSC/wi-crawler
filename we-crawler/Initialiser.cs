@@ -20,13 +20,14 @@ namespace we_crawler
             // get dirs in folder data
             string datadir = Utils.GetBaseDir() + "data";
             string[] dirs = Directory.GetDirectories(datadir);
-            
+
             foreach (var dir in dirs)
             {
+                
                 // init the webhost with url from first webpage in it
                 string[] files = Directory.GetFiles(dir);
                 if (files.Length == 0) continue;
-                string test = files[0];
+                
                 string filename = Utils.DecodeUrl(files[0].Substring(dir.Length + 1, files[0].Length - dir.Length - 1));
                 if (filename == "robots.txt")
                 {
@@ -37,8 +38,11 @@ namespace we_crawler
                 webhosts.Add(wh);
 
                 // add remaining webpages to it
+//                int breakCount = 0;
                 for (var i = 0; i < files.Length; i++)
                 {
+//                    if (breakCount++ > 200) break;
+                    
                     var f = files[i];
                     if (!f.Contains("robots.txt"))
                     {

@@ -36,9 +36,9 @@ namespace we_crawler
             // index list of webpages
             var indexer = new Indexer(webpages);
             
-//            Console.WriteLine();
-//            Console.WriteLine("Init and indexing time:");
-//            Console.WriteLine(DateTime.Now - start);
+            Console.WriteLine();
+            Console.WriteLine("Init and indexing time:");
+            Console.WriteLine(DateTime.Now - start);
 
             while (true)
             {

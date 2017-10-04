@@ -15,6 +15,7 @@ namespace we_crawler
         private Dictionary<int, Document> _documents = new Dictionary<int, Document>();
         private Dictionary<string, List<int>> wordDict = new Dictionary<string, List<int>>();
         private int _pagesProcessed; // expected to get some race conditions here but whatever
+        private static Mutex _mutex = new Mutex();
 
         public Indexer(List<Webpage> webpages)
         {
@@ -25,22 +26,46 @@ namespace we_crawler
             int numberOfThreads = 4;
             int threadCounter = 0;
             int webPageListLength = webpages.Count / numberOfThreads;
+            Thread[] threads = new Thread[numberOfThreads];
 
             for (int i = 0; i < numberOfThreads; i++)
             {
                 // split pages into equal parts
-                List<Webpage> wps = webpages.GetRange(webPageListLength * threadCounter++, webPageListLength - 1);
+                List<Webpage> wps;
+                if (threadCounter + 1 != numberOfThreads)
+                {
+                    wps = webpages.GetRange(webPageListLength * threadCounter++, webPageListLength);
+                }
+                else
+                {
+                    wps = webpages.GetRange(webPageListLength * threadCounter, webpages.Count - webPageListLength * threadCounter);
+                }
                 
                 // start the computation
-                StartParalelisedIndexing(wps, stopwords, webpages.Count);
+                threads[i] = StartParalelisedIndexing(wps, stopwords, webpages.Count);
             }
+
+            while (true)
+            {
+                Thread.Sleep(200);
+                bool anyThreadsAlive = false;
+                foreach (Thread t in threads)
+                {
+                    anyThreadsAlive = anyThreadsAlive || t.IsAlive;
+                }
+                if (!anyThreadsAlive)
+                    break;
+            }
+            
+            // start link ranking
+            
+            
         }
 
-        private void StartParalelisedIndexing(List<Webpage> wps, HashSet<string> stopwords, int totalCount)
+        private Thread StartParalelisedIndexing(List<Webpage> wps, HashSet<string> stopwords, int totalCount)
         {
-            new Thread(new ThreadStart(() =>
+            Thread t =  new Thread(new ThreadStart(() =>
             {
-                int i = 0;
                 foreach (Webpage wp in wps)
                 {
                     // get the body of the html and title (we don't want all these script tags and shit)
@@ -58,38 +83,31 @@ namespace we_crawler
                     body = removeSymbols(body);
                     string[] tokensWithTrash = (title + " " + body).Split(' ');
                     string[] tokens = tokensWithTrash.Where(item => item != "" && item != " " && !stopwords.Contains(item)).ToArray();
+                    string[] tokensLower = new string[tokens.Length];
+                    for (var j = 0; j < tokens.Length; j++)
+                    {
+                        tokensLower[j] = tokens[j].ToLower();
+                    }
 
-                    int left = Console.CursorLeft, top = Console.CursorTop;
-                    Console.SetCursorPosition(0, 1);                    
+                    _mutex.WaitOne();
                     Console.WriteLine(_pagesProcessed++ + " of " + totalCount + " processed");
-                    Console.SetCursorPosition(left, top);
+                    Console.SetCursorPosition(0, Console.CursorTop - 1);
+                    _mutex.ReleaseMutex();
 
-                    _documents.Add(wp.id, new Document(wp.id, wp.Url, tokens, wordDict));
+                    _documents.Add(wp.id, new Document(wp.id, wp.Url, tokensLower, wordDict));
 
                     // Add each token to the dictionary
-                    foreach (string token in tokens)
+                    foreach (string token in tokensLower)
                     {
-                        try
-                        {
-                            AddTokenToDict(wp, token);
-                        }
-                        catch (Exception e)
-                        {
-//                            Console.WriteLine(e);
-                            Thread.Sleep(10);
-                            try
-                            {
-                                AddTokenToDict(wp, token);
-                            }
-                            catch (Exception exception)
-                            {
-//                                Console.WriteLine(exception);
-                            }
-                        }
+                        _mutex.WaitOne();
+                        AddTokenToDict(wp, token);
+                        _mutex.ReleaseMutex();
                     }
                 }
                 Thread.CurrentThread.Abort();
-            })).Start();
+            }));
+            t.Start();
+            return t;
         }
 
         private void AddTokenToDict(Webpage wp, string token)
