@@ -52,8 +52,8 @@ namespace we_crawler.model
                 Directory.CreateDirectory(Utils.GetBaseDir() + "/data");
 
             }
-            BaseDir = Utils.GetBaseDir() + "data/" + Host;
-            if (!Directory.Exists(Utils.GetBaseDir() + "/data/" + Host))
+            BaseDir = Utils.GetBaseDir() + "data/" + Utils.EncodeUrl(ServerRoot);
+            if (!Directory.Exists(BaseDir))
             {
                 Directory.CreateDirectory(BaseDir);
             }
@@ -103,8 +103,8 @@ namespace we_crawler.model
                 Directory.CreateDirectory(Utils.GetBaseDir() + "/data");
 
             }
-            BaseDir = Utils.GetBaseDir() + "data/" + Host;
-            if (!Directory.Exists(Utils.GetBaseDir() + "/data/" + Host))
+            BaseDir = Utils.GetBaseDir() + "data/" + Utils.EncodeUrl(ServerRoot);
+            if (!Directory.Exists(BaseDir))
             {
                 Directory.CreateDirectory(BaseDir);
             }

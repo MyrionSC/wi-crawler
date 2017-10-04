@@ -21,32 +21,26 @@ namespace we_crawler
             string datadir = Utils.GetBaseDir() + "data";
             string[] dirs = Directory.GetDirectories(datadir);
 
-            foreach (var dir in dirs)
+            foreach (var dirPath in dirs)
             {
                 
                 // init the webhost with url from first webpage in it
-                string[] files = Directory.GetFiles(dir);
-                if (files.Length == 0) continue;
-                
-                string filename = Utils.DecodeUrl(files[0].Substring(dir.Length + 1, files[0].Length - dir.Length - 1));
-                if (filename == "robots.txt")
-                {
-                    if (files.Length == 1 || files[1] == null) continue;
-                    filename = Utils.DecodeUrl(files[1].Substring(dir.Length + 1, files[0].Length - dir.Length - 1));
-                }
-                Webhost wh = new Webhost(filename);
+                string[] files = Directory.GetFiles(dirPath);
+                string dirName = Utils.DecodeUrl(dirPath.Substring(datadir.Length + 1, dirPath.Length - datadir.Length - 1));
+                Webhost wh = new Webhost(dirName);
                 webhosts.Add(wh);
+                
 
                 // add remaining webpages to it
-//                int breakCount = 0;
+                int breakCount = 0;
                 for (var i = 0; i < files.Length; i++)
                 {
-//                    if (breakCount++ > 200) break;
+                    if (breakCount++ > 200) break;
                     
                     var f = files[i];
                     if (!f.Contains("robots.txt"))
                     {
-                        string url = Utils.DecodeUrl(f.Substring(dir.Length + 1, f.Length - dir.Length - 1));
+                        string url = Utils.DecodeUrl(f.Substring(dirPath.Length + 1, f.Length - dirPath.Length - 1));
                         string html = File.ReadAllText(f);
                         wh.BackQueue.Enqueue(new Webpage(url, html));
                     }
