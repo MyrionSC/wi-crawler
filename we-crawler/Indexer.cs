@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Security.Policy;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading;
@@ -12,7 +13,8 @@ namespace we_crawler
 {
     public class Indexer
     {
-        private Dictionary<int, Document> _documents = new Dictionary<int, Document>();
+        private Dictionary<int, Document> _documentsById = new Dictionary<int, Document>();
+        private Dictionary<string, Document> _documentsByUrl = new Dictionary<string, Document>();
         private Dictionary<string, List<int>> wordDict = new Dictionary<string, List<int>>();
         private int _pagesProcessed; // expected to get some race conditions here but whatever
         private static Mutex _mutex = new Mutex();
@@ -32,14 +34,10 @@ namespace we_crawler
             {
                 // split pages into equal parts
                 List<Webpage> wps;
-                if (threadCounter + 1 != numberOfThreads)
-                {
-                    wps = webpages.GetRange(webPageListLength * threadCounter++, webPageListLength);
-                }
-                else
-                {
-                    wps = webpages.GetRange(webPageListLength * threadCounter, webpages.Count - webPageListLength * threadCounter);
-                }
+                wps = threadCounter + 1 != numberOfThreads
+                    ? webpages.GetRange(webPageListLength * threadCounter++, webPageListLength)
+                    : webpages.GetRange(webPageListLength * threadCounter,
+                        webpages.Count - webPageListLength * threadCounter);
                 
                 // start the computation
                 threads[i] = StartParalelisedIndexing(wps, stopwords, webpages.Count);
@@ -48,18 +46,37 @@ namespace we_crawler
             while (true)
             {
                 Thread.Sleep(200);
-                bool anyThreadsAlive = false;
-                foreach (Thread t in threads)
-                {
-                    anyThreadsAlive = anyThreadsAlive || t.IsAlive;
-                }
-                if (!anyThreadsAlive)
-                    break;
+                if (threads.All(t => !t.IsAlive)) break;
+                
+//                bool anyThreadsAlive = false;
+//                foreach (Thread t in threads)
+//                {
+//                    anyThreadsAlive = anyThreadsAlive || t.IsAlive;
+//                }
+//                if (!anyThreadsAlive)
+//                    break;
             }
-            
-            // start link ranking
-            
-            
+
+            // compile in and out edges in each page
+            foreach (KeyValuePair<int,Document> keyValuePair in _documentsById)
+            {
+                var document = keyValuePair.Value;
+                document.OutgoingLinks.ForEach(l =>
+                {
+                    if (_documentsByUrl.ContainsKey(l) && _documentsByUrl[l].id != document.id)
+                    {
+                        _documentsByUrl[l].IngoingLinkIds.Add(document.id);
+                        document.OutgoingLinkIds.Add(_documentsByUrl[l].id);
+                    }
+                });
+            }
+
+            var to = 2;
+
+
+
+
+
         }
 
         private Thread StartParalelisedIndexing(List<Webpage> wps, HashSet<string> stopwords, int totalCount)
@@ -94,7 +111,9 @@ namespace we_crawler
                     Console.SetCursorPosition(0, Console.CursorTop - 1);
                     _mutex.ReleaseMutex();
 
-                    _documents.Add(wp.id, new Document(wp.id, wp.Url, tokensLower, wordDict));
+                    var document = new Document(wp.id, wp.Url, tokensLower, wordDict, WebParser.parse(wp));
+                    _documentsById.Add(wp.id, document);
+                    _documentsByUrl.Add(wp.Url, document);
 
                     // Add each token to the dictionary
                     foreach (string token in tokensLower)
@@ -154,7 +173,7 @@ namespace we_crawler
             List<Document> resultDocuments = new List<Document>();
             foreach (int id in resultIdSet)
             {
-                resultDocuments.Add(_documents[id]);
+                resultDocuments.Add(_documentsById[id]);
             }
             
             // rank and sort documents
@@ -195,45 +214,23 @@ namespace we_crawler
             public string url;
             public string[] tokens;
             private Dictionary<string, List<int>> _wordRefs;
+            public List<string> OutgoingLinks;
+            public HashSet<int> IngoingLinkIds = new HashSet<int>();
+            public HashSet<int> OutgoingLinkIds = new HashSet<int>();
 
-            public Document(int _id, string _url, string[] _tokens, Dictionary<string, List<int>> wordRefs)
+            public Document(int _id, string _url, string[] _tokens, Dictionary<string, List<int>> wordRefs, List<string> outgoingLinks)
             {
                 id = _id;
                 url = _url;
                 tokens = _tokens;
                 _wordRefs = wordRefs;
+                OutgoingLinks = outgoingLinks;
             }
 
             public double GetRanking(string[] terms)
             {
                 return Get_tdStar_IDF_Ranking(terms);
             }
-            
-            private double GetTermFrequency(string[] terms)
-            {
-                int[] res = new int[terms.Length];
-                for (int i = 0; i < terms.Length; i++)
-                {
-                    res[i] = tokens.Count(t => t == terms[i]);
-                }
-                return res.Sum();
-            }
-            
-            private double GetLogFrequency(string[] terms)
-            {
-                double[] res = new double[terms.Length];
-                for (int i = 0; i < terms.Length; i++)
-                {
-                    string term = terms[i];
-                    int count = tokens.Count(t => t == term);
-
-                    if (count == 0)
-                        res[i] = 0;
-                    else
-                        res[i] = 1 + Math.Log10(count);
-                }
-                return res.Sum();
-            }    
             
             private double Get_tdStar_IDF_Ranking(string[] terms)
             {
@@ -256,6 +253,32 @@ namespace we_crawler
                 }
                 return res.Sum();
             }
+            
+//            private double GetTermFrequency(string[] terms)
+//            {
+//                int[] res = new int[terms.Length];
+//                for (int i = 0; i < terms.Length; i++)
+//                {
+//                    res[i] = tokens.Count(t => t == terms[i]);
+//                }
+//                return res.Sum();
+//            }
+//            
+//            private double GetLogFrequency(string[] terms)
+//            {
+//                double[] res = new double[terms.Length];
+//                for (int i = 0; i < terms.Length; i++)
+//                {
+//                    string term = terms[i];
+//                    int count = tokens.Count(t => t == term);
+//
+//                    if (count == 0)
+//                        res[i] = 0;
+//                    else
+//                        res[i] = 1 + Math.Log10(count);
+//                }
+//                return res.Sum();
+//            }    
         }
     }
 }

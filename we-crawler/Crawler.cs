@@ -12,7 +12,7 @@ namespace we_crawler
         private HashSet<Webhost> webhosts = new HashSet<Webhost>();
         private Queue<Thread> Threads = new Queue<Thread>();
         private int backCount = 0;
-        private bool criticalLock = false;
+        private Mutex _mutex = new Mutex();
 
         private void SpawnHostCrawler(Webhost webhost)
         {
@@ -22,12 +22,6 @@ namespace we_crawler
                 while (true)
                 {
                     // if the critical lock is taken, wait for it to be released
-                    if (criticalLock)
-                    {
-                        Thread.Sleep(1);
-                        continue;
-                    }
-                    
                     if (webhost.CountFronter() > 0)
                     {
                         string url = webhost.DequeueFrontier();
@@ -64,7 +58,7 @@ namespace we_crawler
                                     
                                     if (linkhost != webhost.Host)
                                     {
-                                        criticalLock = true;
+                                        _mutex.WaitOne();
                                         try
                                         {
                                             Webhost linkWebHost = webhosts.First(wh => wh.Host == linkhost);
@@ -75,7 +69,7 @@ namespace we_crawler
                                             // create new
                                             AddNewHost(l);
                                         }
-                                        criticalLock = false;
+                                        _mutex.Dispose();
                                     }
                                     else
                                     {
@@ -137,7 +131,7 @@ namespace we_crawler
             // when all some condition has been met, stop the crawlers
             while (true)
             {
-                criticalLock = true;
+                _mutex.WaitOne();
                 if (backCount > 10000)
                 {
                     // kill all the threads and return
@@ -149,7 +143,7 @@ namespace we_crawler
                     Console.WriteLine("crawling done");
                     return;
                 }
-                criticalLock = false;
+                _mutex.Dispose();
 
                 Thread.Sleep(1000);
             }
