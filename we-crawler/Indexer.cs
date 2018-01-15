@@ -47,14 +47,6 @@ namespace we_crawler
             {
                 Thread.Sleep(200);
                 if (threads.All(t => !t.IsAlive)) break;
-                
-//                bool anyThreadsAlive = false;
-//                foreach (Thread t in threads)
-//                {
-//                    anyThreadsAlive = anyThreadsAlive || t.IsAlive;
-//                }
-//                if (!anyThreadsAlive)
-//                    break;
             }
 
             // compile in and out edges in each page
@@ -85,7 +77,7 @@ namespace we_crawler
             {
                 foreach (Webpage wp in wps)
                 {
-                    // get the body of the html and title (we don't want all these script tags and shit)
+                    // get the body of the html and title (we don't want the meta tags)
                     HtmlDocument doc = new HtmlDocument();
                     doc.LoadHtml(wp.Html);
                     if (doc.DocumentNode.SelectSingleNode("//title") == null || doc.DocumentNode.SelectSingleNode("//body") == null)
@@ -163,6 +155,7 @@ namespace we_crawler
             {
                 return new List<KeyValuePair<double, string>>();
             }
+            
             resultIdSet = searchResultIds[0];
             for (int i = 1; i < searchResultIds.Count; i++)
             {
@@ -252,33 +245,7 @@ namespace we_crawler
                     }
                 }
                 return res.Sum();
-            }
-            
-//            private double GetTermFrequency(string[] terms)
-//            {
-//                int[] res = new int[terms.Length];
-//                for (int i = 0; i < terms.Length; i++)
-//                {
-//                    res[i] = tokens.Count(t => t == terms[i]);
-//                }
-//                return res.Sum();
-//            }
-//            
-//            private double GetLogFrequency(string[] terms)
-//            {
-//                double[] res = new double[terms.Length];
-//                for (int i = 0; i < terms.Length; i++)
-//                {
-//                    string term = terms[i];
-//                    int count = tokens.Count(t => t == term);
-//
-//                    if (count == 0)
-//                        res[i] = 0;
-//                    else
-//                        res[i] = 1 + Math.Log10(count);
-//                }
-//                return res.Sum();
-//            }    
+            }  
         }
     }
 }

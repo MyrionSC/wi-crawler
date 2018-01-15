@@ -41,14 +41,15 @@ namespace we_crawler
                         webhost.SaveWebPage(wp);
                         Console.WriteLine("Page saved: " + wp.Url + ", total: " + ++backCount);
                         List<string> links = WebParser.parse(wp);
+                        
                         links.ForEach(l =>
                         {
                             // check if duplicate
                             bool valid = !webhost.ExistsInFrontier(l) & !webhost.BackQueue.Any(w => w.Url == l); // to get some shortcircutting
                             string host = Utils.GetHost(l);
                             if (host == null) return; // return equals continue in Linq foreach
-//                            valid = valid & host == "en.wikipedia.org";
-//                            valid = valid & host.StartsWith("wiki.");
+//                            valid = valid && host == "en.wikipedia.org";
+//                            valid = valid && host.StartsWith("wiki.");
                             if (valid)
                             {
                                 // if not of this host, see if we can find its host
