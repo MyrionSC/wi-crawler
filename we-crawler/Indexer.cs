@@ -116,37 +116,10 @@ namespace we_crawler
             Console.WriteLine("PageRanker done");
             
             // assign pageranks to documents
-//            double sum = 0d;
-//            for (int index = 0; index < markovChainOld.Length; index++)
-//            {
-//                _documentsById[index].PageRank = markovChainOld[index];
-//                sum += markovChainOld[index];
-//                Console.WriteLine(index + " - " + _documentsById[index].url + ": " +_documentsById[index].PageRank);
-//            }
-//
-//            Console.WriteLine(sum);
-//
-//            var rankedDocs = new List<Document>();
-//            foreach (KeyValuePair<int,Document> keyValuePair in _documentsById)
-//            {
-//                rankedDocs.Add(keyValuePair.Value);
-//            }
-//
-//            Console.WriteLine();
-//            Console.WriteLine("Ordered pagerank!");
-//            rankedDocs = rankedDocs.OrderByDescending(d => d.PageRank).ToList();
-//            for (int i = 0; i < rankedDocs.Count; i++)
-//            {
-//                var d = rankedDocs[i];
-//                Console.WriteLine(i + " - " + d.url + ": " + d.PageRank);
-//            }
-
-
-
-
-
-
-
+            for (int index = 0; index < markovChainOld.Length; index++)
+            {
+                _documentsById[index].PageRank = Math.Round(markovChainOld[index], 10);
+            }
         }
 
         private Thread StartParalelisedIndexing(List<Webpage> wps, HashSet<string> stopwords, int totalCount)
@@ -213,7 +186,7 @@ namespace we_crawler
         }
         
         // search in indexed pages
-        public List<KeyValuePair<double, string>> Search(string searchstring, int cutoffAmount)
+        public List<SearchResult> Search(string searchstring, int cutoffAmount)
         {            
             // split list into list of search terms by whitespace
             string[] searchTerms = searchstring.ToLower().Trim().Split(' ');
@@ -232,7 +205,7 @@ namespace we_crawler
             HashSet<int> resultIdSet = new HashSet<int>();
             if (searchResultIds.Count == 0)
             {
-                return new List<KeyValuePair<double, string>>();
+                return new List<SearchResult>();
             }
             
             resultIdSet = searchResultIds[0];
@@ -249,16 +222,17 @@ namespace we_crawler
             }
             
             // rank and sort documents
-            List<KeyValuePair<double, string>> rankedDocuments = new List<KeyValuePair<double, string>>();
+            List<SearchResult> results = new List<SearchResult>();
             resultDocuments.ForEach(document =>
             {
-                rankedDocuments.Add(new KeyValuePair<double, string>(document.GetRanking(searchTerms), document.url));
+                double contentRank = document.GetRanking(searchTerms);
+                results.Add(new SearchResult(document.url, contentRank, document.PageRank, contentRank + Math.Log((1 + document.PageRank * 10000))));
             });
 
-            List<KeyValuePair<double, string>> results = rankedDocuments.OrderByDescending(d => d.Key).ToList();
+            List<SearchResult> orderedResults = results.OrderByDescending(d => d.TotalRank).ToList();
 
             // return urls that match searchterm
-            return results.GetRange(0, cutoffAmount > results.Count ? results.Count : cutoffAmount);
+            return orderedResults.GetRange(0, cutoffAmount > orderedResults.Count ? orderedResults.Count : cutoffAmount);
         }
         
         private string ScrubHtml(string value) {

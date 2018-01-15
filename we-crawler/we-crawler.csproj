@@ -50,6 +50,7 @@
     <Compile Include="Initialiser.cs" />
     <Compile Include="Jaccard.cs" />
     <Compile Include="model\Politeness.cs" />
+    <Compile Include="model\SearchResult.cs" />
     <Compile Include="model\Webhost.cs" />
     <Compile Include="model\Webpage.cs" />
     <Compile Include="PageRank.cs" />

@@ -34,10 +34,17 @@ namespace we_crawler
             
             // index list of webpages
             var indexer = new Indexer(webpages);
-            
-            Console.WriteLine();
-            Console.WriteLine("Init and indexing time:");
-            Console.WriteLine(DateTime.Now - start);
+
+            try
+            {
+                Console.WriteLine();
+                Console.WriteLine("Init and indexing time:");
+                Console.WriteLine(DateTime.Now - start);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
 
             while (true)
             {
@@ -57,10 +64,15 @@ namespace we_crawler
                 }
                 else
                 {
+                    object[] headers = new object[]{"", "Url", "Content Rank", "Page Rank", "Total"};
+                    Console.WriteLine("{0,-4}{1,-60}{2,-20}{3,-25}{4,-15}",  headers);
+                    
                     for (int i = 0; i < results.Count; i++)
                     {
                         var r = results[i];
-                        Console.WriteLine(1 + i + " - " + r.Value + ": Rank: " + r.Key);
+                        object[] args = new object[]{1 + i, r.Url, r.ContentRank, r.PageRank, r.TotalRank};
+                        Console.WriteLine("{0,-4}{1,-60}{2,-20}{3,-25}{4,-15}",  args);
+//                        Console.WriteLine(1 + i + " - " + r.Url + "\tContentRank: " + r.ContentRank + "\tPageRank: " + r.PageRank + "\tTotal: " + r.TotalRank);
                     }
                 }
             }
