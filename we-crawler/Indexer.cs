@@ -16,7 +16,7 @@ namespace we_crawler
         private Dictionary<int, Document> _documentsById = new Dictionary<int, Document>();
         private Dictionary<string, Document> _documentsByUrl = new Dictionary<string, Document>();
         private Dictionary<string, List<int>> wordDict = new Dictionary<string, List<int>>();
-        private int _pagesProcessed; // expected to get some race conditions here but whatever
+        private int _pagesProcessed;
         private static Mutex _mutex = new Mutex();
 
         public Indexer(List<Webpage> webpages)
@@ -47,14 +47,6 @@ namespace we_crawler
             {
                 Thread.Sleep(200);
                 if (threads.All(t => !t.IsAlive)) break;
-                
-//                bool anyThreadsAlive = false;
-//                foreach (Thread t in threads)
-//                {
-//                    anyThreadsAlive = anyThreadsAlive || t.IsAlive;
-//                }
-//                if (!anyThreadsAlive)
-//                    break;
             }
 
             // compile in and out edges in each page
@@ -70,13 +62,64 @@ namespace we_crawler
                     }
                 });
             }
+            
+            
+            
+            // --- PageRank generation - Markov Chain
+            Console.WriteLine();
+            Console.WriteLine("Starting markov chain PageRanker");
+            
+            // markov chain
+            int runSteps = 100;
+            Random random = new Random();
+            double[] markovChainOld = new double[_documentsById.Count];
+            double[] markovChainNew = new double[_documentsById.Count];
+            for (int i = 0; i < _documentsById.Count; i++)
+            {
+                markovChainOld[i] = 1d / _documentsById.Count;
+                markovChainNew[i] = 0d;
+            }
+//            markovChainNew[0] = markovChainOld[0] = 1d;
 
-            var to = 2;
+            // start calculating // we have foregone the transition matrix because we have an inverted index of links from each document
+            for (int step = 0; step < runSteps; step++)
+            {
+                foreach (KeyValuePair<int,Document> idDocPair in _documentsById)
+                {
+                    int id = idDocPair.Key;
+                    
+                    if (markovChainOld[id] == 0) 
+                        continue;
+                    
+                    if (idDocPair.Value.OutgoingLinkIds.Count == 0)
+                    {
+                        // go to random link
+                        markovChainNew[random.Next(0, _documentsById.Count)] += markovChainOld[id];
+                    }
+                    else
+                    {
+                        double transitionValue = markovChainOld[id] / idDocPair.Value.OutgoingLinkIds.Count;
+                        foreach (int linkId in idDocPair.Value.OutgoingLinkIds)
+                        {
+                            markovChainNew[linkId] += transitionValue;
+                        }
+                    }
+                }
+                markovChainOld = markovChainNew.Clone() as double[];
+                
+                for (int i = 0; i < _documentsById.Count; i++)
+                {
+                    markovChainNew[i] = 0;
+                }
+            }
 
-
-
-
-
+            Console.WriteLine("PageRanker done");
+            
+            // assign pageranks to documents
+            for (int index = 0; index < markovChainOld.Length; index++)
+            {
+                _documentsById[index].PageRank = Math.Round(markovChainOld[index], 10);
+            }
         }
 
         private Thread StartParalelisedIndexing(List<Webpage> wps, HashSet<string> stopwords, int totalCount)
@@ -85,7 +128,7 @@ namespace we_crawler
             {
                 foreach (Webpage wp in wps)
                 {
-                    // get the body of the html and title (we don't want all these script tags and shit)
+                    // get the body and title of the html (we don't want the meta tags)
                     HtmlDocument doc = new HtmlDocument();
                     doc.LoadHtml(wp.Html);
                     if (doc.DocumentNode.SelectSingleNode("//title") == null || doc.DocumentNode.SelectSingleNode("//body") == null)
@@ -111,6 +154,7 @@ namespace we_crawler
                     Console.SetCursorPosition(0, Console.CursorTop - 1);
                     _mutex.ReleaseMutex();
 
+//                    var document = new Document(wp.id, wp.Url, new string[0], wordDict, WebParser.parse(wp));
                     var document = new Document(wp.id, wp.Url, tokensLower, wordDict, WebParser.parse(wp));
                     _documentsById.Add(wp.id, document);
                     _documentsByUrl.Add(wp.Url, document);
@@ -142,7 +186,7 @@ namespace we_crawler
         }
         
         // search in indexed pages
-        public List<KeyValuePair<double, string>> Search(string searchstring, int cutoffAmount)
+        public List<SearchResult> Search(string searchstring, int cutoffAmount)
         {            
             // split list into list of search terms by whitespace
             string[] searchTerms = searchstring.ToLower().Trim().Split(' ');
@@ -161,8 +205,9 @@ namespace we_crawler
             HashSet<int> resultIdSet = new HashSet<int>();
             if (searchResultIds.Count == 0)
             {
-                return new List<KeyValuePair<double, string>>();
+                return new List<SearchResult>();
             }
+            
             resultIdSet = searchResultIds[0];
             for (int i = 1; i < searchResultIds.Count; i++)
             {
@@ -177,16 +222,17 @@ namespace we_crawler
             }
             
             // rank and sort documents
-            List<KeyValuePair<double, string>> rankedDocuments = new List<KeyValuePair<double, string>>();
-            resultDocuments.ForEach(d =>
+            List<SearchResult> results = new List<SearchResult>();
+            resultDocuments.ForEach(document =>
             {
-                rankedDocuments.Add(new KeyValuePair<double, string>(d.GetRanking(searchTerms), d.url));
+                double contentRank = document.GetRanking(searchTerms);
+                results.Add(new SearchResult(document.url, contentRank, document.PageRank, contentRank + Math.Log((1 + document.PageRank * 10000))));
             });
 
-            List<KeyValuePair<double, string>> results = rankedDocuments.OrderByDescending(d => d.Key).ToList();
+            List<SearchResult> orderedResults = results.OrderByDescending(d => d.TotalRank).ToList();
 
             // return urls that match searchterm
-            return results.GetRange(0, cutoffAmount > results.Count ? results.Count : cutoffAmount);
+            return orderedResults.GetRange(0, cutoffAmount > orderedResults.Count ? orderedResults.Count : cutoffAmount);
         }
         
         private string ScrubHtml(string value) {
@@ -217,6 +263,7 @@ namespace we_crawler
             public List<string> OutgoingLinks;
             public HashSet<int> IngoingLinkIds = new HashSet<int>();
             public HashSet<int> OutgoingLinkIds = new HashSet<int>();
+            public double PageRank = 0;
 
             public Document(int _id, string _url, string[] _tokens, Dictionary<string, List<int>> wordRefs, List<string> outgoingLinks)
             {
@@ -252,33 +299,7 @@ namespace we_crawler
                     }
                 }
                 return res.Sum();
-            }
-            
-//            private double GetTermFrequency(string[] terms)
-//            {
-//                int[] res = new int[terms.Length];
-//                for (int i = 0; i < terms.Length; i++)
-//                {
-//                    res[i] = tokens.Count(t => t == terms[i]);
-//                }
-//                return res.Sum();
-//            }
-//            
-//            private double GetLogFrequency(string[] terms)
-//            {
-//                double[] res = new double[terms.Length];
-//                for (int i = 0; i < terms.Length; i++)
-//                {
-//                    string term = terms[i];
-//                    int count = tokens.Count(t => t == term);
-//
-//                    if (count == 0)
-//                        res[i] = 0;
-//                    else
-//                        res[i] = 1 + Math.Log10(count);
-//                }
-//                return res.Sum();
-//            }    
+            }  
         }
     }
 }

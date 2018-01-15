@@ -29,13 +29,12 @@ namespace we_crawler
                 string dirName = Utils.DecodeUrl(dirPath.Substring(datadir.Length + 1, dirPath.Length - datadir.Length - 1));
                 Webhost wh = new Webhost(dirName);
                 webhosts.Add(wh);
-                
 
                 // add remaining webpages to it
                 int breakCount = 0;
                 for (var i = 0; i < files.Length; i++)
                 {
-                    if (breakCount++ > 200) break;
+//                    if (breakCount++ > 200) break;
                     
                     var f = files[i];
                     if (!f.Contains("robots.txt"))
