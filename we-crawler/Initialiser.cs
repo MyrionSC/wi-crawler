@@ -34,7 +34,7 @@ namespace we_crawler
                 int breakCount = 0;
                 for (var i = 0; i < files.Length; i++)
                 {
-                    if (breakCount++ > 200) break;
+//                    if (breakCount++ > 200) break;
                     
                     var f = files[i];
                     if (!f.Contains("robots.txt"))
