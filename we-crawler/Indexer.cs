@@ -229,10 +229,10 @@ namespace we_crawler
 
             public double GetRanking(string[] terms)
             {
-                return Get_tdStar_IDF_Ranking(terms);
+                return tfStar_IDF_Ranking(terms);
             }
             
-            private double Get_tdStar_IDF_Ranking(string[] terms)
+            private double tfStar_IDF_Ranking(string[] terms)
             {
                 double[] res = new double[terms.Length];
                 for (int i = 0; i < terms.Length; i++)

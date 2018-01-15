@@ -14,7 +14,6 @@ namespace we_crawler
         
         public static bool CheckNearDuplicate(Webpage wp, IEnumerable<Webpage> backqueue, int shingleLen)
         {
-            bool nearDuplicate = false;
             foreach (Webpage bwp in backqueue)
             {
                 if (wp.Url == bwp.Url) break;
@@ -22,11 +21,10 @@ namespace we_crawler
 //                if (nearDuplicateBasic(wp.Html, bwp.Html, shingleLen))
                 if (stump(wp.Html, bwp.Html, shingleLen))
                 {
-                    nearDuplicate = true;
-                    break;
+                    return true;
                 }
             }
-            return nearDuplicate;
+            return false;
         }
 
         private static bool stump(string str1, string str2, int shingleLen)

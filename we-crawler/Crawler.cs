@@ -53,9 +53,8 @@ namespace we_crawler
                             {
                                 // if not of this host, see if we can find its host
                                 string linkhost = Utils.GetHost(l);
-                                if (linkhost != null)
+                                if (linkhost != null) // host could not be determined, invalid url
                                 {
-                                    
                                     if (linkhost != webhost.Host)
                                     {
                                         _mutex.WaitOne();
