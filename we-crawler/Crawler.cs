@@ -69,7 +69,7 @@ namespace we_crawler
                                             // create new
                                             AddNewHost(l);
                                         }
-                                        _mutex.Dispose();
+                                        _mutex.ReleaseMutex();
                                     }
                                     else
                                     {
@@ -143,7 +143,7 @@ namespace we_crawler
                     Console.WriteLine("crawling done");
                     return;
                 }
-                _mutex.Dispose();
+                _mutex.ReleaseMutex();
 
                 Thread.Sleep(1000);
             }
