@@ -52,6 +52,7 @@
     <Compile Include="model\Politeness.cs" />
     <Compile Include="model\Webhost.cs" />
     <Compile Include="model\Webpage.cs" />
+    <Compile Include="PageRank.cs" />
     <Compile Include="WebParser.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

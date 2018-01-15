@@ -29,7 +29,6 @@ namespace we_crawler
                 string dirName = Utils.DecodeUrl(dirPath.Substring(datadir.Length + 1, dirPath.Length - datadir.Length - 1));
                 Webhost wh = new Webhost(dirName);
                 webhosts.Add(wh);
-                
 
                 // add remaining webpages to it
                 int breakCount = 0;

@@ -16,7 +16,7 @@ namespace we_crawler
         private Dictionary<int, Document> _documentsById = new Dictionary<int, Document>();
         private Dictionary<string, Document> _documentsByUrl = new Dictionary<string, Document>();
         private Dictionary<string, List<int>> wordDict = new Dictionary<string, List<int>>();
-        private int _pagesProcessed; // expected to get some race conditions here but whatever
+        private int _pagesProcessed;
         private static Mutex _mutex = new Mutex();
 
         public Indexer(List<Webpage> webpages)
@@ -62,8 +62,86 @@ namespace we_crawler
                     }
                 });
             }
+            
+            
+            
+            // --- PageRank generation - Markov Chain
+            Console.WriteLine();
+            Console.WriteLine("Starting markov chain PageRanker");
+            
+            // markov chain
+            int runSteps = 100;
+            Random random = new Random();
+            double[] markovChainOld = new double[_documentsById.Count];
+            double[] markovChainNew = new double[_documentsById.Count];
+            for (int i = 0; i < _documentsById.Count; i++)
+            {
+                markovChainOld[i] = 1d / _documentsById.Count;
+                markovChainNew[i] = 0d;
+            }
+//            markovChainNew[0] = markovChainOld[0] = 1d;
 
-            var to = 2;
+            // start calculating // we have foregone the transition matrix because we have an inverted index of links from each document
+            for (int step = 0; step < runSteps; step++)
+            {
+                foreach (KeyValuePair<int,Document> idDocPair in _documentsById)
+                {
+                    int id = idDocPair.Key;
+                    
+                    if (markovChainOld[id] == 0) 
+                        continue;
+                    
+                    if (idDocPair.Value.OutgoingLinkIds.Count == 0)
+                    {
+                        // go to random link
+                        markovChainNew[random.Next(0, _documentsById.Count)] += markovChainOld[id];
+                    }
+                    else
+                    {
+                        double transitionValue = markovChainOld[id] / idDocPair.Value.OutgoingLinkIds.Count;
+                        foreach (int linkId in idDocPair.Value.OutgoingLinkIds)
+                        {
+                            markovChainNew[linkId] += transitionValue;
+                        }
+                    }
+                }
+                markovChainOld = markovChainNew.Clone() as double[];
+                
+                for (int i = 0; i < _documentsById.Count; i++)
+                {
+                    markovChainNew[i] = 0;
+                }
+            }
+
+            Console.WriteLine("PageRanker done");
+            
+            // assign pageranks to documents
+//            double sum = 0d;
+//            for (int index = 0; index < markovChainOld.Length; index++)
+//            {
+//                _documentsById[index].PageRank = markovChainOld[index];
+//                sum += markovChainOld[index];
+//                Console.WriteLine(index + " - " + _documentsById[index].url + ": " +_documentsById[index].PageRank);
+//            }
+//
+//            Console.WriteLine(sum);
+//
+//            var rankedDocs = new List<Document>();
+//            foreach (KeyValuePair<int,Document> keyValuePair in _documentsById)
+//            {
+//                rankedDocs.Add(keyValuePair.Value);
+//            }
+//
+//            Console.WriteLine();
+//            Console.WriteLine("Ordered pagerank!");
+//            rankedDocs = rankedDocs.OrderByDescending(d => d.PageRank).ToList();
+//            for (int i = 0; i < rankedDocs.Count; i++)
+//            {
+//                var d = rankedDocs[i];
+//                Console.WriteLine(i + " - " + d.url + ": " + d.PageRank);
+//            }
+
+
 
 
 
@@ -77,7 +155,7 @@ namespace we_crawler
             {
                 foreach (Webpage wp in wps)
                 {
-                    // get the body of the html and title (we don't want the meta tags)
+                    // get the body and title of the html (we don't want the meta tags)
                     HtmlDocument doc = new HtmlDocument();
                     doc.LoadHtml(wp.Html);
                     if (doc.DocumentNode.SelectSingleNode("//title") == null || doc.DocumentNode.SelectSingleNode("//body") == null)
@@ -103,6 +181,7 @@ namespace we_crawler
                     Console.SetCursorPosition(0, Console.CursorTop - 1);
                     _mutex.ReleaseMutex();
 
+//                    var document = new Document(wp.id, wp.Url, new string[0], wordDict, WebParser.parse(wp));
                     var document = new Document(wp.id, wp.Url, tokensLower, wordDict, WebParser.parse(wp));
                     _documentsById.Add(wp.id, document);
                     _documentsByUrl.Add(wp.Url, document);
@@ -171,9 +250,9 @@ namespace we_crawler
             
             // rank and sort documents
             List<KeyValuePair<double, string>> rankedDocuments = new List<KeyValuePair<double, string>>();
-            resultDocuments.ForEach(d =>
+            resultDocuments.ForEach(document =>
             {
-                rankedDocuments.Add(new KeyValuePair<double, string>(d.GetRanking(searchTerms), d.url));
+                rankedDocuments.Add(new KeyValuePair<double, string>(document.GetRanking(searchTerms), document.url));
             });
 
             List<KeyValuePair<double, string>> results = rankedDocuments.OrderByDescending(d => d.Key).ToList();
@@ -210,6 +289,7 @@ namespace we_crawler
             public List<string> OutgoingLinks;
             public HashSet<int> IngoingLinkIds = new HashSet<int>();
             public HashSet<int> OutgoingLinkIds = new HashSet<int>();
+            public double PageRank = 0;
 
             public Document(int _id, string _url, string[] _tokens, Dictionary<string, List<int>> wordRefs, List<string> outgoingLinks)
             {
@@ -222,10 +302,10 @@ namespace we_crawler
 
             public double GetRanking(string[] terms)
             {
-                return Get_tdStar_IDF_Ranking(terms);
+                return Get_tfStar_IDF_Ranking(terms);
             }
             
-            private double Get_tdStar_IDF_Ranking(string[] terms)
+            private double Get_tfStar_IDF_Ranking(string[] terms)
             {
                 double[] res = new double[terms.Length];
                 for (int i = 0; i < terms.Length; i++)

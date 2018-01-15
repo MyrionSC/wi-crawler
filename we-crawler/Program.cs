@@ -10,22 +10,21 @@ namespace we_crawler
     {
         public static void Main(string[] args)
         {
-            string seed = "http://en.wikipedia.org/";
             DateTime start = DateTime.Now;
-
-            var crawler = new Crawler();
-            crawler.StartCrawl(seed);
             
-            Console.WriteLine();
-            Console.WriteLine("Crawling time:");
-            Console.WriteLine(DateTime.Now - start);
+//            string seed = "http://en.wikipedia.org/";
+//            var crawler = new Crawler();
+//            crawler.StartCrawl(seed);
+//            
+//            Console.WriteLine();
+//            Console.WriteLine("Crawling time:");
+//            Console.WriteLine(DateTime.Now - start);
             
-//            StartIndexing(start);
+            StartIndexing(start);
         }
 
         public static void StartIndexing(DateTime start)
         {
-            
             // init hosts with local data
             List<Webhost> webhosts = Initialiser.LoadWebhosts();
             
